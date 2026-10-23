@@ -1,0 +1,2308 @@
+[
+ {
+  "id": "comp-A-001",
+  "exam": "comprehensive",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Under the FDA scheme, what are the three medical device classes and their controls?",
+  "back": "Class I: General Controls. Class II: General + Special Controls. Class III: General Controls + Premarket Approval.",
+  "source": {
+   "ref": "FDA: Classify Your Medical Device",
+   "url": "https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device"
+  }
+ },
+ {
+  "id": "comp-A-002",
+  "exam": "comprehensive",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Which FDA device class carries the lowest risk, and which the greatest?",
+  "back": "Class I is lowest risk; Class III is greatest risk.",
+  "source": {
+   "ref": "FDA: Classify Your Medical Device",
+   "url": "https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device"
+  }
+ },
+ {
+  "id": "comp-A-003",
+  "exam": "comprehensive",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Which FDA requirements apply to every medical device class?",
+  "back": "General Controls \u2014 the baseline FD&C Act requirements apply to Class I, II and III.",
+  "source": {
+   "ref": "FDA: Classify Your Medical Device",
+   "url": "https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device"
+  }
+ },
+ {
+  "id": "comp-A-004",
+  "exam": "comprehensive",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "For a non-exempt Class I or II device, what premarket submission is generally required?",
+  "back": "A 510(k) premarket notification.",
+  "source": {
+   "ref": "FDA: Classify Your Medical Device",
+   "url": "https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device"
+  }
+ },
+ {
+  "id": "comp-A-005",
+  "exam": "comprehensive",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What two things does FDA device classification depend on (besides risk)?",
+  "back": "The device's intended use and its indications for use.",
+  "source": {
+   "ref": "FDA: Classify Your Medical Device",
+   "url": "https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device"
+  }
+ },
+ {
+  "id": "comp-A-006",
+  "exam": "comprehensive",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "When did FDA's Quality Management System Regulation (QMSR) take effect?",
+  "back": "February 2, 2026 (amending 21 CFR Part 820 device CGMP).",
+  "source": {
+   "ref": "FDA: Quality Management System Regulation (QMSR)",
+   "url": "https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr"
+  }
+ },
+ {
+  "id": "comp-A-007",
+  "exam": "comprehensive",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Which international standard does the FDA QMSR incorporate by reference?",
+  "back": "ISO 13485:2016 \u2014 Medical devices, quality management systems.",
+  "source": {
+   "ref": "FDA: Quality Management System Regulation (QMSR)",
+   "url": "https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr"
+  }
+ },
+ {
+  "id": "comp-A-008",
+  "exam": "comprehensive",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Who must supply the technician with specific written directions for each case?",
+  "back": "The dentist, via the prescription; the dentist must also be available to answer the technician's questions.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-A-009",
+  "exam": "comprehensive",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How closely must a technician follow the dentist's prescription?",
+  "back": "Exactly.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-A-010",
+  "exam": "comprehensive",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How should a technician treat what they learn about a patient's dental condition or personal life?",
+  "back": "As privileged information \u2014 not repeated outside professional conversation.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.4.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-A-011",
+  "exam": "comprehensive",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "To whom does the AFPAM say the technician's moral responsibility lies?",
+  "back": "The patient.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.4.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-A-012",
+  "exam": "comprehensive",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Under OSHA's BBP standard, how often must the written exposure control plan be updated?",
+  "back": "At least annually (also documenting consideration of safer devices and frontline worker input).",
+  "source": {
+   "ref": "OSHA Fact Sheet: Bloodborne Pathogens Standard (29 CFR 1910.1030)",
+   "url": "https://www.osha.gov/sites/default/files/publications/bbfact01.pdf"
+  }
+ },
+ {
+  "id": "comp-A-013",
+  "exam": "comprehensive",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Which OSHA standard is the Bloodborne Pathogens standard (CFR citation)?",
+  "back": "29 CFR 1910.1030.",
+  "source": {
+   "ref": "OSHA Fact Sheet: Bloodborne Pathogens Standard (29 CFR 1910.1030)",
+   "url": "https://www.osha.gov/sites/default/files/publications/bbfact01.pdf"
+  }
+ },
+ {
+  "id": "comp-B-001",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the origin and insertion of the masseter?",
+  "back": "Origin: zygomatic arch. Insertion: lateral surface of the mandibular ramus.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.21.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-002",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Primary action of the masseter?",
+  "back": "Elevates (closes) the mandible; may aid protrusion.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.21.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-003",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Where does the temporalis insert?",
+  "back": "On the coronoid process of the mandible.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.21.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-004",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Besides closing the jaw, what important movement does the temporalis produce?",
+  "back": "Retrusion \u2014 pulling the mandible back.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.21.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-005",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Where does the medial pterygoid insert?",
+  "back": "Medial (internal) surface of the mandibular ramus.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.21.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-006",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Where does the lateral pterygoid insert?",
+  "back": "Neck of the condyloid process of the mandible.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.21.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-007",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What happens when both lateral pterygoids contract together?",
+  "back": "The mandible is pulled forward into protrusion (opening slightly).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.21.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-008",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What do the paired mylohyoid muscles form?",
+  "back": "The floor of the mouth (attached to the mylohyoid lines on the inner mandible).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.22.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-009",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does the orbicularis oris do, and what is unusual about its origin?",
+  "back": "Closes the lips; it has no real bony origin \u2014 it is rimmed by insertions of other facial muscles.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.24",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-010",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Which muscle forms the innermost muscle wall of the cheek?",
+  "back": "The buccinator.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.32.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-011",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Primary functions of the buccinator?",
+  "back": "Pulls the mouth corners laterally and holds food between the teeth while chewing.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.32.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-012",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the maxillary tuberosity?",
+  "back": "The most distal (posterior) portion of the maxillary alveolar ridge.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.37.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-013",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the hamular (pterygomaxillary) notch used for?",
+  "back": "A deep depression behind the tuberosity; a guide to the posterior border of a maxillary denture.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.37.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-014",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Hard vs soft palate: what proportion of the palatal vault is each?",
+  "back": "Hard: anterior two-thirds (bone-supported). Soft: posterior one-third (muscular, mobile).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.37.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-015",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does the incisive papilla cover?",
+  "back": "The incisive foramen, in the midline just behind the central incisors.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.37.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-016",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Where are the rugae found?",
+  "back": "Irregular fibrous ridges in the anterior one-third of the hard palate.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.37.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-017",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the vibrating line?",
+  "back": "The line of flexion between the hard and soft palates, usually between the hamular notches near the foveae.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.37.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-018",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What forms the palatine foveae?",
+  "back": "Groupings of minor palatine salivary glands (two depressions beside the midline near the vibrating line).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.37.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-019",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Name two reasons the retromolar pads matter in denture work.",
+  "back": "They guide the plane of occlusion (position stays constant after extraction) and give distal support to a mandibular denture.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.38.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-020",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Where is the mental foramen normally located?",
+  "back": "Buccal surface, between and slightly below the root tips of the first and second premolars.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.38.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-021",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the glenoid fossa?",
+  "back": "A deep hollow on the undersurface of the zygomatic process of the temporal bone, housing the condyle in hinge movement.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.43",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-022",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does the condyle do during protrusive movement?",
+  "back": "Both condyles leave the fossae and move onto the articular eminences.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.44",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-023",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the articular disc made of, and what is its role?",
+  "back": "Tough flexible fibrocartilage between condyle and fossa; a shock absorber that travels with the condyle.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.46",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-B-024",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How many anterior and posterior teeth are in one permanent arch?",
+  "back": "Six anteriors (canine to canine) and ten posteriors.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.1.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "comp-B-025",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What tissue forms the bulk of a tooth?",
+  "back": "Dentin.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "comp-B-026",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Through what opening do nerves and vessels enter the tooth?",
+  "back": "The apical foramen, at or near the root apex.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.4.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "comp-B-027",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the lamina dura?",
+  "back": "A thin, dense layer of bone lining the tooth socket \u2014 a continuation of the cortical plate.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.5.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "comp-B-028",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What suspends a tooth in its socket?",
+  "back": "The periodontal ligament.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "comp-B-029",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Which tissue is part of both the tooth and the periodontium?",
+  "back": "Cementum.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.5.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "comp-B-030",
+  "exam": "comprehensive",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Free vs attached gingiva?",
+  "back": "Free gingiva can be displaced (crest to sulcus bottom); attached gingiva is firmly fixed to underlying bone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.5.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "comp-C-001",
+  "exam": "comprehensive",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "In the Universal system, which tooth is #1 and which is #17?",
+  "back": "#1 = upper right third molar; #17 = lower left third molar.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "comp-C-002",
+  "exam": "comprehensive",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Universal numbers 1\u201316 vs 17\u201332?",
+  "back": "1\u201316 maxillary arch; 17\u201332 mandibular arch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "comp-C-003",
+  "exam": "comprehensive",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Which plane divides the body into right and left parts?",
+  "back": "The sagittal plane.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-C-004",
+  "exam": "comprehensive",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Which plane divides the body into anterior and posterior parts?",
+  "back": "The frontal plane.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-C-005",
+  "exam": "comprehensive",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Which plane divides the body into upper and lower parts?",
+  "back": "The transverse (horizontal) plane.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-C-006",
+  "exam": "comprehensive",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Medial and lateral are synonyms for what?",
+  "back": "Medial = internal; lateral = external (relative to the midsagittal plane).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-03"
+  }
+ },
+ {
+  "id": "comp-C-007",
+  "exam": "comprehensive",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Mesial vs distal surface?",
+  "back": "Mesial: proximal surface closest to the arch midline. Distal: proximal surface away from it.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "comp-C-008",
+  "exam": "comprehensive",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Incisal vs occlusal?",
+  "back": "Incisal: cutting edge of an anterior tooth. Occlusal: chewing surface of a posterior tooth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.4-4.7.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "comp-C-009",
+  "exam": "comprehensive",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a line angle, and how many per tooth?",
+  "back": "The junction of two crown surfaces; eight per tooth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "comp-C-010",
+  "exam": "comprehensive",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a point angle, and how many per tooth?",
+  "back": "The junction of three crown surfaces; four per tooth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "comp-C-011",
+  "exam": "comprehensive",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an embrasure?",
+  "back": "A space diverging from the contacting proximal surfaces of two adjacent teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.11.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "comp-C-012",
+  "exam": "comprehensive",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is 'gauge' a measure of?",
+  "back": "Thickness \u2014 e.g., wire/wire-wax diameter or sheet wax/metal thickness.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.21.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-D-001",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Define centric occlusion.",
+  "back": "The occlusion of teeth when the mandible is in centric relation; may or may not coincide with MI.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "comp-D-002",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "In MI, how far forward of centric relation are most people's condyles?",
+  "back": "About 1.25 mm \u00b1 1 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "comp-D-003",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Vertical vs horizontal overlap?",
+  "back": "Vertical: maxillary teeth extend over mandibular vertically in MI. Horizontal: projection beyond antagonists horizontally.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "comp-D-004",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Angle Class II: where is the MB cusp of the upper first molar?",
+  "back": "Anterior to the buccal groove of the lower first molar (retrognathic profile).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "comp-D-005",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Angle Class III: molar relationship and profile?",
+  "back": "Upper first molar MB cusp falls posterior to the lower buccal groove; prognathic profile.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "comp-D-006",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Which cusps are stamp cusps?",
+  "back": "Lingual cusps of the upper and buccal cusps of the lower.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.7.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "comp-D-007",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Typical difference between occlusal vertical dimension and physiologic rest?",
+  "back": "OVD is 2\u20134 mm less than the rest measurement.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.15",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "comp-D-008",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is Christensen's phenomenon?",
+  "back": "The space between opposing occlusal surfaces during protrusion; anteriors disclude the posteriors.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.29",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "comp-D-009",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "In group function, what contacts on the nonworking side?",
+  "back": "No contact between upper and lower teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.25.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "comp-D-010",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Mutually protected articulation: anterior overlaps in MI?",
+  "back": "Horizontal 0.0\u20130.5 mm; vertical 2 mm or more.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.26.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "comp-D-011",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What teeth contact on the working side in canine-guided articulation?",
+  "back": "Only the upper and lower canines.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.26.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "comp-D-012",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the three articulator categories by adjustability?",
+  "back": "Nonadjustable, semiadjustable, fully adjustable.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-06"
+  }
+ },
+ {
+  "id": "comp-D-013",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What movements can a hinge-type articulator make?",
+  "back": "Only opening and closing \u2014 no lateral or protrusive excursions.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-06"
+  }
+ },
+ {
+  "id": "comp-D-014",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Which articulator category is most used in the Dental Services, and for what?",
+  "back": "Semiadjustable: all removable prostheses and moderately complex fixed work.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.5.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-06"
+  }
+ },
+ {
+  "id": "comp-D-015",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Where does the data for a fully adjustable articulator come from?",
+  "back": "Mandibular movement tracings \u2014 pantographic or stereographic recordings.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-06"
+  }
+ },
+ {
+  "id": "comp-D-016",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What does 'arcon' stand for and describe?",
+  "back": "ARticulator + CONdyle: condyle elements on the lower member, fossae on the upper, as in anatomy.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-06"
+  }
+ },
+ {
+  "id": "comp-D-017",
+  "exam": "comprehensive",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What does a facebow transfer do?",
+  "back": "Mounts the maxillary cast relating it to the articulator condyles as the maxilla relates to the TMJs.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.13.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-06"
+  }
+ },
+ {
+  "id": "comp-E-001",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Effect of more water (higher W:P) on gypsum crushing strength?",
+  "back": "Lowers strength \u2014 more porosity, fewer crystals per volume.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.5.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-002",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Effect of overmixing gypsum on strength?",
+  "back": "Breaks forming crystals and reduces crushing strength (mixing up to ~1 min increases it).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-003",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Effect of more water on gypsum setting time?",
+  "back": "Lengthens setting time.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-004",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Name two gypsum accelerators and three retarders.",
+  "back": "Accelerators: potassium sulfate, table salt. Retarders: vinegar, potassium citrate, borax.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.6.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-005",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why never add chemical accelerators/retarders to casting or soldering investments?",
+  "back": "They also reduce setting expansion and crushing strength.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.6.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-006",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is slurry water used for?",
+  "back": "Accelerating plaster/stone set, e.g. in cast mounting.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.6.4.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-007",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Thick mix and long mixing time \u2014 effect on setting expansion?",
+  "back": "Both increase setting expansion.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-008",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Allowed setting expansion range for model plaster?",
+  "back": "0.2\u20130.3 percent (0.3% maximum).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.8.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-009",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How is dental stone manufactured vs plaster?",
+  "back": "Gypsum is autoclaved under pressure (plaster is heated in open vats), giving more regular prismatic particles.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.10.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-010",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Typical initial and final set of dental stone?",
+  "back": "Initial 8\u201315 minutes; final about 45 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.10.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-011",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Setting expansion of die (improved) stone?",
+  "back": "0.08\u20130.18 percent.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.11.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-012",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How are improved stones made?",
+  "back": "Gypsum boiled in 30% calcium chloride solution before autoclaving.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.11.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-013",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What are investments composed of?",
+  "back": "A refractory (cristobalite or quartz) plus a binder (gypsum, phosphate or silicate).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.12",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-014",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Cristobalite vs quartz investments \u2014 which expands more?",
+  "back": "Cristobalite.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.12.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-015",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "About how much does gold alloy shrink on solidifying?",
+  "back": "About 1.4% (\u00b10.2%) \u2014 the mold must be enlarged to compensate.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.13.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-016",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why can't a soldering investment be used for casting?",
+  "back": "Its quartz refractory gives minimal expansion \u2014 not enough to offset gold shrinkage.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-017",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "High-heat chrome-alloy investment: components?",
+  "back": "Quartz powder with ethyl silicate liquid (for 2700\u20132800 \u00b0F chrome alloys).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.15.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-018",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Powder into water or water into powder for gypsum?",
+  "back": "Always add powder to water.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.17.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-019",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How long to hold a phosphate-bonded investment under vacuum, and why?",
+  "back": "30 seconds \u2014 it releases ammonia gas; vacuum removes gas and air.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.17.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-020",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Should you add powder or water to a gypsum mix in progress?",
+  "back": "Never \u2014 start a new mix; adding weakens and distorts.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.17.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-021",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "When must a batch of investment be discarded for slow set?",
+  "back": "If initial set takes more than 20 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.18.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-022",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Three groups of dental waxes?",
+  "back": "Impression, pattern, processing.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.21",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-023",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Main components of baseplate wax?",
+  "back": "Beeswax, paraffin, coloring.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.22.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-024",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Hard vs medium baseplate wax \u2014 when used?",
+  "back": "Hard for warmer climates (resists flow); medium for cooler conditions.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.22.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-025",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Inlay wax Type B vs Type C?",
+  "back": "Type B: direct (intraoral) technique. Type C: indirect (laboratory) technique.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-026",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Role of carnauba in inlay wax?",
+  "back": "Controls the softening point and hardness.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-027",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Key property of sticky wax?",
+  "back": "Breaks under pressure instead of bending \u2014 natural resin gives adhesiveness/hardness.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.26",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-028",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Main laboratory use of utility wax?",
+  "back": "Beading impressions before pouring the cast.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.27",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-029",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is boxing wax used for?",
+  "back": "Boxing impressions; strips about 1\u00bd \u00d7 12 in.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.28",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-030",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is undercut (blockout) wax made of?",
+  "back": "Beeswax, resin and kaolin.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.30",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-031",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is disclosing wax used for?",
+  "back": "Detecting points of unequal pressure when seating castings.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.31",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-032",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Temperature for a beeswax dip to seal refractory casts?",
+  "back": "280\u2013300 \u00b0F (cast heated and dehydrated first).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.32",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-033",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Heat-cured denture resin: powder and liquid are?",
+  "back": "Powder = polymer; liquid = monomer (with inhibitor; flammable, irritant).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.42",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-034",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are self-curing resins preferred for denture repair?",
+  "back": "The denture need not undergo high curing temperature.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.44.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-035",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Which soft liners are the most truly elastic?",
+  "back": "Silicone resin liners.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.48.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-036",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How does the ADA classify alloys?",
+  "back": "By percentage of noble metals.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.58.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-037",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Name the noble metals.",
+  "back": "Gold and the platinum group: platinum, palladium, ruthenium, rhodium, osmium, iridium.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.58.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-038",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why do silver-containing metal-ceramic alloys risk problems?",
+  "back": "Silver can green the porcelain and contaminate the furnace muffle.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.62.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-039",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What casting problem rises with palladium content?",
+  "back": "Hydrogen gas absorption, making casting harder.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.62.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-040",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "ADA minimum for chromium+cobalt+nickel in cast chrome alloys?",
+  "back": "At least 85% by weight.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.63.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-041",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Specific gravity of chrome alloys vs gold?",
+  "back": "About half \u2014 lighter castings.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.63.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-042",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Role of fluxes (K, Na, Ca oxides) in porcelain?",
+  "back": "Lower the softening temperature and increase thermal expansion.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.70.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-043",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Most common intermediate oxide in porcelain and its effect?",
+  "back": "Aluminum oxide \u2014 increases hardness and viscosity.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.70.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-044",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Common porcelain opacifiers?",
+  "back": "Cerium, titanium and zirconium oxides.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.70.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-045",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Tinfoil thickness for the stone cast vs the waxed denture?",
+  "back": "0.001 in on the cast; 0.003 in over the waxed denture.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.77.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-046",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What are tinfoil substitutes made of?",
+  "back": "Sodium or potassium alginate in distilled water.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.77.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-047",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Which flux form is best for casting?",
+  "back": "Powdered flux.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.80.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-048",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Give a common antiflux.",
+  "back": "Pencil lead (graphite).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.81",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-049",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why isn't isopropyl alcohol recommended for the torch?",
+  "back": "It smokes badly when applied to wax.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.86",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-050",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Sulfuric acid's advantage over hydrochloric as a pickle?",
+  "back": "No objectionable fumes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.90",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-051",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Composition of aqua regia?",
+  "back": "3 parts hydrochloric acid : 1 part nitric acid; dissolves gold and platinum.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.94",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-052",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Hydrofluoric acid: lab use and first-aid item to keep nearby?",
+  "back": "Dissolving porcelain off metal; magnesium oxide ointment.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.93",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-053",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Which polishing agent is not recommended for acrylic, and why?",
+  "back": "Rouge \u2014 collects in crevices around denture teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.100.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-054",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is Carborundum?",
+  "back": "Silicon carbide.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.100.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-055",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Hardest abrasive known?",
+  "back": "Diamond.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.100.10",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-E-056",
+  "exam": "comprehensive",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Typical melting range of chrome alloys, and a suitable flame?",
+  "back": "Over 2600 \u00b0F; oxyacetylene.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.102.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-F-001",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How is impression compound softened and hardened?",
+  "back": "Softened by heat; hardened by cooling.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.34.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-F-002",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Need a separator when pouring gypsum into compound?",
+  "back": "No.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.34.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-F-003",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How should a low-fusing wax impression be rinsed?",
+  "back": "Carefully with room-temperature water, without touching the tissue side.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.35.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-F-004",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Principal ingredients of impression paste?",
+  "back": "Zinc oxide and eugenol (or lauric acid).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.36.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-F-005",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Most accurate elastomeric impression materials?",
+  "back": "Polyethers and polysiloxanes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.37.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-F-006",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Why pour condensation silicones promptly?",
+  "back": "Shrinkage occurs after about 30 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.37.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-F-007",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Pour polysulfide and condensation silicone impressions within?",
+  "back": "25 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.38.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-F-008",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Why can't polyether impressions be die-plated?",
+  "back": "Highly hydrophilic; water sorption changes dimensions.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.38.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-F-009",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Agar vs alginate hydrocolloid?",
+  "back": "Agar is reversible; alginate is irreversible.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.40",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-F-010",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What happens to gelled hydrocolloid exposed to water or air?",
+  "back": "It changes dimensions.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.40.2.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-F-011",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Effect of hydrocolloid exudate on gypsum?",
+  "back": "Makes the gypsum surface soft and chalky.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.40.2.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "comp-F-012",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How are alginate impressions disinfected?",
+  "back": "Spray, then sealed plastic bag \u2014 not immersed.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.25.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-F-013",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Pour alginate impressions within how long?",
+  "back": "12 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.25.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-F-014",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Which disinfectant should addition silicone/polysulfide NOT be immersed in?",
+  "back": "Neutral glutaraldehyde.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.26",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-F-015",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How are polyether impressions disinfected?",
+  "back": "Like hydrocolloids \u2014 spray, not immersion; chlorine-based, short time.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.27",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-F-016",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How can a contaminated stone cast be disinfected?",
+  "back": "0.5% sodium hypochlorite in clear SDS, 30-minute soak.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.32.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-F-017",
+  "exam": "comprehensive",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "From what is slurry dihydrate solution prepared?",
+  "back": "Freshly set stone never poured against a contaminated impression.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.31",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-G-001",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Maximum compressed air pressure for cleaning?",
+  "back": "30 lb/in\u00b2.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.19.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-G-002",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Recommended Bunsen burner flame height?",
+  "back": "About 3 inches.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.16.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-G-003",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Rule for eye protection?",
+  "back": "Wear glasses/goggles whenever any possibility of eye damage exists.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.10",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-G-004",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Sharp vs dull instruments \u2014 which is more dangerous?",
+  "back": "Dull.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-G-005",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Rule about running lathes?",
+  "back": "Never leave unattended; turn off when not in use.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.15.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-G-006",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Where to use acids with toxic fumes?",
+  "back": "Under a power exhaust hood.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.17",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-G-007",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Hepatitis B risk for lab technicians?",
+  "back": "Almost three times the general population.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.21.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-G-008",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Key infection control concept in the lab?",
+  "back": "Clean and disinfect contaminated items before reaching the production area.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.20.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-G-009",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the receiving area?",
+  "back": "A separate engineering control for disinfecting incoming items.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.23.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-G-010",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "PPE in the receiving area?",
+  "back": "Gloves, mask, eye protection, smocks.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.24",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-G-011",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Disinfecting incoming prostheses?",
+  "back": "Rinse/scrub, ultrasonic cleaner, then tuberculocidal disinfectant.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.28.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-G-012",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a finished prosthesis returned?",
+  "back": "Cleaned, disinfected, bagged.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.30",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-01"
+  }
+ },
+ {
+  "id": "comp-G-013",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Universal precautions mean?",
+  "back": "Treat all human blood and OPIM as infectious.",
+  "source": {
+   "ref": "OSHA Fact Sheet: Bloodborne Pathogens Standard (29 CFR 1910.1030)",
+   "url": "https://www.osha.gov/sites/default/files/publications/bbfact01.pdf"
+  }
+ },
+ {
+  "id": "comp-G-014",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Hepatitis B vaccine: when must it be offered?",
+  "back": "After BBP training, within 10 days of initial assignment to a job with occupational exposure.",
+  "source": {
+   "ref": "OSHA Fact Sheet: Bloodborne Pathogens Standard (29 CFR 1910.1030)",
+   "url": "https://www.osha.gov/sites/default/files/publications/bbfact01.pdf"
+  }
+ },
+ {
+  "id": "comp-G-015",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Define exposure incident.",
+  "back": "Eye, mouth, mucous membrane, non-intact skin or parenteral contact with blood/OPIM.",
+  "source": {
+   "ref": "OSHA Fact Sheet: Bloodborne Pathogens Standard (29 CFR 1910.1030)",
+   "url": "https://www.osha.gov/sites/default/files/publications/bbfact01.pdf"
+  }
+ },
+ {
+  "id": "comp-G-016",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "How often is BBP training?",
+  "back": "At assignment, annually, and when tasks change.",
+  "source": {
+   "ref": "OSHA Fact Sheet: Bloodborne Pathogens Standard (29 CFR 1910.1030)",
+   "url": "https://www.osha.gov/sites/default/files/publications/bbfact01.pdf"
+  }
+ },
+ {
+  "id": "comp-G-017",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "How many SDS sections, and which is first-aid?",
+  "back": "16; Section 4.",
+  "source": {
+   "ref": "OSHA Brief: Hazard Communication Standard Safety Data Sheets (OSHA 3514)",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf"
+  }
+ },
+ {
+  "id": "comp-G-018",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Which SDS section covers PPE?",
+  "back": "Section 8.",
+  "source": {
+   "ref": "OSHA Brief: Hazard Communication Standard Safety Data Sheets (OSHA 3514)",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf"
+  }
+ },
+ {
+  "id": "comp-G-019",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "HazCom pictogram format?",
+  "back": "A symbol on a white background framed by a red border.",
+  "source": {
+   "ref": "OSHA QuickCard: Hazard Communication Standard Pictogram (OSHA 3491)",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA3491QuickCardPictogram.pdf"
+  }
+ },
+ {
+  "id": "comp-G-020",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Pictogram for skin corrosion or corrosive to metals?",
+  "back": "Corrosion.",
+  "source": {
+   "ref": "OSHA QuickCard: Hazard Communication Standard Pictogram (OSHA 3491)",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA3491QuickCardPictogram.pdf"
+  }
+ },
+ {
+  "id": "comp-G-021",
+  "exam": "comprehensive",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Pictogram for gases under pressure?",
+  "back": "Gas cylinder.",
+  "source": {
+   "ref": "OSHA QuickCard: Hazard Communication Standard Pictogram (OSHA 3491)",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA3491QuickCardPictogram.pdf"
+  }
+ }
+]

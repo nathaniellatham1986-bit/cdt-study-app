@@ -2,11 +2,12 @@ import { EXAMS } from './exams.js';
 import { newState, review, isMature } from './sm2.js';
 import * as S from './store.js';
 const $=s=>document.querySelector(s), view=$('#view'), bar=$('#bar'), title=$('#title');
+const CONTENT=['content/comprehensive.json'];
 let cards=[], P=S.load(), sess=null;
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const st=id=>P.cards[id]||newState();
 const btns=list=>{bar.innerHTML='';list.forEach(([t,f,c])=>{const b=document.createElement('button');b.textContent=t;if(c)b.className=c;b.onclick=f;bar.append(b);});};
-const cardsOf=(e,d)=>cards.filter(c=>c.exam===e&&(!d||c.domain===d));
+const cardsOf=(e,d)=>cards.filter(c=>(!e||c.exam===e)&&(!d||c.domain===d));
 const due=list=>list.filter(c=>st(c.id).due<=Date.now());
 const pct=list=>list.length?Math.round(100*list.filter(c=>isMature(P.cards[c.id])||(P.cards[c.id]?.reps>=2)).length/list.length):0;
 
@@ -19,11 +20,13 @@ function hint(){
 }
 function home(){
   title.textContent='CDT Study'; sess=null;
-  view.innerHTML=hint()+EXAMS.map(e=>{const l=cardsOf(e.id);return`<button class="item" data-e="${e.id}">
+  const all=due(cards);
+  view.innerHTML=hint()+`<button class="item now" id="now"><b>▶ Study now</b><div class="mut">${all.length} cards due across all exams</div></button>`+EXAMS.map(e=>{const l=cardsOf(e.id);return`<button class="item" data-e="${e.id}">
     <div class="row"><b>${esc(e.name)}</b><span class="mut">${due(l).length} due</span></div>
     <div class="mut">${e.domains.length} domains · ${e.questions} Qs · ${e.minutes} min · ${l.length} cards</div>
     <div class="bar"><i style="width:${pct(l)}%"></i></div></button>`}).join('')
-    +`<p class="mut">Domains and weights: ${esc('NBC CDT Examination Handbook, rev. 3/1/2026')}. Cards marked SAMPLE are unverified placeholders.</p>`;
+    +`<p class="mut">Domains and weights: ${esc('NBC CDT Examination Handbook, rev. 3/1/2026')}. Cards are UNVERIFIED study aids paraphrased from the cited source — check the source.</p>`;
+  $('#now').onclick=()=>study(null);
   view.querySelectorAll('[data-e]').forEach(b=>b.onclick=()=>exam(b.dataset.e));
   $('#hx')&&($('#hx').onclick=()=>{localStorage.setItem('cdt.hint.off',1);home();});
   btns([['Progress',progress],['Backup',backup]]);
@@ -37,15 +40,16 @@ function exam(id){
   btns([['‹ Home',home],['Study all due',()=>study(id),'pri']]);
 }
 function study(eid,did){
-  const q=due(cardsOf(eid,did)); sess={eid,did,q,i:0,flip:false}; show();
+  const q=due(cardsOf(eid,did)).map(c=>[Math.random(),c]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]).slice(0,30); sess={eid,did,q,i:0,flip:false}; show();
 }
+const back=()=>sess&&sess.eid?exam(sess.eid):home();
 function show(){
   const s=sess, c=s.q[s.i];
-  if(!c){view.innerHTML=`<div class="flash">Nothing due here right now. 🎉<p class="mut">Come back later, or pick another domain.</p></div>`;return btns([['‹ Back',()=>exam(s.eid),'pri']]);}
-  title.textContent=`${s.i+1}/${s.q.length} · ${c.exam} ${c.domain}`;
+  if(!c){view.innerHTML=`<div class="flash">Nothing due here right now. 🎉<p class="mut">Come back later, or pick another domain.</p></div>`;return btns([['‹ Back',back,'pri']]);}
+  title.textContent=`${s.i+1}/${s.q.length} · ${(EXAMS.find(x=>x.id===c.exam)||{}).name||c.exam} ${c.domain}`;
   view.innerHTML=`<div class="flash">${c.sample?'<span class="badge">SAMPLE</span>':''}${c.verified?'':'<span class="badge">UNVERIFIED</span>'}
-   <p>${esc(c.front)}</p>${s.flip?`<hr><p>${esc(c.back)}</p><p class="mut">Source: ${esc(c.source.ref)} — ${esc(c.source.loc)}</p>`:''}</div>`;
-  if(!s.flip) return btns([['‹',()=>exam(s.eid)],['Show answer',()=>{s.flip=true;show();},'pri']]);
+   <p>${esc(c.front)}</p>${s.flip?`<hr><p>${esc(c.back)}</p><p class="mut">Source: ${esc(c.source.ref)}${c.source.loc?' — '+esc(c.source.loc):''}${c.source.url?` · <a href="${esc(c.source.url)}" target="_blank" rel="noopener">link</a>`:''}</p>`:''}</div>`;
+  if(!s.flip) return btns([['‹',back],['Show answer',()=>{s.flip=true;show();},'pri']]);
   btns(['Again','Hard','Good','Easy'].map((t,g)=>[t,()=>{P.cards[c.id]=review(st(c.id),g);S.save(P);if(g===0)s.q.push(c);s.i++;s.flip=false;show();},'g'+g]));
 }
 function progress(){
@@ -62,7 +66,7 @@ function backup(){
   btns([['‹',home],['Import',()=>$('#f').click()],['Export',()=>{const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([S.exportJSON(P)],{type:'application/json'}));a.download=`cdt-progress-${new Date().toISOString().slice(0,10)}.json`;a.click();},'pri']]);
 }
 (async()=>{
-  try{cards=await (await fetch('content/samples.json')).json();}catch{cards=[];}
+  for(const f of CONTENT){try{cards.push(...await (await fetch(f)).json());}catch(x){console.warn(f,x);}}
   home();
   if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').then(r=>window.__sw=r.scope).catch(e=>console.warn(e));
 })();
