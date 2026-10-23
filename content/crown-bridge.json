@@ -1,0 +1,3677 @@
+[
+ {
+  "id": "cbf-A-001",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a fixed prosthesis?",
+  "back": "A replacement for a missing tooth or part of a tooth that the dentist attaches and the patient cannot remove, such as inlays, onlays, crowns, veneers, and FPDs.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-A-002",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the difference between the direct and indirect methods?",
+  "back": "Direct: the restoration is formed on the tooth in the mouth. Indirect: it is formed outside the mouth on a die.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-A-003",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a wax pattern?",
+  "back": "An exact wax replica of the desired shape; it is invested and burned out to make a mold for casting.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-A-004",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the difference between a direct and an indirect wax pattern?",
+  "back": "A direct pattern is carved in the patient's mouth; an indirect pattern is carved on a die.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-A-005",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What does the technician do first in the fixed restoration sequence?",
+  "back": "Pours the diagnostic casts and makes custom trays if requested.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.11.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-A-006",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a diagnostic wax-up used for?",
+  "back": "To determine occlusal and esthetic requirements and to make provisional restorations.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.11.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-A-007",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What material is used for preliminary impressions in fixed prosthodontics?",
+  "back": "Irreversible hydrocolloid (alginate).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.13.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-A-008",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What are diagnostic casts poured from?",
+  "back": "Preliminary impressions made in stock trays.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.13.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-A-009",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What area does the vacuum-formed provisional template cover?",
+  "back": "The fixed prosthesis region plus one or two uninvolved teeth on each side, which act as a seating index.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.1.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-A-010",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How much stone is shaved from teeth to be prepared when making a provisional?",
+  "back": "About 1 mm from each surface, eliminating undercuts.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.1.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-A-011",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a provisional prosthesis delivered to the dentist?",
+  "back": "Disinfected, in a plastic bag with a moist cotton roll.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.1.2.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-A-012",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How thick should a silicone provisional template be?",
+  "back": "6 to 8 mm thick, for stability.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.2.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-A-013",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are custom trays for fixed work made over spacers?",
+  "back": "Elastomeric impression materials need adequate thickness to register accurately.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.15.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-A-014",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What keeps a custom tray from touching the preparations?",
+  "back": "Stops on the tissue side of the tray. Stops are never placed over teeth to be prepared.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.15.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-A-015",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What kind of stop is used in a maxillary custom tray?",
+  "back": "A single, large palatal stop.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.15.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-001",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a working cast?",
+  "back": "A cast duplicating the prepared teeth, other teeth, and soft tissues, used to set shape, contacts, occlusion, and fit.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.16.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-002",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a die?",
+  "back": "A positive reproduction of the prepared tooth in a hard, stable material such as improved stone, epoxy, or electrodeposited metal.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.16.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-003",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the overriding requirement of a removable die system?",
+  "back": "Dies, once removed, must go back to exactly the same place.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.18",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-004",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What kind of dowel pins are used as die extensions?",
+  "back": "Keyed, tapered metal pins with serrated heads, so the die seats only one way.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.19.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-005",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are unprepared teeth next to dies also made removable?",
+  "back": "So contact areas on finished castings can be evaluated better.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.19.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-006",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How is an impression poured for a dowel-pinned cast?",
+  "back": "In two stages: first the teeth and preparations, then a second pour forming the base.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.20.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-007",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What bur makes indexing dimples in a dowel-pinned cast, and how deep?",
+  "back": "A #8 round bur, no deeper than half the bur head's diameter.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.20.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-008",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is separator applied to the bases of doweled parts?",
+  "back": "So removable sections separate cleanly from the second pour.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.20.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-009",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What should you do before trimming a working cast?",
+  "back": "Soak it in SDS for about a minute so slush does not cling.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.20.11",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-010",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How much of the dowel pin tips should be exposed?",
+  "back": "About 2 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.20.12",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-011",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why soak a reversible hydrocolloid impression in 2% potassium sulfate?",
+  "back": "For about 5 minutes, to improve the surface hardness of the set stone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.22.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-012",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How thick must the first pour be for the Pindex technique?",
+  "back": "At least 15 mm from the bottom to the marginal extension.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.23.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-013",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the advantages of electroplated dies?",
+  "back": "Harder surfaces, more abrasion resistance, and superior surface detail.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.24.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-014",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How long does silver-plating an impression take?",
+  "back": "About 15 hours.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.24.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-015",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How much stone is exposed below the margin when bulk trimming a die?",
+  "back": "About 4 mm, done with a pear-shaped bur.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.1.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-016",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does the final margin trimming use?",
+  "back": "A #25 Bard Parker blade or a beaver blade.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.1.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-017",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why mark margins with a red pencil and not a lead pencil?",
+  "back": "Lead transferred to the mold can create pits in the casting.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-018",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why apply surface hardener over the marked margin?",
+  "back": "To keep the red line from smudging and maintain marginal integrity.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-019",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why paint a die spacer?",
+  "back": "To leave room for cement film so the casting seats completely.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-020",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How far from the margin should die spacer stop, and how thick is it?",
+  "back": "About 1 mm short of the margin; 20 to 40 microns thick.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-021",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What margin meets the tooth at 90 degrees?",
+  "back": "A shoulder, forming a butt joint; mostly used for all-ceramic restorations.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.1.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-B-022",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What margin is usually chosen for metal crowns?",
+  "back": "The chamfer.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.1.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-001",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the stiff and soft brushes used for in waxing?",
+  "back": "Stiff to smooth occlusal irregularities; soft to dust zinc stearate onto the occlusal surface to check occlusion.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.39.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-002",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How much does wax change size with temperature?",
+  "back": "About 0.02 percent for each degree Fahrenheit.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.41.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-003",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why wax and invest where temperature is constant?",
+  "back": "Inlay wax is sensitive to environmental temperature, which affects fit.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.41.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-004",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is lubricated before waxing?",
+  "back": "The die, the proximal surfaces of adjacent teeth, and the occlusal surfaces of opposing teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.41.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-005",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the first layer of wax called?",
+  "back": "The wax blank, or foundation layer.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.41.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-006",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What method is useful for applying the first wax layer to complete crowns?",
+  "back": "Dipping the lubricated die into molten wax.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.41.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-007",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is negative waxing?",
+  "back": "The buildup, smash, and carve technique.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.41.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-008",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is positive waxing?",
+  "back": "Adding wax in small increments to form a skeleton of the final contours.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.41.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-009",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What instruments carve the wax-die junction at the margin?",
+  "back": "Blunt carvers, which leave a clean margin without marring the die.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.41.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-010",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How are wax axial surfaces smoothed?",
+  "back": "With silk or nylon cloth wrapped around a fingertip.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.41.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-011",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Where is the sprue attached to a pattern?",
+  "back": "The thickest cross-sectional area; metal flows from greater to lesser volume.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.51.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-012",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Where are patterns placed in the mold relative to the reservoir?",
+  "back": "Patterns in a cold zone, reservoir in the heat center, so castings cool first.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.51.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-013",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why use a wetting agent on wax patterns?",
+  "back": "To reduce surface tension of the investment and reduce bubbles on the casting.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.51.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-014",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What size should a sprue former be?",
+  "back": "Smooth, short, and thick: 6 to 9 mm long, 8 to 10 gauge.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.52.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-015",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is shrink spot porosity?",
+  "back": "A void in the last part of metal to solidify.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.52.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-016",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "When should the sprue former be attached?",
+  "back": "While the pattern is seated on the die, to lessen distortion.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.52.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-017",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why not plunge a heated sprue former into the pattern?",
+  "back": "The pattern will warp.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.52.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-018",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "When is indirect spruing commonly used?",
+  "back": "For multiple single units or joined units such as a splint or FPD.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.52.4.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-019",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Which way does molten metal flow in a centrifugal machine?",
+  "back": "Downward and to the right (trailing edge).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.52.4.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-020",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the guideline for FPDs larger than three units?",
+  "back": "Cast in two pieces and solder them.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.68.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-021",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Where is the proximal contact located occlusogingivally?",
+  "back": "At the junction of the occlusal and middle thirds.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.68.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-022",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a stress breaker connector?",
+  "back": "A mechanical connector that uses dovetail retention to join FPD units.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.68.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-C-023",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an advantage of a stress breaker?",
+  "back": "An FPD can be made when abutments are not parallel or with a pier abutment.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.68.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-001",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a casting ring lined?",
+  "back": "One layer of dry resilient liner kept 3 mm short of the crucible end.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.52.5.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-002",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why moisten the ring liner?",
+  "back": "So it does not absorb water from the investment and change its expansion.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.52.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-003",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why weigh and measure investment powder and liquid exactly?",
+  "back": "Small variations in liquid-powder ratio greatly affect expansion.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.51.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-004",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why let investment set completely before burnout?",
+  "back": "Otherwise the mold is weak and may break during burnout.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.51.11",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-005",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the minimum setting time for high heat burnout investment?",
+  "back": "45 minutes; 1 to 1.5 hours is best.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.5.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-006",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why break the glaze at the top of the ring?",
+  "back": "So burnout gases can escape.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-007",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Which sprue formers must be removed before burnout?",
+  "back": "Metal ones. Wax and plastic sprue formers burn out.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.6.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-008",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why must set investment not dry out?",
+  "back": "Water conducts heat evenly through the mold.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.7.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-009",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What does burnout accomplish?",
+  "back": "Removes moisture and the wax or plastic pattern, and expands the mold.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.55.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-010",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a mold placed in the burnout oven?",
+  "back": "Sprue hole down.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.55.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-011",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the high heat burnout temperature and limit?",
+  "back": "1250 to 1275°F; never above 1300°F or the investment breaks down.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.55.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-012",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the low heat burnout temperature?",
+  "back": "900°F, used with hygroscopically expanded investment.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.55.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-013",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How much time is added for each additional mold?",
+  "back": "10 minutes (20 for larger molds).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.55.4.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-014",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How are plastic patterns burned out?",
+  "back": "Slower and longer; no more than 600°F for the first 30 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.55.4.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-015",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How many turns is a casting machine wound?",
+  "back": "Three to four turns.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.56.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-016",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "When is gold alloy ready to cast?",
+  "back": "When it shows a mobile, bright, mirror-like surface.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.56.10",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-D-017",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why not quench the ring immediately after casting?",
+  "back": "Investment tensile forces can tear the still-weak casting.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.51.17",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-001",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How is investment removed from a casting?",
+  "back": "Stiff brush under water; glass bead microblaster outside, aluminum oxide inside, at low pressure.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.57.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-002",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is pickling?",
+  "back": "Chemically removing oxides from a casting.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.57.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-003",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What acid is often used for pickling, and what is preferred?",
+  "back": "50% hydrochloric acid; safer commercial pickling preparations are recommended.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.57.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-004",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Should pickling solution be boiled?",
+  "back": "No. Heat it, but do not let it boil; boiling makes it foam and splatter.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.57.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-005",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why use plastic-coated tongs in pickling?",
+  "back": "Plastic has no effect on the casting.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.57.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-006",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the casting washed with after pickling?",
+  "back": "Sodium bicarbonate solution, then clear water.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.57.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-007",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How do you mix an acid pickling solution?",
+  "back": "Always pour acid into water, never water into acid.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.57.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-008",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What are positive casting defects?",
+  "back": "Bubbles of metal or fins that protrude from the surface.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-009",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What are negative casting defects?",
+  "back": "Porosity, holes, and incomplete castings.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-010",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How is the sprue removed?",
+  "back": "With a separating disk, leaving a little sprue to recontour.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-011",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What must be done before test-fitting a casting on its die?",
+  "back": "Remove all internal positive defects, checked under a microscope.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-012",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the key to fast, effective finishing?",
+  "back": "Organized use of progressively finer abrasives and polishing agents.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-013",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How is the sprue stump shaped?",
+  "back": "A heatless stone, then a #203 stone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-014",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How is occlusal anatomy sharpened?",
+  "back": "With a small, dulled round bur.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-015",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What follows fine stones in rough finishing?",
+  "back": "Rubber abrasive wheels, then points.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.4.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-016",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How are mesial and distal contacts adjusted?",
+  "back": "One at a time.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-017",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is restored first when adjusting occlusion?",
+  "back": "The vertical dimension of occlusion, using articulating film.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-018",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Which is coarser, buffing bar compound or rouge?",
+  "back": "BBC is coarser; polishing starts with BBC and finishes with rouge.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-019",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What gives an extremely high luster?",
+  "back": "Rouge applied with a chamois wheel.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-020",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What may happen to the die if a casting is finished on it?",
+  "back": "The die will probably be ruined.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.7.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-021",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How are polishing compounds removed?",
+  "back": "Soap and water or an ultrasonic cleaner.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.7.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-022",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are surfaces to be soldered left satin, not polished?",
+  "back": "The solder bond is stronger on a satin finish.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.75.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-E-023",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How should patterns for base metal castings be finished?",
+  "back": "Highly refined, close to final form, with minimal overwaxing of margins.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.9.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbf-E-024",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How is the porcelain area of a base metal casting cleaned?",
+  "back": "Aluminum oxide from a microblaster, giving a clean surface for bonding.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.9.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbf-E-025",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a Targis restoration prepolished?",
+  "back": "Pumice and a wet brush wheel on slow speed after carbide bur contouring.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.5.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-05"
+  }
+ },
+ {
+  "id": "cbf-E-026",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "When can you grind a Sinfony resin veneer?",
+  "back": "Only after final polymerization in the Visio Beta unit; contour with cross-cut burs.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-05"
+  }
+ },
+ {
+  "id": "cbf-F-001",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Name four wax instruments listed for waxing.",
+  "back": "Beale #7 spatula, Roach carver, Hollenback #1 carver, Woodson #1 plugger.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.39",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-002",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What is semihygroscopic (effective) setting expansion?",
+  "back": "About 0.35% expansion in air with a wet ring liner.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-003",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What is hygroscopic expansion?",
+  "back": "About 0.75% expansion when the invested pattern is immersed in a warm water bath.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.2.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-004",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What causes thermal expansion of investment?",
+  "back": "Heating in the burnout oven; higher heat gives more expansion.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.2.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-005",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "At what water temperature does hygroscopic investment set?",
+  "back": "100°F, for 30 to 45 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.2.2.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-006",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What advantages are claimed for the hygroscopic method?",
+  "back": "Smoother castings, longer furnace and ring life, and finer grain structure.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.2.2.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-007",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What water is used for investment?",
+  "back": "Distilled water, carefully measured.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-008",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a pyrometer (thermocouple)?",
+  "back": "Two dissimilar wires welded together at the tip, projecting into the furnace.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.55.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-009",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How often should furnace readings be checked?",
+  "back": "Monthly.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.55.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-010",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the three types of casting crucibles?",
+  "back": "Clay, quartz, and aluminum oxide.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.56.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-011",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Which crucibles must be glazed with flux?",
+  "back": "Clay crucibles. Quartz and aluminum oxide are self-glazing when heated.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.56.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-012",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Which part of the torch flame melts the alloy?",
+  "back": "The reducing zone, between the tips of the inner and outer cones.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.56.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-013",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What melting range should solder have?",
+  "back": "At least 100°F below the castings, with matching color.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.75.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-014",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a solder assembly preheated?",
+  "back": "In a burnout furnace, heat soaked at 900°F for 30 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.75.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-015",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What three factors affect the solder gap width?",
+  "back": "Setting expansion of the soldering investment, its thermal expansion, and thermal expansion of the metal units.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.75.2.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbf-F-016",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Which element may cause more allergic reactions than all other metals combined?",
+  "back": "Nickel.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbf-F-017",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is beryllium in some base metal alloys, and what is the hazard?",
+  "back": "It controls hardness and lowers fusion temperature; inhaled dust is a health hazard.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbf-F-018",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Which casting method is preferred for base metal alloys?",
+  "back": "Induction casting.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbf-F-019",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What burnout temperature is used for base metal alloys?",
+  "back": "1500 to 1600°F, to compensate for their larger shrinkage.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.5.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbf-F-020",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What ring liner is used for base metal casting?",
+  "back": "0.040-inch thick Kaoliner, a mat of kaolin fibers.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.7.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbf-F-021",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What investment is preferred for base metal alloys?",
+  "back": "Phosphate-bonded, which gives smoother castings than silicate-bonded.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.7.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbf-F-022",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Why not use carbon crucibles for base metal alloys?",
+  "back": "Carbon contaminates alloys containing nickel or palladium.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.8.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbf-F-023",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What oxygen pressure is used for manual base metal casting?",
+  "back": "20 psi, with 1/4-inch blue inner cones.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.8.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbq-A-001",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which material is used for preliminary impressions in fixed prosthodontics?",
+  "options": [
+   "Zinc oxide eugenol paste only",
+   "Plaster of Paris",
+   "Inlay wax",
+   "Irreversible hydrocolloid, or alginate"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Irreversible hydrocolloid, or alginate. (para 1.13.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.13.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-A-002",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What are diagnostic casts poured from?",
+  "options": [
+   "The final working casts",
+   "Preliminary impressions made in stock trays",
+   "The wax patterns",
+   "The investment molds"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Preliminary impressions made in stock trays. (para 1.13.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.13.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-A-003",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which method has the restoration formed outside the mouth on a die?",
+  "options": [
+   "The direct method",
+   "The chairside method",
+   "The indirect method",
+   "The sprinkle-on method"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The indirect method. (para 1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-A-004",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a wax pattern carved on a die called?",
+  "options": [
+   "A direct pattern",
+   "An indirect pattern",
+   "A pontic",
+   "A custom tray"
+  ],
+  "answer": 1,
+  "explanation": "Correct: An indirect pattern. (para 1.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-A-005",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which statement describes a fixed prosthesis?",
+  "options": [
+   "The patient cannot remove it",
+   "The patient removes it every night",
+   "It is always made of rubber",
+   "It is held in with clasps only"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The patient cannot remove it. (para 1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-A-006",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why are uninvolved teeth included in a provisional template?",
+  "options": [
+   "So they act as a seating index",
+   "To make the template heavier",
+   "So the dentist can prepare them too",
+   "To block the occlusion"
+  ],
+  "answer": 0,
+  "explanation": "Correct: So they act as a seating index. (para 1.14.1.1.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.1.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-A-007",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How thick should a silicone template for a provisional restoration be?",
+  "options": [
+   "0.1 mm",
+   "6 to 8 mm",
+   "30 mm",
+   "Thin as paper"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 6 to 8 mm. (para 1.14.2.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.2.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-A-008",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where must custom tray stops never be placed?",
+  "options": [
+   "On the palate",
+   "On the edentulous ridge",
+   "On any tissue surface",
+   "Over teeth the dentist intends to prepare"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Over teeth the dentist intends to prepare. (para 1.15.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.15.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-A-009",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why are custom trays for elastomeric impressions made over spacers?",
+  "options": [
+   "To make the tray lighter",
+   "To color the impression",
+   "To speed up the setting reaction",
+   "The impression material needs adequate thickness to register accurately"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The impression material needs adequate thickness to register accurately. (para 1.15.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.15.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-A-010",
+  "exam": "crown-bridge",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How should a finished provisional prosthesis be sent to the dentist?",
+  "options": [
+   "Dry, in an open envelope",
+   "Disinfected, in a plastic bag with a moist cotton roll",
+   "Soaking in pickling acid",
+   "Invested in a casting ring"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Disinfected, in a plastic bag with a moist cotton roll. (para 1.14.1.2.8)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.1.2.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-B-001",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the most important requirement of a removable die system?",
+  "options": [
+   "The dies must be made of wax",
+   "The dies must go back to exactly the same place",
+   "The dies must be loose in the cast",
+   "The dies must be painted red"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The dies must go back to exactly the same place. (para 1.18)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.18",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-B-002",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which bur is used to cut indexing dimples beside a dowel pin?",
+  "options": [
+   "A diamond separating disc",
+   "A #8 round bur",
+   "A #25 Bard Parker blade",
+   "A pear-shaped acrylic bur"
+  ],
+  "answer": 1,
+  "explanation": "Correct: A #8 round bur. (para 1.20.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.20.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-B-003",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "About how much of each dowel pin tip should be exposed on the base?",
+  "options": [
+   "About 20 mm",
+   "About 2 mm",
+   "None, they should be buried",
+   "Half the pin"
+  ],
+  "answer": 1,
+  "explanation": "Correct: About 2 mm. (para 1.20.12)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.20.12",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-B-004",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why should margins not be marked with a lead pencil?",
+  "options": [
+   "Lead in the mold can create pits in the casting",
+   "Lead is too hard to see",
+   "Lead melts the die",
+   "Lead makes the die too shiny"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Lead in the mold can create pits in the casting. (para 1.33.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-B-005",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where should the die spacer stop?",
+  "options": [
+   "Exactly on the margin",
+   "10 mm past the margin",
+   "About 1 mm short of the margin",
+   "It should cover only the margin"
+  ],
+  "answer": 2,
+  "explanation": "Correct: About 1 mm short of the margin. (para 1.33.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-B-006",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How thick should a properly applied die spacer be?",
+  "options": [
+   "2 to 4 mm",
+   "1 cm",
+   "0.5 inch",
+   "20 to 40 microns"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 20 to 40 microns. (para 1.33.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-B-007",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How much stone is exposed below the margin during bulk trimming?",
+  "options": [
+   "About 40 mm",
+   "About 4 mm",
+   "None at all",
+   "The entire root area to the base"
+  ],
+  "answer": 1,
+  "explanation": "Correct: About 4 mm. (para 1.33.1.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.1.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-B-008",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which is an advantage of electroplated dies?",
+  "options": [
+   "Harder surfaces and superior surface detail",
+   "They are made of soft wax",
+   "They shrink to fit",
+   "They need no impression"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Harder surfaces and superior surface detail. (para 1.24.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.24.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-B-009",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is a reversible hydrocolloid impression soaked in 2 percent potassium sulfate?",
+  "options": [
+   "To dissolve the impression",
+   "To improve the surface hardness of the set stone",
+   "To add color",
+   "To make the stone set slower for days"
+  ],
+  "answer": 1,
+  "explanation": "Correct: To improve the surface hardness of the set stone. (para 1.22.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.22.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-B-010",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How thick must the first pour be for the Pindex technique?",
+  "options": [
+   "1 mm",
+   "3 mm",
+   "At least 15 mm",
+   "It does not matter"
+  ],
+  "answer": 2,
+  "explanation": "Correct: At least 15 mm. (para 1.23.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.23.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-B-011",
+  "exam": "crown-bridge",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which margin is usually the margin of choice for complete and partial metal crowns?",
+  "options": [
+   "A butt joint shoulder only",
+   "No margin at all",
+   "The chamfer",
+   "An open margin"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The chamfer. (para 1.33.1.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.1.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-001",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "About how much does wax expand or contract per degree Fahrenheit?",
+  "options": [
+   "About 20 percent",
+   "About 0.02 percent",
+   "It never changes size",
+   "About 2 inches"
+  ],
+  "answer": 1,
+  "explanation": "Correct: About 0.02 percent. (para 1.41.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.41.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-002",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the first layer of wax on the die called?",
+  "options": [
+   "The sprue",
+   "The investment",
+   "The wax blank, or foundation layer",
+   "The pontic"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The wax blank, or foundation layer. (para 1.41.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.41.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-003",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which describes negative waxing?",
+  "options": [
+   "Adding small cones of wax only",
+   "Dipping the die in investment",
+   "Casting without a pattern",
+   "Build up, smash, and carve"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Build up, smash, and carve. (para 1.41.6.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.41.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-004",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which describes positive waxing?",
+  "options": [
+   "Carving away a big block of wax only",
+   "Smashing the casts together first",
+   "Adding wax in small increments to build a skeleton of contours",
+   "Pouring wax into an impression"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Adding wax in small increments to build a skeleton of contours. (para 1.41.6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.41.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-005",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which instruments should be used to carve the wax at the margin?",
+  "options": [
+   "Sharp scalpels pressed into the die",
+   "Blunt carvers",
+   "Separating discs",
+   "Heatless stones"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Blunt carvers. (para 1.41.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.41.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-006",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is dusted onto a wax occlusal surface to check occlusion?",
+  "options": [
+   "Pumice",
+   "Investment powder",
+   "Rouge",
+   "Zinc stearate disclosing powder"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Zinc stearate disclosing powder. (para 1.39.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.39.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-007",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where should the sprue be attached to the wax pattern?",
+  "options": [
+   "The thinnest margin",
+   "The proximal contact",
+   "The internal surface",
+   "The thickest cross-sectional area"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The thickest cross-sectional area. (para 1.51.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.51.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-008",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What are the proper dimensions of a sprue former?",
+  "options": [
+   "6 to 9 mm long and 8 to 10 gauge",
+   "50 mm long and 30 gauge",
+   "1 mm long and hair-thin",
+   "Any length, thin as possible"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 6 to 9 mm long and 8 to 10 gauge. (para 1.52.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.52.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-009",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the void in the last part of the metal to solidify called?",
+  "options": [
+   "Shrink spot porosity",
+   "A positive defect",
+   "A fin",
+   "A button"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Shrink spot porosity. (para 1.52.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.52.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-010",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When should the sprue former be attached to the pattern?",
+  "options": [
+   "After the pattern is invested",
+   "After burnout",
+   "After casting",
+   "While the pattern is seated on the die"
+  ],
+  "answer": 3,
+  "explanation": "Correct: While the pattern is seated on the die. (para 1.52.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.52.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-011",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What happens if a heated sprue former is plunged into the pattern?",
+  "options": [
+   "The pattern hardens into metal",
+   "Nothing happens",
+   "The pattern becomes stronger",
+   "The pattern warps"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The pattern warps. (para 1.52.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.52.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-012",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is a wetting agent applied to wax patterns before investing?",
+  "options": [
+   "To reduce the investment's surface tension and bubbles",
+   "To color the pattern",
+   "To melt the margins",
+   "To harden the wax"
+  ],
+  "answer": 0,
+  "explanation": "Correct: To reduce the investment's surface tension and bubbles. (para 1.51.8)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.51.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-013",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In a centrifugal casting machine, which way does molten metal flow first?",
+  "options": [
+   "Upward and to the left",
+   "Straight up",
+   "Downward and to the right",
+   "It does not move"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Downward and to the right. (para 1.52.4.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.52.4.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-014",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a good guideline for any FPD larger than three units?",
+  "options": [
+   "Always cast it in one piece",
+   "Never use solder",
+   "Cast it in two pieces and solder them",
+   "Make it from wax only"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Cast it in two pieces and solder them. (para 1.68.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.68.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-015",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where is the proximal contact area located occlusogingivally?",
+  "options": [
+   "At the gingival margin",
+   "At the root apex",
+   "At the junction of the occlusal and middle thirds",
+   "On the occlusal table"
+  ],
+  "answer": 2,
+  "explanation": "Correct: At the junction of the occlusal and middle thirds. (para 1.68.1.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.68.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-C-016",
+  "exam": "crown-bridge",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which retention principle does a stress breaker connector depend on?",
+  "options": [
+   "Magnetic retention",
+   "Suction",
+   "Denture adhesive",
+   "Dovetail retention"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Dovetail retention. (para 1.68.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.68.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-D-001",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How far short of the crucible end is the ring liner kept?",
+  "options": [
+   "30 mm",
+   "It covers the crucible end completely",
+   "Half the ring",
+   "3 mm"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 3 mm. (para 1.52.5.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.52.5.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-D-002",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What can happen if the ring goes into the oven before the investment has fully set?",
+  "options": [
+   "The mold may be weak and break during burnout",
+   "The casting will be extra smooth",
+   "The wax will not melt",
+   "Nothing at all"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The mold may be weak and break during burnout. (para 1.51.11)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.51.11",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-D-003",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which sprue formers must be removed before wax burnout?",
+  "options": [
+   "Wax sprue formers",
+   "Metal sprue formers",
+   "Plastic sprue formers",
+   "None of them"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Metal sprue formers. (para 1.54.6.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.6.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-D-004",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How should the mold be placed in the burnout oven?",
+  "options": [
+   "Sprue hole up, filled with water",
+   "Sprue hole down",
+   "On its side in water",
+   "Wrapped in plastic"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Sprue hole down. (para 1.55.3.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.55.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-D-005",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the burnout temperature for the high heat technique?",
+  "options": [
+   "200°F",
+   "900°F",
+   "1250 to 1275°F",
+   "2500°F"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 1250 to 1275°F. (para 1.55.4.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.55.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-D-006",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What happens if the burnout temperature goes above 1300°F with gypsum investment?",
+  "options": [
+   "The castings become smoother",
+   "The gold becomes harder",
+   "The wax will not burn",
+   "The investment breaks down and gives rough castings"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The investment breaks down and gives rough castings. (para 1.55.4.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.55.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-D-007",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What temperature is used for the low heat burnout technique?",
+  "options": [
+   "1500°F",
+   "350°F",
+   "2000°F",
+   "900°F"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 900°F. (para 1.55.4.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.55.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-D-008",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the initial burnout temperature limit for plastic patterns during the first 30 minutes?",
+  "options": [
+   "1300°F",
+   "600°F",
+   "1600°F",
+   "2000°F"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 600°F. (para 1.55.4.3.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.55.4.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-D-009",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How many turns are usually used to wind a centrifugal casting machine?",
+  "options": [
+   "Twenty",
+   "Three to four",
+   "One half",
+   "Fifty"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Three to four. (para 1.56.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.56.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-D-010",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How do you know gold alloy is ready to cast?",
+  "options": [
+   "It turns black and crusty",
+   "It shows a mobile, bright, mirror-like surface",
+   "It stops glowing",
+   "It forms solid lumps"
+  ],
+  "answer": 1,
+  "explanation": "Correct: It shows a mobile, bright, mirror-like surface. (para 1.56.10)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.56.10",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-D-011",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why should the ring not be quenched immediately after casting?",
+  "options": [
+   "The investment can tear the still-weak hot casting",
+   "It makes the casting too smooth",
+   "It melts the casting",
+   "Water evaporates the gold"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The investment can tear the still-weak hot casting. (para 1.51.17)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.51.17",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-D-012",
+  "exam": "crown-bridge",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why should brands or types of alloy not be mixed?",
+  "options": [
+   "The physical properties of such blends are unpredictable",
+   "It is illegal",
+   "It makes the alloy invisible",
+   "It always lowers the price"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The physical properties of such blends are unpredictable. (para 1.56.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.56.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-001",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is pickling?",
+  "options": [
+   "Adding wax to a pattern",
+   "Heating the investment",
+   "Chemically removing oxides from a casting",
+   "Trimming the die"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Chemically removing oxides from a casting. (para 1.57.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.57.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-002",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which pickling agents are recommended because they are safer?",
+  "options": [
+   "Boiling hydrochloric acid",
+   "Commercial pickling preparations",
+   "Concentrated sulfuric acid in a metal pot",
+   "Gasoline"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Commercial pickling preparations. (para 1.57.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.57.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-003",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How hot should the pickling solution be?",
+  "options": [
+   "At a full rolling boil",
+   "Frozen",
+   "At 1300°F",
+   "Heated, but not boiling"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Heated, but not boiling. (para 1.57.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.57.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-004",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What should be used to handle a casting in pickling solution?",
+  "options": [
+   "Steel tweezers",
+   "Bare fingers",
+   "Copper pliers",
+   "Plastic-coated tongs"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Plastic-coated tongs. (para 1.57.2.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.57.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-005",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the casting washed with after pickling?",
+  "options": [
+   "A sodium bicarbonate solution",
+   "More acid",
+   "Liquid soap for an hour",
+   "Mineral oil"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A sodium bicarbonate solution. (para 1.57.2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.57.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-006",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When mixing an acid pickling solution, what is the correct order?",
+  "options": [
+   "Always pour the water into the acid",
+   "Mix both into hot oil",
+   "Always pour the acid into the water",
+   "Heat the acid first and add ice"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Always pour the acid into the water. (para 1.57.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.57.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-007",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is used in the microblaster to clean investment from the outer casting surface?",
+  "options": [
+   "Sand at maximum pressure",
+   "Rouge",
+   "Glass beads under low pressure",
+   "Steel wool"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Glass beads under low pressure. (para 1.57.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.57.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-008",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which is a positive casting defect?",
+  "options": [
+   "Porosity",
+   "A hole",
+   "A bubble of metal that protrudes from the surface",
+   "An incomplete margin"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A bubble of metal that protrudes from the surface. (para 1.58.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-009",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which is a negative casting defect?",
+  "options": [
+   "A metal bubble",
+   "A fin",
+   "Porosity",
+   "A nodule"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Porosity. (para 1.58.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-010",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is used to remove the sprue from a casting?",
+  "options": [
+   "Pickling acid",
+   "A wax spatula",
+   "A separating disk",
+   "A die saw blade for stone"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A separating disk. (para 1.58.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-011",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What must be removed before a casting is test-fitted on its die?",
+  "options": [
+   "The margins",
+   "The entire occlusal surface",
+   "The die spacer",
+   "All internal positive defects"
+  ],
+  "answer": 3,
+  "explanation": "Correct: All internal positive defects. (para 1.58.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-012",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the key to finishing a casting quickly and well?",
+  "options": [
+   "Starting with the finest polish",
+   "Using progressively finer abrasives in an organized way",
+   "Using one coarse stone for everything",
+   "Skipping straight to rouge"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Using progressively finer abrasives in an organized way. (para 1.58.4.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-013",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is used first to shape the sprue stump?",
+  "options": [
+   "Rouge",
+   "A heatless stone",
+   "A chamois wheel",
+   "A felt wheel with BBC"
+  ],
+  "answer": 1,
+  "explanation": "Correct: A heatless stone. (para 1.58.4.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-014",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is used to sharpen occlusal anatomy on a casting?",
+  "options": [
+   "A large separating disk",
+   "A chamois wheel",
+   "A wax spatula",
+   "A small, dulled round bur"
+  ],
+  "answer": 3,
+  "explanation": "Correct: A small, dulled round bur. (para 1.58.4.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-015",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How should mesial and distal proximal contacts be adjusted?",
+  "options": [
+   "One at a time",
+   "Both at once with a disk",
+   "Never adjusted",
+   "Only by the patient"
+  ],
+  "answer": 0,
+  "explanation": "Correct: One at a time. (para 1.58.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-016",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is restored first when adjusting the occlusion of a casting?",
+  "options": [
+   "The vertical dimension of occlusion",
+   "The proximal contacts",
+   "The margin polish",
+   "The sprue stump"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The vertical dimension of occlusion. (para 1.58.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-017",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which polishing agent is coarser?",
+  "options": [
+   "Rouge",
+   "They are identical",
+   "Buffing bar compound",
+   "Neither is abrasive"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Buffing bar compound. (para 1.58.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-018",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What gives a casting an extremely high luster?",
+  "options": [
+   "A heatless stone",
+   "A coarse separating disk",
+   "Pickling acid",
+   "Rouge on a chamois wheel"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Rouge on a chamois wheel. (para 1.58.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-019",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How are polishing compounds cleaned off a finished casting?",
+  "options": [
+   "With soap and water or an ultrasonic cleaner",
+   "With sandpaper",
+   "By reheating in the oven",
+   "They are left on"
+  ],
+  "answer": 0,
+  "explanation": "Correct: With soap and water or an ultrasonic cleaner. (para 1.58.7.2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.7.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-020",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why are surfaces to be soldered left with a satin finish rather than polished?",
+  "options": [
+   "Polish makes solder flow faster",
+   "Satin finish removes the need for flux",
+   "Polished gold cannot be heated",
+   "The solder bond is stronger on a satin finish"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The solder bond is stronger on a satin finish. (para 1.75.2.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.75.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-E-021",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is used to clean the porcelain-bearing surface of a base metal casting?",
+  "options": [
+   "Rouge",
+   "Sodium bicarbonate only",
+   "Aluminum oxide from a microblaster",
+   "A wax spatula"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Aluminum oxide from a microblaster. (para 3.9.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.9.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbq-E-022",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When may you begin grinding a Sinfony resin veneer?",
+  "options": [
+   "Immediately after applying opaque",
+   "After final polymerization in the Visio Beta unit",
+   "Before any curing",
+   "Never"
+  ],
+  "answer": 1,
+  "explanation": "Correct: After final polymerization in the Visio Beta unit. (para 5.6.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-05"
+  }
+ },
+ {
+  "id": "cbq-E-023",
+  "exam": "crown-bridge",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What will probably happen to the die if a casting's margins are finished on it?",
+  "options": [
+   "The die will get harder",
+   "The die will grow",
+   "The die will probably be ruined",
+   "Nothing ever happens to it"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The die will probably be ruined. (para 1.58.7.2.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.58.7.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-F-001",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "About how much hygroscopic expansion occurs when invested patterns are immersed in warm water?",
+  "options": [
+   "About 0.75 percent",
+   "About 75 percent",
+   "About 7.5 percent",
+   "None"
+  ],
+  "answer": 0,
+  "explanation": "Correct: About 0.75 percent. (para 1.54.2.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.2.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-F-002",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "About how much semihygroscopic setting expansion occurs with a wet ring liner?",
+  "options": [
+   "About 35 percent",
+   "About 10 percent",
+   "About 0.35 percent",
+   "None"
+  ],
+  "answer": 2,
+  "explanation": "Correct: About 0.35 percent. (para 1.54.2.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-F-003",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What water bath temperature is used for the hygroscopic technique?",
+  "options": [
+   "212°F",
+   "32°F",
+   "100°F",
+   "600°F"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 100°F. (para 1.54.2.2.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.2.2.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-F-004",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What kind of water should be used to mix investment?",
+  "options": [
+   "Salt water",
+   "Distilled water",
+   "Pickling solution",
+   "Tap water mixed with oil"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Distilled water. (para 1.54.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-F-005",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How often should burnout furnace temperature readings be checked?",
+  "options": [
+   "Monthly",
+   "Once every ten years",
+   "Never",
+   "Every few seconds"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Monthly. (para 1.55.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.55.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-F-006",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which are the three types of casting crucibles?",
+  "options": [
+   "Clay, quartz, and aluminum oxide",
+   "Wax, plaster, and rubber",
+   "Paper, plastic, and wood",
+   "Gold, silver, and copper"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Clay, quartz, and aluminum oxide. (para 1.56.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.56.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-F-007",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which crucibles must be glazed with powdered flux?",
+  "options": [
+   "Quartz crucibles",
+   "Aluminum oxide crucibles",
+   "Clay crucibles",
+   "Rubber crucibles"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Clay crucibles. (para 1.56.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.56.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-F-008",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which zone of the torch flame should melt the alloy?",
+  "options": [
+   "The reducing zone",
+   "The oxidizing outer tip",
+   "The unburned gas zone",
+   "Any zone"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The reducing zone. (para 1.56.6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.56.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-F-009",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How far below the castings' melting range should solder melt?",
+  "options": [
+   "At least 100°F above",
+   "The same temperature",
+   "5°F below",
+   "At least 100°F below"
+  ],
+  "answer": 3,
+  "explanation": "Correct: At least 100°F below. (para 1.75.2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.75.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-F-010",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How is an invested solder assembly preheated?",
+  "options": [
+   "In a burnout furnace at 900°F for 30 minutes",
+   "Over a Bunsen burner flame",
+   "In boiling water for 2 hours",
+   "It is never preheated"
+  ],
+  "answer": 0,
+  "explanation": "Correct: In a burnout furnace at 900°F for 30 minutes. (para 1.75.2.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.75.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-F-011",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which element may be the most common cause of allergic dermatitis among metals?",
+  "options": [
+   "Nickel",
+   "Gold",
+   "Platinum",
+   "Silver"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Nickel. (para 3.4.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbq-F-012",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What precaution is needed when grinding beryllium-containing alloys?",
+  "options": [
+   "None, beryllium is harmless",
+   "Grinding only in the dark",
+   "Industrial safety precautions and adequate ventilation",
+   "Wearing cotton gloves only"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Industrial safety precautions and adequate ventilation. (para 3.4.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbq-F-013",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which casting method is preferred for base metal alloys?",
+  "options": [
+   "Casting with a candle",
+   "Cold pouring",
+   "Induction casting",
+   "Hand pressing"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Induction casting. (para 3.5.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbq-F-014",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What burnout temperature range is recommended for base metal alloys?",
+  "options": [
+   "1500 to 1600°F",
+   "300 to 400°F",
+   "900 to 1000°F",
+   "2500 to 3000°F"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 1500 to 1600°F. (para 3.5.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.5.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbq-F-015",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which investment is the choice for base metal alloys?",
+  "options": [
+   "Gypsum-bonded only",
+   "Plaster of Paris",
+   "Alginate",
+   "Phosphate-bonded"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Phosphate-bonded. (para 3.7.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.7.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbq-F-016",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why should carbon crucibles not be used with base metal alloys?",
+  "options": [
+   "Carbon contaminates alloys containing nickel or palladium",
+   "Carbon is too expensive",
+   "Carbon melts at room temperature",
+   "Carbon makes the alloy magnetic"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Carbon contaminates alloys containing nickel or palladium. (para 3.8.2.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.8.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbq-F-017",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What are the soft brushes in a waxing kit used for?",
+  "options": [
+   "Polishing gold with rouge",
+   "Dusting zinc stearate powder onto occlusal surfaces",
+   "Applying pickling acid",
+   "Painting investment on the ring"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Dusting zinc stearate powder onto occlusal surfaces. (para 1.39.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.39.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cbq-F-018",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What ring liner is used for base metal castings?",
+  "options": [
+   "Newspaper",
+   "Aluminum foil",
+   "Plastic wrap",
+   "0.040-inch thick Kaoliner"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 0.040-inch thick Kaoliner. (para 3.7.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 3.7.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-03"
+  }
+ },
+ {
+  "id": "cbq-F-019",
+  "exam": "crown-bridge",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which is an advantage claimed for the hygroscopic method over the high heat technique?",
+  "options": [
+   "Rougher castings",
+   "Shorter furnace life",
+   "Coarser grain structure",
+   "Smoother castings"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Smoother castings. (para 1.54.2.2.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.54.2.2.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ }
+]

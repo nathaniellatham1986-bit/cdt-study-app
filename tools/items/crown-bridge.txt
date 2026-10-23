@@ -1,0 +1,224 @@
+# Crown & Bridge — AFPAM 47-103 Vol 2 Ch 1 (2.1), Ch 3 base metal alloys (2.3), Ch 5 fixed resin (2.5)
+# ---- A Preliminary & Diagnostic Work Up
+F|A|2.1:1.1|What is a fixed prosthesis?|A replacement for a missing tooth or part of a tooth that the dentist attaches and the patient cannot remove, such as inlays, onlays, crowns, veneers, and FPDs.
+F|A|2.1:1.2|What is the difference between the direct and indirect methods?|Direct: the restoration is formed on the tooth in the mouth. Indirect: it is formed outside the mouth on a die.
+F|A|2.1:1.3|What is a wax pattern?|An exact wax replica of the desired shape; it is invested and burned out to make a mold for casting.
+F|A|2.1:1.3|What is the difference between a direct and an indirect wax pattern?|A direct pattern is carved in the patient's mouth; an indirect pattern is carved on a die.
+F|A|2.1:1.11.2|What does the technician do first in the fixed restoration sequence?|Pours the diagnostic casts and makes custom trays if requested.
+F|A|2.1:1.11.2|What is a diagnostic wax-up used for?|To determine occlusal and esthetic requirements and to make provisional restorations.
+F|A|2.1:1.13.1|What material is used for preliminary impressions in fixed prosthodontics?|Irreversible hydrocolloid (alginate).
+F|A|2.1:1.13.2|What are diagnostic casts poured from?|Preliminary impressions made in stock trays.
+F|A|2.1:1.14.1.1.2|What area does the vacuum-formed provisional template cover?|The fixed prosthesis region plus one or two uninvolved teeth on each side, which act as a seating index.
+F|A|2.1:1.14.1.2.3|How much stone is shaved from teeth to be prepared when making a provisional?|About 1 mm from each surface, eliminating undercuts.
+F|A|2.1:1.14.1.2.8|How is a provisional prosthesis delivered to the dentist?|Disinfected, in a plastic bag with a moist cotton roll.
+F|A|2.1:1.14.2.2.2|How thick should a silicone provisional template be?|6 to 8 mm thick, for stability.
+F|A|2.1:1.15.1|Why are custom trays for fixed work made over spacers?|Elastomeric impression materials need adequate thickness to register accurately.
+F|A|2.1:1.15.2|What keeps a custom tray from touching the preparations?|Stops on the tissue side of the tray. Stops are never placed over teeth to be prepared.
+F|A|2.1:1.15.2|What kind of stop is used in a maxillary custom tray?|A single, large palatal stop.
+M|A|2.1:1.13.1|Which material is used for preliminary impressions in fixed prosthodontics?|Irreversible hydrocolloid, or alginate|Zinc oxide eugenol paste only;Plaster of Paris;Inlay wax
+M|A|2.1:1.13.2|What are diagnostic casts poured from?|Preliminary impressions made in stock trays|The final working casts;The wax patterns;The investment molds
+M|A|2.1:1.2|Which method has the restoration formed outside the mouth on a die?|The indirect method|The direct method;The chairside method;The sprinkle-on method
+M|A|2.1:1.3|What is a wax pattern carved on a die called?|An indirect pattern|A direct pattern;A pontic;A custom tray
+M|A|2.1:1.1|Which statement describes a fixed prosthesis?|The patient cannot remove it|The patient removes it every night;It is always made of rubber;It is held in with clasps only
+M|A|2.1:1.14.1.1.3|Why are uninvolved teeth included in a provisional template?|So they act as a seating index|To make the template heavier;So the dentist can prepare them too;To block the occlusion
+M|A|2.1:1.14.2.2.2|How thick should a silicone template for a provisional restoration be?|6 to 8 mm|0.1 mm;30 mm;Thin as paper
+M|A|2.1:1.15.2|Where must custom tray stops never be placed?|Over teeth the dentist intends to prepare|On the palate;On the edentulous ridge;On any tissue surface
+M|A|2.1:1.15.1|Why are custom trays for elastomeric impressions made over spacers?|The impression material needs adequate thickness to register accurately|To make the tray lighter;To color the impression;To speed up the setting reaction
+M|A|2.1:1.14.1.2.8|How should a finished provisional prosthesis be sent to the dentist?|Disinfected, in a plastic bag with a moist cotton roll|Dry, in an open envelope;Soaking in pickling acid;Invested in a casting ring
+# ---- B Master Cast
+F|B|2.1:1.16.1|What is a working cast?|A cast duplicating the prepared teeth, other teeth, and soft tissues, used to set shape, contacts, occlusion, and fit.
+F|B|2.1:1.16.2|What is a die?|A positive reproduction of the prepared tooth in a hard, stable material such as improved stone, epoxy, or electrodeposited metal.
+F|B|2.1:1.18|What is the overriding requirement of a removable die system?|Dies, once removed, must go back to exactly the same place.
+F|B|2.1:1.19.3|What kind of dowel pins are used as die extensions?|Keyed, tapered metal pins with serrated heads, so the die seats only one way.
+F|B|2.1:1.19.4|Why are unprepared teeth next to dies also made removable?|So contact areas on finished castings can be evaluated better.
+F|B|2.1:1.20.4|How is an impression poured for a dowel-pinned cast?|In two stages: first the teeth and preparations, then a second pour forming the base.
+F|B|2.1:1.20.6|What bur makes indexing dimples in a dowel-pinned cast, and how deep?|A #8 round bur, no deeper than half the bur head's diameter.
+F|B|2.1:1.20.7|Why is separator applied to the bases of doweled parts?|So removable sections separate cleanly from the second pour.
+F|B|2.1:1.20.11|What should you do before trimming a working cast?|Soak it in SDS for about a minute so slush does not cling.
+F|B|2.1:1.20.12|How much of the dowel pin tips should be exposed?|About 2 mm.
+F|B|2.1:1.22.2.1|Why soak a reversible hydrocolloid impression in 2% potassium sulfate?|For about 5 minutes, to improve the surface hardness of the set stone.
+F|B|2.1:1.23.2|How thick must the first pour be for the Pindex technique?|At least 15 mm from the bottom to the marginal extension.
+F|B|2.1:1.24.1|What are the advantages of electroplated dies?|Harder surfaces, more abrasion resistance, and superior surface detail.
+F|B|2.1:1.24.7|How long does silver-plating an impression take?|About 15 hours.
+F|B|2.1:1.33.1.2.1|How much stone is exposed below the margin when bulk trimming a die?|About 4 mm, done with a pear-shaped bur.
+F|B|2.1:1.33.1.2.2|What does the final margin trimming use?|A #25 Bard Parker blade or a beaver blade.
+F|B|2.1:1.33.2.1|Why mark margins with a red pencil and not a lead pencil?|Lead transferred to the mold can create pits in the casting.
+F|B|2.1:1.33.2.1|Why apply surface hardener over the marked margin?|To keep the red line from smudging and maintain marginal integrity.
+F|B|2.1:1.33.2.2|Why paint a die spacer?|To leave room for cement film so the casting seats completely.
+F|B|2.1:1.33.2.2|How far from the margin should die spacer stop, and how thick is it?|About 1 mm short of the margin; 20 to 40 microns thick.
+F|B|2.1:1.33.1.1.1|What margin meets the tooth at 90 degrees?|A shoulder, forming a butt joint; mostly used for all-ceramic restorations.
+F|B|2.1:1.33.1.1.2|What margin is usually chosen for metal crowns?|The chamfer.
+M|B|2.1:1.18|What is the most important requirement of a removable die system?|The dies must go back to exactly the same place|The dies must be made of wax;The dies must be loose in the cast;The dies must be painted red
+M|B|2.1:1.20.6|Which bur is used to cut indexing dimples beside a dowel pin?|A #8 round bur|A diamond separating disc;A #25 Bard Parker blade;A pear-shaped acrylic bur
+M|B|2.1:1.20.12|About how much of each dowel pin tip should be exposed on the base?|About 2 mm|About 20 mm;None, they should be buried;Half the pin
+M|B|2.1:1.33.2.1|Why should margins not be marked with a lead pencil?|Lead in the mold can create pits in the casting|Lead is too hard to see;Lead melts the die;Lead makes the die too shiny
+M|B|2.1:1.33.2.2|Where should the die spacer stop?|About 1 mm short of the margin|Exactly on the margin;10 mm past the margin;It should cover only the margin
+M|B|2.1:1.33.2.2|How thick should a properly applied die spacer be?|20 to 40 microns|2 to 4 mm;1 cm;0.5 inch
+M|B|2.1:1.33.1.2.1|How much stone is exposed below the margin during bulk trimming?|About 4 mm|About 40 mm;None at all;The entire root area to the base
+M|B|2.1:1.24.1|Which is an advantage of electroplated dies?|Harder surfaces and superior surface detail|They are made of soft wax;They shrink to fit;They need no impression
+M|B|2.1:1.22.2.1|Why is a reversible hydrocolloid impression soaked in 2 percent potassium sulfate?|To improve the surface hardness of the set stone|To dissolve the impression;To add color;To make the stone set slower for days
+M|B|2.1:1.23.2|How thick must the first pour be for the Pindex technique?|At least 15 mm|1 mm;3 mm;It does not matter
+M|B|2.1:1.33.1.1.2|Which margin is usually the margin of choice for complete and partial metal crowns?|The chamfer|A butt joint shoulder only;No margin at all;An open margin
+# ---- C Design & Manufacture Patterns
+F|C|2.1:1.39.7|What are the stiff and soft brushes used for in waxing?|Stiff to smooth occlusal irregularities; soft to dust zinc stearate onto the occlusal surface to check occlusion.
+F|C|2.1:1.41.1|How much does wax change size with temperature?|About 0.02 percent for each degree Fahrenheit.
+F|C|2.1:1.41.2|Why wax and invest where temperature is constant?|Inlay wax is sensitive to environmental temperature, which affects fit.
+F|C|2.1:1.41.3|What is lubricated before waxing?|The die, the proximal surfaces of adjacent teeth, and the occlusal surfaces of opposing teeth.
+F|C|2.1:1.41.4|What is the first layer of wax called?|The wax blank, or foundation layer.
+F|C|2.1:1.41.5|What method is useful for applying the first wax layer to complete crowns?|Dipping the lubricated die into molten wax.
+F|C|2.1:1.41.6.1|What is negative waxing?|The buildup, smash, and carve technique.
+F|C|2.1:1.41.6.2|What is positive waxing?|Adding wax in small increments to form a skeleton of the final contours.
+F|C|2.1:1.41.7|What instruments carve the wax-die junction at the margin?|Blunt carvers, which leave a clean margin without marring the die.
+F|C|2.1:1.41.8|How are wax axial surfaces smoothed?|With silk or nylon cloth wrapped around a fingertip.
+F|C|2.1:1.51.1|Where is the sprue attached to a pattern?|The thickest cross-sectional area; metal flows from greater to lesser volume.
+F|C|2.1:1.51.3|Where are patterns placed in the mold relative to the reservoir?|Patterns in a cold zone, reservoir in the heat center, so castings cool first.
+F|C|2.1:1.51.8|Why use a wetting agent on wax patterns?|To reduce surface tension of the investment and reduce bubbles on the casting.
+F|C|2.1:1.52.1.1|What size should a sprue former be?|Smooth, short, and thick: 6 to 9 mm long, 8 to 10 gauge.
+F|C|2.1:1.52.1.2|What is shrink spot porosity?|A void in the last part of metal to solidify.
+F|C|2.1:1.52.2.1|When should the sprue former be attached?|While the pattern is seated on the die, to lessen distortion.
+F|C|2.1:1.52.2.2|Why not plunge a heated sprue former into the pattern?|The pattern will warp.
+F|C|2.1:1.52.4.3.1|When is indirect spruing commonly used?|For multiple single units or joined units such as a splint or FPD.
+F|C|2.1:1.52.4.5|Which way does molten metal flow in a centrifugal machine?|Downward and to the right (trailing edge).
+F|C|2.1:1.68.1.2|What is the guideline for FPDs larger than three units?|Cast in two pieces and solder them.
+F|C|2.1:1.68.1.4|Where is the proximal contact located occlusogingivally?|At the junction of the occlusal and middle thirds.
+F|C|2.1:1.68.2.1|What is a stress breaker connector?|A mechanical connector that uses dovetail retention to join FPD units.
+F|C|2.1:1.68.2.3|What is an advantage of a stress breaker?|An FPD can be made when abutments are not parallel or with a pier abutment.
+M|C|2.1:1.41.1|About how much does wax expand or contract per degree Fahrenheit?|About 0.02 percent|About 20 percent;It never changes size;About 2 inches
+M|C|2.1:1.41.4|What is the first layer of wax on the die called?|The wax blank, or foundation layer|The sprue;The investment;The pontic
+M|C|2.1:1.41.6.1|Which describes negative waxing?|Build up, smash, and carve|Adding small cones of wax only;Dipping the die in investment;Casting without a pattern
+M|C|2.1:1.41.6.2|Which describes positive waxing?|Adding wax in small increments to build a skeleton of contours|Carving away a big block of wax only;Smashing the casts together first;Pouring wax into an impression
+M|C|2.1:1.41.7|Which instruments should be used to carve the wax at the margin?|Blunt carvers|Sharp scalpels pressed into the die;Separating discs;Heatless stones
+M|C|2.1:1.39.7|What is dusted onto a wax occlusal surface to check occlusion?|Zinc stearate disclosing powder|Pumice;Investment powder;Rouge
+M|C|2.1:1.51.1|Where should the sprue be attached to the wax pattern?|The thickest cross-sectional area|The thinnest margin;The proximal contact;The internal surface
+M|C|2.1:1.52.1.1|What are the proper dimensions of a sprue former?|6 to 9 mm long and 8 to 10 gauge|50 mm long and 30 gauge;1 mm long and hair-thin;Any length, thin as possible
+M|C|2.1:1.52.1.2|What is the void in the last part of the metal to solidify called?|Shrink spot porosity|A positive defect;A fin;A button
+M|C|2.1:1.52.2.1|When should the sprue former be attached to the pattern?|While the pattern is seated on the die|After the pattern is invested;After burnout;After casting
+M|C|2.1:1.52.2.2|What happens if a heated sprue former is plunged into the pattern?|The pattern warps|The pattern hardens into metal;Nothing happens;The pattern becomes stronger
+M|C|2.1:1.51.8|Why is a wetting agent applied to wax patterns before investing?|To reduce the investment's surface tension and bubbles|To color the pattern;To melt the margins;To harden the wax
+M|C|2.1:1.52.4.5|In a centrifugal casting machine, which way does molten metal flow first?|Downward and to the right|Upward and to the left;Straight up;It does not move
+M|C|2.1:1.68.1.2|What is a good guideline for any FPD larger than three units?|Cast it in two pieces and solder them|Always cast it in one piece;Never use solder;Make it from wax only
+M|C|2.1:1.68.1.4|Where is the proximal contact area located occlusogingivally?|At the junction of the occlusal and middle thirds|At the gingival margin;At the root apex;On the occlusal table
+M|C|2.1:1.68.2.1|Which retention principle does a stress breaker connector depend on?|Dovetail retention|Magnetic retention;Suction;Denture adhesive
+# ---- D Manufacture Restoration
+F|D|2.1:1.52.5.1|How is a casting ring lined?|One layer of dry resilient liner kept 3 mm short of the crucible end.
+F|D|2.1:1.52.5.2|Why moisten the ring liner?|So it does not absorb water from the investment and change its expansion.
+F|D|2.1:1.51.9|Why weigh and measure investment powder and liquid exactly?|Small variations in liquid-powder ratio greatly affect expansion.
+F|D|2.1:1.51.11|Why let investment set completely before burnout?|Otherwise the mold is weak and may break during burnout.
+F|D|2.1:1.54.5.1|What is the minimum setting time for high heat burnout investment?|45 minutes; 1 to 1.5 hours is best.
+F|D|2.1:1.54.6.2|Why break the glaze at the top of the ring?|So burnout gases can escape.
+F|D|2.1:1.54.6.3|Which sprue formers must be removed before burnout?|Metal ones. Wax and plastic sprue formers burn out.
+F|D|2.1:1.54.7.2|Why must set investment not dry out?|Water conducts heat evenly through the mold.
+F|D|2.1:1.55.1|What does burnout accomplish?|Removes moisture and the wax or plastic pattern, and expands the mold.
+F|D|2.1:1.55.3.4|How is a mold placed in the burnout oven?|Sprue hole down.
+F|D|2.1:1.55.4.1|What are the high heat burnout temperature and limit?|1250 to 1275°F; never above 1300°F or the investment breaks down.
+F|D|2.1:1.55.4.2|What is the low heat burnout temperature?|900°F, used with hygroscopically expanded investment.
+F|D|2.1:1.55.4.3.2|How much time is added for each additional mold?|10 minutes (20 for larger molds).
+F|D|2.1:1.55.4.3.4|How are plastic patterns burned out?|Slower and longer; no more than 600°F for the first 30 minutes.
+F|D|2.1:1.56.5|How many turns is a casting machine wound?|Three to four turns.
+F|D|2.1:1.56.10|When is gold alloy ready to cast?|When it shows a mobile, bright, mirror-like surface.
+F|D|2.1:1.51.17|Why not quench the ring immediately after casting?|Investment tensile forces can tear the still-weak casting.
+M|D|2.1:1.52.5.1|How far short of the crucible end is the ring liner kept?|3 mm|30 mm;It covers the crucible end completely;Half the ring
+M|D|2.1:1.51.11|What can happen if the ring goes into the oven before the investment has fully set?|The mold may be weak and break during burnout|The casting will be extra smooth;The wax will not melt;Nothing at all
+M|D|2.1:1.54.6.3|Which sprue formers must be removed before wax burnout?|Metal sprue formers|Wax sprue formers;Plastic sprue formers;None of them
+M|D|2.1:1.55.3.4|How should the mold be placed in the burnout oven?|Sprue hole down|Sprue hole up, filled with water;On its side in water;Wrapped in plastic
+M|D|2.1:1.55.4.1|What is the burnout temperature for the high heat technique?|1250 to 1275°F|200°F;900°F;2500°F
+M|D|2.1:1.55.4.1|What happens if the burnout temperature goes above 1300°F with gypsum investment?|The investment breaks down and gives rough castings|The castings become smoother;The gold becomes harder;The wax will not burn
+M|D|2.1:1.55.4.2|What temperature is used for the low heat burnout technique?|900°F|1500°F;350°F;2000°F
+M|D|2.1:1.55.4.3.4|What is the initial burnout temperature limit for plastic patterns during the first 30 minutes?|600°F|1300°F;1600°F;2000°F
+M|D|2.1:1.56.5|How many turns are usually used to wind a centrifugal casting machine?|Three to four|Twenty;One half;Fifty
+M|D|2.1:1.56.10|How do you know gold alloy is ready to cast?|It shows a mobile, bright, mirror-like surface|It turns black and crusty;It stops glowing;It forms solid lumps
+M|D|2.1:1.51.17|Why should the ring not be quenched immediately after casting?|The investment can tear the still-weak hot casting|It makes the casting too smooth;It melts the casting;Water evaporates the gold
+M|D|2.1:1.56.4|Why should brands or types of alloy not be mixed?|The physical properties of such blends are unpredictable|It is illegal;It makes the alloy invisible;It always lowers the price
+# ---- E Finish & Polish
+F|E|2.1:1.57.1|How is investment removed from a casting?|Stiff brush under water; glass bead microblaster outside, aluminum oxide inside, at low pressure.
+F|E|2.1:1.57.2.1|What is pickling?|Chemically removing oxides from a casting.
+F|E|2.1:1.57.2.1|What acid is often used for pickling, and what is preferred?|50% hydrochloric acid; safer commercial pickling preparations are recommended.
+F|E|2.1:1.57.2.2|Should pickling solution be boiled?|No. Heat it, but do not let it boil; boiling makes it foam and splatter.
+F|E|2.1:1.57.2.3|Why use plastic-coated tongs in pickling?|Plastic has no effect on the casting.
+F|E|2.1:1.57.2.4|What is the casting washed with after pickling?|Sodium bicarbonate solution, then clear water.
+F|E|2.1:1.57.3.2|How do you mix an acid pickling solution?|Always pour acid into water, never water into acid.
+F|E|2.1:1.58.1|What are positive casting defects?|Bubbles of metal or fins that protrude from the surface.
+F|E|2.1:1.58.1|What are negative casting defects?|Porosity, holes, and incomplete castings.
+F|E|2.1:1.58.2|How is the sprue removed?|With a separating disk, leaving a little sprue to recontour.
+F|E|2.1:1.58.3|What must be done before test-fitting a casting on its die?|Remove all internal positive defects, checked under a microscope.
+F|E|2.1:1.58.4.1|What is the key to fast, effective finishing?|Organized use of progressively finer abrasives and polishing agents.
+F|E|2.1:1.58.4.2|How is the sprue stump shaped?|A heatless stone, then a #203 stone.
+F|E|2.1:1.58.4.3|How is occlusal anatomy sharpened?|With a small, dulled round bur.
+F|E|2.1:1.58.4.4|What follows fine stones in rough finishing?|Rubber abrasive wheels, then points.
+F|E|2.1:1.58.5|How are mesial and distal contacts adjusted?|One at a time.
+F|E|2.1:1.58.6|What is restored first when adjusting occlusion?|The vertical dimension of occlusion, using articulating film.
+F|E|2.1:1.58.7|Which is coarser, buffing bar compound or rouge?|BBC is coarser; polishing starts with BBC and finishes with rouge.
+F|E|2.1:1.58.7|What gives an extremely high luster?|Rouge applied with a chamois wheel.
+F|E|2.1:1.58.7.2.3|What may happen to the die if a casting is finished on it?|The die will probably be ruined.
+F|E|2.1:1.58.7.2.4|How are polishing compounds removed?|Soap and water or an ultrasonic cleaner.
+F|E|2.1:1.75.2.1.1|Why are surfaces to be soldered left satin, not polished?|The solder bond is stronger on a satin finish.
+F|E|2.3:3.9.1|How should patterns for base metal castings be finished?|Highly refined, close to final form, with minimal overwaxing of margins.
+F|E|2.3:3.9.2|How is the porcelain area of a base metal casting cleaned?|Aluminum oxide from a microblaster, giving a clean surface for bonding.
+F|E|2.5:5.5.4|How is a Targis restoration prepolished?|Pumice and a wet brush wheel on slow speed after carbide bur contouring.
+F|E|2.5:5.6.6|When can you grind a Sinfony resin veneer?|Only after final polymerization in the Visio Beta unit; contour with cross-cut burs.
+M|E|2.1:1.57.2.1|What is pickling?|Chemically removing oxides from a casting|Adding wax to a pattern;Heating the investment;Trimming the die
+M|E|2.1:1.57.2.1|Which pickling agents are recommended because they are safer?|Commercial pickling preparations|Boiling hydrochloric acid;Concentrated sulfuric acid in a metal pot;Gasoline
+M|E|2.1:1.57.2.2|How hot should the pickling solution be?|Heated, but not boiling|At a full rolling boil;Frozen;At 1300°F
+M|E|2.1:1.57.2.3|What should be used to handle a casting in pickling solution?|Plastic-coated tongs|Steel tweezers;Bare fingers;Copper pliers
+M|E|2.1:1.57.2.4|What is the casting washed with after pickling?|A sodium bicarbonate solution|More acid;Liquid soap for an hour;Mineral oil
+M|E|2.1:1.57.3.2|When mixing an acid pickling solution, what is the correct order?|Always pour the acid into the water|Always pour the water into the acid;Mix both into hot oil;Heat the acid first and add ice
+M|E|2.1:1.57.1|What is used in the microblaster to clean investment from the outer casting surface?|Glass beads under low pressure|Sand at maximum pressure;Rouge;Steel wool
+M|E|2.1:1.58.1|Which is a positive casting defect?|A bubble of metal that protrudes from the surface|Porosity;A hole;An incomplete margin
+M|E|2.1:1.58.1|Which is a negative casting defect?|Porosity|A metal bubble;A fin;A nodule
+M|E|2.1:1.58.2|What is used to remove the sprue from a casting?|A separating disk|Pickling acid;A wax spatula;A die saw blade for stone
+M|E|2.1:1.58.3|What must be removed before a casting is test-fitted on its die?|All internal positive defects|The margins;The entire occlusal surface;The die spacer
+M|E|2.1:1.58.4.1|What is the key to finishing a casting quickly and well?|Using progressively finer abrasives in an organized way|Starting with the finest polish;Using one coarse stone for everything;Skipping straight to rouge
+M|E|2.1:1.58.4.2|What is used first to shape the sprue stump?|A heatless stone|Rouge;A chamois wheel;A felt wheel with BBC
+M|E|2.1:1.58.4.3|What is used to sharpen occlusal anatomy on a casting?|A small, dulled round bur|A large separating disk;A chamois wheel;A wax spatula
+M|E|2.1:1.58.5|How should mesial and distal proximal contacts be adjusted?|One at a time|Both at once with a disk;Never adjusted;Only by the patient
+M|E|2.1:1.58.6|What is restored first when adjusting the occlusion of a casting?|The vertical dimension of occlusion|The proximal contacts;The margin polish;The sprue stump
+M|E|2.1:1.58.7|Which polishing agent is coarser?|Buffing bar compound|Rouge;They are identical;Neither is abrasive
+M|E|2.1:1.58.7|What gives a casting an extremely high luster?|Rouge on a chamois wheel|A heatless stone;A coarse separating disk;Pickling acid
+M|E|2.1:1.58.7.2.4|How are polishing compounds cleaned off a finished casting?|With soap and water or an ultrasonic cleaner|With sandpaper;By reheating in the oven;They are left on
+M|E|2.1:1.75.2.1.1|Why are surfaces to be soldered left with a satin finish rather than polished?|The solder bond is stronger on a satin finish|Polish makes solder flow faster;Satin finish removes the need for flux;Polished gold cannot be heated
+M|E|2.3:3.9.2|What is used to clean the porcelain-bearing surface of a base metal casting?|Aluminum oxide from a microblaster|Rouge;Sodium bicarbonate only;A wax spatula
+M|E|2.5:5.6.6|When may you begin grinding a Sinfony resin veneer?|After final polymerization in the Visio Beta unit|Immediately after applying opaque;Before any curing;Never
+M|E|2.1:1.58.7.2.3|What will probably happen to the die if a casting's margins are finished on it?|The die will probably be ruined|The die will get harder;The die will grow;Nothing ever happens to it
+# ---- F Materials & Equipment
+F|F|2.1:1.39|Name four wax instruments listed for waxing.|Beale #7 spatula, Roach carver, Hollenback #1 carver, Woodson #1 plugger.
+F|F|2.1:1.54.2.1.1|What is semihygroscopic (effective) setting expansion?|About 0.35% expansion in air with a wet ring liner.
+F|F|2.1:1.54.2.1.2|What is hygroscopic expansion?|About 0.75% expansion when the invested pattern is immersed in a warm water bath.
+F|F|2.1:1.54.2.1.3|What causes thermal expansion of investment?|Heating in the burnout oven; higher heat gives more expansion.
+F|F|2.1:1.54.2.2.2.1|At what water temperature does hygroscopic investment set?|100°F, for 30 to 45 minutes.
+F|F|2.1:1.54.2.2.2.2|What advantages are claimed for the hygroscopic method?|Smoother castings, longer furnace and ring life, and finer grain structure.
+F|F|2.1:1.54.3.1|What water is used for investment?|Distilled water, carefully measured.
+F|F|2.1:1.55.2.1|What is a pyrometer (thermocouple)?|Two dissimilar wires welded together at the tip, projecting into the furnace.
+F|F|2.1:1.55.2.2|How often should furnace readings be checked?|Monthly.
+F|F|2.1:1.56.2|What are the three types of casting crucibles?|Clay, quartz, and aluminum oxide.
+F|F|2.1:1.56.2|Which crucibles must be glazed with flux?|Clay crucibles. Quartz and aluminum oxide are self-glazing when heated.
+F|F|2.1:1.56.6.2|Which part of the torch flame melts the alloy?|The reducing zone, between the tips of the inner and outer cones.
+F|F|2.1:1.75.2.4|What melting range should solder have?|At least 100°F below the castings, with matching color.
+F|F|2.1:1.75.2.5|How is a solder assembly preheated?|In a burnout furnace, heat soaked at 900°F for 30 minutes.
+F|F|2.1:1.75.2.1.3|What three factors affect the solder gap width?|Setting expansion of the soldering investment, its thermal expansion, and thermal expansion of the metal units.
+F|F|2.3:3.4.1|Which element may cause more allergic reactions than all other metals combined?|Nickel.
+F|F|2.3:3.4.2|Why is beryllium in some base metal alloys, and what is the hazard?|It controls hardness and lowers fusion temperature; inhaled dust is a health hazard.
+F|F|2.3:3.5.2|Which casting method is preferred for base metal alloys?|Induction casting.
+F|F|2.3:3.5.3|What burnout temperature is used for base metal alloys?|1500 to 1600°F, to compensate for their larger shrinkage.
+F|F|2.3:3.7.1|What ring liner is used for base metal casting?|0.040-inch thick Kaoliner, a mat of kaolin fibers.
+F|F|2.3:3.7.2|What investment is preferred for base metal alloys?|Phosphate-bonded, which gives smoother castings than silicate-bonded.
+F|F|2.3:3.8.2.1.1|Why not use carbon crucibles for base metal alloys?|Carbon contaminates alloys containing nickel or palladium.
+F|F|2.3:3.8.1.1|What oxygen pressure is used for manual base metal casting?|20 psi, with 1/4-inch blue inner cones.
+M|F|2.1:1.54.2.1.2|About how much hygroscopic expansion occurs when invested patterns are immersed in warm water?|About 0.75 percent|About 75 percent;About 7.5 percent;None
+M|F|2.1:1.54.2.1.1|About how much semihygroscopic setting expansion occurs with a wet ring liner?|About 0.35 percent|About 35 percent;About 10 percent;None
+M|F|2.1:1.54.2.2.2.1|What water bath temperature is used for the hygroscopic technique?|100°F|212°F;32°F;600°F
+M|F|2.1:1.54.3.1|What kind of water should be used to mix investment?|Distilled water|Salt water;Pickling solution;Tap water mixed with oil
+M|F|2.1:1.55.2.2|How often should burnout furnace temperature readings be checked?|Monthly|Once every ten years;Never;Every few seconds
+M|F|2.1:1.56.2|Which are the three types of casting crucibles?|Clay, quartz, and aluminum oxide|Wax, plaster, and rubber;Paper, plastic, and wood;Gold, silver, and copper
+M|F|2.1:1.56.2|Which crucibles must be glazed with powdered flux?|Clay crucibles|Quartz crucibles;Aluminum oxide crucibles;Rubber crucibles
+M|F|2.1:1.56.6.2|Which zone of the torch flame should melt the alloy?|The reducing zone|The oxidizing outer tip;The unburned gas zone;Any zone
+M|F|2.1:1.75.2.4|How far below the castings' melting range should solder melt?|At least 100°F below|At least 100°F above;The same temperature;5°F below
+M|F|2.1:1.75.2.5|How is an invested solder assembly preheated?|In a burnout furnace at 900°F for 30 minutes|Over a Bunsen burner flame;In boiling water for 2 hours;It is never preheated
+M|F|2.3:3.4.1|Which element may be the most common cause of allergic dermatitis among metals?|Nickel|Gold;Platinum;Silver
+M|F|2.3:3.4.2|What precaution is needed when grinding beryllium-containing alloys?|Industrial safety precautions and adequate ventilation|None, beryllium is harmless;Grinding only in the dark;Wearing cotton gloves only
+M|F|2.3:3.5.2|Which casting method is preferred for base metal alloys?|Induction casting|Casting with a candle;Cold pouring;Hand pressing
+M|F|2.3:3.5.3|What burnout temperature range is recommended for base metal alloys?|1500 to 1600°F|300 to 400°F;900 to 1000°F;2500 to 3000°F
+M|F|2.3:3.7.2|Which investment is the choice for base metal alloys?|Phosphate-bonded|Gypsum-bonded only;Plaster of Paris;Alginate
+M|F|2.3:3.8.2.1.1|Why should carbon crucibles not be used with base metal alloys?|Carbon contaminates alloys containing nickel or palladium|Carbon is too expensive;Carbon melts at room temperature;Carbon makes the alloy magnetic
+M|F|2.1:1.39.7|What are the soft brushes in a waxing kit used for?|Dusting zinc stearate powder onto occlusal surfaces|Polishing gold with rouge;Applying pickling acid;Painting investment on the ring
+M|F|2.3:3.7.1|What ring liner is used for base metal castings?|0.040-inch thick Kaoliner|Newspaper;Aluminum foil;Plastic wrap
+M|F|2.1:1.54.2.2.2.2|Which is an advantage claimed for the hygroscopic method over the high heat technique?|Smoother castings|Rougher castings;Shorter furnace life;Coarser grain structure
