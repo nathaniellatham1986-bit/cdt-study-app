@@ -1,0 +1,224 @@
+# Implants — AFPAM 47-103 Vol 2 Ch 6 (2.6:para) + FDA (FDAIMP)
+F|A|2.6:6.1.2|What is a dental implant?|A prosthetic device placed within bone to provide retention and support for fixed or removable appliances.
+F|A|2.6:6.1.2|What can implants be used to replace or retain?|Single teeth, multiple teeth, or dentures.
+F|A|2.6:6.1.3|Whose directions should be followed closely when fabricating implant prostheses?|The manufacturer's directions for the implant system being used.
+F|A|2.6:6.2|What is the implant fixture?|The permanent device implanted into bone after the dentist drills a hole at the proper location and angle.
+F|A|2.6:6.2|What is the most common material for implant fixtures?|Titanium, an inert material.
+F|A|2.6:6.2|What is the purpose of the cover screw?|It seals the fixture opening during healing so bone or tissue does not grow into it while the fixture osseointegrates.
+F|A|2.6:6.2|What is the abutment?|The part that attaches to the fixture and supports and retains the restorative components, running from bone level through the tissue.
+F|A|2.6:6.2|Where does an abutment normally end?|At or slightly above the gingival tissue.
+F|A|2.6:6.3.1|What is the first step in fabricating an osseointegrated implant?|Articulating the diagnostic cast and doing a preliminary wax-up to find functional and esthetic requirements.
+F|A|2.6:6.3.2|What may help the dentist decide whether enough bone is available for fixtures?|A radiographic stent.
+F|A|2.6:6.3.3|Why is a surgical template fabricated?|To help the surgeon place the implants in the proper location.
+F|A|2.6:6.3.4|What is done in the first surgical procedure?|The implant fixtures are placed into the bone with the cover screw.
+F|A|2.6:6.3.5|What is done in the second surgical procedure?|The abutment and healing cap are placed.
+F|A|2.6:6.4.1|What is osseointegration?|The direct bone anchorage of an inert material, usually titanium, that provides a foundation to support the prosthesis.
+F|A|2.6:6.4.2|What forms on titanium when an implant is first inserted?|A layer of oxide.
+F|A|2.6:6.4.2|About how thick is the glycoprotein layer that forms between bone and the implant oxide?|About 100 microns.
+F|A|2.6:6.4.3|When does the bone-to-implant interface occur?|About 3 to 6 months after surgical placement of the fixture.
+F|A|2.6:6.4.3|Which jaw usually heals faster around implants, and why?|The mandible, because it is mostly harder compact cortical bone rather than softer cancellous bone.
+F|A|2.6:6.4.4|How should occlusal forces on implants be directed?|More vertically than laterally, to reduce traumatic failure.
+F|A|2.6:6.4.4|What is an advantage of osseointegration?|Occlusal forces are transmitted directly to the bone.
+F|A|2.6:6.5.1.1|Why is implant drilling done at slow speed with irrigation?|To dissipate frictional heat that would damage the bone.
+F|A|2.6:6.5.1.2|Where is the top of the fixture located when it is placed?|At the surface of the bone.
+F|A|2.6:6.5.2|What kind of surgery is second stage surgery?|A minor soft tissue surgery to expose the fixture and attach the abutments.
+F|A|2.6:6.5.2.1|What is used to remove tissue over the cover screw in second stage surgery?|A tissue punch.
+F|A|2.6:6.5.2.2|When the correct length standard abutment is used, where should it sit?|At or about 1 mm above the tissue.
+F|A|2.6:6.6.1|What are radiographic templates made of?|Clear acrylic with ball bearings or metal rods as radiographic reference points.
+F|A|2.6:6.6.2|How does a radiographic template help show available bone?|By comparing the known size of its metal components to the bone shown on the radiograph, regardless of distortion.
+F|A|2.6:6.6.3|Why are metal rods placed through the center of the proposed restoration in a radiographic template?|To parallel the restoration's axial inclination and guide the ideal buccal or lingual angle of the fixture.
+F|A|2.6:6.6.4.2|What is useful to make after the diagnostic wax-up for a radiographic template?|A tooth position index made with silicone putty.
+F|A|2.6:6.6.4.4|How is a partially edentulous radiographic template formed?|By vacuum-forming clear template material over a duplicate of the cast and wax-up.
+F|A|2.6:6.6.4.8|What must be true of the holes drilled in a radiographic template?|They must be at the exact location and correct axial inclination of the proposed implants.
+F|A|2.6:6.6.4.9|How is a metal radiographic indicator secured in the template?|Sealed in place with acrylic or cyanoacrylate.
+F|A|2.6:6.6.5.1|How is a fully edentulous radiographic template made?|By duplicating the existing denture in clear acrylic.
+F|A|2.6:6.7.2|What is the main difference between a surgical guide template and a radiographic template?|The surgical guide has no metal indicators; the implant area is hollowed out so the surgeon can drill.
+F|A|2.6:6.7.4.3|Why is wax extended over the occlusals of adjacent teeth on a surgical guide wax-up?|To give the guide template a positive seat.
+F|A|2.6:6.7.4.4|How is the surgical guide wax-up processed?|In clear acrylic, using the same procedures as processing denture bases.
+F|A|2.6:6.7.4.6|What two requirements apply to the guide slot of a surgical template?|It must not interfere with the facial contour of the restorations and must be wide enough for the drills.
+F|A|2.6:6.7.5.3|What should the marked implant sites on an edentulous guide not do?|Interfere with tooth placement or affect the facial-lingual inclination of the teeth.
+F|A|FDAIMP|According to FDA, what does a dental implant system consist of?|An implant body and an abutment, and possibly an abutment fixation screw.
+F|A|FDAIMP|According to FDA, what are most dental implant systems made of?|Titanium or zirconium oxide.
+F|A|FDAIMP|According to FDA, what may a loose or twisting feeling in an implant tooth come from?|Abutment screw loosening.
+F|A|FDAIMP|What must manufacturers show FDA before marketing a dental implant system in the US?|That it is as safe and effective as implant systems already on the market.
+F|B|2.6:6.2|What is an impression coping?|A part placed on the abutment before the final impression, picked up in the impression to transfer the fixture or abutment position to the master cast.
+F|B|2.6:6.2|What is an abutment replica?|An exact reproduction of the abutment, also called a laboratory analog, used as the technician's master die.
+F|B|2.6:6.2|When is the abutment replica attached to the impression coping?|Before the final impression is poured.
+F|B|2.6:6.8.1|Why does an implant custom tray have an opening above the implants?|To give stable access to impression copings that use guide pins.
+F|B|2.6:6.8.2|Do all implant impression copings require an opening in the tray?|No. Some stay on the abutment and are then removed and placed into the impression.
+F|B|2.6:6.8.3|Which impression copings are recommended for increased accuracy?|Copings that are removed in the impression.
+F|B|2.6:6.8.3.1|What is in place on the abutments when the diagnostic impression for the custom tray is taken?|The healing caps.
+F|B|2.6:6.8.3.3|What is used to block out around the healing abutments when making the tray?|Wax or clay.
+F|B|2.6:6.8.3.4|How does making an open implant tray differ from a usual tray?|The area over the healing abutment blockout is left open.
+F|B|2.6:6.9.1|What does excess impression material on coping seating surfaces indicate?|The copings were not properly seated on the abutments during the impression.
+F|B|2.6:6.9.2|How is debris cleared after removing guide pins from square copings?|By gently blowing air through the holes.
+F|B|2.6:6.9.4|Why must a separating medium be applied before pouring soft tissue material into an implant impression?|Both are normally vinyl polysiloxanes, so they would bond.
+F|B|2.6:6.9.5|What stone and mixing are used to pour the implant master cast?|Vacuum-mixed die stone.
+F|B|2.6:6.9.5|Why avoid excess vibration when pouring an implant impression?|It may dislodge some types of impression copings.
+F|B|2.6:6.9.6|How is an impression with tapered copings removed from the cast?|With a snap, after the stone has completely set.
+F|B|2.6:6.9.6|What must be checked on abutment replicas after separating the cast?|That their precision surfaces are clean and free of stone.
+F|B|2.6:6.11.3|What is applied around the abutment replica when making a single-tooth master cast?|Soft tissue silicone material, kept out of the adjacent teeth areas.
+F|B|2.6:6.15.3.2|What replica is used in the master cast for a UCLA abutment?|A fixture replica rather than an abutment replica.
+F|C|2.6:6.10.1|When can temporary dentures be inserted after first stage surgery?|When the sutures are removed, 7 to 10 days after surgery.
+F|C|2.6:6.10.1|How is an existing denture adapted over new implant sites?|Relieve the fixture area and reline with soft tissue conditioner.
+F|C|2.6:6.5.1.3|What must be avoided with a temporary prosthesis during implant healing?|Applying pressure on the fixture.
+F|C|2.6:6.10.2|How is a complete denture adjusted after second stage surgery?|Relieve acrylic so it seats without hitting the healing cap, then reline with tissue conditioner.
+F|C|2.6:6.16|Name three common devices that retain implant removable prostheses.|Bar and clip attachments, magnets, and ball attachments.
+F|C|2.6:6.16|How many implants commonly retain a denture?|Two.
+F|C|2.6:6.17.2|Why block out around gold cylinders before making an overdenture baseplate?|To keep baseplate resin from attaching to the gold cylinders.
+F|C|2.6:6.17.3|What may be needed to eliminate interference with the opposing cast when articulating an overdenture?|Shorter guide pins.
+F|C|2.6:6.17.4.1|What is done if a denture tooth interferes with a guide pin at try-in?|The tooth is altered or omitted for the try-in and replaced in the final wax-up.
+F|C|2.6:6.17.4.2|Why make a silicone facial matrix of the overdenture setup?|To maintain the relationship of the setup to the abutments.
+F|C|2.6:6.17.4.2|What helps reorient the silicone matrix to the cast later?|Grooves cut in the land areas of the cast.
+F|C|2.6:6.17.6.2|Why is stone flowed around the bar, leaving the clip exposed?|So the clip is picked up in the resin when the denture base is processed.
+F|C|2.6:6.17.6.4|What must be avoided when deflasking an overdenture with a bar?|Damaging the bar.
+F|C|2.6:6.17.6.5|When is the final retentive clip usually installed?|During insertion of the completed denture.
+F|D|2.6:6.17|What is a Hader bar?|A plastic bar cast into metal that uses a replaceable plastic retaining clip.
+F|D|2.6:6.17|Where are the two implants for a bar and clip usually placed?|One in each canine area.
+F|D|2.6:6.17.5.1|How should the plastic bar fit between the gold cylinders?|Passively, and kept straight for easy clip seating.
+F|D|2.6:6.17.5.2|How high above the tissue should the bar be positioned?|At least 2 mm, to allow easy cleaning.
+F|D|2.6:6.17.5.2|What wax attaches the plastic bar to the gold cylinder?|Inlay wax.
+F|D|2.6:6.17.5.4|How should the cast bar be finished?|To a polished stage without altering its shape, using protection caps on the gold cylinders.
+F|D|2.6:6.17.6.1|How is the fabrication clip adjusted on the bar?|To follow the tissue contours when fully seated.
+F|D|2.6:6.10.4.2.1|For a cast framework provisional, what is placed over shortened temporary cylinders?|Temporary tubes.
+F|D|2.6:6.10.4.2.2|What is waxed onto a cast provisional framework for acrylic retention?|Retentive beads.
+F|D|2.6:6.10.4.2.3|What technique is used to cast the provisional framework?|The lost wax technique.
+F|D|2.6:6.15.3.1|What is the UCLA abutment?|A plastic pattern that serves as both abutment and gold cylinder and screws directly to the fixture.
+F|D|2.6:6.15.3.1|How large is the collar on a UCLA abutment's plastic pattern?|0.5 mm.
+F|D|2.6:6.15.3.5|Why must a castable substructure's seating surface be finished or milled?|It is not as smooth as a machined abutment from the manufacturer.
+F|D|2.6:6.15.3.6|What is the best way to get intimate contact between a castable substructure and the fixture?|An electric discharge machine (EDM).
+F|D|2.6:6.15.3.6|How does an EDM work?|It uses electric current to spark erode the casting surface until it contacts the replica intimately.
+F|D|2.6:6.15.2.1.4|How is fit of an FPD wax pattern checked on abutment replicas?|Screw one end down with one gold screw and check that the opposite end is fully seated, then repeat.
+F|D|2.6:6.15.2.3.3|What can be done if a screw-retained FPD casting does not fit?|Cut through the pontic, reattach with guide pins, seal with resin, and solder.
+F|E|2.6:6.15.1.1|What abutment must a single-tooth screw-retained restoration use?|A hex-shaped abutment, to prevent rotation.
+F|E|2.6:6.15.1.1|How do multiple-tooth screw-retained restorations prevent rotation?|By using two round or conical abutments.
+F|E|2.6:6.15.1.2|What is the main difference between screw-retained and cement-retained restorations?|A channel gives access to the retaining screw.
+F|E|2.6:6.15.1.2|Why must fixtures be properly angled for screw-retained restorations?|So the access hole is positioned properly.
+F|E|2.6:6.15.2|What articulator is used for a screw-retained cast-to substructure?|A semiadjustable articulator, with an occlusal bite registration.
+F|E|2.6:6.15.2.1.1|Why is the screw access opening lined with metal?|All porcelain must be supported by cast metal during firing.
+F|E|2.6:6.15.2.1.1|How is the metal lining of the screw access made?|By building a resin chimney around the guide pin.
+F|E|2.6:6.15.2.1.3|How is the soft tissue portion of the cast used during cutback?|To ensure the metal collar will be subgingival.
+F|E|2.6:6.15.2|Why must all of the gold cylinder except the chamfer be covered in wax?|Porcelain bonds only to cast metal; the gold cylinder forms no oxide layer.
+F|E|2.6:6.15.2.2.2|Why must the casting alloy melt lower than the gold cylinder?|So the cylinder is not damaged; therefore a noble alloy is used.
+F|E|2.6:6.15.2.2.2|Should nonprecious alloys be cast over gold cylinders?|No.
+F|E|2.6:6.15.2.3.1|How is investment usually removed from inside the gold cylinder?|By tapping on the sprue so it falls out.
+F|E|2.6:6.15.2.3.2|Which areas of the casting deserve particular attention under magnification?|The gold cylinder seating surface and the screw access hole.
+F|E|2.6:6.15.2.4|What exception applies when applying porcelain to screw-retained implant frameworks?|Clean all porcelain from screw access holes and cylinder seats before firing.
+F|E|2.6:6.15.3.3|How high should the screw access hole extend on a UCLA wax-up?|To the height of the occlusal surface, to support the porcelain.
+F|E|2.6:6.10.4.1|What interferences are eliminated on a screw-retained acrylic provisional?|All lateral and protrusive interferences.
+F|F|2.6:6.2|When are healing abutments used instead of standard abutments?|When a specialized abutment is needed or the standard abutment length is not known.
+F|F|2.6:6.2.3.2|What are specialized abutments used for?|To optimize esthetics or compensate for lack of interocclusal space.
+F|F|2.6:6.2.3.3.1|What are angulated abutments used for?|To compensate for fixtures that are not ideally placed.
+F|F|2.6:6.2.3.3.2|Up to how many degrees can angulated abutments correct?|Up to 30 degrees.
+F|F|2.6:6.2.3.3.2|What problem does a large angulation correction create?|A destructive lever system on the final restoration.
+F|F|2.6:6.2|What does a healing cap protect?|The abutment screw and precision milled surfaces of the standard abutment.
+F|F|2.6:6.11.1|Why is a hex-shaped abutment used for a single-tooth implant?|To prevent rotation of the restoration.
+F|F|2.6:6.11.1|Why is a single-tooth abutment positioned 2 to 3 mm below the tissue?|To prevent a metal band from showing.
+F|F|2.6:6.11.2|Name the three methods for a cement-retained single-tooth implant crown.|Ceramic cap, gold cylinder, and burnout cap restorations.
+F|F|2.6:6.12|What are ceramic caps made of?|Densely sintered aluminous porcelain.
+F|F|2.6:6.12|How is a ceramic cap length selected?|Based on the interarch space available.
+F|F|2.6:6.12.1.2|What is the minimum ceramic cap thickness after adjustment?|0.5 mm.
+F|F|2.6:6.12.1.2|How is embedded water removed from a ceramic cap before porcelain?|By placing it in a warm furnace for 5 minutes.
+F|F|2.6:6.12.2.1|Why can't conventional metal-ceramic porcelain be used on ceramic caps?|It is incompatible with the aluminous porcelain core.
+F|F|2.6:6.13|Where are gold cylinder cemented restorations used mainly?|In the posterior area.
+F|F|2.6:6.13.1.1|How thick should wax be over the gold cylinder, and how far down?|At least 0.5 mm, down to the cylinder's chamfer.
+F|F|2.6:6.14|What is a burnout cap?|An acrylic resin cap that fits over the abutment, used much like the gold cylinder method.
+F|F|2.6:6.10.3.2|What is fitted over the temporary cap in a clinically fabricated provisional?|A prefabricated crown shell.
+F|G|2.6:6.2|What are guide pins used for?|They screw into abutments, cylinders, replicas, or temporaries to keep components in precise contact with the replica during lab work.
+F|G|2.6:6.2|What is a gold cylinder?|The restorative component that attaches to the abutment and around which the restoration is built.
+F|G|2.6:6.2|How tall is a gold cylinder normally?|3 to 4 mm.
+F|G|2.6:6.2|What are the two types of gold screws?|A slotted flat head screw and a flat head screw with an internal hexagon or square.
+F|G|2.6:6.2|Which gold screw needs more interocclusal space?|The internal hexagon screw, because its head is taller.
+F|G|2.6:6.2|What is a protection cap?|A stainless steel cap attached to the gold cylinder during sandblasting, grinding, or polishing.
+F|G|2.6:6.2.4|How can temporary components attach to the abutment?|With a screw, temporary cement, or friction grip.
+F|G|2.6:6.13.1.2|Where should debubblizer be applied on a gold cylinder pattern?|Only on the wax pattern, since on the cylinder it may cause casting flash.
+F|G|2.6:6.12.1.2|How is a contoured ceramic cap cleaned?|Rinsed, then hot steam or a 10-minute ultrasonic water bath.
+# MCQs
+M|A|2.6:6.1.2|Which statement best defines a dental implant?|A prosthetic device placed in bone to retain and support appliances|A removable splint worn over the gums;A cemented crown on a natural root;A plastic tray used to take impressions
+M|A|2.6:6.2|Which material is most commonly used for implant fixtures?|Titanium|Stainless steel;Acrylic resin;Gypsum
+M|A|2.6:6.2|Which component keeps bone and tissue from growing into the fixture opening during healing?|The cover screw|The protection cap;The gold cylinder;The impression coping
+M|A|2.6:6.2|Which component attaches to the fixture and supports the restorative parts through the tissue?|The abutment|The cover screw;The radiographic template;The guide slot
+M|A|2.6:6.3.2|What may the dentist use to help judge whether enough bone is available for fixtures?|A radiographic stent|A healing cap;A protection cap;An occlusion rim
+M|A|2.6:6.3.4|What happens during the first surgical procedure?|Fixtures are placed in bone with the cover screw|The final crown is cemented;The abutment and healing cap are placed;The final impression is made
+M|A|2.6:6.3.5|What happens during the second surgical procedure?|The abutment and healing cap are placed|The fixtures are drilled and placed;The bar is cast;The diagnostic wax-up is done
+M|A|2.6:6.4.1|What is osseointegration?|Direct bone anchorage of an inert material that supports the prosthesis|A fibrous capsule that cushions the implant;Cementing a crown to an abutment;Bonding porcelain to an alloy
+M|A|2.6:6.4.2|What first forms on a titanium implant when it is inserted?|An oxide layer|A layer of enamel;A layer of wax;A layer of cement
+M|A|2.6:6.4.3|About how long after placement does the bone-to-implant interface form?|About 3 to 6 months|About 1 to 2 days;About 2 weeks;About 5 years
+M|A|2.6:6.4.3|Why does the mandible usually heal faster around implants than the maxilla?|It is mostly harder compact cortical bone|It has more cancellous bone;It has no blood supply;It is covered by the palate
+M|A|2.6:6.4.4|How should occlusal forces on implants be distributed?|More vertically than laterally|More laterally than vertically;Only horizontally;Entirely onto the soft tissue
+M|A|2.6:6.5.1.1|Why is drilling for implants done slowly with irrigation?|To dissipate heat that would damage bone|To speed up healing to one day;To polish the fixture;To soften the cover screw
+M|A|2.6:6.6.1|What reference points are placed in a radiographic template?|Ball bearings or metal rods|Plastic clips;Gold screws;Wax beads
+M|A|2.6:6.6.2|How does a radiographic template show available bone despite image distortion?|By comparing the known size of its metal parts to the bone on the radiograph|By changing color over bone;By measuring the patient's bite force;By softening on contact with bone
+M|A|2.6:6.7.2|How does a surgical guide template differ from a radiographic template?|It has no metal indicators and is hollowed out for the drill|It is made of metal;It is cemented permanently;It is used after the crown is seated
+M|A|2.6:6.7.4.3|Why is wax extended over adjacent teeth on a surgical guide wax-up?|To give the guide a positive seat|To add color;To block the drill;To reduce the vertical dimension
+M|A|2.6:6.7.4.6|What must the guide slot in a surgical template avoid?|Interfering with the facial contour of the restorations|Being wide enough for the drill;Being placed where the implant goes;Following the dentist's marks
+M|A|FDAIMP|According to FDA, which two materials are most dental implant systems made of?|Titanium or zirconium oxide|Gypsum or wax;Acrylic or rubber;Aluminum or copper
+M|A|FDAIMP|According to FDA, a loose or twisting feeling in an implant tooth can result from what?|Abutment screw loosening|Too much polishing;A shade mismatch;An overly thick impression
+M|B|2.6:6.2|What transfers the location of the fixture or abutment into the impression?|The impression coping|The cover screw;The protection cap;The healing cap
+M|B|2.6:6.2|What is another name for an abutment replica?|A laboratory analog|A cover screw;A burnout cap;A guide slot
+M|B|2.6:6.8.1|Why does an open implant custom tray have an opening over the implants?|To give stable access to copings that use guide pins|To let saliva drain;To save tray material;To hold the shade tab
+M|B|2.6:6.8.3|Which impression copings does the manual recommend for increased accuracy?|Copings that are removed in the impression|Copings that are left in the mouth permanently;Copings made of wax;Copings cut in half
+M|B|2.6:6.9.1|What does impression material on the seating surfaces of copings indicate?|The copings were not fully seated during the impression|The impression is ideal;The stone set too fast;The tray was too thick
+M|B|2.6:6.9.4|Why is a separator applied before pouring soft tissue material into an implant impression?|Both materials are usually vinyl polysiloxanes and would bond|The stone needs extra water;It colors the tissue;It speeds the set of plaster
+M|B|2.6:6.9.5|Why should excess vibration be avoided when pouring an implant impression?|It may dislodge some impression copings|It makes the stone too hard;It removes the separator;It heats the impression
+M|B|2.6:6.9.6|What must be confirmed about abutment replica surfaces after separating the cast?|Their precision surfaces are clean and free of stone|They are coated with wax;They are painted with die spacer;They are trimmed shorter
+M|B|2.6:6.15.3.2|For a UCLA abutment, which replica is used in the master cast?|A fixture replica|An abutment replica;A healing cap;A natural tooth die
+M|C|2.6:6.10.1|When can temporary dentures be inserted after first stage surgery?|When the sutures are removed, about 7 to 10 days after surgery|Immediately during surgery with pressure on the fixtures;Only after 5 years;Never
+M|C|2.6:6.10.1|How is an existing denture adapted to fit over new implant sites?|Relieve the fixture area and reline with soft tissue conditioner|Add metal over the fixtures;Cement it to the fixtures;Grind away all the teeth
+M|C|2.6:6.5.1.3|What must be avoided with a temporary prosthesis during implant healing?|Putting pressure on the fixture|Cleaning it;Relining it;Wearing it after sutures are removed
+M|C|2.6:6.16|How many implants are commonly used to retain a denture?|Two|Ten;Zero;Eight
+M|C|2.6:6.16|Which of these is a common device for retaining an implant removable prosthesis?|Magnets|Orthodontic bands;Rubber dam clamps;Matrix bands
+M|C|2.6:6.17.2|Why is the area around the gold cylinders blocked out when making an overdenture baseplate?|To keep baseplate resin from attaching to the cylinders|To add retention to the cylinders;To make the base thicker;To color the base
+M|C|2.6:6.17.4.2|Why is a silicone facial matrix made of the final overdenture setup?|To keep the relationship of the setup to the abutments|To process the bar;To replace the custom tray;To polish the teeth
+M|C|2.6:6.17.6.5|When is the final retentive clip usually installed on a bar overdenture?|During insertion of the completed denture|Before the bar is cast;During first stage surgery;Before the custom tray is made
+M|D|2.6:6.17|What retaining part does a Hader bar use?|A replaceable plastic clip|A permanent cement;A magnet inside the tooth;A rubber band
+M|D|2.6:6.17|Where are the two implants for a bar and clip overdenture usually placed?|One in each canine area|Both in the molar areas;Both at the midline;In the palate
+M|D|2.6:6.17.5.2|How far above the tissue should the overdenture bar be positioned?|At least 2 mm, for easy cleaning|Touching the tissue firmly;10 mm;Below the tissue
+M|D|2.6:6.17.5.1|How should the plastic bar be fitted between the gold cylinders?|Passively and kept straight|Under tension and curved;Twisted for retention;Bent to touch the tissue
+M|D|2.6:6.17.5.2|Which wax is used to attach the plastic bar to the gold cylinder?|Inlay wax|Boxing wax;Utility wax;Sticky wax only on the tissue
+M|D|2.6:6.17.5.4|What protects the gold cylinder seating surfaces while finishing a cast bar?|Protection caps|Cover screws;Healing abutments;Separating medium
+M|D|2.6:6.15.3.1|What is the UCLA abutment?|A plastic pattern that acts as both abutment and gold cylinder|A titanium cover screw;A ceramic shade tab;A stainless steel protection cap
+M|D|2.6:6.15.3.6|What is the best way to give a castable substructure intimate contact with the fixture?|An electric discharge machine|A model trimmer;A vacuum former;A steam cleaner
+M|D|2.6:6.15.3.6|How does an electric discharge machine smooth a casting?|Electric current spark erodes the surface|It sandblasts with glass beads;It pours stone over it;It dips it in acid wax
+M|D|2.6:6.15.3.5|Why must the seating surface of a castable substructure be finished or milled?|It is not as smooth as a machined manufacturer abutment|It is too thick to cast;It must be glazed;It has no screw hole
+M|D|2.6:6.15.2.1.4|How is the fit of an implant FPD wax pattern checked before investing?|Screw down one end and check that the other end is fully seated|Press both ends with heavy force;Check only under the pontic;Fit it in the mouth before casting
+M|D|2.6:6.15.2.3.3|If a screw-retained FPD casting does not fit, what can be done?|Cut through the pontic, reattach, seal with resin, and solder|Force it down with a mallet;Add more porcelain;Grind the abutment replica
+M|D|2.6:6.10.4.2.2|What is added to a cast provisional framework wax-up for acrylic retention?|Retentive beads|Glaze;Die spacer;Cover screws
+M|D|2.6:6.10.4.2.3|Which technique is used to cast an implant provisional framework?|The lost wax technique|Vacuum forming;Sintering zirconia;Electroplating
+M|E|2.6:6.15.1.1|Which abutment must a single-tooth screw-retained restoration use?|A hex-shaped abutment|A round abutment;A healing cap;A cover screw
+M|E|2.6:6.15.1.1|How do multiple-tooth screw-retained restorations prevent rotation?|By using two round or conical abutments|By using one hex abutment only;By cementing the screws;By using no abutments
+M|E|2.6:6.15.1.2|What feature mainly distinguishes screw-retained from cement-retained restorations?|A channel for access to the retaining screw|A thicker porcelain layer;A plastic clip;A removable base
+M|E|2.6:6.15.2.1.1|Why is the screw access opening lined with metal?|Porcelain must be supported by cast metal during firing|To make the restoration lighter;To match the shade;To hold the cement
+M|E|2.6:6.15.2.1.1|What is built around the guide pin to create the metal-lined screw access?|A resin chimney|A wax rim;A stone core;A silicone plug
+M|E|2.6:6.15.2|Why must the gold cylinder, except its chamfer, be covered in wax?|Porcelain bonds only to cast metal because the cylinder forms no oxide|The cylinder melts at low heat;Wax makes the cylinder retentive to cement;It improves the shade
+M|E|2.6:6.15.2.2.2|What kind of alloy should be cast over gold cylinders?|A noble alloy with a lower melting range than the cylinder|A nonprecious alloy;An alloy that melts higher than the cylinder;Any base metal alloy
+M|E|2.6:6.15.2.2.2|Should nonprecious alloys be cast over gold cylinders?|No|Yes, always;Only in the anterior;Only for single crowns
+M|E|2.6:6.15.2.3.1|How is investment usually removed from inside the gold cylinder?|By tapping on the sprue|By drilling it out;By heating it in the furnace;By sandblasting without protection
+M|E|2.6:6.15.2.3.2|Which areas should get particular attention when inspecting the casting?|The cylinder seating surface and the screw access hole|Only the occlusal surface;Only the sprue;Only the pontic underside
+M|E|2.6:6.15.2.4|What special step applies when adding porcelain to screw-retained implant frameworks?|Clean all porcelain from screw holes and cylinder seats before firing|Fill the screw hole with porcelain;Skip opaque;Fire without a framework
+M|E|2.6:6.15.2.1.3|How is the soft tissue part of the cast used during cutback?|To make sure the metal collar will be subgingival|To color the porcelain;To set the vertical dimension;To hold the cylinder
+M|E|2.6:6.15.3.3|How high should the screw access hole extend on a UCLA abutment wax-up?|To the occlusal surface height|Only to the gingival margin;It should be filled with wax;Halfway up the collar
+M|E|2.6:6.10.4.1|Which interferences are eliminated on a screw-retained acrylic provisional?|All lateral and protrusive interferences|Only centric stops;Proximal contacts only;None
+M|F|2.6:6.2.3.3.1|What are angulated abutments used for?|To compensate for fixtures that are not ideally placed|To cover the fixture during healing;To take the impression;To polish the crown
+M|F|2.6:6.2.3.3.2|Up to how many degrees can angulated abutments correct fixture angulation?|Up to 30 degrees|Up to 90 degrees;Only 1 degree;Up to 180 degrees
+M|F|2.6:6.2.3.3.2|What is a drawback of a large angulation correction?|It creates a destructive lever system on the restoration|It makes the crown lighter;It improves bone healing;It removes the need for a screw
+M|F|2.6:6.2|When is a healing abutment used instead of a standard abutment?|When a specialized abutment is needed or the length is unknown|When the crown is finished;During the diagnostic wax-up;When porcelain is fired
+M|F|2.6:6.2.3.2|What are specialized abutments used for?|To optimize esthetics or make up for limited interocclusal space|To replace the fixture;To pour the cast;To retain dentures with magnets
+M|F|2.6:6.11.1|Why is a single-tooth implant abutment set 2 to 3 mm below the tissue?|So no metal band shows|To make the crown shorter;To aid cleaning of the fixture;To allow a cover screw
+M|F|2.6:6.11.1|Why is a hex-shaped abutment used for a single-tooth implant?|To prevent rotation of the restoration|To make it lighter;To allow a clip;To increase porcelain thickness
+M|F|2.6:6.12|Ceramic caps for single-tooth implants are made of what?|Densely sintered aluminous porcelain|Gold alloy;Acrylic resin;Stainless steel
+M|F|2.6:6.12|How is the length of a ceramic cap chosen?|By the interarch space available|By the patient's age;By the shade;By the number of implants
+M|F|2.6:6.12.1.2|What is the minimum ceramic cap thickness after adjustment?|0.5 mm|0.05 mm;5 mm;2 cm
+M|F|2.6:6.12.2.1|Why can't conventional metal-ceramic porcelain be layered on a ceramic cap?|It is incompatible with the aluminous core|It is too translucent;It is too cheap;It fires too fast
+M|F|2.6:6.13|Where are gold cylinder cement-retained restorations mainly used?|In the posterior area|Only for full dentures;Only on canines;In the palate
+M|F|2.6:6.14|What is a burnout cap?|An acrylic resin cap that fits over the abutment and is waxed and cast|A metal protection cap;A ceramic core;A cover screw
+M|F|2.6:6.11.2|Which is one of the three methods for a cement-retained single-tooth implant?|Ceramic cap restoration|Hader bar;Magnet retention;Clip overdenture
+M|G|2.6:6.2|What keeps restorative components in precise contact with the abutment replica during lab work?|Guide pins|Healing caps;Cover screws;Tissue conditioner
+M|G|2.6:6.2|How tall is a gold cylinder normally?|3 to 4 mm|10 to 12 mm;0.1 mm;20 mm
+M|G|2.6:6.2|Which gold screw needs more interocclusal space?|The internal hexagon screw|The slotted flat head screw;They need equal space;Neither needs space
+M|G|2.6:6.2|What is a protection cap made of?|Stainless steel|Wax;Gypsum;Silicone
+M|G|2.6:6.2|When should a protection cap be on the gold cylinder?|During sandblasting, grinding, or polishing|Only during impressions;Only in the mouth;Never
+M|G|2.6:6.13.1.2|Where should debubblizer be painted on a gold cylinder wax-up?|Only on the wax pattern|Only on the gold cylinder;Inside the screw hole;On the abutment replica
+M|G|2.6:6.13.1.2|What can debubblizer on a gold cylinder cause?|Metal casting flash|A stronger bond;Faster healing;Better shade
+M|G|2.6:6.2.4|Which is a way temporary components attach to the abutment?|A screw, temporary cement, or friction grip|Only welding;Only magnets;Only soldering
+M|G|2.6:6.12.1.2|How is a contoured ceramic cap cleaned before porcelain?|Steam or a 10-minute ultrasonic water bath|Sandblasting with no rinse;Soaking in wax;Grinding with diamond

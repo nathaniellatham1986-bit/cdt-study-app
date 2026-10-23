@@ -2,7 +2,7 @@ import assert from 'node:assert/strict'; import test from 'node:test'; import fs
 import { sampleMock, record, acc, mockMinutes, speechParts } from '../js/quiz.js';
 import { EXAMS } from '../js/exams.js';
 const load=f=>JSON.parse(fs.readFileSync(new URL('../content/'+f,import.meta.url)));
-const all=[...load('comprehensive.json'),...load('comprehensive-mcq.json'),...load('ceramics.json'),...load('complete-dentures.json')];
+const all=[...load('implants.json'),...load('comprehensive.json'),...load('comprehensive-mcq.json'),...load('ceramics.json'),...load('complete-dentures.json')];
 test('every item well-formed, cited, unverified, domain exists',()=>{const ids=new Set();for(const c of all){
   assert.ok(!ids.has(c.id),c.id);ids.add(c.id);assert.equal(c.verified,false);assert.ok(c.source?.ref&&c.source?.url,c.id);
   const e=EXAMS.find(x=>x.id===c.exam);assert.ok(e&&e.domains.some(d=>d.id===c.domain),c.id);

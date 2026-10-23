@@ -6,6 +6,7 @@ WEB={
 "SDS":{"ref":"OSHA Brief: Hazard Communication Standard Safety Data Sheets (OSHA 3514)","url":"https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf"},
 "PIC":{"ref":"OSHA QuickCard: Hazard Communication Standard Pictogram (OSHA 3491)","url":"https://www.osha.gov/sites/default/files/publications/OSHA3491QuickCardPictogram.pdf"},
 "FDAC":{"ref":"FDA: Classify Your Medical Device","url":"https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device"},
+"FDAIMP":{"ref":"FDA: Dental Implants: What You Should Know","url":"https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know"},
 "QMSR":{"ref":"FDA: Quality Management System Regulation (QMSR)","url":"https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr"}}
 def src(s):
     """'1.2:2.5.1' = Vol 1 ch 2 para 2.5.1 ; 'BBP' = web source"""

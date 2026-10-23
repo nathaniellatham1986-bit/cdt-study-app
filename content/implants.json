@@ -1,0 +1,3720 @@
+[
+ {
+  "id": "imf-A-001",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a dental implant?",
+  "back": "A prosthetic device placed within bone to provide retention and support for fixed or removable appliances.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-002",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What can implants be used to replace or retain?",
+  "back": "Single teeth, multiple teeth, or dentures.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-003",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Whose directions should be followed closely when fabricating implant prostheses?",
+  "back": "The manufacturer's directions for the implant system being used.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-004",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the implant fixture?",
+  "back": "The permanent device implanted into bone after the dentist drills a hole at the proper location and angle.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-005",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the most common material for implant fixtures?",
+  "back": "Titanium, an inert material.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-006",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the purpose of the cover screw?",
+  "back": "It seals the fixture opening during healing so bone or tissue does not grow into it while the fixture osseointegrates.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-007",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the abutment?",
+  "back": "The part that attaches to the fixture and supports and retains the restorative components, running from bone level through the tissue.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-008",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Where does an abutment normally end?",
+  "back": "At or slightly above the gingival tissue.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-009",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the first step in fabricating an osseointegrated implant?",
+  "back": "Articulating the diagnostic cast and doing a preliminary wax-up to find functional and esthetic requirements.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-010",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What may help the dentist decide whether enough bone is available for fixtures?",
+  "back": "A radiographic stent.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-011",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is a surgical template fabricated?",
+  "back": "To help the surgeon place the implants in the proper location.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-012",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is done in the first surgical procedure?",
+  "back": "The implant fixtures are placed into the bone with the cover screw.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-013",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is done in the second surgical procedure?",
+  "back": "The abutment and healing cap are placed.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.3.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-014",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is osseointegration?",
+  "back": "The direct bone anchorage of an inert material, usually titanium, that provides a foundation to support the prosthesis.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-015",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What forms on titanium when an implant is first inserted?",
+  "back": "A layer of oxide.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-016",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "About how thick is the glycoprotein layer that forms between bone and the implant oxide?",
+  "back": "About 100 microns.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-017",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "When does the bone-to-implant interface occur?",
+  "back": "About 3 to 6 months after surgical placement of the fixture.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-018",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Which jaw usually heals faster around implants, and why?",
+  "back": "The mandible, because it is mostly harder compact cortical bone rather than softer cancellous bone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-019",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How should occlusal forces on implants be directed?",
+  "back": "More vertically than laterally, to reduce traumatic failure.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.4.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-020",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an advantage of osseointegration?",
+  "back": "Occlusal forces are transmitted directly to the bone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.4.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-021",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is implant drilling done at slow speed with irrigation?",
+  "back": "To dissipate frictional heat that would damage the bone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.5.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-022",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Where is the top of the fixture located when it is placed?",
+  "back": "At the surface of the bone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.5.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-023",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What kind of surgery is second stage surgery?",
+  "back": "A minor soft tissue surgery to expose the fixture and attach the abutments.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-024",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is used to remove tissue over the cover screw in second stage surgery?",
+  "back": "A tissue punch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.5.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-025",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "When the correct length standard abutment is used, where should it sit?",
+  "back": "At or about 1 mm above the tissue.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.5.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-026",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What are radiographic templates made of?",
+  "back": "Clear acrylic with ball bearings or metal rods as radiographic reference points.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-027",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How does a radiographic template help show available bone?",
+  "back": "By comparing the known size of its metal components to the bone shown on the radiograph, regardless of distortion.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-028",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are metal rods placed through the center of the proposed restoration in a radiographic template?",
+  "back": "To parallel the restoration's axial inclination and guide the ideal buccal or lingual angle of the fixture.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.6.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-029",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is useful to make after the diagnostic wax-up for a radiographic template?",
+  "back": "A tooth position index made with silicone putty.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.6.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-030",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a partially edentulous radiographic template formed?",
+  "back": "By vacuum-forming clear template material over a duplicate of the cast and wax-up.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.6.4.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-031",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What must be true of the holes drilled in a radiographic template?",
+  "back": "They must be at the exact location and correct axial inclination of the proposed implants.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.6.4.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-032",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a metal radiographic indicator secured in the template?",
+  "back": "Sealed in place with acrylic or cyanoacrylate.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.6.4.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-033",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a fully edentulous radiographic template made?",
+  "back": "By duplicating the existing denture in clear acrylic.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.6.5.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-034",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the main difference between a surgical guide template and a radiographic template?",
+  "back": "The surgical guide has no metal indicators; the implant area is hollowed out so the surgeon can drill.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.7.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-035",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is wax extended over the occlusals of adjacent teeth on a surgical guide wax-up?",
+  "back": "To give the guide template a positive seat.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.7.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-036",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How is the surgical guide wax-up processed?",
+  "back": "In clear acrylic, using the same procedures as processing denture bases.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.7.4.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-037",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What two requirements apply to the guide slot of a surgical template?",
+  "back": "It must not interfere with the facial contour of the restorations and must be wide enough for the drills.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.7.4.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-038",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What should the marked implant sites on an edentulous guide not do?",
+  "back": "Interfere with tooth placement or affect the facial-lingual inclination of the teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.7.5.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-A-039",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "According to FDA, what does a dental implant system consist of?",
+  "back": "An implant body and an abutment, and possibly an abutment fixation screw.",
+  "source": {
+   "ref": "FDA: Dental Implants: What You Should Know",
+   "url": "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know"
+  }
+ },
+ {
+  "id": "imf-A-040",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "According to FDA, what are most dental implant systems made of?",
+  "back": "Titanium or zirconium oxide.",
+  "source": {
+   "ref": "FDA: Dental Implants: What You Should Know",
+   "url": "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know"
+  }
+ },
+ {
+  "id": "imf-A-041",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "According to FDA, what may a loose or twisting feeling in an implant tooth come from?",
+  "back": "Abutment screw loosening.",
+  "source": {
+   "ref": "FDA: Dental Implants: What You Should Know",
+   "url": "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know"
+  }
+ },
+ {
+  "id": "imf-A-042",
+  "exam": "implants",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What must manufacturers show FDA before marketing a dental implant system in the US?",
+  "back": "That it is as safe and effective as implant systems already on the market.",
+  "source": {
+   "ref": "FDA: Dental Implants: What You Should Know",
+   "url": "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know"
+  }
+ },
+ {
+  "id": "imf-B-001",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an impression coping?",
+  "back": "A part placed on the abutment before the final impression, picked up in the impression to transfer the fixture or abutment position to the master cast.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-002",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an abutment replica?",
+  "back": "An exact reproduction of the abutment, also called a laboratory analog, used as the technician's master die.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-003",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "When is the abutment replica attached to the impression coping?",
+  "back": "Before the final impression is poured.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-004",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why does an implant custom tray have an opening above the implants?",
+  "back": "To give stable access to impression copings that use guide pins.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.8.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-005",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Do all implant impression copings require an opening in the tray?",
+  "back": "No. Some stay on the abutment and are then removed and placed into the impression.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.8.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-006",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Which impression copings are recommended for increased accuracy?",
+  "back": "Copings that are removed in the impression.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.8.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-007",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is in place on the abutments when the diagnostic impression for the custom tray is taken?",
+  "back": "The healing caps.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.8.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-008",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is used to block out around the healing abutments when making the tray?",
+  "back": "Wax or clay.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.8.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-009",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How does making an open implant tray differ from a usual tray?",
+  "back": "The area over the healing abutment blockout is left open.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.8.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-010",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does excess impression material on coping seating surfaces indicate?",
+  "back": "The copings were not properly seated on the abutments during the impression.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.9.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-011",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How is debris cleared after removing guide pins from square copings?",
+  "back": "By gently blowing air through the holes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.9.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-012",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why must a separating medium be applied before pouring soft tissue material into an implant impression?",
+  "back": "Both are normally vinyl polysiloxanes, so they would bond.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.9.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-013",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What stone and mixing are used to pour the implant master cast?",
+  "back": "Vacuum-mixed die stone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.9.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-014",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why avoid excess vibration when pouring an implant impression?",
+  "back": "It may dislodge some types of impression copings.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.9.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-015",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How is an impression with tapered copings removed from the cast?",
+  "back": "With a snap, after the stone has completely set.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.9.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-016",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What must be checked on abutment replicas after separating the cast?",
+  "back": "That their precision surfaces are clean and free of stone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.9.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-017",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is applied around the abutment replica when making a single-tooth master cast?",
+  "back": "Soft tissue silicone material, kept out of the adjacent teeth areas.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.11.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-B-018",
+  "exam": "implants",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What replica is used in the master cast for a UCLA abutment?",
+  "back": "A fixture replica rather than an abutment replica.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-C-001",
+  "exam": "implants",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "When can temporary dentures be inserted after first stage surgery?",
+  "back": "When the sutures are removed, 7 to 10 days after surgery.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.10.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-C-002",
+  "exam": "implants",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How is an existing denture adapted over new implant sites?",
+  "back": "Relieve the fixture area and reline with soft tissue conditioner.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.10.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-C-003",
+  "exam": "implants",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What must be avoided with a temporary prosthesis during implant healing?",
+  "back": "Applying pressure on the fixture.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.5.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-C-004",
+  "exam": "implants",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a complete denture adjusted after second stage surgery?",
+  "back": "Relieve acrylic so it seats without hitting the healing cap, then reline with tissue conditioner.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.10.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-C-005",
+  "exam": "implants",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Name three common devices that retain implant removable prostheses.",
+  "back": "Bar and clip attachments, magnets, and ball attachments.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.16",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-C-006",
+  "exam": "implants",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How many implants commonly retain a denture?",
+  "back": "Two.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.16",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-C-007",
+  "exam": "implants",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why block out around gold cylinders before making an overdenture baseplate?",
+  "back": "To keep baseplate resin from attaching to the gold cylinders.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-C-008",
+  "exam": "implants",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What may be needed to eliminate interference with the opposing cast when articulating an overdenture?",
+  "back": "Shorter guide pins.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-C-009",
+  "exam": "implants",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is done if a denture tooth interferes with a guide pin at try-in?",
+  "back": "The tooth is altered or omitted for the try-in and replaced in the final wax-up.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-C-010",
+  "exam": "implants",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why make a silicone facial matrix of the overdenture setup?",
+  "back": "To maintain the relationship of the setup to the abutments.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-C-011",
+  "exam": "implants",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What helps reorient the silicone matrix to the cast later?",
+  "back": "Grooves cut in the land areas of the cast.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-C-012",
+  "exam": "implants",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is stone flowed around the bar, leaving the clip exposed?",
+  "back": "So the clip is picked up in the resin when the denture base is processed.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-C-013",
+  "exam": "implants",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What must be avoided when deflasking an overdenture with a bar?",
+  "back": "Damaging the bar.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.6.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-C-014",
+  "exam": "implants",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "When is the final retentive clip usually installed?",
+  "back": "During insertion of the completed denture.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.6.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-001",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a Hader bar?",
+  "back": "A plastic bar cast into metal that uses a replaceable plastic retaining clip.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-002",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Where are the two implants for a bar and clip usually placed?",
+  "back": "One in each canine area.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-003",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How should the plastic bar fit between the gold cylinders?",
+  "back": "Passively, and kept straight for easy clip seating.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.5.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-004",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How high above the tissue should the bar be positioned?",
+  "back": "At least 2 mm, to allow easy cleaning.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-005",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What wax attaches the plastic bar to the gold cylinder?",
+  "back": "Inlay wax.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-006",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How should the cast bar be finished?",
+  "back": "To a polished stage without altering its shape, using protection caps on the gold cylinders.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.5.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-007",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How is the fabrication clip adjusted on the bar?",
+  "back": "To follow the tissue contours when fully seated.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-008",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "For a cast framework provisional, what is placed over shortened temporary cylinders?",
+  "back": "Temporary tubes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.10.4.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-009",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is waxed onto a cast provisional framework for acrylic retention?",
+  "back": "Retentive beads.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.10.4.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-010",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What technique is used to cast the provisional framework?",
+  "back": "The lost wax technique.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.10.4.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-011",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the UCLA abutment?",
+  "back": "A plastic pattern that serves as both abutment and gold cylinder and screws directly to the fixture.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-012",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How large is the collar on a UCLA abutment's plastic pattern?",
+  "back": "0.5 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-013",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why must a castable substructure's seating surface be finished or milled?",
+  "back": "It is not as smooth as a machined abutment from the manufacturer.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.3.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-014",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the best way to get intimate contact between a castable substructure and the fixture?",
+  "back": "An electric discharge machine (EDM).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.3.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-015",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How does an EDM work?",
+  "back": "It uses electric current to spark erode the casting surface until it contacts the replica intimately.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.3.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-016",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How is fit of an FPD wax pattern checked on abutment replicas?",
+  "back": "Screw one end down with one gold screw and check that the opposite end is fully seated, then repeat.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-D-017",
+  "exam": "implants",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What can be done if a screw-retained FPD casting does not fit?",
+  "back": "Cut through the pontic, reattach with guide pins, seal with resin, and solder.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-001",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What abutment must a single-tooth screw-retained restoration use?",
+  "back": "A hex-shaped abutment, to prevent rotation.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-002",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How do multiple-tooth screw-retained restorations prevent rotation?",
+  "back": "By using two round or conical abutments.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-003",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the main difference between screw-retained and cement-retained restorations?",
+  "back": "A channel gives access to the retaining screw.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-004",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why must fixtures be properly angled for screw-retained restorations?",
+  "back": "So the access hole is positioned properly.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-005",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What articulator is used for a screw-retained cast-to substructure?",
+  "back": "A semiadjustable articulator, with an occlusal bite registration.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-006",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is the screw access opening lined with metal?",
+  "back": "All porcelain must be supported by cast metal during firing.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-007",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How is the metal lining of the screw access made?",
+  "back": "By building a resin chimney around the guide pin.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-008",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How is the soft tissue portion of the cast used during cutback?",
+  "back": "To ensure the metal collar will be subgingival.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-009",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why must all of the gold cylinder except the chamfer be covered in wax?",
+  "back": "Porcelain bonds only to cast metal; the gold cylinder forms no oxide layer.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-010",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why must the casting alloy melt lower than the gold cylinder?",
+  "back": "So the cylinder is not damaged; therefore a noble alloy is used.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-011",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Should nonprecious alloys be cast over gold cylinders?",
+  "back": "No.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-012",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How is investment usually removed from inside the gold cylinder?",
+  "back": "By tapping on the sprue so it falls out.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-013",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Which areas of the casting deserve particular attention under magnification?",
+  "back": "The gold cylinder seating surface and the screw access hole.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-014",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What exception applies when applying porcelain to screw-retained implant frameworks?",
+  "back": "Clean all porcelain from screw access holes and cylinder seats before firing.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-015",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How high should the screw access hole extend on a UCLA wax-up?",
+  "back": "To the height of the occlusal surface, to support the porcelain.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-E-016",
+  "exam": "implants",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What interferences are eliminated on a screw-retained acrylic provisional?",
+  "back": "All lateral and protrusive interferences.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.10.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-001",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "When are healing abutments used instead of standard abutments?",
+  "back": "When a specialized abutment is needed or the standard abutment length is not known.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-002",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What are specialized abutments used for?",
+  "back": "To optimize esthetics or compensate for lack of interocclusal space.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-003",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What are angulated abutments used for?",
+  "back": "To compensate for fixtures that are not ideally placed.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2.3.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-004",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Up to how many degrees can angulated abutments correct?",
+  "back": "Up to 30 degrees.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2.3.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-005",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What problem does a large angulation correction create?",
+  "back": "A destructive lever system on the final restoration.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2.3.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-006",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What does a healing cap protect?",
+  "back": "The abutment screw and precision milled surfaces of the standard abutment.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-007",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is a hex-shaped abutment used for a single-tooth implant?",
+  "back": "To prevent rotation of the restoration.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.11.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-008",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is a single-tooth abutment positioned 2 to 3 mm below the tissue?",
+  "back": "To prevent a metal band from showing.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.11.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-009",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Name the three methods for a cement-retained single-tooth implant crown.",
+  "back": "Ceramic cap, gold cylinder, and burnout cap restorations.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.11.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-010",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What are ceramic caps made of?",
+  "back": "Densely sintered aluminous porcelain.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.12",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-011",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a ceramic cap length selected?",
+  "back": "Based on the interarch space available.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.12",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-012",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the minimum ceramic cap thickness after adjustment?",
+  "back": "0.5 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.12.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-013",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How is embedded water removed from a ceramic cap before porcelain?",
+  "back": "By placing it in a warm furnace for 5 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.12.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-014",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Why can't conventional metal-ceramic porcelain be used on ceramic caps?",
+  "back": "It is incompatible with the aluminous porcelain core.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.12.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-015",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Where are gold cylinder cemented restorations used mainly?",
+  "back": "In the posterior area.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.13",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-016",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How thick should wax be over the gold cylinder, and how far down?",
+  "back": "At least 0.5 mm, down to the cylinder's chamfer.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.13.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-017",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a burnout cap?",
+  "back": "An acrylic resin cap that fits over the abutment, used much like the gold cylinder method.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.14",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-F-018",
+  "exam": "implants",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What is fitted over the temporary cap in a clinically fabricated provisional?",
+  "back": "A prefabricated crown shell.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.10.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-G-001",
+  "exam": "implants",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What are guide pins used for?",
+  "back": "They screw into abutments, cylinders, replicas, or temporaries to keep components in precise contact with the replica during lab work.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-G-002",
+  "exam": "implants",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a gold cylinder?",
+  "back": "The restorative component that attaches to the abutment and around which the restoration is built.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-G-003",
+  "exam": "implants",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "How tall is a gold cylinder normally?",
+  "back": "3 to 4 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-G-004",
+  "exam": "implants",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the two types of gold screws?",
+  "back": "A slotted flat head screw and a flat head screw with an internal hexagon or square.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-G-005",
+  "exam": "implants",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Which gold screw needs more interocclusal space?",
+  "back": "The internal hexagon screw, because its head is taller.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-G-006",
+  "exam": "implants",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a protection cap?",
+  "back": "A stainless steel cap attached to the gold cylinder during sandblasting, grinding, or polishing.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-G-007",
+  "exam": "implants",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "How can temporary components attach to the abutment?",
+  "back": "With a screw, temporary cement, or friction grip.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-G-008",
+  "exam": "implants",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Where should debubblizer be applied on a gold cylinder pattern?",
+  "back": "Only on the wax pattern, since on the cylinder it may cause casting flash.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.13.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imf-G-009",
+  "exam": "implants",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a contoured ceramic cap cleaned?",
+  "back": "Rinsed, then hot steam or a 10-minute ultrasonic water bath.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.12.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-001",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which statement best defines a dental implant?",
+  "options": [
+   "A removable splint worn over the gums",
+   "A cemented crown on a natural root",
+   "A plastic tray used to take impressions",
+   "A prosthetic device placed in bone to retain and support appliances"
+  ],
+  "answer": 3,
+  "explanation": "Correct: A prosthetic device placed in bone to retain and support appliances. (para 6.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-002",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which material is most commonly used for implant fixtures?",
+  "options": [
+   "Stainless steel",
+   "Titanium",
+   "Acrylic resin",
+   "Gypsum"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Titanium. (para 6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-003",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which component keeps bone and tissue from growing into the fixture opening during healing?",
+  "options": [
+   "The protection cap",
+   "The cover screw",
+   "The gold cylinder",
+   "The impression coping"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The cover screw. (para 6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-004",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which component attaches to the fixture and supports the restorative parts through the tissue?",
+  "options": [
+   "The cover screw",
+   "The radiographic template",
+   "The guide slot",
+   "The abutment"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The abutment. (para 6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-005",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What may the dentist use to help judge whether enough bone is available for fixtures?",
+  "options": [
+   "A healing cap",
+   "A radiographic stent",
+   "A protection cap",
+   "An occlusion rim"
+  ],
+  "answer": 1,
+  "explanation": "Correct: A radiographic stent. (para 6.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-006",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What happens during the first surgical procedure?",
+  "options": [
+   "The final crown is cemented",
+   "Fixtures are placed in bone with the cover screw",
+   "The abutment and healing cap are placed",
+   "The final impression is made"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Fixtures are placed in bone with the cover screw. (para 6.3.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-007",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What happens during the second surgical procedure?",
+  "options": [
+   "The abutment and healing cap are placed",
+   "The fixtures are drilled and placed",
+   "The bar is cast",
+   "The diagnostic wax-up is done"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The abutment and healing cap are placed. (para 6.3.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.3.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-008",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is osseointegration?",
+  "options": [
+   "A fibrous capsule that cushions the implant",
+   "Direct bone anchorage of an inert material that supports the prosthesis",
+   "Cementing a crown to an abutment",
+   "Bonding porcelain to an alloy"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Direct bone anchorage of an inert material that supports the prosthesis. (para 6.4.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-009",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What first forms on a titanium implant when it is inserted?",
+  "options": [
+   "A layer of enamel",
+   "An oxide layer",
+   "A layer of wax",
+   "A layer of cement"
+  ],
+  "answer": 1,
+  "explanation": "Correct: An oxide layer. (para 6.4.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-010",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "About how long after placement does the bone-to-implant interface form?",
+  "options": [
+   "About 3 to 6 months",
+   "About 1 to 2 days",
+   "About 2 weeks",
+   "About 5 years"
+  ],
+  "answer": 0,
+  "explanation": "Correct: About 3 to 6 months. (para 6.4.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-011",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why does the mandible usually heal faster around implants than the maxilla?",
+  "options": [
+   "It is mostly harder compact cortical bone",
+   "It has more cancellous bone",
+   "It has no blood supply",
+   "It is covered by the palate"
+  ],
+  "answer": 0,
+  "explanation": "Correct: It is mostly harder compact cortical bone. (para 6.4.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-012",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How should occlusal forces on implants be distributed?",
+  "options": [
+   "More laterally than vertically",
+   "Only horizontally",
+   "Entirely onto the soft tissue",
+   "More vertically than laterally"
+  ],
+  "answer": 3,
+  "explanation": "Correct: More vertically than laterally. (para 6.4.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.4.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-013",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is drilling for implants done slowly with irrigation?",
+  "options": [
+   "To speed up healing to one day",
+   "To dissipate heat that would damage bone",
+   "To polish the fixture",
+   "To soften the cover screw"
+  ],
+  "answer": 1,
+  "explanation": "Correct: To dissipate heat that would damage bone. (para 6.5.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.5.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-014",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What reference points are placed in a radiographic template?",
+  "options": [
+   "Ball bearings or metal rods",
+   "Plastic clips",
+   "Gold screws",
+   "Wax beads"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Ball bearings or metal rods. (para 6.6.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-015",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How does a radiographic template show available bone despite image distortion?",
+  "options": [
+   "By changing color over bone",
+   "By comparing the known size of its metal parts to the bone on the radiograph",
+   "By measuring the patient's bite force",
+   "By softening on contact with bone"
+  ],
+  "answer": 1,
+  "explanation": "Correct: By comparing the known size of its metal parts to the bone on the radiograph. (para 6.6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-016",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How does a surgical guide template differ from a radiographic template?",
+  "options": [
+   "It is made of metal",
+   "It is cemented permanently",
+   "It is used after the crown is seated",
+   "It has no metal indicators and is hollowed out for the drill"
+  ],
+  "answer": 3,
+  "explanation": "Correct: It has no metal indicators and is hollowed out for the drill. (para 6.7.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.7.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-017",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is wax extended over adjacent teeth on a surgical guide wax-up?",
+  "options": [
+   "To add color",
+   "To give the guide a positive seat",
+   "To block the drill",
+   "To reduce the vertical dimension"
+  ],
+  "answer": 1,
+  "explanation": "Correct: To give the guide a positive seat. (para 6.7.4.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.7.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-018",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What must the guide slot in a surgical template avoid?",
+  "options": [
+   "Being wide enough for the drill",
+   "Being placed where the implant goes",
+   "Interfering with the facial contour of the restorations",
+   "Following the dentist's marks"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Interfering with the facial contour of the restorations. (para 6.7.4.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.7.4.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-A-019",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "According to FDA, which two materials are most dental implant systems made of?",
+  "options": [
+   "Gypsum or wax",
+   "Acrylic or rubber",
+   "Titanium or zirconium oxide",
+   "Aluminum or copper"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Titanium or zirconium oxide. (see source)",
+  "source": {
+   "ref": "FDA: Dental Implants: What You Should Know",
+   "url": "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know"
+  }
+ },
+ {
+  "id": "imq-A-020",
+  "exam": "implants",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "According to FDA, a loose or twisting feeling in an implant tooth can result from what?",
+  "options": [
+   "Too much polishing",
+   "A shade mismatch",
+   "Abutment screw loosening",
+   "An overly thick impression"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Abutment screw loosening. (see source)",
+  "source": {
+   "ref": "FDA: Dental Implants: What You Should Know",
+   "url": "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know"
+  }
+ },
+ {
+  "id": "imq-B-001",
+  "exam": "implants",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What transfers the location of the fixture or abutment into the impression?",
+  "options": [
+   "The cover screw",
+   "The protection cap",
+   "The healing cap",
+   "The impression coping"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The impression coping. (para 6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-B-002",
+  "exam": "implants",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is another name for an abutment replica?",
+  "options": [
+   "A laboratory analog",
+   "A cover screw",
+   "A burnout cap",
+   "A guide slot"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A laboratory analog. (para 6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-B-003",
+  "exam": "implants",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why does an open implant custom tray have an opening over the implants?",
+  "options": [
+   "To let saliva drain",
+   "To save tray material",
+   "To hold the shade tab",
+   "To give stable access to copings that use guide pins"
+  ],
+  "answer": 3,
+  "explanation": "Correct: To give stable access to copings that use guide pins. (para 6.8.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.8.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-B-004",
+  "exam": "implants",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which impression copings does the manual recommend for increased accuracy?",
+  "options": [
+   "Copings that are left in the mouth permanently",
+   "Copings that are removed in the impression",
+   "Copings made of wax",
+   "Copings cut in half"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Copings that are removed in the impression. (para 6.8.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.8.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-B-005",
+  "exam": "implants",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What does impression material on the seating surfaces of copings indicate?",
+  "options": [
+   "The copings were not fully seated during the impression",
+   "The impression is ideal",
+   "The stone set too fast",
+   "The tray was too thick"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The copings were not fully seated during the impression. (para 6.9.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.9.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-B-006",
+  "exam": "implants",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is a separator applied before pouring soft tissue material into an implant impression?",
+  "options": [
+   "The stone needs extra water",
+   "It colors the tissue",
+   "Both materials are usually vinyl polysiloxanes and would bond",
+   "It speeds the set of plaster"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Both materials are usually vinyl polysiloxanes and would bond. (para 6.9.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.9.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-B-007",
+  "exam": "implants",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why should excess vibration be avoided when pouring an implant impression?",
+  "options": [
+   "It makes the stone too hard",
+   "It removes the separator",
+   "It heats the impression",
+   "It may dislodge some impression copings"
+  ],
+  "answer": 3,
+  "explanation": "Correct: It may dislodge some impression copings. (para 6.9.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.9.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-B-008",
+  "exam": "implants",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What must be confirmed about abutment replica surfaces after separating the cast?",
+  "options": [
+   "They are coated with wax",
+   "They are painted with die spacer",
+   "Their precision surfaces are clean and free of stone",
+   "They are trimmed shorter"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Their precision surfaces are clean and free of stone. (para 6.9.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.9.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-B-009",
+  "exam": "implants",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "For a UCLA abutment, which replica is used in the master cast?",
+  "options": [
+   "An abutment replica",
+   "A healing cap",
+   "A fixture replica",
+   "A natural tooth die"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A fixture replica. (para 6.15.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-C-001",
+  "exam": "implants",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When can temporary dentures be inserted after first stage surgery?",
+  "options": [
+   "Immediately during surgery with pressure on the fixtures",
+   "Only after 5 years",
+   "When the sutures are removed, about 7 to 10 days after surgery",
+   "Never"
+  ],
+  "answer": 2,
+  "explanation": "Correct: When the sutures are removed, about 7 to 10 days after surgery. (para 6.10.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.10.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-C-002",
+  "exam": "implants",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How is an existing denture adapted to fit over new implant sites?",
+  "options": [
+   "Add metal over the fixtures",
+   "Relieve the fixture area and reline with soft tissue conditioner",
+   "Cement it to the fixtures",
+   "Grind away all the teeth"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Relieve the fixture area and reline with soft tissue conditioner. (para 6.10.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.10.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-C-003",
+  "exam": "implants",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What must be avoided with a temporary prosthesis during implant healing?",
+  "options": [
+   "Cleaning it",
+   "Relining it",
+   "Wearing it after sutures are removed",
+   "Putting pressure on the fixture"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Putting pressure on the fixture. (para 6.5.1.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.5.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-C-004",
+  "exam": "implants",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How many implants are commonly used to retain a denture?",
+  "options": [
+   "Two",
+   "Ten",
+   "Zero",
+   "Eight"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Two. (para 6.16)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.16",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-C-005",
+  "exam": "implants",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which of these is a common device for retaining an implant removable prosthesis?",
+  "options": [
+   "Magnets",
+   "Orthodontic bands",
+   "Rubber dam clamps",
+   "Matrix bands"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Magnets. (para 6.16)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.16",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-C-006",
+  "exam": "implants",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is the area around the gold cylinders blocked out when making an overdenture baseplate?",
+  "options": [
+   "To keep baseplate resin from attaching to the cylinders",
+   "To add retention to the cylinders",
+   "To make the base thicker",
+   "To color the base"
+  ],
+  "answer": 0,
+  "explanation": "Correct: To keep baseplate resin from attaching to the cylinders. (para 6.17.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-C-007",
+  "exam": "implants",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is a silicone facial matrix made of the final overdenture setup?",
+  "options": [
+   "To process the bar",
+   "To replace the custom tray",
+   "To polish the teeth",
+   "To keep the relationship of the setup to the abutments"
+  ],
+  "answer": 3,
+  "explanation": "Correct: To keep the relationship of the setup to the abutments. (para 6.17.4.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-C-008",
+  "exam": "implants",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When is the final retentive clip usually installed on a bar overdenture?",
+  "options": [
+   "Before the bar is cast",
+   "During insertion of the completed denture",
+   "During first stage surgery",
+   "Before the custom tray is made"
+  ],
+  "answer": 1,
+  "explanation": "Correct: During insertion of the completed denture. (para 6.17.6.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.6.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-D-001",
+  "exam": "implants",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What retaining part does a Hader bar use?",
+  "options": [
+   "A permanent cement",
+   "A magnet inside the tooth",
+   "A replaceable plastic clip",
+   "A rubber band"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A replaceable plastic clip. (para 6.17)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-D-002",
+  "exam": "implants",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where are the two implants for a bar and clip overdenture usually placed?",
+  "options": [
+   "Both in the molar areas",
+   "Both at the midline",
+   "One in each canine area",
+   "In the palate"
+  ],
+  "answer": 2,
+  "explanation": "Correct: One in each canine area. (para 6.17)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-D-003",
+  "exam": "implants",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How far above the tissue should the overdenture bar be positioned?",
+  "options": [
+   "Touching the tissue firmly",
+   "10 mm",
+   "Below the tissue",
+   "At least 2 mm, for easy cleaning"
+  ],
+  "answer": 3,
+  "explanation": "Correct: At least 2 mm, for easy cleaning. (para 6.17.5.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-D-004",
+  "exam": "implants",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How should the plastic bar be fitted between the gold cylinders?",
+  "options": [
+   "Under tension and curved",
+   "Twisted for retention",
+   "Bent to touch the tissue",
+   "Passively and kept straight"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Passively and kept straight. (para 6.17.5.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.5.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-D-005",
+  "exam": "implants",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which wax is used to attach the plastic bar to the gold cylinder?",
+  "options": [
+   "Boxing wax",
+   "Utility wax",
+   "Sticky wax only on the tissue",
+   "Inlay wax"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Inlay wax. (para 6.17.5.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-D-006",
+  "exam": "implants",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What protects the gold cylinder seating surfaces while finishing a cast bar?",
+  "options": [
+   "Cover screws",
+   "Protection caps",
+   "Healing abutments",
+   "Separating medium"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Protection caps. (para 6.17.5.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.17.5.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-D-007",
+  "exam": "implants",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the UCLA abutment?",
+  "options": [
+   "A plastic pattern that acts as both abutment and gold cylinder",
+   "A titanium cover screw",
+   "A ceramic shade tab",
+   "A stainless steel protection cap"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A plastic pattern that acts as both abutment and gold cylinder. (para 6.15.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-D-008",
+  "exam": "implants",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the best way to give a castable substructure intimate contact with the fixture?",
+  "options": [
+   "A model trimmer",
+   "A vacuum former",
+   "An electric discharge machine",
+   "A steam cleaner"
+  ],
+  "answer": 2,
+  "explanation": "Correct: An electric discharge machine. (para 6.15.3.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.3.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-D-009",
+  "exam": "implants",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How does an electric discharge machine smooth a casting?",
+  "options": [
+   "It sandblasts with glass beads",
+   "It pours stone over it",
+   "Electric current spark erodes the surface",
+   "It dips it in acid wax"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Electric current spark erodes the surface. (para 6.15.3.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.3.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-D-010",
+  "exam": "implants",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why must the seating surface of a castable substructure be finished or milled?",
+  "options": [
+   "It is not as smooth as a machined manufacturer abutment",
+   "It is too thick to cast",
+   "It must be glazed",
+   "It has no screw hole"
+  ],
+  "answer": 0,
+  "explanation": "Correct: It is not as smooth as a machined manufacturer abutment. (para 6.15.3.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.3.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-D-011",
+  "exam": "implants",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How is the fit of an implant FPD wax pattern checked before investing?",
+  "options": [
+   "Screw down one end and check that the other end is fully seated",
+   "Press both ends with heavy force",
+   "Check only under the pontic",
+   "Fit it in the mouth before casting"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Screw down one end and check that the other end is fully seated. (para 6.15.2.1.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-D-012",
+  "exam": "implants",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "If a screw-retained FPD casting does not fit, what can be done?",
+  "options": [
+   "Cut through the pontic, reattach, seal with resin, and solder",
+   "Force it down with a mallet",
+   "Add more porcelain",
+   "Grind the abutment replica"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Cut through the pontic, reattach, seal with resin, and solder. (para 6.15.2.3.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-D-013",
+  "exam": "implants",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is added to a cast provisional framework wax-up for acrylic retention?",
+  "options": [
+   "Glaze",
+   "Die spacer",
+   "Retentive beads",
+   "Cover screws"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Retentive beads. (para 6.10.4.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.10.4.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-D-014",
+  "exam": "implants",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which technique is used to cast an implant provisional framework?",
+  "options": [
+   "Vacuum forming",
+   "Sintering zirconia",
+   "The lost wax technique",
+   "Electroplating"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The lost wax technique. (para 6.10.4.2.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.10.4.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-E-001",
+  "exam": "implants",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which abutment must a single-tooth screw-retained restoration use?",
+  "options": [
+   "A hex-shaped abutment",
+   "A round abutment",
+   "A healing cap",
+   "A cover screw"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A hex-shaped abutment. (para 6.15.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-E-002",
+  "exam": "implants",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How do multiple-tooth screw-retained restorations prevent rotation?",
+  "options": [
+   "By using one hex abutment only",
+   "By using two round or conical abutments",
+   "By cementing the screws",
+   "By using no abutments"
+  ],
+  "answer": 1,
+  "explanation": "Correct: By using two round or conical abutments. (para 6.15.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-E-003",
+  "exam": "implants",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What feature mainly distinguishes screw-retained from cement-retained restorations?",
+  "options": [
+   "A thicker porcelain layer",
+   "A plastic clip",
+   "A channel for access to the retaining screw",
+   "A removable base"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A channel for access to the retaining screw. (para 6.15.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-E-004",
+  "exam": "implants",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is the screw access opening lined with metal?",
+  "options": [
+   "To make the restoration lighter",
+   "To match the shade",
+   "To hold the cement",
+   "Porcelain must be supported by cast metal during firing"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Porcelain must be supported by cast metal during firing. (para 6.15.2.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-E-005",
+  "exam": "implants",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is built around the guide pin to create the metal-lined screw access?",
+  "options": [
+   "A wax rim",
+   "A resin chimney",
+   "A stone core",
+   "A silicone plug"
+  ],
+  "answer": 1,
+  "explanation": "Correct: A resin chimney. (para 6.15.2.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-E-006",
+  "exam": "implants",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why must the gold cylinder, except its chamfer, be covered in wax?",
+  "options": [
+   "The cylinder melts at low heat",
+   "Wax makes the cylinder retentive to cement",
+   "Porcelain bonds only to cast metal because the cylinder forms no oxide",
+   "It improves the shade"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Porcelain bonds only to cast metal because the cylinder forms no oxide. (para 6.15.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-E-007",
+  "exam": "implants",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What kind of alloy should be cast over gold cylinders?",
+  "options": [
+   "A noble alloy with a lower melting range than the cylinder",
+   "A nonprecious alloy",
+   "An alloy that melts higher than the cylinder",
+   "Any base metal alloy"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A noble alloy with a lower melting range than the cylinder. (para 6.15.2.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-E-008",
+  "exam": "implants",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Should nonprecious alloys be cast over gold cylinders?",
+  "options": [
+   "Yes, always",
+   "No",
+   "Only in the anterior",
+   "Only for single crowns"
+  ],
+  "answer": 1,
+  "explanation": "Correct: No. (para 6.15.2.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-E-009",
+  "exam": "implants",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How is investment usually removed from inside the gold cylinder?",
+  "options": [
+   "By drilling it out",
+   "By tapping on the sprue",
+   "By heating it in the furnace",
+   "By sandblasting without protection"
+  ],
+  "answer": 1,
+  "explanation": "Correct: By tapping on the sprue. (para 6.15.2.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-E-010",
+  "exam": "implants",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which areas should get particular attention when inspecting the casting?",
+  "options": [
+   "Only the occlusal surface",
+   "Only the sprue",
+   "Only the pontic underside",
+   "The cylinder seating surface and the screw access hole"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The cylinder seating surface and the screw access hole. (para 6.15.2.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-E-011",
+  "exam": "implants",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What special step applies when adding porcelain to screw-retained implant frameworks?",
+  "options": [
+   "Fill the screw hole with porcelain",
+   "Skip opaque",
+   "Fire without a framework",
+   "Clean all porcelain from screw holes and cylinder seats before firing"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Clean all porcelain from screw holes and cylinder seats before firing. (para 6.15.2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-E-012",
+  "exam": "implants",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How is the soft tissue part of the cast used during cutback?",
+  "options": [
+   "To color the porcelain",
+   "To set the vertical dimension",
+   "To make sure the metal collar will be subgingival",
+   "To hold the cylinder"
+  ],
+  "answer": 2,
+  "explanation": "Correct: To make sure the metal collar will be subgingival. (para 6.15.2.1.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.2.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-E-013",
+  "exam": "implants",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How high should the screw access hole extend on a UCLA abutment wax-up?",
+  "options": [
+   "To the occlusal surface height",
+   "Only to the gingival margin",
+   "It should be filled with wax",
+   "Halfway up the collar"
+  ],
+  "answer": 0,
+  "explanation": "Correct: To the occlusal surface height. (para 6.15.3.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.15.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-E-014",
+  "exam": "implants",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which interferences are eliminated on a screw-retained acrylic provisional?",
+  "options": [
+   "All lateral and protrusive interferences",
+   "Only centric stops",
+   "Proximal contacts only",
+   "None"
+  ],
+  "answer": 0,
+  "explanation": "Correct: All lateral and protrusive interferences. (para 6.10.4.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.10.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-F-001",
+  "exam": "implants",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What are angulated abutments used for?",
+  "options": [
+   "To cover the fixture during healing",
+   "To take the impression",
+   "To polish the crown",
+   "To compensate for fixtures that are not ideally placed"
+  ],
+  "answer": 3,
+  "explanation": "Correct: To compensate for fixtures that are not ideally placed. (para 6.2.3.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2.3.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-F-002",
+  "exam": "implants",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Up to how many degrees can angulated abutments correct fixture angulation?",
+  "options": [
+   "Up to 90 degrees",
+   "Up to 30 degrees",
+   "Only 1 degree",
+   "Up to 180 degrees"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Up to 30 degrees. (para 6.2.3.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2.3.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-F-003",
+  "exam": "implants",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a drawback of a large angulation correction?",
+  "options": [
+   "It creates a destructive lever system on the restoration",
+   "It makes the crown lighter",
+   "It improves bone healing",
+   "It removes the need for a screw"
+  ],
+  "answer": 0,
+  "explanation": "Correct: It creates a destructive lever system on the restoration. (para 6.2.3.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2.3.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-F-004",
+  "exam": "implants",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When is a healing abutment used instead of a standard abutment?",
+  "options": [
+   "When the crown is finished",
+   "During the diagnostic wax-up",
+   "When a specialized abutment is needed or the length is unknown",
+   "When porcelain is fired"
+  ],
+  "answer": 2,
+  "explanation": "Correct: When a specialized abutment is needed or the length is unknown. (para 6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-F-005",
+  "exam": "implants",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What are specialized abutments used for?",
+  "options": [
+   "To replace the fixture",
+   "To pour the cast",
+   "To optimize esthetics or make up for limited interocclusal space",
+   "To retain dentures with magnets"
+  ],
+  "answer": 2,
+  "explanation": "Correct: To optimize esthetics or make up for limited interocclusal space. (para 6.2.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-F-006",
+  "exam": "implants",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is a single-tooth implant abutment set 2 to 3 mm below the tissue?",
+  "options": [
+   "So no metal band shows",
+   "To make the crown shorter",
+   "To aid cleaning of the fixture",
+   "To allow a cover screw"
+  ],
+  "answer": 0,
+  "explanation": "Correct: So no metal band shows. (para 6.11.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.11.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-F-007",
+  "exam": "implants",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is a hex-shaped abutment used for a single-tooth implant?",
+  "options": [
+   "To make it lighter",
+   "To allow a clip",
+   "To increase porcelain thickness",
+   "To prevent rotation of the restoration"
+  ],
+  "answer": 3,
+  "explanation": "Correct: To prevent rotation of the restoration. (para 6.11.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.11.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-F-008",
+  "exam": "implants",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Ceramic caps for single-tooth implants are made of what?",
+  "options": [
+   "Gold alloy",
+   "Densely sintered aluminous porcelain",
+   "Acrylic resin",
+   "Stainless steel"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Densely sintered aluminous porcelain. (para 6.12)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.12",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-F-009",
+  "exam": "implants",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How is the length of a ceramic cap chosen?",
+  "options": [
+   "By the interarch space available",
+   "By the patient's age",
+   "By the shade",
+   "By the number of implants"
+  ],
+  "answer": 0,
+  "explanation": "Correct: By the interarch space available. (para 6.12)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.12",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-F-010",
+  "exam": "implants",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the minimum ceramic cap thickness after adjustment?",
+  "options": [
+   "0.05 mm",
+   "5 mm",
+   "0.5 mm",
+   "2 cm"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 0.5 mm. (para 6.12.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.12.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-F-011",
+  "exam": "implants",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why can't conventional metal-ceramic porcelain be layered on a ceramic cap?",
+  "options": [
+   "It is too translucent",
+   "It is too cheap",
+   "It fires too fast",
+   "It is incompatible with the aluminous core"
+  ],
+  "answer": 3,
+  "explanation": "Correct: It is incompatible with the aluminous core. (para 6.12.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.12.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-F-012",
+  "exam": "implants",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where are gold cylinder cement-retained restorations mainly used?",
+  "options": [
+   "Only for full dentures",
+   "Only on canines",
+   "In the posterior area",
+   "In the palate"
+  ],
+  "answer": 2,
+  "explanation": "Correct: In the posterior area. (para 6.13)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.13",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-F-013",
+  "exam": "implants",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a burnout cap?",
+  "options": [
+   "A metal protection cap",
+   "A ceramic core",
+   "A cover screw",
+   "An acrylic resin cap that fits over the abutment and is waxed and cast"
+  ],
+  "answer": 3,
+  "explanation": "Correct: An acrylic resin cap that fits over the abutment and is waxed and cast. (para 6.14)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.14",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-F-014",
+  "exam": "implants",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which is one of the three methods for a cement-retained single-tooth implant?",
+  "options": [
+   "Ceramic cap restoration",
+   "Hader bar",
+   "Magnet retention",
+   "Clip overdenture"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Ceramic cap restoration. (para 6.11.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.11.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-G-001",
+  "exam": "implants",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What keeps restorative components in precise contact with the abutment replica during lab work?",
+  "options": [
+   "Guide pins",
+   "Healing caps",
+   "Cover screws",
+   "Tissue conditioner"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Guide pins. (para 6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-G-002",
+  "exam": "implants",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How tall is a gold cylinder normally?",
+  "options": [
+   "10 to 12 mm",
+   "0.1 mm",
+   "20 mm",
+   "3 to 4 mm"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 3 to 4 mm. (para 6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-G-003",
+  "exam": "implants",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which gold screw needs more interocclusal space?",
+  "options": [
+   "The slotted flat head screw",
+   "They need equal space",
+   "Neither needs space",
+   "The internal hexagon screw"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The internal hexagon screw. (para 6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-G-004",
+  "exam": "implants",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a protection cap made of?",
+  "options": [
+   "Stainless steel",
+   "Wax",
+   "Gypsum",
+   "Silicone"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Stainless steel. (para 6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-G-005",
+  "exam": "implants",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When should a protection cap be on the gold cylinder?",
+  "options": [
+   "Only during impressions",
+   "Only in the mouth",
+   "Never",
+   "During sandblasting, grinding, or polishing"
+  ],
+  "answer": 3,
+  "explanation": "Correct: During sandblasting, grinding, or polishing. (para 6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-G-006",
+  "exam": "implants",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where should debubblizer be painted on a gold cylinder wax-up?",
+  "options": [
+   "Only on the gold cylinder",
+   "Only on the wax pattern",
+   "Inside the screw hole",
+   "On the abutment replica"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Only on the wax pattern. (para 6.13.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.13.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-G-007",
+  "exam": "implants",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What can debubblizer on a gold cylinder cause?",
+  "options": [
+   "Metal casting flash",
+   "A stronger bond",
+   "Faster healing",
+   "Better shade"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Metal casting flash. (para 6.13.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.13.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-G-008",
+  "exam": "implants",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which is a way temporary components attach to the abutment?",
+  "options": [
+   "Only welding",
+   "Only magnets",
+   "Only soldering",
+   "A screw, temporary cement, or friction grip"
+  ],
+  "answer": 3,
+  "explanation": "Correct: A screw, temporary cement, or friction grip. (para 6.2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ },
+ {
+  "id": "imq-G-009",
+  "exam": "implants",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How is a contoured ceramic cap cleaned before porcelain?",
+  "options": [
+   "Sandblasting with no rinse",
+   "Steam or a 10-minute ultrasonic water bath",
+   "Soaking in wax",
+   "Grinding with diamond"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Steam or a 10-minute ultrasonic water bath. (para 6.12.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 6.12.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-06"
+  }
+ }
+]
