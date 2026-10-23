@@ -95,3 +95,10 @@ NBC says the exams are "not based on a specific textbook". From the NADL store: 
 5. Content expansion, one exam at a time (Comprehensive first, then the specialties), each card cited. A verification pass flips the `verified` flags.
 6. Hosting, install test on phone, export/import.
 7. Optional: FSRS-lite, voice answers, DW references once fetched.
+
+## 7. iOS notes (target device: iPhone, Safari)
+- Paths are all relative, so the app works under a static-host subpath. The SW scope is `./`.
+- apple-touch-icon is 180px, and `apple-mobile-web-app-capable` / status-bar meta are set. `viewport-fit=cover` + `env(safe-area-inset-*)` padding handle the notch and home bar.
+- An in-app Add to Home Screen hint shows the Safari Share sheet steps on iOS and the menu steps on Chrome. It is hidden when running standalone and can be dismissed.
+- Phase 4 (audio): iOS `speechSynthesis` only starts from a user gesture. Prime it with a tap, e.g. a "Start hands-free" button that speaks an empty utterance. The voice list loads asynchronously (`voiceschanged`), and speech can stop when the screen locks or the app is backgrounded. Keep each utterance short and chain them with `onend`. There is no `SpeechRecognition` in iOS PWAs, so use tap or headphone controls.
+- iOS can evict PWA storage after long disuse, so the Export backup matters.
