@@ -15,3 +15,9 @@ test('mock exam respects domain weights and caps at availability',()=>{const e=E
 test('record/acc',()=>{const P={};record(P,{exam:'x',domain:'A'},true);record(P,{exam:'x',domain:'A'},false);assert.deepEqual(P.quiz.x.A,{n:2,ok:1});assert.equal(acc(P.quiz.x.A),50);assert.equal(acc(undefined),null);});
 test('mockMinutes proportional',()=>assert.equal(mockMinutes({minutes:90,questions:80},40),45));
 test('speechParts mcq',()=>{const [q,a]=speechParts({type:'mcq',stem:'S?',options:['w','x','y','z'],answer:2});assert.match(q,/B: x/);assert.equal(a,'The answer is C: y.');});
+test('every item has two hashed audio clips that exist',()=>{
+  const ex=[...new Set(all.map(c=>c.exam))];let n=0;
+  for(const e of ex){const m=JSON.parse(fs.readFileSync(new URL(`../audio/${e}/index.json`,import.meta.url)));
+    for(const c of all.filter(x=>x.exam===e)){const f=m[c.id];assert.ok(f&&f.length===2,c.id);
+      for(const x of f){assert.ok(fs.statSync(new URL(`../audio/${e}/${x}`,import.meta.url)).size>1000,x);n++;}}}
+  assert.equal(n,all.length*2);});

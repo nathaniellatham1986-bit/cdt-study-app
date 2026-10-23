@@ -116,9 +116,8 @@ function mockDone(){const s=sess;clearInterval(tick);tick=null;if(s.done)return;
   btns([['‹ Back',back,'pri']]);}
 // ---------- Hands-free audio ----------
 function audio(eid){
-  title.textContent='Listen'; sess={eid}; stopAll();
+  title.textContent='Listen'; sess={eid}; stopAll(); A.loadIndex(eid);
   const e=EXAMS.find(x=>x.id===eid), set=A.settings;
-  if(!A.supported){view.innerHTML='<div class="item">This browser has no speech support.</div>';return btns([['‹',back,'pri']]);}
   const opts=()=>A.voices().map(v=>`<option ${v.name===set.voice?'selected':''}>${esc(v.name)}</option>`).join('');
   view.innerHTML=`<div class="item"><b>${esc(e.name)} — hands-free</b>
    <p class="mut">Reads a question, waits, reads the answer, then moves on. Quiz questions are read with their four options.</p>
@@ -126,16 +125,33 @@ function audio(eid){
    <label>Domain<select id="dom"><option value="">All domains</option>${e.domains.map(d=>`<option value="${d.id}">${d.id}. ${esc(d.name)}</option>`).join('')}</select></label>
    <label>Pause before answer: <b id="pv">${set.pause}</b> s<input type="range" id="pause" min="2" max="20" value="${set.pause}"></label>
    <label>Speed: <b id="rv">${set.rate}</b>×<input type="range" id="rate" min="0.6" max="1.6" step="0.1" value="${set.rate}"></label>
-   <label>Voice<select id="voice">${opts()}</select></label>
-   <p class="note">📱 On iPhone, keep the app open and the screen on — iOS usually stops speech when the screen locks or you switch apps. The app asks the screen to stay awake where supported. For better voices: Settings › Accessibility › Spoken Content › Voices › English › download an “Enhanced” or “Premium” voice.</p></div>`;
-  speechSynthesis.onvoiceschanged=()=>{const v=$('#voice');if(v)v.innerHTML=opts();};
+   <label><input type="checkbox" id="nat" ${set.natural?'checked':''}> Natural recorded voice (recommended)</label>
+   <label id="vwrap" ${set.natural?'class="mut"':''}>Phone voice (backup)<select id="voice">${opts()}</select></label>
+   <div class="item" id="dl"><b>Offline audio</b><div class="mut" id="dls">Checking…</div><progress id="dlp" max="1" value="0" hidden></progress></div>
+   <p class="note">📱 Keep the app open with the screen on while listening — iOS may stop audio when the screen locks. Audio plays from the internet the first time; tap “Download audio for offline” to listen without a connection.</p></div>`;
+  if(globalThis.speechSynthesis)speechSynthesis.onvoiceschanged=()=>{const v=$('#voice');if(v)v.innerHTML=opts();};
   $('#pause').oninput=ev=>{set.pause=+ev.target.value;$('#pv').textContent=set.pause;A.saveSettings();};
   $('#rate').oninput=ev=>{set.rate=+ev.target.value;$('#rv').textContent=set.rate;A.saveSettings();};
+  $('#nat').onchange=ev=>{set.natural=ev.target.checked;A.saveSettings();};
   $('#voice').onchange=ev=>{set.voice=ev.target.value;A.saveSettings();};
+  dlBox(eid);
   btns([['‹',back],['▶ Start',()=>{const src=$('#src').value,dom=$('#dom').value||null;
     const items=shuffle([...(src!=='mcq'?cardsOf(eid,dom):[]),...(src!=='flash'?mcqOf(eid,dom):[])]);
     if(!set.voice&&A.voices()[0]){set.voice=A.voices()[0].name;}
     reader=A.createReader(items,playing); reader.start();},'pri']]);
+}
+async function dlBox(eid){
+  const box=$('#dl'); if(!box)return; const s=$('#dls'),p=$('#dlp');
+  if(!('caches' in self)){s.textContent='Offline download not supported in this browser.';return;}
+  const total=(await A.examClips(eid)).length, have=await A.offlineCount(eid); if(!$('#dl'))return;
+  if(!total){s.textContent='No recorded audio for this exam yet.';return;}
+  const mb=n=>(n*0.027).toFixed(0);
+  const b=document.createElement('button');
+  if(have>=total){s.textContent=`✔ All ${total} clips saved for offline.`;b.textContent='Remove offline audio';b.onclick=async()=>{await A.removeOffline(eid);dlBox(eid);};}
+  else{s.textContent=`${have}/${total} clips saved (about ${mb(total)} MB total).`;b.textContent='⬇ Download audio for offline';
+    b.onclick=async()=>{b.disabled=true;p.hidden=false;const r=await A.download(eid,(d,t,f)=>{p.max=t;p.value=d;s.textContent=`Downloading ${d}/${t}${f?` (${f} failed)`:''}…`;});
+      s.textContent=r.fail?`${r.fail} clips failed — tap again to retry.`:'✔ Done';setTimeout(()=>dlBox(eid),800);};}
+  box.querySelector('button')?.remove(); box.append(b);
 }
 function playing(r){
   if(r!==reader)return; const c=r.items[r.i];
@@ -144,7 +160,7 @@ function playing(r){
   const q=c.type==='mcq'?`${esc(c.stem)}<ol type="A">${c.options.map(o=>`<li>${esc(o)}</li>`).join('')}</ol>`:esc(c.front);
   const a=c.type==='mcq'?`${'ABCD'[c.answer]}: ${esc(c.options[c.answer])}`:esc(c.back);
   view.innerHTML=`<div class="flash audio"><div class="phase">${r.paused?'⏸ Paused':{question:'🔊 Question',thinking:'⏳ Think…',answer:'🔊 Answer'}[r.phase]||''}</div>
-   <p>${q}</p>${r.phase==='answer'?`<hr><p>${a}</p>`:''}<p class="mut">${esc(c.source.ref)} ${esc(c.source.loc||'')} · UNVERIFIED</p></div>`;
+   <p>${q}</p>${r.phase==='answer'?`<hr><p>${a}</p>`:''}<p class="mut">${esc(c.source.ref)} ${esc(c.source.loc||'')} · UNVERIFIED${r.source?` · ${r.source==='natural'?'recorded voice':'phone voice'}`:''}</p></div>`;
   btns([['■ Stop',()=>{stopAll();audio(r.items[0]?.exam||sess.eid);}],[r.paused?'▶ Resume':'⏸ Pause',()=>r.toggle(),'pri'],['Skip ›',()=>r.skip()]]);
 }
 (async()=>{
