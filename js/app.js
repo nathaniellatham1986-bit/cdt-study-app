@@ -150,5 +150,5 @@ function playing(r){
 (async()=>{
   for(const f of CONTENT){try{for(const c of await (await fetch(f)).json())(c.type==='mcq'?mcq:cards).push(c);}catch(x){console.warn(f,x);}}
   home();
-  if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').then(r=>window.__sw=r.scope).catch(e=>console.warn(e));
+  if('serviceWorker' in navigator) (navigator.serviceWorker.controller&&navigator.serviceWorker.addEventListener('controllerchange',()=>location.reload(),{once:true}),navigator.serviceWorker.register('sw.js',{updateViaCache:'none'})).then(r=>window.__sw=r.scope).catch(e=>console.warn(e));
 })();
