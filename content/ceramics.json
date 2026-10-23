@@ -1,0 +1,3110 @@
+[
+ {
+  "id": "cer-A-001",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are elastic impression materials used for fixed prosthodontic impressions?",
+  "back": "Natural tooth and soft-tissue undercuts.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.13.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-A-002",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "From what are diagnostic casts poured?",
+  "back": "Preliminary impressions made in stock trays.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.13.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-A-003",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "When should you do a diagnostic wax-up before making a provisional template?",
+  "back": "When the teeth to be prepared are broken down — restore form and function in wax, duplicate in stone, then form the template.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.1.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-A-004",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Thickness of clear splint material for a vacuum-formed provisional template?",
+  "back": "0.020 inch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-A-005",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a provisional prosthesis packaged for the dentist?",
+  "back": "Disinfected, in a plastic bag with a moist cotton roll.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.1.2.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-A-006",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Alginate template method: what is the cast soaked in first, and how long?",
+  "back": "Saturated calcium sulphate dihydrate solution (SDS), 5 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.2.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-A-007",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Name the three dimensions of color.",
+  "back": "Hue, chroma, value.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-A-008",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Define chroma.",
+  "back": "The saturation (intensity) of a hue.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-A-009",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Define value. Is high value whiter or darker?",
+  "back": "Relative whiteness/brightness; high value is whiter.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-A-010",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is metamerism and how do you avoid shade errors from it?",
+  "back": "Colors that match under one light but not another — compare under the same light.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-A-011",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why avoid staring at shade tabs?",
+  "back": "Cone (eye) fatigue.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-A-012",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Order of shade selection?",
+  "back": "Value first, then hue, then chroma.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-A-013",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Natural teeth fall in which hue range?",
+  "back": "Yellow to yellow-orange.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-A-014",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "No exact tab match — which tab is chosen?",
+  "back": "Higher value and lower chroma.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-A-015",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Where should the shade be taken?",
+  "back": "Neutral-colored room with color-corrected light.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-B-001",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a working cast?",
+  "back": "A cast duplicating the prepared tooth/teeth, the other teeth in the arch and the associated soft tissue.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.16.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-B-002",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why use keyed, tapered dowel pins with serrated heads?",
+  "back": "The die seats in the working cast only one way.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.19.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-B-003",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Stone used for both pours of a doweled working cast?",
+  "back": "An improved (die) stone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.19.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-B-004",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why apply separator to the bases of doweled sections?",
+  "back": "Otherwise removable sections won't separate cleanly from the second pour.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.20.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-B-005",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How much of the dowel pin tip should be left exposed?",
+  "back": "About 2 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.20.12",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-B-006",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Reversible hydrocolloid: what solution improves stone surface hardness?",
+  "back": "2% potassium sulfate, about 5 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.22.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-B-007",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Saw blade for sectioning dies in the shim technique?",
+  "back": "#0000 jeweler's saw blade.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.22.1.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-B-008",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Advantages of electroplated dies?",
+  "back": "Harder surface, more abrasion resistance, superior surface detail.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.24.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-B-009",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "About how long does silver plating an impression take?",
+  "back": "About 15 hours.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.24.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-B-010",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Bulk die trimming: what bur, and how much stone below the margin?",
+  "back": "Pear-shaped bur; expose about 4 mm without a deep recess.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.1.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-B-011",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Final margin definition on the die is done with?",
+  "back": "A #25 Bard-Parker (or beaver) blade.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.1.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-B-012",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why mark margins with red wax pencil, not lead?",
+  "back": "Lead transferred to the mold can pit the casting.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-B-013",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Purpose of die spacer?",
+  "back": "Leaves room for cement film thickness so hydraulic pressure doesn't stop full seating.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-B-014",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "A shoulder margin meets the tooth at what angle, forming what joint?",
+  "back": "90°; a butt joint.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.1.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-B-015",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Typical lab microscope magnification?",
+  "back": "10x to 30x.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.32.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cer-C-001",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Three mechanisms of metal-ceramic bond?",
+  "back": "Chemical, compression, mechanical.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-002",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What oxide is primarily responsible for the chemical bond?",
+  "back": "Tin oxide.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-003",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How does the compression bond arise?",
+  "back": "The metal shrinks more as it cools, putting the veneer in compression.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.2.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-004",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Porcelain is strongest under what kind of load?",
+  "back": "Compression.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-005",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Minimum combined metal + porcelain facial thickness?",
+  "back": "1.2–1.5 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-006",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Pontic design: metal vs porcelain?",
+  "back": "Mostly metal, veneered with 1–1.5 mm of porcelain.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-007",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Where must the metal-ceramic junction never be?",
+  "back": "At an MI occlusal contact — contact must be fully on metal or porcelain.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.5.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-008",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Anterior proximal contacts should be in?",
+  "back": "Porcelain.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.5.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-009",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Cutback: how much is carved from the incisal edge?",
+  "back": "1.5 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.6.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-010",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Metal collar crown: cervical collar width left on the facial?",
+  "back": "1.5 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.6.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-011",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Where are single anterior metal-ceramic units sprued?",
+  "back": "On the incisal edge.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.7.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-012",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Purpose and placement of chill vents?",
+  "back": "Remove gases and draw heat; placed on bulky areas, the connectors.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.7.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-013",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How far should patterns be from the end of the ring?",
+  "back": "3 to 6 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.7.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-014",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Phosphate investment: special liquid vs water effect?",
+  "back": "More special liquid = more expansion.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.8.1.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-015",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Plastic sprue formers: burnout start?",
+  "back": "Gradually — about 30 min at 600 °F before raising to 1300 °F.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.9.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-016",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Casting torch pressures?",
+  "back": "Oxygen 8 psi; propane 6–8 psi.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.10.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-017",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Alloy melt color sequence?",
+  "back": "Red → orange → dull white → mirror-like white.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.10.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-018",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Which abrasives may touch porcelain-bearing metal?",
+  "back": "New or alloy-dedicated ones, ceramic-bonded only — no rubber wheels or epoxy/silica binders.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.11.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-019",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Best finishing instruments for metal-ceramic frameworks?",
+  "back": "Single-cut carbide burs, grinding in one direction.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.11.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-020",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How is the metal-ceramic junction finished?",
+  "back": "Fresh #8 carbide bur, 90-degree preparation, sharp and continuous.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.11.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-021",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Minimum noble metal coping thickness when reducing the facial?",
+  "back": "0.3 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.11.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-022",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Metal pretreatment sequence (in order)?",
+  "back": "Grind, ultrasonic/steam clean, vacuum oxidize at 1040 °C 2 min, deoxidize, heat at atmospheric pressure 1040 °C 2 min.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.12",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-C-023",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "All-ceramic crown reduction?",
+  "back": "1.5 mm axial, 1.5–2 mm occlusal/incisal, 0.6–1.2 mm rounded shoulder.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-C-024",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "In-Ceram coping minimum thickness?",
+  "back": "At least 0.5 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.4.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-C-025",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Pressed ceramic wax-up minimums?",
+  "back": "1.5 mm axial, 2 mm incisal, 1 mm shoulder.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-C-026",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Pressed-ceramic sprue?",
+  "back": "Single 8-gauge, 6–8 mm long, incisal or noncritical cusp.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-C-027",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Unlike conventional castings, pressed patterns are placed where?",
+  "back": "In the thermal zone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-D-001",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Two named purposes of opaque?",
+  "back": "Masks the metal and simulates dentin color (also involved in the bond).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.13",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-002",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Brush used to apply opaque?",
+  "back": "#6 sable.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.13",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-003",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Opaque firing settings (example)?",
+  "back": "To 960 °C at 32 °C/min under vacuum.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.13.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-004",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "A properly fired opaque looks?",
+  "back": "Matte or slight eggshell sheen.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.13.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-005",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Second opaque coat goal?",
+  "back": "Eliminate all metal shadows — not spot patching.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.13.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-006",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Pink opaque modifier is for?",
+  "back": "A warmer tone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.13.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-007",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Brown opaque modifier is for?",
+  "back": "The cervical area.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.13.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-008",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Define condensing.",
+  "back": "Packing porcelain particles and removing water.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-009",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Where does porcelain shrink most?",
+  "back": "Line and point angles.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-010",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Effect of fine-grained porcelain on shrinkage?",
+  "back": "Lower volume shrinkage.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-011",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Four condensing methods?",
+  "back": "Vibration, capillary blotting, pressure packing, brushing.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-012",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Driving force of condensation?",
+  "back": "Surface tension.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-013",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "From which surface is moisture blotted?",
+  "back": "Lingual.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.4.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-014",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How are die contact areas sealed?",
+  "back": "Clear nail polish or cyanoacrylate.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-015",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Enamel vs dentin porcelain consistency?",
+  "back": "Enamel mixed a little thinner.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.4.5.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-016",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Posterior cusp cutback?",
+  "back": "Remove 1 mm from the occlusal table.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.6.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-017",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Order of enamel on cusps?",
+  "back": "Functioning cusps first, then nonfunctioning.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.6.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-018",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Articulator state when building dentin cusps?",
+  "back": "Completely closed.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.6.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-019",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How to add chroma in fossae depths?",
+  "back": "Thin cervical porcelain or orange-brown modifier near fossae before dentin.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-020",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Modified layering: oversize?",
+  "back": "15–20% larger than finished.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.7.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-021",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Clear porcelain over entire facial gives?",
+  "back": "Depth of color.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.7.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-022",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Ideal collarless crown prep?",
+  "back": "90° facial shoulder.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-023",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Shoulder porcelain vs body porcelain sintering?",
+  "back": "Shoulder porcelain sinters higher.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.8.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-024",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Die prep for porcelain margin?",
+  "back": "Cyanoacrylate, then separating medium.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.8.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-025",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Porcelain margins usually built how many times?",
+  "back": "Two or three.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.8.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-026",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Mamelons appear as?",
+  "back": "Three finger-like dentin extensions.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.9.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-027",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why build check lines in depth?",
+  "back": "Surface stains reproduce them poorly.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.10.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-028",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Translucency in natural teeth is greatest where?",
+  "back": "Mesial and distal incisal edges.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.10.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-029",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why dry the buildup fully?",
+  "back": "Steam can crack veneer sections.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.15.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-030",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "When can temperature rise in a vacuum firing?",
+  "back": "Only after full vacuum.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.15.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-031",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Before refiring a glazed restoration?",
+  "back": "Remove glaze by air abrading with aluminum oxide.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.16.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-032",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Veneer under 1.2 mm risks?",
+  "back": "Opaque showing through.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.17.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-033",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Occlusion adjustment order?",
+  "back": "MI first, then excursions.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.17.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-034",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Typical natural tooth surface finish?",
+  "back": "Satin; only high spots shiny.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.18.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-035",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Posterior contacts to avoid?",
+  "back": "Marginal ridges.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.19.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-036",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Rule for shade alteration?",
+  "back": "Minor, between adjacent tabs; major — remake.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-037",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How to appraise color before glazing?",
+  "back": "Liquid glaze medium — not saliva or water.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-038",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Increase vs decrease chroma with stain?",
+  "back": "Increase: same hue. Decrease: complement.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-039",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Lower value for orange/yellow hues?",
+  "back": "Add blue / violet.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.1.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-040",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Effect of brown stain?",
+  "back": "Raises chroma, lowers value.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.1.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-041",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Raising value?",
+  "back": "Next to impossible.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.1.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-042",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Proximal staining colors?",
+  "back": "Orange + brown.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.2.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-043",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Hypocalcification stain?",
+  "back": "White.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-044",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Mixing equal-chroma complements gives?",
+  "back": "Gray.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-045",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Glaze controlled by?",
+  "back": "Time and temperature.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.25.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-046",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Correct overglaze consistency?",
+  "back": "Strings from spatula.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.26.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-D-047",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Low-fusing furnace solder temperature?",
+  "back": "870 °C.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.28.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-E-001",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Low-fusing porcelain maturing range?",
+  "back": "870–1065 °C.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-E-002",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Noble metals?",
+  "back": "Gold + platinum group.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.58.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "cer-E-003",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Silver risk in alloys?",
+  "back": "Greening + muffle contamination.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.62.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "cer-E-004",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Palladium casting risk?",
+  "back": "Hydrogen absorption.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.62.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "cer-E-005",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Porcelain fluxes?",
+  "back": "K, Na, Ca oxides — lower softening temperature, raise expansion.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.70.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "cer-E-006",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Intermediate oxide in porcelain?",
+  "back": "Aluminum oxide.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.70.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "cer-E-007",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Porcelain opacifiers?",
+  "back": "Ce, Ti, Zr oxides.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.70.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "cer-E-008",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "24K gold conditioner purpose?",
+  "back": "Reduces surface silver.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.12",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-E-009",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Ceramic conditioner role?",
+  "back": "Barrier layer.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.12",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-E-010",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Crucibles needing no liner?",
+  "back": "Alumina or quartz.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.10.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cer-E-011",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "In-Ceram alumina powder amount?",
+  "back": "38 g.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.4.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-E-012",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "In-Ceram glass infiltration firing?",
+  "back": "4–6 h hold at 1100 °C, platinum tray.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.4.7.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-E-013",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "In-Ceram veneering porcelain?",
+  "back": "VitaDur Alpha aluminous porcelain.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.4.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-E-014",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Duplicating material for In-Ceram?",
+  "back": "PVS / addition silicone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-E-015",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Pressed-ceramic investment colors?",
+  "back": "White = layering; blue = staining.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-E-016",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Pressing cycle length?",
+  "back": "About 45 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.5.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-E-017",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Pattern weight under 0.24 g?",
+  "back": "Add a dummy pattern.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-E-018",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Stumpf die purpose?",
+  "back": "Dentin-shaded die for evaluating color.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-E-019",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Pressed dentin core minimum?",
+  "back": "0.8 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.8.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-E-020",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Veneer etching agent?",
+  "back": "7.5% hydrofluoric acid gel.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.9.6.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-E-021",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Degassed refractory color?",
+  "back": "White.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.9.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-E-022",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why soak refractory in distilled water?",
+  "back": "Keeps porcelain from drying out fast.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.9.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-E-023",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Primary advantage of all-ceramics?",
+  "back": "Esthetics — light transmission.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-E-024",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "All-ceramic uses?",
+  "back": "Crowns, inlays, onlays, veneers.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cer-E-025",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "HF acid first-aid?",
+  "back": "Magnesium oxide ointment.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.93",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-A-001",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Shade is evaluated in what order?",
+  "options": [
+   "Value, hue, chroma",
+   "Hue, chroma, value",
+   "Chroma, value, hue",
+   "Hue, value, chroma"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Value, hue, chroma. (para 2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-A-002",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Saturation of a hue is called:",
+  "options": [
+   "Value",
+   "Translucency",
+   "Metamerism",
+   "Chroma"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Chroma. (para 2.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-A-003",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "No tab matches — choose:",
+  "options": [
+   "Lower value, higher chroma",
+   "Lowest value available",
+   "Higher value, lower chroma",
+   "Highest chroma available"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Higher value, lower chroma. (para 2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-A-004",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Natural tooth hue range:",
+  "options": [
+   "Yellow to yellow-orange",
+   "Blue to violet",
+   "Red to pink",
+   "Green to yellow"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Yellow to yellow-orange. (para 2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-A-005",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Colors matching under one light but not another:",
+  "options": [
+   "Fluorescence",
+   "Opalescence",
+   "Cone fatigue",
+   "Metamerism"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Metamerism. (para 2.3.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-A-006",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Vacuum-form template material thickness:",
+  "options": [
+   "0.020 inch",
+   "0.125 inch",
+   "0.5 inch",
+   "0.001 inch"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 0.020 inch. (para 1.14.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cmq-A-007",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Cast soak before alginate template:",
+  "options": [
+   "Nitric acid for 1 minute",
+   "SDS for 5 minutes",
+   "Hot water 1 hour",
+   "Glutaraldehyde 24 h"
+  ],
+  "answer": 1,
+  "explanation": "Correct: SDS for 5 minutes. (para 1.14.2.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.2.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cmq-B-001",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Dowel pin exposure at tips:",
+  "options": [
+   "About 2 mm",
+   "About 10 mm",
+   "Flush/none",
+   "About 25 mm"
+  ],
+  "answer": 0,
+  "explanation": "Correct: About 2 mm. (para 1.20.12)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.20.12",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cmq-B-002",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Improves stone surface hardness after reversible hydrocolloid:",
+  "options": [
+   "2% potassium sulfate",
+   "Borax",
+   "Vinegar",
+   "Potassium citrate"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 2% potassium sulfate. (para 1.22.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.22.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cmq-B-003",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Margin marking pencil:",
+  "options": [
+   "Lead pencil",
+   "Red wax pencil",
+   "Indelible ink pen",
+   "Graphite stick"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Red wax pencil. (para 1.33.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cmq-B-004",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Die spacer provides room for:",
+  "options": [
+   "Porcelain shrinkage",
+   "Wax expansion",
+   "Investment",
+   "Cement film thickness"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Cement film thickness. (para 1.33.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cmq-B-005",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Final margin trimming instrument:",
+  "options": [
+   "Coarse diamond wheel",
+   "Pear bur",
+   "#25 Bard-Parker blade",
+   "Jeweler's saw"
+  ],
+  "answer": 2,
+  "explanation": "Correct: #25 Bard-Parker blade. (para 1.33.1.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.1.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cmq-B-006",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Electroplated die advantage:",
+  "options": [
+   "Harder, more abrasion-resistant surface",
+   "Lower cost",
+   "Faster than stone (minutes)",
+   "Hydrophilic"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Harder, more abrasion-resistant surface. (para 1.24.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.24.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cmq-C-001",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Primary chemical bond oxide:",
+  "options": [
+   "Tin oxide",
+   "Aluminum oxide",
+   "Silicon carbide",
+   "Magnesium oxide"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Tin oxide. (para 2.2.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-C-002",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Porcelain strongest in:",
+  "options": [
+   "Compression",
+   "Tension",
+   "Shear",
+   "Torsion"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Compression. (para 2.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-C-003",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Metal-ceramic junction must never be at:",
+  "options": [
+   "The lingual",
+   "The cervical collar",
+   "An MI contact",
+   "The proximal-lingual"
+  ],
+  "answer": 2,
+  "explanation": "Correct: An MI contact. (para 2.5.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.5.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-C-004",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Incisal cutback depth:",
+  "options": [
+   "0.3 mm",
+   "4 mm",
+   "1.5 mm",
+   "6 mm"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 1.5 mm. (para 2.6.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.6.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-C-005",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Chill vents placed on:",
+  "options": [
+   "Incisal edges",
+   "Margins",
+   "Connectors",
+   "Pontic ridge-lap"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Connectors. (para 2.7.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.7.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-C-006",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Pattern distance from ring end:",
+  "options": [
+   "0 mm",
+   "3–6 mm",
+   "15–20 mm",
+   "25 mm"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 3–6 mm. (para 2.7.4.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.7.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-C-007",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "More expansion in phosphate investment:",
+  "options": [
+   "More water",
+   "Fewer liner layers",
+   "More special liquid",
+   "Lower burnout temperature"
+  ],
+  "answer": 2,
+  "explanation": "Correct: More special liquid. (para 2.8.1.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.8.1.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-C-008",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Torch oxygen pressure:",
+  "options": [
+   "30 psi",
+   "8 psi",
+   "1 psi",
+   "60 psi"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 8 psi. (para 2.10.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.10.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-C-009",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Junction finishing angle:",
+  "options": [
+   "45 degrees",
+   "30 degrees",
+   "135 degrees",
+   "90 degrees"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 90 degrees. (para 2.11.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.11.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-C-010",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "All-ceramic axial reduction:",
+  "options": [
+   "0.3 mm",
+   "3 mm",
+   "0.5 mm",
+   "1.5 mm"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 1.5 mm. (para 4.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cmq-C-011",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Pressed ceramic patterns placed:",
+  "options": [
+   "In the thermal zone",
+   "Outside the thermal zone",
+   "Touching the ring",
+   "At the ring top"
+  ],
+  "answer": 0,
+  "explanation": "Correct: In the thermal zone. (para 4.7.3.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cmq-D-001",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Opaque firing appearance:",
+  "options": [
+   "High glaze",
+   "Matte or eggshell",
+   "Chalky with cracks",
+   "Metallic"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Matte or eggshell. (para 2.13.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.13.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-002",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Opaque brush:",
+  "options": [
+   "#0000 nylon",
+   "#6 sable",
+   "Toothbrush",
+   "#25 blade"
+  ],
+  "answer": 1,
+  "explanation": "Correct: #6 sable. (para 2.13)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.13",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-003",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Brown opaque modifier region:",
+  "options": [
+   "Incisal",
+   "Cervical",
+   "Mamelons",
+   "Contacts"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Cervical. (para 2.13.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.13.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-004",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Condensation driving force:",
+  "options": [
+   "Gravity",
+   "Surface tension",
+   "Vacuum",
+   "Magnetism"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Surface tension. (para 2.14.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-005",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Greatest shrinkage:",
+  "options": [
+   "Line and point angles",
+   "Facial center",
+   "Cervical collar",
+   "Lingual fossa"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Line and point angles. (para 2.14.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-006",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Blot from:",
+  "options": [
+   "Facial",
+   "Incisal",
+   "Lingual",
+   "Inside of coping"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Lingual. (para 2.14.4.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.4.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-007",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Enamel porcelain vs dentin:",
+  "options": [
+   "Much thicker",
+   "Dry powder",
+   "Identical",
+   "Slightly thinner"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Slightly thinner. (para 2.14.4.5.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.4.5.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-008",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Occlusal dentin cutback:",
+  "options": [
+   "4 mm",
+   "0.1 mm",
+   "3 mm",
+   "1 mm"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 1 mm. (para 2.14.6.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.6.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-009",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Modified layering oversize:",
+  "options": [
+   "1–2%",
+   "50%",
+   "15–20%",
+   "100%"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 15–20%. (para 2.14.7.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.7.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-010",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Shoulder porcelain sinters:",
+  "options": [
+   "Lower than body porcelain",
+   "At room temp",
+   "Same",
+   "Higher than body porcelain"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Higher than body porcelain. (para 2.14.8.1.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.8.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-011",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Porcelain margins built:",
+  "options": [
+   "Once",
+   "Two or three times",
+   "Ten times",
+   "Never—metal only"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Two or three times. (para 2.14.8.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.8.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-012",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Most translucent zones:",
+  "options": [
+   "Cervical",
+   "Lingual fossa",
+   "Mid-facial",
+   "Mesial & distal incisal"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Mesial & distal incisal. (para 2.14.10.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.10.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-013",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Raise temperature in vacuum firing when:",
+  "options": [
+   "Immediately",
+   "After glazing",
+   "Full vacuum reached",
+   "Never"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Full vacuum reached. (para 2.15.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.15.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-014",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Veneer below 1.2 mm:",
+  "options": [
+   "Opaque may show",
+   "Stronger crown",
+   "Higher value always",
+   "No effect"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Opaque may show. (para 2.17.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.17.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-015",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Adjust occlusion:",
+  "options": [
+   "Excursions first",
+   "Protrusive only",
+   "Skip MI",
+   "MI first"
+  ],
+  "answer": 3,
+  "explanation": "Correct: MI first. (para 2.17.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.17.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-016",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Avoid porcelain contacts on:",
+  "options": [
+   "Cusp tips in fossae",
+   "Marginal ridges",
+   "Metal lingual",
+   "Central fossa"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Marginal ridges. (para 2.19.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.19.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-017",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Decrease chroma:",
+  "options": [
+   "Add same hue",
+   "Add more opaque",
+   "Add complement",
+   "Add brown"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Add complement. (para 2.23.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-018",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Lower value yellow:",
+  "options": [
+   "Add yellow",
+   "Add white",
+   "Add orange",
+   "Add violet"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Add violet. (para 2.23.1.4.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.1.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-019",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Brown stain effect:",
+  "options": [
+   "Less chroma, more value",
+   "More chroma, less value",
+   "Raises value only",
+   "No effect"
+  ],
+  "answer": 1,
+  "explanation": "Correct: More chroma, less value. (para 2.23.1.4.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.1.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-020",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Raising value with stain:",
+  "options": [
+   "Easy—add blue",
+   "Easy—add violet",
+   "Done with glaze",
+   "Next to impossible"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Next to impossible. (para 2.23.1.4.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.1.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-021",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Proximal stain:",
+  "options": [
+   "Blue and violet",
+   "Orange and brown",
+   "Pure white",
+   "Green"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Orange and brown. (para 2.23.2.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.2.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-022",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Glaze control:",
+  "options": [
+   "Brush size",
+   "Room humidity",
+   "Opaque color",
+   "Time and temperature"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Time and temperature. (para 2.25.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.25.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-D-023",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Low-fusing furnace soldering temp:",
+  "options": [
+   "300 °C",
+   "1300 °C",
+   "870 °C",
+   "600 °C"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 870 °C. (para 2.28.3.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.28.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-E-001",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Low-fusing porcelain matures:",
+  "options": [
+   "300–500 °C",
+   "1300–1500 °C",
+   "870–1065 °C",
+   "2600–2800 °C"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 870–1065 °C. (para 2.2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-E-002",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Silver causes:",
+  "options": [
+   "Hydrogen absorption",
+   "Higher value",
+   "Greening",
+   "Stronger bond"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Greening. (para 2.62.2.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.62.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-E-003",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Palladium risk:",
+  "options": [
+   "Greening",
+   "Low melting",
+   "Hydrogen absorption",
+   "Brittleness of porcelain"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Hydrogen absorption. (para 2.62.3.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.62.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-E-004",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Porcelain opacifier:",
+  "options": [
+   "Potassium oxide",
+   "Sodium oxide",
+   "Calcium oxide",
+   "Zirconium oxide"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Zirconium oxide. (para 2.70.4.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.70.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-E-005",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Gold conditioner reduces:",
+  "options": [
+   "Surface silver",
+   "Porcelain shrinkage",
+   "Firing temperature",
+   "Opaque thickness"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Surface silver. (para 2.12)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.12",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-E-006",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "No-liner crucibles:",
+  "options": [
+   "Alumina or quartz",
+   "Clay",
+   "Carbon",
+   "Steel"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Alumina or quartz. (para 2.10.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.10.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cmq-E-007",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In-Ceram infiltration hold:",
+  "options": [
+   "2 min at 1040 °C",
+   "30 min at 600 °F",
+   "4–6 h at 1100 °C",
+   "45 min"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 4–6 h at 1100 °C. (para 4.4.7.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.4.7.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cmq-E-008",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In-Ceram veneer porcelain:",
+  "options": [
+   "Ceramco 1600 Add-On",
+   "Shoulder porcelain",
+   "Empress neutral",
+   "VitaDur Alpha"
+  ],
+  "answer": 3,
+  "explanation": "Correct: VitaDur Alpha. (para 4.4.8)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.4.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cmq-E-009",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Layering investment color:",
+  "options": [
+   "White",
+   "Blue",
+   "Pink",
+   "Gray"
+  ],
+  "answer": 0,
+  "explanation": "Correct: White. (para 4.7.4.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cmq-E-010",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Pressing cycle length:",
+  "options": [
+   "About 5 minutes",
+   "About 4 hours",
+   "About 15 hours",
+   "About 45 minutes"
+  ],
+  "answer": 3,
+  "explanation": "Correct: About 45 minutes. (para 4.7.5.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.5.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cmq-E-011",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Stumpf die is:",
+  "options": [
+   "Refractory die",
+   "Dentin-shaded die for color",
+   "Metal die",
+   "Wax die"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Dentin-shaded die for color. (para 4.7.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cmq-E-012",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Pressed dentin core minimum:",
+  "options": [
+   "0.8 mm",
+   "0.1 mm",
+   "3 mm",
+   "5 mm"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 0.8 mm. (para 4.7.8.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.8.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cmq-E-013",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Veneer etchant:",
+  "options": [
+   "37% phosphoric acid",
+   "Aqua regia",
+   "7.5% hydrofluoric acid",
+   "Nitric acid"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 7.5% hydrofluoric acid. (para 4.9.6.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.9.6.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cmq-E-014",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Degassed refractory should be:",
+  "options": [
+   "Gray",
+   "Black",
+   "Pink",
+   "White"
+  ],
+  "answer": 3,
+  "explanation": "Correct: White. (para 4.9.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.9.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cmq-E-015",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "All-ceramic primary advantage:",
+  "options": [
+   "Lower cost",
+   "Esthetics (light transmission)",
+   "Less reduction",
+   "Metal strength"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Esthetics (light transmission). (para 4.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ }
+]

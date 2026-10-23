@@ -16,3 +16,13 @@ nav button.pri{background:var(--acc);color:#fff}.g0{background:#b91c1c!important
 .item.now{background:#0a7d55;color:#fff;border-color:#0a7d55;padding:18px 16px;font-size:1.15rem}
 .item.now .mut{color:#e6fff4}
 .flash a{color:inherit}
+.tools{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px}.tools .item{padding:12px 10px;text-align:center}
+.q .stem{font-size:21px;font-weight:600;margin:10px 0 14px}
+.opt{display:flex;gap:12px;align-items:flex-start;width:100%;min-height:64px;text-align:left;font-size:18px;padding:14px;margin:0 0 10px;border-radius:14px;border:2px solid #8884;background:var(--card);color:var(--fg)}
+.opt b{min-width:1.4em}.opt.ok{border-color:#15803d;background:#dcfce7;color:#14532d}.opt.bad{border-color:#b91c1c;background:#fee2e2;color:#7f1d1d}.opt.dim{opacity:.55}
+.fb{border-radius:14px;padding:14px;margin-top:4px;font-size:16px}.fb.ok{background:#dcfce7;color:#14532d}.fb.bad{background:#fee2e2;color:#7f1d1d}.fb a{color:inherit}
+.plan{width:100%;border-collapse:collapse;font-size:15px}.plan td,.plan th{padding:4px;border-bottom:1px solid #8883;text-align:center}
+label{display:block;margin:12px 0;font-size:16px}select,input[type=range]{display:block;width:100%;min-height:44px;font-size:17px;margin-top:4px}
+.note{background:#fef3c7;color:#78350f;border-radius:12px;padding:10px;font-size:14px}
+.audio .phase{font-weight:700;color:var(--acc);margin-bottom:6px}.audio ol{padding-left:1.4em}
+#clock{font-variant-numeric:tabular-nums}

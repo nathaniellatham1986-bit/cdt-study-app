@@ -1,3 +1,4 @@
 node_modules/
 sources/afman/
 sources/web/
+__pycache__/
