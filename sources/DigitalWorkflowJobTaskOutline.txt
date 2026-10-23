@@ -1,0 +1,67 @@
+                                     Job Task Outline for Certified Dental Technician Digital Workflow Examination
+                                                       For NBC Examinations beginning in 2023
+
+
+
+
+This outline is intended solely for use of candidates interested in seeking certification with the National Board for Certification in Dental
+Laboratory Technology. NBC reserves the right to amend the information contained in this document. This outline was last revised in June of
+2022. The materials in this document are protected under provisions of US Copyright law. Any unauthorized distribution, reproduction or use
+by any means is strictly prohibited by law without prior written permission from the copyright owners.
+
+                                                                 Data Aquisition
+                                            (21- 25% of written exam questions are from this domain)
+Retrieve IO scans
+Interpret prescriptions
+Plan cases (e.g., dental, restorative, treatment)
+Create digital workorders (e.g., all indications)
+Scan physical impression and/or final models (e.g., bite registration, max/min, scan bodies, tissue)
+Import intra-oral scans into CAD software (e.g., .stl files)
+Perform scan quality checks
+Clean up excess data from scans
+Import/Export CAD files (e.g., outsource workflow)
+                                                               Design Indications
+                                            (30- 34% of written exam questions are from this domain)
+Model/Scan orientation
+Establish a design protocol
+Select materials
+Navigate tooth and material libraries
+Design models (e.g., milling, printing)
+Design cosmetic smile
+Design crowns and bridges
+Design custom trays
+Design complete dentures
+Design RPDs
+Design splints (e.g., night guards)
+Design orthodontic appliances
+Design surgical guides
+Design implant abutments
+Design all on X
+                                                             Fabricating Restorations
+                                           (22 - 26% of written exam questions are from this domain)
+Outsource design to appropriate manufacturers
+Use CAM software to nest CAD restorations in mills
+Use CAM software to nest CAD restorations in 3D printers
+Perform CAM quality checks (e.g., milling strategy, print simulation)
+Troubleshoot errors/problems (e.g., CAM error messaging during design or nesting)
+Operate 3D printers (e.g., load/unload, calibrate/test)
+Operate mills (e.g., load/unload, calibrate/test)
+Post-process printed parts (e.g., final curing of printed material)
+Post-process milled parts (e.g., blowing off dust, sintering, sprue removal)
+Perform restoration quality checks (e.g., shade margins)
+                                                          Maintaining Digital Equipment
+                                           (20 - 24% of written exam questions are from this domain)
+Maintain PC (e.g., memory, graphics card, server archival)
+Maintain software licenses (e.g., adding new software, renewing licenses)
+Maintain regulatory standards (e.g., 510K, HIPAA, OSHA)
+Perform electronic updates (e.g., software system)
+Maintain CAD/CAM material files (e.g., DMEs, file library)
+Maintain scanners (e.g., calibration, dust/debris removal)
+Maintain mills (e.g., calibration, cleaning, tool changing)
+Maintain 3D printers (e.g., calibration, cleaning, and changing trays)
+Maintain sintering trays and furnaces (e.g., purging, clean/repair, replace heating elements)
+
+
+
+                                          © 2022 National Board for Certification in Dental Laboratory Technology
+

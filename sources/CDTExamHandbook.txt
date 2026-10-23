@@ -1,0 +1,2723 @@
+CERTIFIED DENTAL TECHNICIAN
+EXAMINATION HANDBOOK AND APPLICATION
+   Dear Certified Dental Technician
+              Candidate:
+Thank you for your interest in pursuing the CDT designation. You are to be
+congratulated for your commitment to attain the highest standards of professional
+excellence within the dental technology community.
+
+You should know that this distinctive certification, when it is obtained, places you
+among the elite group of dental technology professionals who hold this designation.
+We, at the NBC Headquarters in Tallahassee, Florida, will be with you throughout the
+process, providing guidance, information, study material and advice, which will help
+you along the path to becoming a CDT.
+
+This handbook contains the information you need in order to become a Certified
+Dental Technician. For more information about the NBC, visit our website at www.
+nbccert.org. The examination applications, order forms, and the examination
+schedules are also available on the website.
+
+Once again, you have made an excellent choice in pursuing the CDT designation and
+we will be there to provide support for you along the way.
+
+If you have any questions, please contact the NBC at certification@nbccert.org or call
+(800) 684-5310.
+
+
+                                                       325 John Knox Road, #L103, Tallahassee, FL 32303
+                                                       (800) 684-5310 Toll Free • (850) 205-5626
+                                                       (850) 222-0053 Fax • www.nbccert.org
+
+This publication is intended solely for use by candidates interested in seeking certification with the National Board
+for Certification in Dental Laboratory Technology. NBC reserves the right to amend the information contained in this
+handbook. For the most up-to-date information concerning the examinations, please contact NBC.
+
+Revised 3/1/2026
+
+The materials in this document are protected under provisions of US Copyright law. Any unauthorized distribution,
+reproduction or use by any means is strictly prohibited by law without prior written permission from the copyright owners.
+                                                                                            Revised 3/1/2026
+
+
+
+
+     Certified Dental Technician Examination
+             Handbook and Application
+NBC MISSION
+The National Board for Certification in Dental Laboratory Technology provides professional
+certification to both dental technicians and dental laboratories.
+
+
+NBC VISION
+NBC is dedicated to administering and promoting globally recognized certification programs to
+assess the knowledge and skills of dental technicians and to review facility and staff training criteria
+for dental laboratories.
+
+
+STATEMENT OF NONDISCRIMINATION
+The Certified Dental Technician program is offered to all candidates that meet eligibility
+requirements regardless of age, race, religion, gender, national origin, marital status or disability.
+
+
+AMERICANS WITH DISABILITIES ACT FOR
+EXAMINATION CANDIDATES
+No individual with a disability will be deprived of the opportunity to take the NBC examinations
+solely by the reason of that disability. The NBC complies with the Americans with Disabilities
+Act and will provide reasonable accommodations for candidates with disabilities. An application
+requesting special accommodations and arrangements at regularly scheduled examinations must
+be submitted at least thirty (30) days prior to the examination, in writing, to the NBC. The request
+must include verification of the disability and the specific type of assistance needed. Please contact
+the NBC for an application form, if needed.
+
+
+   Please read all sections of this handbook. Information can also be
+   found on the NBC website at www.nbccert.org. You can contact the NBC
+   Headquarters at certification@nbccert.org or (800) 684-5310.
+
+
+                                                325 John Knox Road, #L103, Tallahassee, FL 32303
+                                                (800) 684-5310 Toll Free • (850) 205-5626
+                                                (850) 222-0053 Fax • www.nbccert.org
+
+
+                  © 2026 National Board for Certification in Dental Laboratory Technology
+CDT Examination Handbook and Application
+
+
+
+     Certified Dental Technician
+Examination Handbook and Applications
+
+TABLE OF CONTENTS
+How to Become a Certified Dental Technician
+  What is Certification?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+  What Are the Skill Standards?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+  The Examinations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+  Annual Renewal. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+Overview of History, Regulation & Organization in Dental Laboratory Technology
+   Early History. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+   First Commercial Dental Laboratory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+   National Organization. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+   Beginning of Certification. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+   Government Regulations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+   Related Organizations and Institutions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+   Other Standards. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+Examination Application Process
+   Eligibility for Testing. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+   Application Process and Fees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+   Written Examination Registration. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+   Practical Examination Registration. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+   Examination Cancellation/Rescheduling Policy. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+About the CDT Examinations
+   Types of Examinations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+        Comprehensive Examination. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+        Written Specialty Examination. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+        Practical Examination. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+          Remote Testing Using a Third Party Proctor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+          Group Testing at a Pre-Scheduled Volunteer Host Site. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+        Examination References. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+   Examination Preparation & Sample Questions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+   The NBC Examiners. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+   The Grading System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+   Notification of Grades. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+   Failing Grades. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+Examination Content & Tasks
+   Written Examinations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+   Practical Examination. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+
+Appeals
+   Written Examination Appeal Policy & Procedures. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+   Practical Examination Appeal Policy & Procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+
+Application
+   CDT Examination Application . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+   Continuing Education Addendum. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+
+
+
+
+PAGE 2        Revised 3/1/2026                                           National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+
+
+                          How to Become a
+                     Certified Dental Technician
+
+WHAT IS CERTIFICATION?
+Certification is the professional standard in dental laboratory technology. It is the means for the
+dental profession, the dental laboratory industry and all others with an interest to identify dental
+technicians and dental laboratories that have demonstrated their technical qualifications and their
+commitment to maintaining high standards in dental laboratory technology.
+
+The Certified Dental Technician (CDT) Program is a national program. Since certification is
+voluntary, it represents not only compliance with documented standards, but also a special
+personal commitment to quality and professionalism. Each CDT has met industry standards of
+required knowledge and applied skills through the successful completion of examinations and
+compliance with continuing technical and regulatory education requirements.
+
+The CDT is recognized and endorsed by the National Association of Dental Laboratories (NADL),
+the American Dental Association (ADA) and the American College of Prosthodontists (ACP). It
+also receives outstanding support and participation from U.S. military services. The CDT program
+adheres to national certification program standards.
+
+For those engaged in the practice of dental laboratory technology, certification offers:
+    • An incentive to achieve proficiency;
+    • Criteria for maintaining continuing education;
+    • Improved career opportunities;
+    • Peer recognition; and
+    • Enhanced professional visibility.
+
+For the dentist-client, certification offers:
+    • Reinforced credibility through the use of credentialed support services;
+    • A means to encourage proficiency and advancement; and
+    • An enhanced source of specialized expertise.
+
+Finally, for the dental patient, certification could establish:
+    • An enhanced perception of the value of dental services; and
+    • A positive perception of (and respect for) the career of dental laboratory technology.
+
+
+
+WHAT ARE THE SKILL STANDARDS?
+The goal of the CDT examination is to measure competence or the mastery of a predetermined
+body of knowledge and the skills deemed to represent the successful, professional-level practice
+of dental laboratory technology. To become a CDT, a technician must demonstrate their knowledge
+and applied skills, from start to finish in their chosen specialty, in the manufacturing procedures
+common in contemporary practice. There are seven (7) specialties currently recognized by the
+NBC: Ceramics, Complete Dentures, Crown & Bridge, Digital Workflow, Implants, Orthodontics and
+Partial Dentures.
+
+
+                                                                                                        continued...
+
+
+
+National Board for Certification in Dental Laboratory Technology                     Revised 3/1/2026     PAGE 3
+CDT Examination Handbook and Application
+
+How to Become a Certified Dental Technician, continued.
+
+
+
+THE EXAMINATIONS
+The examinations given by the NBC are the result of years of continuing development. Questions
+on the tests originate with technicians in the field. Special task forces (comprised of technicians,
+laboratory owners, educators and dentists) have been appointed by the NBC to conduct regular
+reviews, revisions and updates of the examinations. All examination content is also subject to
+ongoing statistical analysis based on actual usage of examination questions as well as peer review
+to ensure relevance to current practices in dental laboratory technology.
+
+The following examinations must be passed successfully to become a Certified Dental Technician
+(CDT):
+   • The Written Comprehensive examination (or the Written Recognized Graduate examination, if
+        eligible);
+   • The Written Specialty examination; and
+   • The Practical examination (in the same specialty area as the Written Specialty examination
+        — Ceramics, Complete Dentures, Crown & Bridge, Digital Workflow, Implants, Orthodontics
+        and Partial Dentures.)
+
+Candidates may sit for the examinations in any order but all three (3) examinations must be
+passed within four (4) years of the date that the first examination was passed.
+
+
+
+ANNUAL RENEWAL
+In order to retain certification, CDTs are required to apply annually to the NBC for renewal. To
+qualify for renewal, the CDT must attest that he or she has complied with the laws governing the
+practice of dental technology and dentistry in the applicable state, must submit proof of specific
+continuing education and must pay the renewal fee.
+
+The current continuing education requirements are subject to change and are available by
+contacting the NBC Headquarters. Various types of continuing education are required and may
+include training on regulatory standards, infection control, scientific and/or technical topics and
+general professional development topics. Some of the ways the continuing education requirement
+may be met are through attendance at approved clinics, reading of accepted technical publications,
+completion of college level credit courses, or the development of original technical clinics or papers.
+
+Renewals are based on an annual renewal cycle. All new CDTs will be notified to which renewal
+cycle they have been assigned upon certification. An invoice is sent out to every CDT seventy-five
+(75) days prior to their certification renewal date.
+
+
+
+
+PAGE 4     Revised 3/1/2026                               National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+
+
+          Overview of History, Regulation &
+          Organization in Dental Laboratory
+                     Technology
+
+EARLY HISTORY
+Dental disease has been treated since the first prehistoric toothache. Primitive history recorded
+incantations, chemical and vegetable plasters, and various rinses to treat oral pain. Substitutes
+for natural teeth were made very early from the bones and teeth of animals and later from other
+materials such as mother-of-pearl, ivory and jeweler’s enamel baked on carved bone or metal tooth
+plates.
+
+Until the mid-eighteenth century, medical doctors concerned
+themselves little with the mouth. Dental ailments were treated
+largely by laymen. Only a very small amount of medical literature
+dealt with dental treatment until 1728, when a Frenchman, Pierre
+Fauchard, published the first major text dealing with dentistry: Le
+Chirurgien Dentiste. By incorporating into a single book everything
+known about the science and art of dentistry, Fauchard established
+a scientific basis for a new medical specialty and earned the title
+“The Father of Modern Dentistry.”
+
+Dentistry was brought to colonial America around 1766; George
+Washington was among the most famous of early dental patients                     Set of dentures made for George
+                                                                                  Washington by John Greenwood, 1798.
+for whom prosthetic teeth were made. The various forms of dental
+                                                                                  Courtesy of the Dr. Samuel D. Harris
+treatments, techniques and materials used for the replacement of                  National Museum of Dentistry.
+missing teeth soon started to evolve and expand.
+
+
+
+FIRST COMMERCIAL DENTAL LABORATORY
+As the art and science of dentistry continued to develop, certain dentists developed special
+processes and skills in fabricating prosthetic devices. Since these processes and skills were in
+demand by other dentists, the practice of sending out laboratory work to those possessing the
+processes began.
+
+One doctor particularly noted for his prosthetic skills was Dr. W. H. Stowe who practiced in Boston.
+Dr. Stowe eventually found that he had little time for his own dental practice after accepting
+laboratory work from all the dentists who sought his services. In 1883, he began to separate his
+dental practice from his laboratory services, accepting laboratory work only from a limited number
+of dentists. However, the laboratory service was so successful that it suggested to him the potential
+for a dental laboratory serving the profession at large.
+
+In 1887, Dr. Stowe opened a dental laboratory in Boston. He was later joined by his cousin, Frank
+F. Eddy. The laboratory, later to be known as Stowe and Eddy, is generally acknowledged to be the
+first commercial dental laboratory in America separate from a private dental practice.
+
+The establishment of commercial dental laboratories led quickly to the training of apprentices.
+As these apprentices gained skills, they opened their own laboratories and the growth of the
+                                                                                                          continued...
+
+
+National Board for Certification in Dental Laboratory Technology                     Revised 3/1/2026       PAGE 5
+CDT Examination Handbook and Application
+
+Overview of History, Regulation & Organization in Dental Laboratory Technology, continued.
+
+commercial dental laboratory industry began. As more and more laboratories came under the
+management of dental technicians, a decreasing number of dentists went into the business. By
+1910, it is likely that dental technicians managed the majority of commercial dental laboratories.
+
+The work and innovations of dental technicians became a significant influence in the development
+of new prosthetic techniques and materials.
+
+
+
+NATIONAL ORGANIZATION
+As the dental laboratory craft and industry grew, it was natural
+that organizations should be formed. In 1950, there were
+two national organizations representing the dental laboratory
+industry, but no single unified organization. A group of dental
+laboratory owners from throughout the country met in Chicago that year, and agreed to form a
+national, federated association, similar in organization to the American Dental Association, with
+state-level association components.
+
+This meeting marked the beginning of the National Association of Dental Laboratories (NADL),
+which today represents more than 1,000 commercial laboratories nationwide. The stated mission of
+NADL is, “NADL aggressively advances the dental laboratory technology industry and its members
+through advocacy, education, standards and services.” NADL’s vision statement is, “NADL is the
+dental laboratory industry’s respected authority, delivering the highest standards to ensure our
+members are viewed as valued professionals on the dental health team.”
+
+
+
+                                       BEGINNING OF
+                                       CERTIFICATION
+                                       The early activities of NADL were concentrated in the areas
+                                       of recognition and education. In 1954, the NADL Education
+                                       Committee began the development of a certification program which
+                                       would set skill standards for the individual dental technician. The
+                                       following year, the NADL Executive Council elected seven persons
+                                       to the newly formed National Board for Certification in Dental
+                                       Laboratory Technology, which adopted policies and approved
+                                       examinations for the certification program. The first Certified
+                                       Dental Technician examinations were given in October of 1958, and
+                                       the first CDT designations were awarded in March of 1959.
+
+                                       Visit www.nbccert.org/about-national-board-certification/
+CDT Magazine from March
+1964 with photo of examination
+                                       certification-standards.cfm to learn more on the certification
+candidates.                            program standards.
+
+
+GOVERNMENT REGULATIONS
+The authority of state governments to regulate the health professions is well established. Every
+state in the nation has exercised its authority over dental health services by enacting a Dental
+Practice Act, which establishes the basic relation between the dentist and the dental technician
+or commercial dental laboratory. In general, these acts state that the fabrication and repair of
+dental prosthetic appliances are included in the definition of the practice of dentistry and that no
+
+
+
+PAGE 6      Revised 3/1/2026                                National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+unlicensed person may engage in any phase of such fabrication or repair unless it is at the direction
+of a licensed dentist. The required “direction” normally means the written dental prescription
+or work authorization of the dentist. The nature and format of the prescription is spelled out in
+varying degrees of detail by the different state Dental Practice Acts.
+
+All state dental practice laws specify the functions which the dentist may perform, and the
+conditions under which he or she may perform them. Any unlicensed person found to perform
+these functions directly for the public is engaged in the illegal practice of dentistry.
+
+During the past few decades, additional regulation has been imposed on dental laboratories in the
+form of occupational health and safety laws. These laws deal with the requirement for employers
+to provide safe and healthy workplaces for their employees, and they are promulgated and
+administered by both federal and state agencies, including the Occupational Safety and Health
+Administration (OSHA).
+
+While there are approximately a dozen states having more specific regulatory legislation governing
+the operation of a commercial dental laboratory, there has long been a segment of the laboratory
+industry desiring the enactment of registration or licensing laws. This is a state-level issue and the
+decision to seek or oppose such legislation must remain in the hands of the respective states.
+
+The National Board for Certification in Dental Laboratory Technology cannot participate in the
+influencing of legislation. However, it does encourage the protection of public health and welfare
+by maintaining the nationally recognized certification standards which form a solid foundation for
+either statutory or voluntary regulation of dental technology.
+
+Through public advocacy and outreach, NADL works with the state dental associations and state
+health officials to enact legislation to require:
+•   Certification and continuing education for dental technicians who manufacture restorations;
+•   Registration of all dental laboratories with the state board of dentistry or other appropriate state
+    agencies;
+•   Mandatory disclosure of all patient contact materials in a restoration, as well as the point of
+    origin (country and laboratory) where the restoration was manufactured; and
+•   Required documentation of these items in patient dental records.
+
+Dental laboratory owners and managers must also be aware of applicable state and local laws
+(zoning, taxation, etc.) which apply to all businesses.
+
+
+
+RELATED ORGANIZATIONS AND INSTITUTIONS
+The Foundation for Dental Laboratory Technology (Foundation) is a non-profit 501(c)(3)
+organization that was incorporated in December 2008 with the help of its sister organizations,
+NADL and NBC. The purpose of the Foundation is to advance the profession of dental laboratory
+technology by developing educational curriculum and programs that will be relevant and accessible
+to dental technicians and other members of the dental team.
+
+The Foundation has a number of resources beneficial to the entire dental laboratory technology
+profession, including:
+
+•   The ongoing grant and scholarship program (www.dentallabfoundation.org/scholarshipsgrants),
+    providing financial support to interested candidates for advanced education and to various
+    qualifying organizations.
+•   The NADL Learner Community (https://nadl.learnercommunity.com/) whereby the Foundation
+    hosts 80+ on-demand courses free of charge.
+                                                                                                        continued...
+
+
+National Board for Certification in Dental Laboratory Technology                     Revised 3/1/2026    PAGE 7
+CDT Examination Handbook and Application
+
+Overview of History, Regulation & Organization in Dental Laboratory Technology, continued.
+
+•   The NBC Approved CE Provider Directory Search (www.dentallabfoundation.org/cesearch) for
+    interested candidates to have easy access to 1,500+ continuing education opportunities.
+
+The Foundation’s ability to offer programs to support education and workforce training are based
+solely on contributions from individuals and companies. For more information on the Foundation,
+please visit www.dentallabfoundation.org.
+
+In addition to those obligations which are set by law, there are also groups and institutions which
+are concerned with the maintenance of proper ethical and technical relationships between the
+dentist and the dental technician. These include dental schools, schools of dental technology, dental
+societies and dental laboratory associations.
+
+The role of the dental school goes beyond imparting scientific information and
+skill to the dental student; it extends to giving students an understanding of
+the many intangible factors that contribute to the making of a professional
+person. Included in these factors are the fundamentals of ethics, which govern
+the graduate’s conduct in practice and the relationship that must be maintained
+with auxiliary personnel and commercial dental laboratories.
+
+Dental technology schools have similar responsibilities in the educating
+and training of dental technicians. The Commission on Dental Accreditation (CODA) issues
+accreditation. The dental laboratory industry is represented in the accreditation process by
+having a representative on the Commission, membership on its Dental Technology Education
+Committee, and numerous consultants who take part in the onsite inspections required for program
+accreditation.
+
+The roles of the American Dental Association and the National Association of Dental Laboratories
+and their affiliated state-level associations include the establishment and maintenance of
+professional ethics and standards of conduct for their members. They are also active in promoting
+programs of continuing education for their members. Further, these organizations are primary
+sources of legislative initiatives regarding the laws governing the practice of dentistry and dental
+technology.
+
+
+OTHER STANDARDS
+As with most professions and industries, there are both technicians and dental
+laboratory owners/managers who desire to achieve and be recognized for their
+advanced levels of professionalism.
+
+For the laboratory owner/manager, the NBC administers the Certified Dental
+Laboratory (CDL) program. The CDL program was created to promote and
+maintain a recognition that will assist dental laboratories in their continuing efforts to improve the
+quality and efficiency of the dental team’s service to the public. This is accomplished by:
+    • Promoting a means for identifying dental laboratories which meet specific standards
+        established for the certification program; and
+    • Encouraging dental laboratories to improve the quality and efficiency of their services and
+        facilities.
+
+To learn more about the CDL program, please visit http://nbccert.org/certificants/certified-dental-
+laboratory/cdl-application.cfm. For more information about any of the programs offered by the
+NBC, please contact the NBC Headquarters or refer to the NBC website at www.nbccert.org.
+
+
+
+PAGE 8      Revised 3/1/2026                                National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+
+           Examination Application Process
+ELIGIBILITY FOR CDT CERTIFICATION
+EXAMINATIONS
+All technicians applying for the CDT examinations must:
+    1. Have a working knowledge of the English language.
+    2. Be a high school graduate (or the documented equivalent).
+    3. Be of satisfactory ethical and legal standing as defined by the NBC’s disciplinary standards.
+    4. Meet the technical prerequisites required for testing.
+
+For technicians who are not current participants in the NBC’s Recognized Graduate (RG)
+program, the technical prerequisites for testing may be met by documenting at least five (5)
+years of training and/or experience in dental laboratory technology. Time spent in on-the-job
+training (including formal apprenticeships and training courses) or studying in a dental technology
+education program may be counted towards this requirement.
+    • An exception is made for graduates of a two-year, CODA accredited dental technology
+        education program. These candidates may apply for the CDT examinations after
+        completion of two (2) years of practical experience in addition to (and not concurrent with)
+        their course of study.
+
+NBC has an additional pathway to becoming a CDT, whereby documented continuing education
+(CE) can substitute for education and/or experience. For a detailed breakdown, please visit the
+Career Path to Becoming a CDT document at www.nbccert.org/become-a-cdt or the CE Addendum
+on page 41.
+
+For technicians who are current Recognized Graduates and have taken and passed their RG
+examination within the last four (4) years, the technical prerequisites for testing may be met in
+one of the following ways:
+    1. Recognized Graduates from two-year CODA accredited programs may sit for the CDT
+       examinations without having to obtain additional education or on-the-job-experience, or
+    2. Recognized Graduates from non-CODA-accredited programs may sit for the CDT
+       examinations after obtaining at least three (3) years of on-the-job experience.
+
+An RG may keep his or her designation indefinitely, pending that they maintain the renewal
+requirements. However, the RG examination will only substitute for the Written CDT
+Comprehensive examination for a four (4) year period. After four years, the RG must complete all
+three examinations to earn certification.
+
+To see the list of dental technology education programs currently approved by the Commission on
+Dental Accreditation, please visit their website at www.ada.org/en/coda.
+
+
+APPLICATION PROCESS AND FEES
+Eligibility to take the CDT examinations will be determined by the NBC upon receipt of a
+completed application and payment of the examination fees.
+
+The fee for all three (3) required examinations is broken down as follows:
+   Written Comprehensive examination: $275
+   Written Specialty examination: $275
+   Practical examination: $650
+                                                                                                        continued...
+
+
+National Board for Certification in Dental Laboratory Technology                     Revised 3/1/2026    PAGE 9
+CDT Examination Handbook and Application
+Examination Application Process, continued.
+
+If any of the examinations are not passed on the first attempt, a new application and fee must be
+submitted before the candidate can retake the examination(s) in question.
+
+Candidates who require their Practical Examination materials to be shipped outside of the United
+States must provide the shipping label(s) and corresponding tracking number(s) to NBC.
+
+
+WRITTEN EXAMINATION REGISTRATION
+In order to offer a greater number of testing locations and more flexible scheduling, NBC
+administers the CDT and RG written examinations utilizing computer-based testing with remote
+proctoring. The examinations are delivered through the computer-based testing platform, FastTest,
+and are remotely proctored by the third-party proctoring service, MonitorEDU. You will need the
+following to take the written examinations online:
+
+    1. Private workspace (a busy location, such as a library or café, will not suffice)
+
+    2. Desktop computer or laptop computer with built-in or external webcam, speakers, and
+       microphone (tablets not supported)
+    3. Cellular smart phone that meets the requirements for MonitorEDU as outlined in the link
+       below:
+       • MonitorEDU requirements: www.nbccert.org?5q4nb2
+    4. Internet connection with at least 2 Mbps download and 2 Mbps upload speeds. Both the
+       computer and cell phone will need to be connected to the Internet.
+       • Candidates that do not know their Internet speed can run a speed test on their laptop
+           and cell phone at their examination location prior to the examination at www.speedtest.
+           net.
+    5. Power cords for desktop computer or laptop computer and cellular smart phone
+    6. Something to prop your cellular smart phone on (tripod, phone stand, household item, etc.)
+    7. Photographic identification (Driver’s License or Passport)
+    8. A printed copy of your NBC candidate letter
+
+You will be required to provide a view of the testing area and will be given specific instructions
+by the remote proctor regarding examination guidelines during the testing process. Cheating or
+suspected cheating of any sort, including any talking, giving or receiving any help, utilizing any
+outside materials (translation and/or dental dictionaries, reference materials, scrap paper, etc.),
+and copying or retaining any examination questions will result in the proctor immediately stopping
+your examination. Failure to follow these instructions will result in your grade being held and your
+examination fee being forfeited.
+
+Once a candidate has been approved for online testing through NBC, they will receive a
+confirmation email with detailed instructions regarding accessing their examination. This email will
+be sent a few days prior to the start of the candidate’s desired testing window.
+
+Candidates must complete their examination within thirty (30) days once they have been approved
+by NBC to test. Should a candidate not complete their examination, they will forfeit all fees paid to
+NBC and must re-apply to complete the examination.
+
+Because all communication for testing is electronic, candidates must maintain a valid email address
+at all times. Please ensure you have whitelisted the following domains: executiveoffice.org and
+fasttestweb.com. A Gmail email address is preferred, but not required.
+
+
+
+
+PAGE 10      Revised 3/1/2026                      National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+
+PRACTICAL EXAMINATION REGISTRATION
+REMOTE TESTING USING A THIRD PARTY PROCTOR
+In order to offer a greater number of testing locations and more flexible scheduling, NBC launched
+a new pathway for the Practical examinations, whereby the Practical examinations can be taken
+remotely at a dental laboratory of the candidate’s choice under the supervision of the third party
+proctoring service, MonitorEDU. Candidates will need the following to utilize the remote testing
+option for the Practical examination:
+    1. Private workbench where the candidate can perform the majority of work without
+       interference.
+    2. Desktop computer or laptop with built-in or external webcam, speakers, and microphone
+       (tablets not supported).
+       • Laptop operating system of Windows 7 and higher or Mac OS 9 and higher. Most Linux
+           are also supported.
+       • Web browser must be recent version of Google Chrome (50+). Software is not supported
+           on other internet browsers. Most recent version of Google Chrome can be downloaded at
+           https://www.google.com/chrome/.
+    3. Cellular smart phone with camera with Android 4.1 or higher or iOS 8.0 or higher operating
+       system.
+    4. Internet connection with at least 2 Mbps download and 2 Mbps upload speeds. Both the
+       computer and cell phone will need to be connected to the Internet.
+       • Candidates that do not know their Internet speed can run a speed test on their laptop and
+           cell phone at their examination location prior to the examination at www.speedtest.net.
+    5. Power cords for desktop computer or laptop computer and cellular smart phone.
+    6. Something to prop your cellular smart phone on (tripod, phone stand, household item, etc.)
+
+Additional rules will be provided to the candidate by NBC and by the examination Proctor.
+
+Because all communication for testing is electronic, candidates must maintain a valid email address
+at all times. Please ensure you have whitelisted the following domain: executiveoffice.org.
+
+Important Note: Candidates utilizing the Remote Practical Testing (RPT) option must include
+any articulator that was used to complete their work in the package back to NBC in order to
+appropriately have their work evaluated.
+
+GROUP TESTING AT A PRE-SCHEDULED VOLUNTEER HOST SITE
+For group testing Practical examinations at a pre-scheduled volunteer host site, examination dates
+are tentative until thirty (30) days prior to the examination. Please call the NBC to check on the
+expected status of examinations prior to making travel arrangements. The NBC reserves the right to
+cancel the examinations if there are not enough candidates registered. If this occurs, candidates are
+notified and rescheduled for the examination site listed as their second choice.
+
+The examination dates are confirmed thirty (30) days prior to the examination date, after the
+registration deadline. Confirmation letters are mailed approximately four (4) weeks prior to the
+examination with molds, instructions, directions and examination site contact information.
+
+If an examination is taking place on a military base, NBC will contact candidates in order to obtain
+the following information to ensure pre-approved base access: last name, first name, and middle
+initial (as shown on driver’s license/ID card); date of birth; address; driver’s license number;
+
+
+
+
+National Board for Certification in Dental Laboratory Technology                    Revised 3/1/2026   PAGE 11
+CDT Examination Handbook and Application
+Examination Application Process, continued.
+
+driver’s license state of issue; driver’s license expiration date; and vehicle information – make,
+model, and license plate number. This information must be received at least 30 days prior to the
+examination date.
+
+If you are not a U.S. citizen, you will also be required to provide the following information: place of
+birth; citizenship; passport number; company; and duty title. This information must be received at
+least 60 days prior to the examination date. If this information is not provided within the necessary
+time frame, NBC cannot guarantee base access and the candidate will be responsible for any
+reschedule fees.
+
+
+EXAMINATION CANCELLATION/
+RESCHEDULING POLICY
+All candidates who have registered with the National Board for Certification in Dental Laboratory
+Technology (NBC) to take the CDT examinations are expected to attend their examinations as
+scheduled. In the unlikely event that a scheduling conflict or emergency situation arises, the NBC
+adheres to the following rescheduling and cancellation policies:
+
+WRITTEN EXAMINATIONS
+Candidates may reschedule their computer-based testing (CBT) examination to a different
+testing window than originally outlined within their application at no charge by notifying the NBC
+in writing prior to the published application deadline. Initial fees paid must be used within one
+year; otherwise, the candidate will forfeit all fees paid to NBC and must re-apply to complete the
+examination.
+
+Candidates that fail to notify the NBC in writing prior to the published application deadline must get
+special permission from the NBC to reschedule to a different testing window. If allowed to do so,
+candidates will be charged a $75 administrative fee for each written examination, which must be
+paid prior to the candidate being rescheduled.
+
+Once a candidate begins their session, should the candidate be unable to complete their
+examination due to being disconnected from the actual examination, by fault of FastTest, the
+third-party proctor, or NBC, the candidate will be able to reschedule at no charge. If a candidate is
+unable to complete their examination due being disconnected from the actual examination by fault
+of their own or a technical issue (i.e. loss of internet connection, or power on electronic device,
+etc.), the candidate must pay a fee of $50 before being allowed to reschedule.
+
+Once a candidate begins their session, should the candidate’s cellular device get disconnected
+from the third-party proctor for any reason for longer than 10 minutes, the examination will be
+terminated by the third-party proctor and results will be deemed invalid by NBC. Should this
+situation occur, candidates will need to contact NBC to reschedule to a different testing window and
+will be charged a $50 administrative fee. If for any reason the third-party proctor fails to terminate
+the examination and/or the candidate submits their examination under these circumstances, the
+examination results will be deemed invalid by NBC until further review by NBC’s psychometrician
+and the NBC Board of Trustees.
+
+If a candidate does not complete their written examination during their testing window, they will
+forfeit all payment, and may be rescheduled for another examination upon re-payment. No refund
+will be given.
+
+
+
+
+PAGE 12      Revised 3/1/2026                     National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+PRACTICAL EXAMINATIONS
+Candidates may reschedule practical examinations by notifying the NBC in writing prior to the
+published application deadline.
+
+Candidates that fail to notify the NBC in writing prior to the published application deadline must get
+special permission from the NBC to reschedule to a different testing window and if allowed to do
+so, candidates will be charged a $225 administrative fee, which must be paid prior to the candidate
+being rescheduled.
+
+Rescheduled examinations must occur within one year of the originally scheduled examination;
+otherwise candidates forfeit all related examination fees.
+
+If a scheduled candidate does not show for the practical examination via group testing at a pre-
+scheduled volunteer host site, or does not complete their practical examination via remote testing
+using a third party proctor during their testing window, they will forfeit all payment, which includes
+application and examination fees, and may be rescheduled for another examination upon re-
+payment. No refund will be given.
+
+EMERGENCY SITUATIONS
+The NBC recognizes that there are sometimes unavoidable emergency situations which may
+interfere with a candidate’s ability to attend a scheduled examination. In emergency situations you
+should notify the NBC in writing as outlined above including supporting documentation if available
+(hospital receipt, military orders, police report, etc.). Acceptable reasons for failing to appear for an
+examination include but are not limited to death or serious illness, accident, jury duty or military
+deployment.
+
+If approved for an emergency situation, candidates are given a maximum period of one year within
+which to pass the examination and retain credit for the testing fee previously paid; and that if such
+deadline is not met, fees will be forfeited and new application and payment will be required before
+testing can be approved.
+
+
+
+                  About the CDT Examinations
+TYPES OF EXAMINATIONS
+The goal of the CDT examinations is to measure competence or the mastery of a predetermined
+body of knowledge and the skills deemed to represent the successful, professional-level practice
+of dental laboratory technology. To become a CDT, a technician must demonstrate their knowledge
+and applied skills, from start to finish in their chosen specialty, in the manufacturing procedures
+common in contemporary practice.
+
+Each of the CDT examinations must be passed successfully within a four (4) year period to
+become a CDT. The candidate must test in the same specialty area for both the Written Specialty
+examination and the Practical examination. The examinations may be taken in any order that the
+candidate desires.
+
+THE WRITTEN COMPREHENSIVE EXAMINATION
+Current Recognized Graduates that have taken and passed the RG examination within the last
+four (4) years may waive the Comprehensive examination requirement, but all other technicians
+must pass the Comprehensive examination before being recognized as a CDT. The Comprehensive
+examination is the measure for basic knowledge in history, ethics and the various specialties.
+
+                                                                                                       continued...
+
+National Board for Certification in Dental Laboratory Technology                    Revised 3/1/2026   PAGE 13
+CDT Examination Handbook and Application
+About the CDT Examinations, continued.
+The Comprehensive examination is a written multiple-choice test. There are 160 questions on
+the examination, covering basic dental laboratory knowledge: oral anatomy, tooth morphology,
+materials science, health & safety, fundamental theory and terminology across the specialties
+tested by the NBC (Ceramics, Complete Dentures, Crown & Bridge, Digital Workflow, Implants,
+Orthodontics and Partial Dentures). Each test item will consist of a question and four (4) possible
+answers, or an incomplete statement and four (4) possible ways to complete the statement. Of the
+four possible responses, the candidate must select the best answer.
+
+As part of NBC’s ongoing efforts to ensure that the questions included in its written examinations
+are contributing to the reliability of the examinations, NBC includes an additional ten field test
+questions embedded on each examination form. These ten questions are not graded, but instead
+are used to gather statistical data to allow NBC to determine if the field test questions may be used
+on future examinations. Using field test questions is a common practice in the certification and
+licensure testing industry.
+
+Candidates have up to two and three-quarter (2 3/4) hours to complete the examination; they may
+use as much or as little of this time as they require.
+
+Please note there will not be any breaks allowed during the examination, so it is recommended to
+use the restroom prior to starting the examination.
+
+
+THE WRITTEN SPECIALTY EXAMINATION
+The Written Specialty examination is a requirement for all CDT candidates. This examination tests a
+candidates’ knowledge in his or her chosen specialty area.
+
+The Written Specialty examination consists of eighty (80) multiple-choice questions. Each test item
+will consist of a question and four (4) possible answers, or an incomplete statement and four (4)
+possible ways to complete the statement. Of the four possible responses, the candidate must select
+the best answer.
+
+As part of NBC’s ongoing efforts to ensure that the questions included in its written examinations
+are contributing to the reliability of the examinations, NBC includes an additional ten field test
+questions embedded on each examination form. These ten questions are not graded, but instead
+are used to gather statistical data to allow NBC to determine if the field test questions may be used
+on future examinations. Using field test questions is a common practice in the certification and
+licensure testing industry.
+
+Candidates have up to one and one-half (1 1/2) hours to complete the examination; they may use
+as much or as little of this time as they require.
+
+Please note there will not be any breaks allowed during the examination, so it is recommended to
+use the restroom prior to starting the examination.
+
+
+THE PRACTICAL EXAMINATION
+The Practical examination is a requirement for all CDT candidates. This examination is a hands-on
+examination that requires candidates to demonstrate their competence over a range of procedures
+normally associated with their respective specialties. The Practical examination consists of
+preliminary procedures that must be performed in each candidates’ own laboratory prior to the
+examination, plus specific steps which must be completed on the day of the examination.
+
+
+
+
+PAGE 14      Revised 3/1/2026                    National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+
+REMOTE TESTING USING A THIRD PARTY PROCTOR
+Practical examinations through the remote testing option will be offered in testing windows six
+times a year: January, March, May, July, September, and November. These windows will run from
+the first day of the month through the last day of the month. Application deadlines are the 20th of
+the month prior to the candidate’s desired testing window.
+
+NBC has a rental program for articulators for candidates’ use. NBC will charge a $100.00
+non-refundable rental fee for the articulator(s) and up to four mounting plates (if needed).
+Articulator(s) provided will either be fully adjustable or fixed guide depending on the candidate’s
+chosen specialty. Candidates will be required to ship the articulator(s) back with their examination
+work. If the NBC articulator(s) is not returned by the candidate, the candidate will not receive their
+grades. Please note that NBC has a limited number of articulators available for rent, so their use
+cannot be guaranteed. Candidates will need to select the rental option on their application and
+articulators will be rented on a first-come, first serve basis. If an articulator is not available in the
+candidate’s desired testing window, they will be notified and be offered the option of using their
+own articulator or changing to a different testing window.
+
+Candidates must complete their Practical examination within 30 days once approved by NBC to
+test. Candidates can take their Practical examination on any day during their testing window as
+permitted by the laboratory; however, candidates must start their examination between 8:00 am -
+7:00 pm EST. Once the application deadline of the candidate’s desired testing window has passed,
+the NBC Headquarters will provide candidates with detailed instructions and molds from which
+the candidates must work via UPS. Depending on the candidate’s location, it will take two to five
+business days to receive these materials. All candidates should receive their NBC materials prior
+to the first day of their approved testing window. Candidates will receive an email from NBC when
+materials have shipped.
+
+Candidates are required to arrange for the use of any equipment that will be needed in order to
+complete the Practical examination. Candidates may bring, borrow and/or ship any such equipment
+and must work with the host representative. Think everything through in advance, and make sure
+to arrange any equipment needs, including on-site soldering capabilities, available air hand piece
+connections or borrowing equipment (like porcelain ovens).
+
+It is recommended that candidates arrange all equipment at least one week prior to the
+anticipated examination date for permission to borrow any needed items. Do not expect the host
+representative to have items available upon arrival if prior arrangements have not been made. NBC
+and examination hosts cannot guarantee the availability or functionality of borrowed equipment or
+materials, although every effort will be made to assist candidates.
+
+On the day of the examination, candidates must bring all preliminary work with them; verify their
+identity (Candidate Admittance Card and Photographic Identification); and set up their materials
+and equipment. The remote proctor will provide the candidate with instructions for the examination
+prior to starting. Candidates should be certain that they understand all instructions before
+proceeding with their examination. In addition to the general instructions, the proctor will also
+provide instructions related to the candidate’s specialty as well as specific security instructions to
+be completed by the candidate during the examination.
+
+Candidates have exactly five and one-quarter hours (5 1⁄4) to complete the examination. They
+may use as much or as little of this time as they require. Examination tasks may be completed in
+any order the candidate prefers, but it is important to remember that time management is crucial.
+The examination must be completed in one single sitting, at one physical location, and candidates
+must be on camera for the entire duration of the examination.
+                                                                                                       continued...
+
+
+
+National Board for Certification in Dental Laboratory Technology                    Revised 3/1/2026   PAGE 15
+CDT Examination Handbook and Application
+About the CDT Examinations, continued.
+
+NBC is not liable for any of the candidate’s examination materials (examination work and/or
+articulators) being damaged or lost by the shipping carrier. This includes candidate materials
+being shipped back to NBC headquarters for grading with the prepaid UPS label provided, and the
+return of the candidate’s materials after grading, should candidates choose to have their materials
+returned. If candidates want their materials returned to them, they are required to provide a return
+label and are responsible for obtaining insurance through the shipping carrier of their choice, if
+desired.
+
+Important Note: Candidates utilizing the Remote Practical Testing (RPT) option must include
+any articulator that was used to complete their work in the package back to NBC in order to
+appropriately have their work evaluated.
+
+Candidates are responsible for returning NBC materials in good condition to NBC upon completion
+of the NBC Practical Examination. If a candidate fails to complete the NBC Practical Examination,
+they are still responsible for returning the materials in good condition to NBC within seven business
+days. Damaged or unreturned molds will result in a fee of $150.00 and their Practical Examination
+grade will be withheld until either undamaged molds are returned or the $150.00 fee has been
+paid.
+
+As part of the Practical examination application process for the remote testing option using a third
+party proctor, it is required that all candidates read the frequently asked questions at www.nbccert.
+org?qfc218.
+
+
+GROUP TESTING AT A PRE-SCHEDULED VOLUNTEER HOST SITE
+Approximately four (4) weeks prior to the examination date, the NBC Headquarters provides candi-
+dates with detailed instructions, molds from which the candidates must work and a Candidate Iden-
+tification Number. At the same time, candidates also receive contact information for the host facility
+so that they may contact the host about any specific needs they may have, including site soldering
+capabilities, available air hand piece connections or borrowing equipment (like porcelain ovens).
+Whenever possible candidates should bring their own equipment and supplies to the examination
+site (including porcelain furnaces and pumps, if needed). If this is impossible, candidates must con-
+tact the host facility for permission to borrow the items needed. Neither the NBC nor the examina-
+tion host site can guarantee borrowed equipment or materials. Every effort will be made to assist
+candidates, but there is no guarantee that the equipment will function correctly (or as candidates
+are accustomed to) nor that time-critical equipment will be available only to a specific candidate.
+
+On the day of the examination, candidates should arrive at about 7:00 am for an examination that
+begins at 7:45 am. Candidates must bring all preliminary work with them; verify their identity;
+locate the work station that displays their Candidate Identification Number; and set up their
+materials and equipment. The NBC Lead Examiner will give candidates specific information and
+instructions that must be followed. These instructions will be simple, but are extremely important.
+Candidates should be certain that they understand all instructions before proceeding with their
+examination.
+
+Candidates have exactly five and one-quarter hours (5 1⁄4) to complete the examination. They
+may use as much or as little of this time as they require. During this period, the NBC Examiners
+will carry out specified security measures, monitor candidate work, and begin the evaluation of the
+work done in the preliminary portion of the examination.
+
+After 5 ¼ hours all candidates will be excused so that the NBC Examiners may perform their
+evaluations. This process may take several hours depending on the number of candidates and
+other factors, but typically ends by 7:00 p.m., at which time candidates will be asked to claim their
+
+
+
+PAGE 16      Revised 3/1/2026                     National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+
+materials and equipment and depart the facility. It is strongly suggested that candidates who must
+make flight arrangements plan to depart well after 7:00 pm on examination day, or the morning
+after the examination.
+
+Candidates are responsible for returning NBC materials in good condition to NBC upon completion
+of the NBC Practical Examination. If a candidate fails to complete the NBC Practical Examination,
+they are still responsible for returning the materials in good condition to NBC within seven business
+days. Damaged or unreturned molds will result in a fee of $150.00 and their Practical Examination
+grade will be withheld until either undamaged molds are returned or the $150.00 fee has been
+paid.
+
+
+EXAMINATION REFERENCES
+The NBC examinations were developed on the basis of practice in the field and are not based on
+a specific textbook or course of study. Therefore, many sources of information are appropriate for
+study and review. The references listed in this publication must not be regarded as the only useful
+publications. They should be considered only as representative sources of the types of information
+covered by the examination.
+
+There are several useful study materials available for purchase through the NADL’s online store
+at www.nadl.org. The study materials that can be found there include, but are not limited to,
+Visual Reference Guides (one per each specialty), an Examination Preparation Guide, and the
+U.S. Air Force Manuals (which includes Dental Laboratory Technology, Basic Sciences, Removable
+Prosthodontics, and Orthodontics (2005), Air Force Pamphlet 47-103, Volume One and Dental
+Laboratory Technology, Fixed and Special Prosthodontics (2005), Air Force Pamphlet 47-103,
+Volume Two).
+
+The following references are in addition to those listed above. Most of these references can easily
+be purchased through Quintessence Publishing.
+
+
+
+GENERAL REFERENCES                                                  CERAMICS AND CROWN & BRIDGE
+Hohmann, Arnold and Hielscher, Werner                               Chu, Stephen J.; Devigus, Alessandro; Paravina,
+Principles of Design and Fabrication in Prosthodontics              Rade; and Mieleszko, Adam
+Chicago, Quintessence Publishing, 2016                              Fundamentals of Color: Shade Matching and
+                                                                    Communication in Esthetic Dentistry, 2nd edition
+Mosby’s Dental Dictionary 3rd edition                               Chicago, Quintessence Publishing, 2011
+St. Louis, Mosby Publishing, 2014
+                                                                    Hämmerle, Christoph; Sailer, Irena; Thoma, Andrea;
+Nelson, DDS, MS, Stanley                                            Hälg, Gianni; Suter, Ana; and Ramel, Christian
+Wheeler’s Dental Anatomy, Physiology & Occlusion,                   Dental Ceramics: Essential Aspects for Clinical
+9th edition                                                         Practice
+St. Louis, Saunders Publishing, 2009                                Chicago, Quintessence Publishing, 2008
+
+O’Brien, William                                                    Kelly, J. Robert
+Dental Materials and their Selection, 4th edition                   Ceramics in Dentistry: Principles and Practice
+Chicago, Quintessence Publishing, 2009                              Chicago, Quintessence Publishing, 2016
+
+United States Air Force Manuals 47-103                              Naylor, W. Patrick
+Volume One Basic Sciences, Removable                                Intro to Metal-Ceramic Technology 2nd edition
+Prosthodontics, and Orthodontics (2005),                            Chicago, Quintessence Publishing, 2009
+Volume Two Fixed and Special Prosthodontics (2005)
+
+
+                                                                                                               continued...
+
+
+National Board for Certification in Dental Laboratory Technology                          Revised 3/1/2026     PAGE 17
+CDT Examination Handbook and Application
+
+About the CDT Examinations, continued.
+
+
+
+COMPLETE DENTURES                                         IMPLANTS
+MacEntee, Michael                                         Babbush, DDS, MScD, Charles A.; Hahn, DDS, Jack
+The Complete Denture: A Clinical Pathway 2nd edition      A.; Krauser, DMD, Jack T.; and Rosenlicht, DMD, Joel
+Chicago, Quintessence Publishing, 1999                    L.
+                                                          Dental Implants: The Art and Science, 2nd Edition
+                                                          Maryland Heights, MO, Saunders, 2011
+DIGITAL WORKFLOW
+Due to the large amount of references for Digital         Misch, DDS, MDS, Carl E.
+Workflow, references are listed online at                 Contemporary Implant Dentistry, 3rd edition
+www.nbccert.org?w68d5h.                                   St. Louis, MO, Mosby, Inc., 2008
+
+                                                          Misch, DDS, MDS, Carl E.
+PARTIAL DENTURES
+                                                          Dental Implant Prosthetics, 2nd edition
+Carr, Alan                                                St. Louis, MO, Mosby, Inc., 2014
+McCracken’s Removable Partial Prosthodontics 13th
+edition                                                   Shafie, Dr. Hamid
+St. Louis, Mosby Publishing, 2015                         Clinical and Laboratory Manual of Implant
+                                                          Overdentures
+                                                          St. Louis, MO, Blackwell Publishing Company, 2007
+ORTHODONTICS
+McNamara Jr., Dr. James A.                                White, Graham E.
+Orthodontics and Dentofacial Orthopedics                  Osseointegrated Dental Technology
+Needham, MA Needham Press, 2001                           Quintessence Publishing, 1993
+
+Willison, CDT, Brian D. and Warunek, DDS, MS,
+Stephen P.
+Practical Guide to Orthodontic Appliances
+Tonawanda, NY, Great Lakes Orthodontics
+
+
+
+
+PAGE 18      Revised 3/1/2026                          National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+
+
+EX A MINA TI ON PR E PA R A T IO N & S A M P L E
+QU ESTIO N S
+Preparation for all of the examinations leading to certification begins at the technician’s first
+introduction to the dental laboratory. Ideally, it is a process of training, education, experience
+and continuing education. In publishing this manual, the NBC is not attempting to teach the
+competencies measured by its examinations, but rather to give technicians an understanding of
+examination content, structure and procedures so that they may approach the CDT examinations
+with the confidence that comes from knowing what to expect.
+
+It is to each candidate’s advantage to plan, study and practice for their examinations. Candidates
+are required to complete all parts of their examinations without assistance. Examination Proctors
+and NBC Examiners may not define terms or answer questions relating to examination content.
+
+The Comprehensive examination is designed to measure the equivalent of a formal education
+in dental technology. Technicians who have on-the-job training or have learned their skills in
+other settings may find it useful to review certain parts of various publications to broaden and/or
+reinforce their understanding of dental technology. Technicians who have experience in narrowly
+defined specialty areas should use the preparation for this examination as an opportunity to
+broaden their theoretical knowledge to include fundamental concepts throughout the range of
+specialties offered in dental laboratories.
+
+For the Comprehensive examination and the Written Specialty exams, candidates will be instructed
+to read the question carefully and select the best answer from the given answer choices.
+
+Practical examination candidates should bring their preliminary work and should be prepared
+to complete all other portions of their examination on the day of their examination. The
+Practical examinations are designed to enable candidates to display their abilities by performing
+representative procedures that are normally associated with practice in their respective specialties.
+Day-to-day, hands-on experience is the primary preparation for this portion of the examination.
+In addition, candidates may be able to improve their comfort and performance levels by studying,
+planning and practicing the required steps prior to the examination date. To help reduce the
+stresses on examination day, candidates should ensure their readiness by bringing or arranging
+for their equipment and materials and by having a plan. It may also help candidates to realize that
+time management is important.
+
+
+THE NBC EXAMINERS
+The NBC Practical exams are evaluated by three (3) NBC Examiners. The NBC Examiners are
+selected by the NBC on the basis of their technical qualifications and backgrounds; their education,
+training, geographical location and employment represent a diversity of perspectives. They
+are specially trained and monitored by the NBC to achieve fair and uniform grading standards
+throughout the country. They score using strict objectivity and are instructed to make assessments
+on the basis of general acceptability rather than compliance with their personal preferences and
+standards. All NBC Examiners are volunteers and they are not paid for their services to the CDT
+program.
+
+
+
+
+                                                                                                       continued...
+
+
+
+
+National Board for Certification in Dental Laboratory Technology                    Revised 3/1/2026   PAGE 19
+CDT Examination Handbook and Application
+
+About the CDT Examinations, continued.
+
+
+THE GRADING SYSTEM
+Grading is not a comparative process. All grades are based on a standard that the NBC believes to
+represent basic competence in dental technology and in each of the specialties represented.
+
+Written examination passing scores are based upon the number of questions answered correctly –
+scores are not rounded or averaged. Minimum passing scores are subject to change by the NBC.
+All candidates will receive a copy of the current minimum passing scores with their examination
+confirmation letter prior to the examination.
+
+For Practical exams, three (3) NBC Examiners will independently evaluate the work of each candi-
+date. Examiners will use their professional judgment when grading examinations and may deduct
+points for any aspect of the examination which has been specified for grading when they find it to
+be aesthetically, anatomically or functionally incorrect. Grade sheets completed by the NBC Exam-
+iners are returned to the NBC Headquarters for compilation and determination of all candidates’
+grades. Because the scores assigned from each of the NBC Examiners are determined individually
+and because they are compiled for the determination of the final grades, no single NBC Examiner
+can determine the final grade for any candidate. No examination scores are available at the exami-
+nation site.
+
+With the instructions and the materials mailed to Practical examination candidates before the
+examination date or examination window, there is a list of the items to be graded. In determining
+final grades, each item is weighted according to what the NBC considers to be its criticality to the
+success of the completed appliance or restoration. Candidates will see their score for each item
+when they receive their grades. Further, each examination is divided into “subtests” representing
+the different types of skills that are being tested. Each candidate must achieve a passing grade
+in each of these “subtest” areas during the same examination administration to pass the Practical
+examination. Examination work from any section of the examination is not to be reused from
+previous examinations. NBC has the right to mark candidate work during grading to indicate the
+work has already been examined by NBC to ensure it is not reused.
+
+NOTIFICATION OF GRADES
+For the Written examinations, candidates will be mailed their grades within four (4) weeks after
+the examination. For the Practical examinations, candidates will be mailed their grades within six
+(6) weeks after the examination. By default, examination results are reported directly to each
+candidate by mail using the address provided on the application. Candidates can choose to receive
+their grades electronically by selecting this option on the application. If this option is selected,
+grades will only be emailed to the email address provided on the application. Examination results
+are otherwise held confidential. It is important that all candidates maintain a current mailing
+address and email address with NBC Headquarters. Candidates who have taken and passed all
+three examinations can expect to receive their new CDT welcome packet within six (6) weeks.
+
+FAILING GRADES
+A candidate who is unsuccessful in any of the CDT examinations must repeat that entire
+examination. Credit for passing the Comprehensive examination, the Written Specialty examination
+or the Practical examination may be retained for up to four (4) years. From the date of passing the
+first examination, the candidate has four (4) years to successfully pass the other required exams.
+Candidates may repeat examinations one or more times as needed.
+
+If a candidate wishes to retake a written examination, they must wait at least 30 days before re-
+applying to take the written examination.
+
+
+
+PAGE 20      Revised 3/1/2026                     National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+
+
+
+                 Examination Content & Tasks
+WRITTEN EXAMINATIONS
+The content on the Written Examinations is derived from the current NBC Job Task Outlines, which
+are listed below and can be found on the NBC website under Certification Program Standards at
+www.nbccert.org/about-national-board-certification/certification-standards.cfm.
+
+The Comprehensive examination is a written multiple-choice test. There are 160 questions on
+the examination, covering basic dental laboratory knowledge: oral anatomy, tooth morphology,
+materials science, health & safety, fundamental theory and terminology across the specialties
+tested by the NBC (Ceramics, Complete Dentures, Crown & Bridge, Digital Workflow, Implants,
+Orthodontics and Partial Dentures).
+
+The Written Specialty examination consists of eighty (80) multiple-choice questions.
+
+
+
+GENERAL                                                                  soft tissue and hard tissue)
+                                                                      6. Identify muscles of mastication and
+A. Dental Laboratory Industry Regulations and                            facial expression
+   Scope of Practice                                                  7. Identify facial and cranial skeletal
+    (8 - 10% of general knowledge examination                            anatomy
+    questions on the Comprehensive examination are                    8. Identify tooth coding systems (e.g.
+    from this domain)                                                    Universal, International, and Palmer)
+    1. Understanding Good Manufacturing                            C. Terminology and Principles
+       Practices (GMPs)                                               (6 - 8% of general knowledge examination
+    2. Practice under Federal guidelines, OSHA,                       questions on the Comprehensive examination are
+       HIPAA, (e.g., labeling and disclosure)                         from this domain)
+    3. Interpret prescription and assess case                         1. Define dental terms using appropriate
+       viability                                                          terminology
+    4. Practice within the scope of state dental                      2. Identify function and types of dental
+       practice act                                                       devices (e.g., appliances, prostheses,
+B. Anatomy                                                                restorations)
+    (17 - 19% of general knowledge examination
+                                                                      3. Weights and measure
+    questions on the Comprehensive examination are                 D. Articulation
+    from this domain)                                                 (6 - 8% of of general knowledge examination
+                                                                      questions on the Comprehensive examination are
+    1. Identify occlusal requirements (e.g.
+                                                                      from this domain)
+       bilateral posterior contacts, guidance,
+       lingualized, anterior guidance)                                1. Identify uses, types and components
+    2. Differentiate types of occlusion (canine                          of articulators (e.g. non-, semi-, fully-
+       guidance, group function, malocclusion)                           adjustable)
+    3. Identify tooth morphology                                      2. Identify mounting procedures (e.g. face
+    4. Identify growth and development of                                bows, etc.)
+       dentition                                                      3. Identify bite registrations and/or jaw
+    5. Identify basic anatomic landmarks (e.g.                           relation records
+
+                                                                                                           continued...
+
+
+
+
+National Board for Certification in Dental Laboratory Technology                       Revised 3/1/2026    PAGE 21
+CDT Examination Handbook and Application
+Examination Content & Tasks, continued.
+E. Identify the types, processes, physical prop-             4. Identify hazardous waste disposal
+   erties and handling characteristics of dental                requirements (EPA)
+   lab materials (e.g. Traditional or Digital)               5. Identification, handling and storage of
+     (34 - 36% of general knowledge examination                 hazardous materials (OSHA, Pictogram
+     questions on the Comprehensive examination are             labeling)
+     from this domain)                                       6. Identify emergency preparedness (e.g.,
+                                                                eye wash, fire blanket, first aid, fire
+     1. Gypsum products
+                                                                extinguishers, exit plan)
+     2. Waxes
+     3. Metals and alloys
+                                                         CERAMICS
+     4. Plastics, resins and composites
+                                                             (16-18% of specialty specific examination questions
+     5. Separating materials                                 on the Comprehensive examination are from this
+     6. Fluxes and antifluxes                                domain)
+     7. Alcohols (e.g., denatured and isopropyl)         A. Perform Preliminary & Diagnostic Work Up
+     8. Acids and neutralizers
+                                                             (10 - 12% of Ceramics examination questions are
+     9. Wetting agents                                       from this domain)
+     10. Wax Solvents                                        1. Manufacture diagnostic cast from
+     11. Abrasives and polishing agents                         preliminary impression or digital file for
+     12. Laboratory gases                                       case design
+     13. Investments (e.g. casting, pressing,                2. Evaluate case for various types of
+         soldering, refractory)                                 restorations
+     14. Impression materials                                3. Recognize contraindications for materials/
+     15. Ceramics (e.g., core and layering                      case design
+         materials)                                          4. Perform diagnostic wax up (e.g.,
+     16. Cements                                                traditional, digital)
+F.   Impressions and Models (e.g., Traditional or            5. Manufacture custom tray
+     Digital)                                            B. Manufacture Master Cast (Traditional or
+     (10 - 12% of general knowledge examination             Digital)
+     questions on the Comprehensive examination are          (9 - 11% of Ceramics examination questions are
+     from this domain)                                       from this domain)
+   1. Evaluate and validate scans and                       1. Manufacture the master cast
+      impressions
+                                                            2. Identify and evaluate preparation designs
+   2. Understand model fabrication
+                                                            3. Prepare the dies
+   3. Recognize contraindications for
+                                                            4. Articulate casts
+      impression techniques and materials
+                                                         C. Manufacture Substructure for Ceramics
+   4. Identify techniques for handling types of
+      impressions                                            (18 - 20% of Ceramics examination questions are
+                                                             from this domain)
+   5. Identify custom tray parameters
+G. Safe Working Practices                                    1. Design substructure for ceramics (e.g.,
+                                                                traditional, digital)
+     (12 - 14% of general knowledge examination
+     questions on the Comprehensive examination are          2. Identify various manufacturing methods
+     from this domain)                                          (e.g., traditional, digital)
+                                                             3. Select compatible materials for
+     1. Identify equipment maintenance and
+                                                                manufacturing methods
+        safety requirements and PPE (verification
+        and validation)                                      4. Identify techniques for manufacturing
+                                                                methods
+     2. Perform infection control procedures
+                                                             5. Evaluate restoration/substructure
+     3. Use and maintenance of Safety Data
+        Sheet (SDS)                                          6. Identify techniques for soldering/welding,
+                                                                pre and post ceramic
+
+
+PAGE 22      Revised 3/1/2026                         National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+
+D. Ceramic Application & Contouring                                   2. Construct master cast
+    (36 - 38% of Ceramics examination questions                       3. Identify anatomical landmarks
+    are from this domain)                                             4. Identify the requirements for a posterior
+                                                                         palatal seal
+   1. Select ceramic materials according to
+       prescription                                                B. Design and Manufacture Record Base Plate
+                                                                      & Occlusal Rim
+   2. Prepare surface for ceramic application
+                                                                        (5 - 7% of Complete Dentures examination
+   3. Apply opaque/liner
+                                                                        questions are from this domain)
+   4. Layer ceramic material (e.g., traditional,
+       digital)                                                       1. Identify the requirements for the
+   5. Contour tooth morphology                                           manufacture of the base plate
+   6. Verify occlusion, contacts and excursions                       2. Identify the requirements for the
+   7. Evaluate shade and characterization                                manufacture of the occlusal rim
+   8. Stain and glaze techniques                                   C. Select and Arrange Artificial Teeth
+   9. Finish and polish techniques                                      (16 - 18% of Complete Dentures examination
+   10. Evaluate the restoration for final                               questions are from this domain)
+       acceptance                                                     1. Index and articulate casts
+E. Selection and Application of Materials and                         2. Select anterior and posterior denture
+   Equipment for Ceramics                                                teeth
+    (21 - 23% of Ceramics examination questions                       3. Set-up anterior and posterior denture
+    are from this domain)                                                teeth
+    1. Identify properties and application of                         4. Create anatomical wax contours of the
+       pattern materials                                                 denture base
+    2. Identify properties and applications of                     D. Process the Denture
+       abrasives and polishing agents                                   (14 - 16% of Complete Dentures examination
+    3. Identify the use of instruments and                              questions are from this domain)
+       equipment
+                                                                      1. Denture investment techniques
+    4. Identify use and storage of acids
+                                                                      2. Mold preparation techniques
+    5. Identify components of CAD/CAM
+                                                                      3. Processing techniques
+       systems
+                                                                   E. Finish & Polish Complete Denture
+    6. Identify properties and application of
+       refractory and investment materials                              (15 - 17% of Complete Dentures examination
+    7. Identify properties and application of                           questions are from this domain)
+       ceramic materials                                                1. Divest the denture
+    8. Identify application of sealers, die                             2. Remount the denture
+       hardeners, spacers, and separating
+                                                                        3. Equilibrate
+       mediums
+                                                                        4. Construct a remount cast and index
+                                                                        5. Finish the denture
+COMPLETE DENTURES
+                                                                        6. Polish the denture
+    (16-18% of specialty specific examination
+    questions on the Comprehensive examination are                 F.   Procedures for Repairs and Alterations for
+    from this domain)                                                   Complete Dentures
+                                                                        (13 - 15% of Complete Dentures examination
+A. Create Master Casts from Stock and/or                                questions are from this domain)
+   Custom Tray Impressions
+                                                                        1.   Rebase denture
+    (15 - 17% of Complete Dentures examination
+    questions are from this domain)                                     2.   Reline denture
+                                                                        3.   Repair denture
+    1. Recognize contraindications for
+                                                                        4.   Duplicate denture
+       materials/case design
+                                                                                                             continued...
+
+
+National Board for Certification in Dental Laboratory Technology                         Revised 3/1/2026    PAGE 23
+CDT Examination Handbook and Application
+Examination Content & Tasks, continued.
+
+   5. Manufacture immediate denture                          2. Identify design parameters for fixed
+G. Selection and Application of Materials and                   restorations
+   Equipment for Removable Prosthetics                       3. Manufacture pattern for full contour
+    (14 - 16% of Complete Dentures examination                  restoration
+    questions are from this domain)                          4. Manufacture pattern for post & core
+                                                             5. Manufacture pattern for substructures
+    1. Understand properties and application of
+       flexible materials                                    6. Manufacture pattern for bridges
+    2. Understand properties and application of              7. Manufacture pattern for inlays/onlay
+       waxes                                              D. Manufacture Restoration (Traditional or
+    3. Understand properties and application of              Digital)
+       resins                                                  (11 - 13% of Crown & Bridge examination
+    4. Understand safety protocols for the use                 questions are from this domain)
+       and storage of hazardous materials                    1. Sprue and invest pattern
+    5. Identify the use of instruments and                   2. Burnout invested mold
+       equipment (e.g., traditional, digital)
+                                                             3. Cast/Press/Divest the restoration
+                                                             4. Mill the restoration
+CROWN AND BRIDGE
+                                                             5. Print the restoration
+    (16-18% of specialty specific examination             E. Finish and Polish the Restoration
+    questions on the Comprehensive examination are
+                                                               (24 - 26% of Crown & Bridge examination
+    from this domain)
+                                                               questions are from this domain)
+A. Perform Preliminary & Diagnostic Work Up
+                                                               1. Inspect the restoration for defects
+    (9 - 11% of Crown & Bridge examination questions
+                                                               2. Remove the sprues
+    are from this domain)
+                                                               3. Seat restoration to die(s)
+   1. Manufacture diagnostic cast from                         4. Finish the restoration
+      preliminary impression or digital file for               5. Refine contacts, occlusion and excursions
+      case design
+                                                               6. Prepare surface for porcelain
+   2. Evaluate case for various types of
+                                                               7. Polish the restoration
+      restorations
+                                                               8. Evaluate the restoration for final
+   3. Recognize contraindications for
+                                                                  acceptance
+      materials/case design
+                                                               9. Apply soldering/welding techniques
+   4. Perform diagnostic wax up (e.g.,
+      traditional, digital)                               F.   Selection and Application of Materials and
+                                                               Equipment for Crown & Bridge
+B. Manufacture Master Cast (Traditional or
+   Digital)                                                    (21 - 23% of Crown & Bridge examination
+                                                               questions are from this domain)
+    (10 - 12% of Crown & Bridge examination
+    questions are from this domain)                            1. Identify properties and application of
+                                                                  pattern materials
+   1. Manufacture the master cast
+                                                               2. Identify properties and applications of
+   2. Identify and evaluate preparation
+                                                                  abrasives and polishing agents
+       designs
+                                                               3. Identify properties and application of
+   3. Prepare the dies
+                                                                  acids
+   4. Articulate casts
+                                                               4. Identify properties and application of
+C. Design and Manufacture Patterns                                laboratory gases
+   (Traditional or Digital)
+                                                               5. Identify properties and application of
+    (17 - 19% of Crown & Bridge examination                       restorative materials
+    questions are from this domain)                            6. Identify properties and application of
+    1. Determine method for creating pattern                      CAD/CAM systems
+
+
+
+PAGE 24      Revised 3/1/2026                          National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+
+    7. Identify properties and application of                         4. Identify and manufacture springs
+       refractory and investment materials                            5. Identify and place screws
+    8. Identify properties and application of                         6. Identify and use coil spring (open &
+       sealers, die hardeners, spacers, and                               closed)
+       separating mediums                                             7. Identify and manufacture labial bows
+    9. Identify properties and application of                         8. Identify and use components (bands,
+       instruments and equipment                                          crowns, etc.)
+                                                                      9. Embed components in acrylics
+ORTHODONTICS                                                          10. Understand application of wire bending
+    (16-18% of specialty specific examination                             tools
+    questions on the Comprehensive examination are                 D. Acrylics, Composites, Plastics
+    from this domain)
+                                                                        (14 - 16% of Orthodontics examination questions
+A. Growth and Development                                               are from this domain)
+    (11 - 13% of Orthodontics examination questions                   1. Utilize vacuum/pressure formed
+    are from this domain)                                                materials
+   1. Identify deciduous and permanent                                2. Apply acrylic using the sprinkle
+      dentition                                                          technique
+   2. Identify the order of tooth eruption                            3. Apply acrylic using the dough pack
+   3. Identify classes of occlusion (class I,II                          technique (cold cured)
+      and III                                                         4. Identify and utilize light cured materials
+   4. Identify the types of malocclusion                              5. Identify and utilize heat cured materials
+   5. Identify the types of tooth movement                            6. Finish and polish appliances
+B. Orthodontic Treatment & Appliances                                 7. Perform acrylic repair
+    (16 - 18% of Orthodontics examination questions                E. Soldering and Welding
+    are from this domain)                                               (14 - 16% of Orthodontics examination questions
+                                                                        are from this domain)
+   1. Differentiate between dental and skeletal
+      treatments                                                        1. Identify components of the soldering
+   2. Categorize types of appliances (passive,                             process (e.g., flux, solder, anti-flux)
+      active, functional)                                               2. Solder an appliance
+   3. Recognize contraindications for                                   3. Weld an appliance
+      materials/case design                                             4. Finishing and polishing of weld/solder
+   4. Recommend orthodontic appliance                                      work
+      design                                                            5. Perform metal repair
+   5. Reset teeth in the cast for proper                           F.   Selection and Application of Materials and
+      alignment                                                         Equipment for Orthodontics
+   6. Identify therapy appliances and related                           (16 - 18% of Orthodontics examination questions
+      federal regulatory requirements                                   are from this domain)
+      (e.g., orthodontic, splints, guards,
+      deprogrammers, sleep apnea)                                       1. Identify and utilize finishing instruments
+   7. Identify and manufacture study casts                                 and equipment
+C. Wire Components and Auxiliaries                                      2. Identify and utilize vacuum/pressure
+                                                                           forming equipment
+    (21 - 23% of Orthodontics examination questions
+                                                                        3. Identify properties and application of
+    are from this domain)
+                                                                           gypsum products
+    1. Identify principles of bending wire                              4. Understand application of separating
+    2. Identify and manufacture types of clasps                            mediums
+    3. Identify functions and uses of clasps                            5. Identify properties and application of
+                                                                           waxes
+                                                                                                             continued...
+
+
+National Board for Certification in Dental Laboratory Technology                         Revised 3/1/2026    PAGE 25
+CDT Examination Handbook and Application
+Examination Content & Tasks, continued.
+    6. Understand applications of abrasives and         C. Manufacture Refractory Cast
+       polishing agents                                      (3 - 5% of Partial Dentures examination questions
+    7. Understand safety protocol for use and                are from this domain)
+       storage of hazardous materials
+                                                             1. Duplicate master cast
+    8. Identify the use of instruments and
+       equipment unique to Orthodontics                      2. Transfer design
+                                                        D. Manufacture Partial Dentures Frameworks
+PARTIAL DENTURES                                             (10 - 12% of Partial Dentures examination
+    (16-18% of specialty specific examination                questions are from this domain)
+    questions on the Comprehensive examination are
+                                                           1. Understand application of patterns (e.g.,
+    from this domain)
+                                                              traditional, digital)
+A. Create Master Casts from Stock and/or                   2. Understand requirements for spruing
+   Custom Tray Impressions                                    (e.g., traditional, digital)
+    (6 - 8% of Partial Dentures examination                3. Invest the pattern
+    questions are from this domain)                        4. Eliminate the pattern
+   1. Construct master casts                               5. Identify casting techniques
+   2. Identify anatomical landmarks                        6. Divest casting
+   3. Index casts                                          7. Finish and polish framework
+   4. Articulate casts                                  E. Select and Arrange Artificial Teeth and
+                                                           Process
+B. Survey, Design and Preparation for
+   Framework (Traditional or Digital)                        (9 - 11% of Partial Dentures examination
+    (25 - 27% of Partial Dentures examination                questions are from this domain)
+    questions are from this domain)                          1. Select appropriate teeth
+    1. Recognize contraindications for                       2. Set-up and arrange appropriate teeth
+        materials/case design                                3. Create anatomical wax contours of the
+    2. Identify major connectors (types and                      denture base
+        functions)                                           4. Identify processing equipment, materials
+    3. Identify minor connectors (types and                      & techniques
+        functions)                                           5. Deflask RPD
+    4. Identify direct retainers (types and             F.   Finish and Polish Partial Denture Base
+        functions)                                           (9 - 11% of Partial Dentures examination
+    5. Identify indirect retainers                           questions are from this domain)
+    6. Determine location of rests
+                                                           1. Identify equipment and materials
+    7. Determine types denture base retention
+                                                           2. Identify the techniques and procedures
+    8. Identify types of attachments
+                                                           3. Divest the partial denture
+    9. Identify stress relievers and application
+                                                           4. Identify and correct processing errors
+    10. Identify techniques of surveying
+                                                           5. Finish the partial denture
+    11. Understand clasp selection
+                                                           6. Polish the partial denture
+    12. Understand application of blockout and
+        relief                                          G. Procedures for Repairs and Alterations for
+                                                           Partial Dentures
+    13. Perform bead line applications
+                                                             (11 - 13% of Partial Dentures examination
+    14. Perform relief for acrylic retention
+                                                             questions are from this domain)
+    15. Understand classification of partially
+        edentulous arches                                    1.   Identify techniques for soldering
+                                                             2.   Identify techniques for welding
+                                                             3.   Finish and polish after alterations
+                                                             4.   Perform repairs and additions
+
+
+PAGE 26      Revised 3/1/2026                        National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+
+   5. Understand process for altered (split)                          4. Understand correlation between bone
+      cast technique                                                      density and load bearing capability
+   6. Reline a partial denture                                        5. Understand occlusal considerations for
+   7. Rebase a partial denture                                            fixed or hybrid restorative options
+   8. Understand process for immediate                                6. Understand occlusal considerations for
+      partial denture                                                     removable restorative options
+H. Selection and Application of Materials and                         7. Recognize contraindications for
+   Equipment                                                              materials/case design
+    (18 - 20% of Partial Dentures examination                         8. Plan and construct case diagnostics
+    questions are from this domain)                                   9. Recommend final case design
+    1. Identify properties and application of                         10. Manufacture guide stent (radiographic/
+        gypsum products                                                   surgical)
+    2. Identify properties and application of                      B. Manufacture the Master Cast
+        refractory and investment materials                           (10 - 12% of Implants examination questions are
+    3. Identify application of separating                             from this domain)
+        mediums                                                       1. Identify custom tray options and assess
+    4. Identify properties and application of                            impression for acceptance
+        waxes                                                         2. Identify, select, and assemble implant
+    5. Identify properties and application of                            parts
+        resins                                                        3. Manufacture soft-tissue cast
+    6. Identify properties and application of                         4. Articulate casts
+        alloys
+                                                                      5. Design and construct verification jig
+    7. Understand application of abrasives and
+        polishing agents                                           C. Manufacture Removable Prosthesis
+    8. Understand application of solder and flux                      (8 - 10% of Implants examination questions are
+        materials                                                     from this domain)
+    9. Understand safety protocol for the use                         1. Construct baseplate and occlusal rim
+        and storage of hazardous materials
+                                                                      2. Identify and understand implant
+    10. Understand application of flexible RPD                           attachments
+        materials
+                                                                      3. Manufacture implant retained denture
+    11. Understand application of CAD/CAM
+                                                                   D. Manufacture Bar/Substructure
+        processes
+    12. Identify use of instruments and                               (15 - 17% of Implants examination questions are
+        equipment (e.g., traditional, digital)                        from this domain)
+
+                                                                      1. Identify and understand implant retained
+IMPLANTS                                                                 options
+    (16-18% of specialty specific examination                         2. Identify and understand implant bar
+    questions on the Comprehensive examination are                       attachments
+    from this domain)                                                 3. Identify and understand load bearing
+                                                                         parameters
+A. Perform Preliminary and Diagnostic Work Up
+                                                                      4. Identify and understand angle correction
+    (20 - 22% of Implants examination questions are
+                                                                         at fixture levels
+    from this domain)
+                                                                      5. Design and manufacture bar/
+    1. Differentiate between implant                                     substructure (e.g., traditional, digital)
+       technologies                                                   6. Verify and fit bar/substructure
+    2. Categorize and identify case design                            7. Correct discrepancies (e.g., weld, solder,
+       options                                                           remake)
+    3. Understand osseointegration and
+       biocompatibility                                                                                    continued...
+
+
+
+National Board for Certification in Dental Laboratory Technology                       Revised 3/1/2026    PAGE 27
+CDT Examination Handbook and Application
+
+Examination Content & Tasks, continued.
+                                                              6. Import intra-oral scans into CAD
+E. Manufacture Screw-Retained Fixed or                           software (e.g., .stl files)
+   Removable (Hybrid) Restoration                             7. Perform scan quality checks
+     (16 - 18% of Implants examination questions are          8. Clean up excess data from scans
+     from this domain)                                        9. Import/Export CAD files (e.g., outsource
+     1. Identify and select components                           workflow)
+     2. Understand path of insertion and
+        emergence profile                                 B. Design Indications
+     3. Design restoration (e.g., traditional,               (30- 34% of written exam questions are
+        digital)                                             from this domain)
+     4. Manufacture restoration (e.g.,                       1. Model/Scan orientation
+        traditional, digital)
+                                                             2. Establish a design protocol
+F.   Manufacture Abutment and Cement-
+                                                             3. Select materials
+     Retained Restoration
+                                                             4. Navigate tooth and material libraries
+     (14 - 16% of Implants examination questions are
+                                                             5. Design models (e.g., milling, printing)
+     from this domain)
+                                                             6. Design cosmetic smile
+   1. Identify and select components
+                                                             7. Design crowns and bridges
+   2. Understand path of insertion and
+      emergence profile                                      8. Design custom trays
+   3. Design restoration (e.g., traditional,                 9. Design complete dentures
+      digital)                                               10. Design RPDs
+   4. Manufacture restoration (e.g.,                         11. Design splints (e.g., night guards)
+      traditional, digital)
+                                                             12. Design orthodontic appliances
+G. Selection and Application of Materials and
+                                                             13. Design surgical guides
+   Equipment
+                                                             14. Design implant abutments
+     (9 - 11% of Implants examination questions are
+                                                             15. Design all on X
+     from this domain)
+     1. Select and operate manufacturing                  C. Fabricating Restorations
+        equipment
+                                                             (22 - 26% of written exam questions are
+     2. Identify the use of instruments
+                                                             from this domain)
+     3. Understand federal regulatory
+        requirements governing implant                       1. Outsource design to appropriate
+        abutment design and manufacturing                       manufacturers
+     4. Identify components of CAD/CAM                       2. Use CAM software to nest CAD
+        systems                                                 restorations in mills
+                                                             3. Use CAM software to nest CAD
+DIGITAL WORKFLOW                                                restorations in 3D printers
+A. Data Aquisition                                           4. Perform CAM quality checks (e.g.,
+   (21- 25% of written exam questions are                       milling strategy, print simulation)
+   from this domain)                                         5. Troubleshoot errors/problems (e.g.,
+   1. Retrieve IO scans                                         CAM error messaging during design or
+   2. Interpret prescriptions                                   nesting)
+   3. Plan cases (e.g., dental, restorative,                 6. Operate 3D printers (e.g., load/unload,
+      treatment)                                                calibrate/test)
+   4. Create digital workorders (e.g., all                   7. Operate mills (e.g., load/unload,
+      indications)                                              calibrate/test)
+   5. Scan physical impression and/or final                  8. Post-process printed parts (e.g., final
+      models (e.g., bite registration, max/min,                 curing of printed material)
+      scan bodies, tissue)                                   9. Post-process milled parts (e.g., blowing
+                                                                off dust, sintering, sprue removal)
+
+
+
+PAGE 28      Revised 3/1/2026                          National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+    10. Perform restoration quality checks (e.g.,                     4. Perform electronic updates (e.g.,
+        shade margins)                                                   software system)
+                                                                      5. Maintain CAD/CAM material files (e.g.,
+D. Maintaining Digital Equipment                                         DMEs, file library)
+   (20 - 24% of written exam questions are                            6. Maintain scanners (e.g., calibration,
+   from this domain)                                                     dust/debris removal)
+   1. Maintain PC (e.g., memory, graphics                             7. Maintain mills (e.g., calibration,
+      card, server archival)                                             cleaning, tool changing)
+   2. Maintain software licenses (e.g., adding                        8. Maintain 3D printers (e.g., calibration,
+      new software, renewing licenses)                                   cleaning, and changing trays)
+   3. Maintain regulatory standards (e.g.,                            9. Maintain sintering trays and furnaces
+      510K, HIPAA, OSHA)                                                 (e.g., purging, clean/repair, replace
+                                                                         heating elements)
+
+
+
+PRACTICAL EXAMINATION
+The Practical examination is a hands-on examination that requires a candidate to demonstrate
+their competence over a range of procedures normally associated with their chosen specialty. The
+Practical examination consists of preliminary procedures that must be performed in the candidate’s
+own laboratory prior to examination date or window, plus specific steps which must be completed
+on the day of the examination.
+
+The following breakdown gives a general outline of the Practical Examinations, including the
+preliminary work and onsite work.
+
+
+CERAMICS
+In the preliminary part of this test, candidates must pour casts, fabricate individual removable
+dies and mount their casts on semi-adjustable articulators according to the written instructions.
+Candidates must fabricate a metal coping and a three unit-substructure using the material of their
+choice. Coping and substructure may be fabricated using traditional or digital methods and should
+be finished as specified in the written instructions.
+
+At the test site, candidates are instructed to complete:
+    • a wax pattern for a veneer.
+    • a PFM crown with porcelain butt margin.
+    • a three unit posterior bridge.
+
+In the Ceramics test, candidates’ grades are reported in in three parts: (1) the model and die work,
+metal finishing and waxing steps; (2) the veneer and the PFM crown; and (3) the three unit bridge.
+
+
+COMPLETE DENTURES
+In advance of the examination day, candidates must pour and mount casts on semi-adjustable
+articulators according to NBC instructions. They must then setup and process a complete set of
+maxillary and mandibular dentures. At the test site, they will:
+    • Make and finish a maxillary custom tray;
+    • Arrange 1 x 28 anatomical teeth in full balance, using the previously mounted casts;
+    • Wax and Contour the 1 x 28 setup;
+    • Make two denture repairs (one tooth replacement and one fracture repair);
+    • Make a maxillary stabilized baseplate and wax an occlusal rim on it.
+
+                                                                                                          continued...
+
+
+
+National Board for Certification in Dental Laboratory Technology                       Revised 3/1/2026   PAGE 29
+CDT Examination Handbook and Application
+Examination Content & Tasks, continued.
+
+Candidates’ grades are grouped into three sub-tests. One sub-test consists of the grades on the
+setup accomplished at the test site; another covers all of the preliminary procedures; and the third
+includes all other procedures on the examination.
+
+
+CROWN & BRIDGE
+In the preliminary part of this test, candidates must fabricate casts and individual removable
+dies and mount their casts on semi-adjustable articulators according to the written instructions.
+Candidates must fabricate a full contour three-unit metal bridge, which may be fabricated using
+traditional or digital methods, leaving it unfinished as specified in the written instructions.
+
+At the test site, candidates will:
+    • wax a substructure.
+    • wax a full contour three-unit bridge.
+    • finish and polish the 3-unit bridge.
+
+In the Crown & Bridge test, candidates’ grades are reported in three parts: (1) the preliminary
+assignments; (2) the waxing assignments; and (3) the metal work.
+
+
+DIGITAL WORKFLOW
+In the preliminary portion of this test, candidates will be provided with two physical impressions
+and one digital impression and must fabricate models and individual removable dies in accordance
+with the written instructions. Candidates must fabricate two full contour zirconia crowns as
+specified in the written instructions.
+
+At the test site, candidates will:
+    • import digital scans and scan models into CAD software
+    • design and fabricate a diagnostic bridge
+    • design and fabricate a full contour bridge with cutback
+    • design and fabricate two full contour crowns and a model from the provided file
+
+Candidates can use the CAD software and milling and printing equipment of their choice to
+fabricate their restorations as long as they can meet the outlined grading criteria.
+
+In the Digital Workflow test, candidates’ grades are reported in four parts: (1) the preliminary
+assignments; (2) the diagnostic bridge; and (3) the full contour bridge with facial cutback; and (4)
+the single unit crowns and and model.
+
+
+IMPLANTS
+In the preliminary part of this test, candidates must pour casts, with appropriate soft tissue
+material, for both fixed and removable tasks according to the written instructions.
+
+They will be required to construct a custom abutment which may be fabricated using traditional
+or digital methods. Candidates are also required to construct a baseplate over attachments and a
+verification jig to fit a multi-implant situation according to the written instructions.
+
+At the test site, candidates are instructed to complete:
+    • a full contour wax up over a custom abutment.
+    • a matrix and a full contour wax up for a screw retained bridge.
+
+
+
+PAGE 30     Revised 3/1/2026                      National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+    •    a stable wrap-around bar substructure to fit the provided stent.
+    •    a 1 x 14 set up and wax up over attachments.
+
+In the Implant test, candidates’ grades are reported in three parts: (1) the preliminary
+assignments; (2) the screw retained and cement retained assignments; and (3) the bar design and
+the 1x14 set up and wax up assignments.
+
+
+ORTHODONTICS
+Prior to the examination, candidates in the Orthodontics specialty need only prepare their casts
+using the NBC test molds. All other assignments, the fabrication of three appliances, are done at
+the test site:
+    • One Hawley-type appliance
+    • One removable modified mandibular unilateral sagittal appliance
+    • One fixed mandibular lingual arch.
+
+In the Orthodontics test, candidates’ grades are reported in four parts: Each appliance represents
+one sub-test score.
+
+
+PARTIAL DENTURES
+The preliminary portion of the Partial Dentures examination requires candidates to pour several
+sets of casts, survey and design maxillary and mandibular frameworks, make refractory casts and
+make one chrome partial framework casting, unfinished. At the test site, candidates are instructed
+to:
+    • Survey and design, according to given specifications, one maxillary and one mandibular
+        framework and prepare the casts for duplication;
+    • Weld or solder a wrought wire clasp to a framework that is brought to the test;
+    • Make wax patterns on two refractory casts fabricated in the preliminary portion of the
+        examination;
+    • Finish and polish the casting that is brought to the test site.
+
+In the Partial Dentures test, candidates’ grades consist of four parts: (1) the preliminary work; (2)
+design; (3) waxing; and (4) metal work.
+
+Materials and specific instructions for the examination will be mailed to candidates approximately
+four (4) weeks before the examination date. The candidate instruction booklet should be read by
+each candidate immediately upon receipt. All of the instructions should be followed carefully and
+completely.
+
+The Practical examination candidate instruction booklet for each specialty is made up of four (4)
+parts:
+    1. A list of materials to bring to the examination site.
+    2. Instructions for pouring casts and other procedures which must be done in advance of the
+       examination date.
+    3. A complete list of the procedures you will be asked to perform at the examination.
+    4. The standards that will be applied in evaluating the examination and the specific items that
+       will be graded.
+
+The NBC uses both the U.S. Postal Service and parcel delivery services. This makes it imperative
+that all candidates maintain a correct, current street address and mailing address on file with the
+NBC Headquarters. If a candidate relocates and fails to notify the NBC on a timely basis, resulting
+delays and/or the cost of new examination materials will be the candidate’s responsibility.
+
+
+
+National Board for Certification in Dental Laboratory Technology                    Revised 3/1/2026   PAGE 31
+CDT Examination Handbook and Application
+
+
+ Written Examination Appeal Policy & Procedures
+PROCEDURAL APPEAL:
+If during a written examination, you believe and can provide valid evidence that any circumstance,
+event, or procedure during the test had an adverse effect on your ability to successfully complete
+the written examination, or that you experienced unfair treatment, please let the Proctor know
+immediately before the end of the examination. The Proctor will log your initial comments and
+return them to NBC headquarters. A written complaint must be created during the test. Any
+comments regarding circumstances, events, or procedures that are not logged during the test may
+not be considered for appeal.
+
+You must also notify NBC headquarters in writing of your request for a procedural appeal within
+48 hours (or two business days) after the test date. Your written request for appeal should include
+a detailed description of the circumstance, event, or procedure that affected your performance on
+the examination.
+
+The complaint and supporting information shall be reviewed to determine if unsatisfactory
+examination conditions did exist. Upon determination that a candidate did not have a “fair”
+opportunity to take the written examination under acceptable conditions, a solution will be
+developed with the candidate based on the particular situation. If it is determined that the
+conditions were acceptable, the candidate has the option to appeal to the Board of Trustees. Notice
+of the final decision for procedural appeals shall be provided in writing to the appellant within 3-4
+weeks of submission. In the event that additional time is needed, the appellant will be notified in
+writing.
+
+
+GRADE APPEAL:
+Candidates who take the written examination receive a written report of the points awarded to
+each content area. If a candidate feels there has been an error in reporting the reading of the
+answer sheets, the candidate should submit a written request for a score review to verify accuracy
+in the calculation. If accurate, grades will not be altered.
+
+You must notify NBC headquarters in writing of your request for a grade review within two weeks
+after the receipt of examination results. Notice of the final decision for grade appeals shall be
+provided in writing to the appellant within 2-3 weeks of submission.
+
+
+QUESTION COMMENTS:
+For all CDT written examinations, a candidate is allowed to make comments pertaining to the
+examination items. Candidate comments must be logged during the examination using the
+instructions provided by the Proctor.
+
+Comments will only be accepted if completed during the examination. All comments are reviewed
+by subject matter experts, designated by the appropriate examination committee, throughout the
+year. While responses to comments are not provided back to the candidate, the comments will be
+used to help ensure the maintenance of the examinations.
+
+All appeals are dealt with in a constructive, impartial, and timely manner. Submission, investigation
+and decision on appeals shall not result in any discriminatory actions against the appellant.
+                                    Please submit appeals to:
+                                     NBC Examination Appeals
+                       325 John Knox Rd., Ste# L-103, Tallahassee, FL 32303
+                     Fax: (850) 222-0053 Email: nbcexamappeals@nbccert.org
+Updated May 2018
+
+
+PAGE 32      Revised 3/1/2026                     National Board for Certification in Dental Laboratory Technology
+                                                                   CDT Examination Handbook and Application
+
+
+Practical Examination Appeal Policy & Procedures
+PROCEDURAL APPEAL:
+If during a practical examination, you believe and can provide valid evidence that any circumstance, event,
+or procedure (i.e. equipment failure) at the test site had an adverse effect on your ability to successfully
+complete the practical examination, or that you experienced unfair treatment or grading (group testing),
+please let the Lead Examiner or Remote Proctor know immediately before you leave the test site. The Lead
+Examiner or Remote Proctor will log your initial comments and return them to NBC headquarters. If you are
+uncomfortable speaking with the Lead Examiner or Remote Proctor, you should note your comments on your
+exit form. Either way, if you are aware of the circumstance, event, or procedure at the test site, a written
+complaint must be created at the test site. Any comments regarding known circumstances, events, or
+procedures at the test site that are not logged at the test site will not be considered for appeal.
+
+You must also notify NBC headquarters in writing of your request for a procedural appeal within two weeks of
+the test date. Your written request for appeal should include a detailed description of the circumstance, event,
+or procedure that affected your performance on the examination.
+
+If in the event a circumstance, event, or procedure does not become apparent until after the practical
+examination results are received rather than at the test site, NBC reserves the right to evaluate each situation
+on a case by case basis to determine whether or not the appeal will be considered.
+
+The complaint and supporting information shall be reviewed to determine if unsatisfactory examination
+conditions did exist. Upon determination that a candidate did not have a “fair” opportunity to take the practical
+examination under acceptable conditions, a solution will be developed with the candidate based on the
+particular situation. If it is determined that the conditions were acceptable, the candidate has the option to
+appeal to the Board of Trustees. Notice of the final decision for procedural appeals shall be provided in writing
+to the appellant within 3-4 weeks of submission. In the event that additional time is needed, the appellant will
+be notified in writing.
+
+
+
+GRADE APPEAL:
+Candidates who take the practical examination receive a detailed written report of the percentage grades
+assigned to each evaluated aspect of their test materials. If a candidate feels there has been an error in
+reporting the percentage grade for one or more specific line items in the report, the candidate should submit
+a written request for a score review to verify accuracy in the calculation and reporting of the specific line
+item(s). If accurate, grades will not be altered but the candidate may appeal for a retake.
+
+Consideration of grade appeals will NOT include requests for additional points, exceptions or revisions to the
+standards, or re-submission or re-evaluation of examination assignments that have been removed from the
+security of the test site.
+
+You must notify NBC headquarters in writing of your request for a grade review within two weeks after the
+receipt of examination results. Notice of the final decision for grade appeals shall be provided in writing to the
+appellant within 2-3 weeks of submission.
+
+
+All appeals are dealt with in a constructive, impartial, and timely manner. Submission, investigation
+and decision on appeals shall not result in any discriminatory actions against the appellant.
+                                        Please submit appeals to:
+                                         NBC Examination Appeals
+                           325 John Knox Rd., Ste# L-103, Tallahassee, FL 32303
+                         Fax: (850) 222-0053 Email: nbcexamappeals@nbccert.org
+Updated April 2022
+
+
+
+National Board for Certification in Dental Laboratory Technology                    Revised 3/1/2026    PAGE 33
+NATIONAL BOARD FOR CERTIFICATION | ALL CERTIFIED DENTAL TECHNICIAN EXAMINATIONS APPLICATION
+                                                                                                                 Certified Dental Technician
+                                                                                                                  Examinations Application
+                                                                                              This application should be used for candidates applying to take all CDT examinations. This includes the
+                                                                                              Comprehensive examination, the Written Specialty examination and the Practical examination.
+
+
+                                                                                              ELIGIBILITY FOR CDT CERTIFICATION EXAMINATIONS
+                                                                                              All technicians applying for the CDT examinations must:
+                                                                                                   1. Have a working knowledge of the English language.
+                                                                                                   2. Be a high school graduate (or the documented equivalent).
+                                                                                                   3. Be of satisfactory ethical and legal standing as defined by the NBC’s disciplinary standards.
+                                                                                                   4. Meet the technical prerequisites required for testing.
+                                                                                              For technicians who are not current participants in the NBC’s Recognized Graduate (RG) program, the
+                                                                                              technical prerequisites for testing may be met by documenting at least five (5) years of training and/
+                                                                                              or experience in dental technology. Time spent in on-the-job training (including formal apprenticeships
+                                                                                              and training courses) or studying in a dental technology education program may be counted towards this
+                                                                                              requirement.
+                                                                                                  • An exception is made for graduates of a two-year, CODA accredited dental technology education
+                                                                                                      program. These candidates may apply for the CDT examinations after completion of two (2) years of
+                                                                                                      practical experience in addition to (and not concurrent with) their course of study.
+                                                                                              NBC has an additional pathway to becoming a CDT, whereby documented continuing education (CE) can
+                                                                                              substitute for education and/or experience. For a detailed breakdown, please visit the Career Path to
+                                                                                              Becoming a CDT document at www.nbccert.org/become-a-cdt or the CE Addendum on page 41.
+
+                                                                                              For technicians who are current Recognized Graduates and have taken and passed their RG examination
+                                                                                              within the last four (4) years, the technical prerequisites for testing may be met in one of the following
+                                                                                              ways:
+                                                                                                  1. Recognized Graduates from two-year CODA accredited programs may sit for the CDT examinations
+                                                                                                      without having to obtain additional education or on-the-job-experience, or
+                                                                                                  2. Recognized Graduates from non-CODA-accredited programs may sit for the CDT examinations after
+                                                                                                      obtaining at least three (3) years of on-the-job experience.
+
+                                                                                              An RG may keep their designation indefinitely, pending that they maintain the renewal requirements.
+                                                                                              However, the RG examination will only substitute for the Written CDT Comprehensive examination for a four
+                                                                                              (4) year period. After four years, the RG must complete all three examinations to earn certification.
+
+
+                                                                                              APPLICATION INSTRUCTIONS
+                                                                                                  1.   Type or print all answers clearly in ink.
+                                                                                                  2.   Use extra sheets of paper if more space is needed for requested information.
+                                                                                                  3.   Be honest, accurate and thorough in completing all sections of this application. The National Board
+                                                                                                       for Certification in Dental Laboratory Technology (NBC) reserves the right to reject any application if
+                                                                                                       the NBC has evidence that the applicant has made a false or misleading statement in the application
+                                                                                                       or any supporting documents.
+                                                                                                  4.   Payment is due with this application. The check or money order, payable to the National Board for
+                                                                                                       Certification, must be in the amount of the application and examination fee for this candidate only.
+                                                                                                       The NBC also accepts Visa, MasterCard and American Express.
+                                                                                                  5.   The NBC Headquarters should receive all applications by the published deadline. Any late
+                                                                                                       applications must be accompanied by the late fee and are subject to NBC approval. Applications are
+                                                                                                       accepted in the order in which they are received, up to the capacity of each examination site.
+                                                                                                  6.   Practical examinations via the group testing at a pre-scheduled volunteer host site are tentative until
+                                                                                                       thirty (30) days prior to the examination. Please call the NBC to check on the expected status of
+                                                                                                       exams prior to making travel arrangements. The NBC reserves the right to cancel the examinations
+                                                                                                       if there are not enough candidates registered.
+                                                                                                  7.   Once an examination has been confirmed, candidates are required to attend their selected
+                                                                                                       examination date or examination window. Failure to do so may result in the forfeiture of all
+                                                                                                       examination fees. Please read the CDT Examination Handbook for additional details about
+                                                                                                       rescheduling and cancellations.
+                                                                                              All CDT candidates should thoroughly read the CDT Examination Handbook for further details and
+                                                                                              information regarding certification and procedures.
+
+                    34
+                                                                                                                                                                                          Revised 3/1/2026
+                                                                                                                  NATIONAL BOARD FOR CERTIFICATION | ALL CERTIFIED DENTAL TECHNICIAN EXAMINATIONS APPLICATION
+  Application for Certified Dental Technician
+            All CDT Examinations
+     For Office Use Only:                                            Date______________________________
+
+     Candidate#________________________                              Site#_____________________________
+
+     Approved__________________________                              Exam_____________________________
+
+
+
+
+  I. APPLICANT INFORMATION
+   Dr.    Mr.    Mrs.    Ms.      Miss    Other___________________
+
+
+  Name_____________________________________________________________________________
+                           (First)                             (Middle Initial)          (Last)
+  (as shown on government issued ID)
+
+
+  Street Address______________________________________________________________________
+
+  _________________________________________________________________________________
+
+  City_________________________________________ State_________________ Zip_____________
+
+  Home or Cell Phone_____________________________ Work Phone____________________________
+
+  Date of Birth__________________________________ Email*________________________________
+  *Required
+
+  Do you wish to receive your grades electronically?                   Yes        No
+  (if yes, please note grades will only be released to the email address provided above on this application)
+
+
+
+
+  II. WRITTEN EXAMINATION SELECTION
+  (if you are not taking a Written examination, skip this section)
+
+   Written Comprehensive Examination
+
+     January Testing Window (Dec. 20th deadline)  July Testing Window (June 20th deadline)
+     February Testing Window (Jan. 20th deadline)  August Testing Window (July 20th deadline)
+     March Testing Window (Feb. 20th deadline)     September Testing Window (Aug. 20th deadline)
+     April Testing Window (March 20th deadline     October Testing Window (Sept. 20th deadline)
+     May Testing Window (April 20th deadline)      November Testing Window (Oct. 20th deadline)
+     June Testing Window (May 20th deadline)       December Testing Window (Nov. 20th deadline)
+
+
+
+
+                                                                                                   continued...
+
+                                                                                                                  35
+Revised 3/1/2026
+NATIONAL BOARD FOR CERTIFICATION | ALL CERTIFIED DENTAL TECHNICIAN EXAMINATIONS APPLICATION
+                                                                                              All Certified Dental Technician Examinations Application, continued.
+
+
+                                                                                               Written Specialty Examination (choose a specialty below)
+                                                                                                              Ceramics          Complete Dentures             Crown & Bridge      Digital Workflow
+                                                                                              		              Implants          Orthodontics                  Partial Dentures
+
+                                                                                                 January Testing Window (Dec. 20th deadline)  July Testing Window (June 20th deadline)
+                                                                                                 February Testing Window (Jan. 20th deadline)  August Testing Window (July 20th deadline)
+                                                                                                 March Testing Window (Feb. 20th deadline)     September Testing Window (Aug. 20th deadline)
+                                                                                                 April Testing Window (March 20th deadline     October Testing Window (Sept. 20th deadline)
+                                                                                                 May Testing Window (April 20th deadline)      November Testing Window (Oct. 20th deadline)
+                                                                                                 June Testing Window (May 20th deadline)       December Testing Window (Nov. 20th deadline)
+                                                                                              Candidates must complete their examination within 30 days once they have been approved by NBC
+                                                                                              to test. Testing windows run from the first day of each month through the last day of each month.
+                                                                                              Registration deadlines are the 20th of the month prior to your desired testing window.
+
+                                                                                              Applications may not be accepted after the deadline specified for an examination without NBC approval
+                                                                                              and a late fee of $25 per written examination.
+
+
+
+                                                                                              III. PRACTICAL EXAMINATION SELECTION
+                                                                                              (if you are not taking the Practical Examination, skip this section)
+
+                                                                                              1. Please check the box next to the Practical examination specialty in which you will be testing.
+                                                                                                              Ceramics                   Complete Dentures            Crown & Bridge
+                                                                                                              Digital Workflow           Implants
+                                                                                                              Orthodontics               Partial Dentures
+
+                                                                                              1a. If you are taking Digital Workflow, please complete the below information:
+
+                                                                                                Design Software You Plan on Using:___________________________________________________
+
+                                                                                                Mill You Plan on Using:_____________________________________________________________
+
+                                                                                                Printer You Plan on Using: __________________________________________________________
+
+                                                                                              2. Please select the method in which you plan to take your Practical examination.
+                                                                                                 Remote Testing Using a Third Party Proctor  Group Testing at a Pre-Scheduled Volunteer Host Site
+
+                                                                                              2a. If you selected the remote testing using a third party proctor option, please:
+                                                                                                1. Select your desired testing window:
+                                                                                                 January Testing Window (Dec. 20th deadline)             July Testing Window (June 20th deadline)
+                                                                                                 March Testing Window (Feb. 20th deadline)               September Testing Window (Aug. 20th deadline)
+                                                                                                 May Testing Window (April 20th deadline)                November Testing Window (Oct. 20th deadline)
+                                                                                                2. Select one of the following options below:
+                                                                                                 I will be providing my own articulator.
+                                                                                                 I will be borrowing an articulator from NBC.
+                                                                                                Note: NBC will charge a $100.00 non-refundable rental fee for the articulator(s) and up to four
+                                                                                                mounting plates (if needed).
+
+                                                                                                3. Select whether or not you want your completed work returned to you after grading:               Yes    No
+                                                                                                If yes, please include your return label from NBC to your desired address upon submission of this
+                                                                                                application.
+
+
+                    36
+                                                                                                                                                                                               Revised 3/1/2026
+                                                                                                                 NATIONAL BOARD FOR CERTIFICATION | ALL CERTIFIED DENTAL TECHNICIAN EXAMINATIONS APPLICATION
+     4. Initial that you have read the frequently asked questions:
+      I hereby verify that I have read the frequently asked questions at www.nbccert.org?qfc218 for the
+     Practical examination remote testing option using a third party proctor. Initial:___________________
+
+2b. If you selected the group testing at a pre-scheduled volunteer host site option, please enter your
+preferred examination location/date (refer to www.nbccert.org for examination schedule).
+
+City_________________________________________ Date_________________________________
+
+Examination applications are processed in the order in which they are received. If the examination
+location of your choice is full, the NBC will notify you and ask that you make another selection.
+Applications may not be accepted after the deadline specified for an examination without NBC approval
+and a late fee of $50. Check with the NBC prior to making your travel arrangements in case there is a
+cancellation.
+
+
+IV. LANGUAGE REQUIREMENT
+Do you read, speak and write the English language?         Yes        No
+
+
+V.        LEGAL REQUIREMENT
+Have you been convicted of illegal practice of dentistry?             Yes    No
+
+
+VI.         FORMAL EDUCATION
+1. Did you graduate from high school or the equivalent (such as earning a GED)?            Yes      No
+2. List post-secondary studies and degree(s) earned, if any:
+
+Name of Institution              Courses or Major            Degree Earned          Year of Graduation
+
+_________________________________________________________________________________
+
+_________________________________________________________________________________
+
+_________________________________________________________________________________
+
+
+
+VII. CONTINUING EDUCATION
+Candidates that are interested in certification that do not have the required five (5) years’ of experience
+and/or education, have the option to submit continuing education to substitute for experience.
+1.     Do you have the required five (5) years’ of experience and/or education?    Yes     No
+          (if yes, proceed to section VIII; if no, answer the question below)
+2.     Enclosed you will find the following completed documents:
+           Continuing Education Log (required – see Pg. 41)
+           Mentorship Attestation Signatures (if claiming mentorship – see Pg. 42)
+
+
+
+
+                                                                                                  continued...
+
+
+
+
+                                                                                                                 37
+Revised 3/1/2026
+                                                                                              All Certified Dental Technician Examinations Application, continued.
+NATIONAL BOARD FOR CERTIFICATION | ALL CERTIFIED DENTAL TECHNICIAN EXAMINATIONS APPLICATION
+                                                                                              VIII.         APPLICANT’S CURRENT EMPLOYMENT
+                                                                                              1. Present Employer_________________________________________________________________
+
+                                                                                              2. Position Title:_ ___________________________________________________________________
+
+                                                                                                   Owner  Laboratory Manager  Department Manager  Technician
+                                                                                                   Other_ ______________________________________________________________________
+                                                                                              3. Business Address_ ________________________________________________________________
+
+                                                                                              _________________________________________________________________________________
+
+                                                                                              City_________________________________________ State_________________ Zip_____________
+
+                                                                                              4. Date of Employment__________________________  Full-time             Part-time (hrs. per week____)
+                                                                                              5. Name and title of present supervisor__________________________________________________
+
+                                                                                              6. Brief description of the work you do___________________________________________________
+
+                                                                                              _________________________________________________________________________________
+
+                                                                                              _________________________________________________________________________________
+
+                                                                                              7. Are you responsible for supervising the performance of other technicians or production personnel on a
+                                                                                              daily basis?    Yes  No
+
+                                                                                              7. Are you regularly or occasionally responsible for the instruction or training of other technicians?		
+                                                                                              		 Yes  No
+
+
+                                                                                              IX.       APPLICANT’S PREVIOUS EMPLOYMENT
+                                                                                              The NBC requires that CDT applicants have at least five years of education and/or employment in
+                                                                                              dental technology, unless the applicant is a Recognized Graduate (see Eligibility for CDT Certification
+                                                                                              Examinations). You must supply such information as the NBC might need to verify compliance with this
+                                                                                              requirement — including the complete mailing addresses and names of employers and supervisors. This
+                                                                                              requirement is interpreted to mean five (5) years of full-time employment (at least 35 hours per week)
+                                                                                              and additional credit is not awarded for formal education concurrent with employment claimed towards
+                                                                                              this requirement.
+
+                                                                                              1. Most Recent Employer______________________________________________________________
+
+                                                                                                  Business Address_ _______________________________________________________________
+
+                                                                                                  ______________________________________________________________________________
+
+                                                                                                  City______________________________________ State_________________ Zip_____________
+
+                                                                                                  Telephone:_________________________________
+
+                                                                                                  a. Dates employed:
+                                                                                                  from (month and year)_______________________ until (month and year)___________________
+
+                                                                                                   Full-time  Part-time (hrs. per week____)
+                                                                                                  b. Job title and brief description of duties performed_____________________________________
+
+                                                                                                  ______________________________________________________________________________
+
+                                                                                                  ______________________________________________________________________________
+
+                                                                                                  ______________________________________________________________________________
+
+                                                                                                  c. Name of Supervisor_____________________________________________________________
+                    38
+                                                                                                                                                                                       Revised 3/1/2026
+                                                                                                                   NATIONAL BOARD FOR CERTIFICATION | ALL CERTIFIED DENTAL TECHNICIAN EXAMINATIONS APPLICATION
+  2. Employment prior to position listed above ______________________________________________
+
+       Business Address_ _______________________________________________________________
+
+       ______________________________________________________________________________
+
+       City______________________________________ State_________________ Zip_____________
+
+       Telephone:_________________________________
+
+       a. Dates employed:
+       from (month and year)_______________________ until (month and year)___________________
+
+        Full-time  Part-time (hrs. per week____)
+       b. Job title and brief description of duties performed_____________________________________
+
+       ______________________________________________________________________________
+
+       ______________________________________________________________________________
+
+       c. Name of Supervisor_____________________________________________________________
+  Please use additional pages if needed to report at least five years of dental technology training,
+  education and experience.
+
+
+  X.      APPLICANT’S AFFIDAVIT
+  I have read and understand the CDT examination handbook and application. I agree to submit to testing
+  for certification according to the requirements and procedures specified by the NBC.
+
+  I agree to indemnify and hold harmless the NBC, its Trustees, officers, employees and agents, and the
+  institution where the CDT examination is administered from any and all liability for injury or damages
+  suffered by me, or which I might cause to others, during the course of taking my examination.
+
+  I agree to abide by the laws and regulations which govern the practice of dentistry and the practice of
+  providing dental laboratory technology services, restorations and services to the dental profession.
+
+  I affirm that all statements made by me in this application are true and correct to the best of my
+  knowledge. I understand that any misrepresentation of facts made in this application for testing or in
+  future applications to the NBC for certification testing or renewal, or in my personal claim to certification
+  (use of the CDT designation and logo), may be found cause for suspension or denial of certification or
+  eligibility for certification testing.
+
+  I understand that NBC operates its examinations with specific procedures that ensure the integrity of
+  the examination process. I understand that if I fail to follow NBC’s policies and procedures that my
+  examination results will not be valid and I would be required to retest at my own expense.
+
+  Any application submitted hereafter will be considered an addendum to this application.
+
+  I understand that for the NBC Practical Examination, NBC will ship me materials for the examination.
+  I understand that it is my responsibility as the candidate to return these materials in good condition
+  to NBC upon the completion of the NBC Practical Examination. I understand that if I fail to complete
+  the NBC Practical Examination, I am still responsible for returning these materials in good condition to
+  NBC within seven business days. I understand that damaged or unreturned molds will result in a fee of
+  $150.00 and my examination grade will be withheld until either undamaged molds are returned or the
+  $150.00 fee has been paid.
+
+  I hereby verify that I have ____ years of education and/or employment in dental laboratory technology.
+
+
+
+  Applicant’s Signature___________________________________________ Date_____________________________
+
+
+                                                                                                    continued...
+                                                                                                                   39
+Revised 3/1/2026
+NATIONAL BOARD FOR CERTIFICATION | ALL CERTIFIED DENTAL TECHNICIAN EXAMINATIONS APPLICATION
+
+
+                                                                                              XI.        PAYMENT
+                                                                                               Written Comprehensive Examination — $275
+                                                                                               Written Specialty Examination — $275
+                                                                                               Practical Examination Remote Testing — $650
+                                                                                                     Articulator Rental — $100
+                                                                                               Practical Examination Group Testing — $650 		                                            Total $________________
+
+                                                                                              Any applications submitted after the published deadline must be accompanied by a late fee of $100
+                                                                                              ($25 per written examination and $50 for the Practical examination) and are subject to NBC approval.
+                                                                                              Candidates who require their Practical Examination materials to be shipped outside of the United States
+                                                                                              must provide the shipping label(s) and corresponding tracking number(s) to NBC.
+
+                                                                                                    Enclosed is Check #_________ in the amount of $____________________ payable to the NBC.
+
+                                                                                                    Please charge my credit card                VISA         MC         AMEX            Amount $________________
+
+                                                                                              Credit Card #___________________________________ Exp._____________ CCV Code*___________
+                                                                                              * Credit Card Verification (CCV Code): This is the 3-digit number that appears on the reverse side of your credit card. For American
+                                                                                              Express cards only, this is the 4-digit number on the front of your card.
+
+
+                                                                                              Cardholder Name_______________________________ Signature_____________________________
+
+                                                                                              Billing Address______________________________________________________________________
+
+                                                                                              Phone_____________________________________________________________________________
+
+                                                                                              The fees published in this application are subject to change. For more information about testing & other
+                                                                                              programs please visit our website at www.nbccert.org.
+
+                                                                                              							                                 Please send completed application and fee to:
+                                                                                              							NBC
+                                                                                              						
+                                                                                              If you have not signed your application 325 John Knox Road, #L103
+                                                                                              							Tallahassee,
+                                                                                              or enclosed the required fees, your                 FL 32303				
+                                                                                                 							(850)
+                                                                                              application will not be processed.            222-0053 Fax
+
+
+
+
+                    40
+                                                                                                                                                                                                                Revised 3/1/2026
+                                                                                                      NATIONAL BOARD FOR CERTIFICATION | ALL CERTIFIED DENTAL TECHNICIAN EXAMINATIONS APPLICATION
+           Continuing Education Addendum
+      (VII. CONTINUING EDUCATION CONTINUED)
+
+Candidates that are interested in certification that do not have the required five (5) years’ of
+experience and/or education, will have the option to submit continuing education to substitute
+for experience. 75 hours of continuing education will substitute for one year of experience.
+
+1)     To sit for an examination a candidate must have:
+
+       •   At least four years of experience and 75 hours of CE
+       •   At least three years of experience and 150 hours of CE
+       •   At least two years of experience and 225 hours of CE
+
+2)      Continuing Education Breakdown - This continuing education log must be included with
+the examination application to document continuing education in lieu of experience. Candidates
+will be required to report the titles, dates, locations, and speakers of their continuing education
+courses, and total the full amount for the application to be accepted. Additionally, candidates
+will be asked to link their areas of study back to the NBC Job Task Outlines. A sample row has
+been completed as an example.
+
+
+IMPORTANT NOTES:
+       •   The continuing education hours can be a combination of different types of training,
+           including, but not limited to, live conferences, workshops, seminars, or other in-
+           person meetings, online training, webinars, in-lab training programs, mentorship, or
+           self-study.
+       •   A maximum of 1/3 of all hours can be claimed as self-study (this amounts to 25
+           hours for each 75 hours reported).
+       •   A maximum of 1/3 of all hours can be claimed through a mentorship program (this
+           amounts to 25 hours for each 75 hours reported). Mentorship is only permitted if
+           managed by a certified individual; CDT, DMD, DDS, etc.
+       •   A minimum of 1/3 of all hours must be approved by one of the following: NBC,
+           ADA-CERP, or AGD (this amounts to 25 hours for each 75 hours reported). The NBC
+           Director of Certification may use discretion on allowing other continuing education
+           credits approved by alternative organizations.
+
+Please use the continuing education log example to assist in filling out the CE log on the next
+page. For additional documentation of CE, please make as many copies of the page as needed.
+
+
+
+
+                                                                                                      41
+Revised 3/1/2026
+                                                                                                Continuing Education Addendum, continued.
+NATIONAL BOARD FOR CERTIFICATION | ALL CERTIFIED DENTAL TECHNICIAN EXAMINATIONS APPLICATION
+                                                                                                                      NBC CONTINUING EDUCATION LOG
+                                                                                                                                                                    **Speaker/           Approved         ***Job Task   #
+                                                                                                 *Type               Title              Date        Location
+                                                                                                                                                                      Mentor                By              Outline   Hours
+
+                                                                                                                 FDA, Implants/                                                          NBC
+                                                                                                CE
+                                                                                                                                                                     Bennett Napier,     ADA-CERP
+                                                                                                Self-Study      Abutments and         9/25/15       Destin, FL                                            Implants - G3      1
+                                                                                                Mentorship                                                               CAE            AGD
+                                                                                                                     Audits                                                              Not Approved
+
+
+                                                                                                                                                                                         NBC
+                                                                                                CE
+                                                                                                                                                                                         ADA-CERP
+                                                                                                Self-Study
+                                                                                                                                                                                         AGD
+                                                                                                Mentorship
+                                                                                                                                                                                         Not Approved
+
+
+
+                                                                                                                                                                                         NBC
+                                                                                                CE
+                                                                                                                                                                                         ADA-CERP
+                                                                                                Self-Study
+                                                                                                                                                                                         AGD
+                                                                                                Mentorship
+                                                                                                                                                                                         Not Approved
+
+
+
+                                                                                                                                                                                         NBC
+                                                                                                CE
+                                                                                                                                                                                         ADA-CERP
+                                                                                                Self-Study
+                                                                                                                                                                                         AGD
+                                                                                                Mentorship
+                                                                                                                                                                                         Not Approved
+
+
+
+                                                                                                                                                                                         NBC
+                                                                                                CE
+                                                                                                                                                                                         ADA-CERP
+                                                                                                Self-Study
+                                                                                                                                                                                         AGD
+                                                                                                Mentorship
+                                                                                                                                                                                         Not Approved
+
+
+
+                                                                                                                                                                                         NBC
+                                                                                                CE
+                                                                                                                                                                                         ADA-CERP
+                                                                                                Self-Study
+                                                                                                                                                                                         AGD
+                                                                                                Mentorship
+                                                                                                                                                                                         Not Approved
+
+
+
+                                                                                                                                                                                         NBC
+                                                                                                CE
+                                                                                                                                                                                         ADA-CERP
+                                                                                                Self-Study
+                                                                                                                                                                                         AGD
+                                                                                                Mentorship
+                                                                                                                                                                                         Not Approved
+
+
+
+                                                                                                                                                                                         NBC
+                                                                                                CE
+                                                                                                                                                                                         ADA-CERP
+                                                                                                Self-Study
+                                                                                                                                                                                         AGD
+                                                                                                Mentorship
+                                                                                                                                                                                         Not Approved
+
+
+
+                                                                                                                                                                                         NBC
+                                                                                                CE
+                                                                                                                                                                                         ADA-CERP
+                                                                                                Self-Study
+                                                                                                                                                                                         AGD
+                                                                                                Mentorship
+                                                                                                                                                                                         Not Approved
+
+
+
+                                                                                                                                                                                         NBC
+                                                                                                CE
+                                                                                                                                                                                         ADA-CERP
+                                                                                                Self-Study
+                                                                                                                                                                                         AGD
+                                                                                                Mentorship
+                                                                                                                                                                                         Not Approved
+
+
+                                                                                                                                                                                                                 Total CE:
+                                                                                              *CE includes live conferences, workshops, seminars, or other in-person meetings, online training,
+                                                                                                                                                                                                          Total Self Study:
+                                                                                              webinars, in-lab training programs, etc.
+                                                                                                                                                                                                                    Total
+                                                                                              **If claiming mentorship, please fill out the mentorship attesting signatures on the following page.
+                                                                                                                                                                                                              Mentorship:
+                                                                                              ***To link your area of study back to the NBC Job Task Outlines, please visit pages 21-29 in the CDT
+                                                                                              Handbook or www.nbccert.org/about-national-board-certification/certification-standards.cfm.                        Subtotal:
+
+
+                                                                                              You may request an electronic copy of the CE log by emailing certification@nbccert.org.
+
+                    42
+                                                                                                                                                                                                         Revised 3/1/2026
+                                                                                                                          NATIONAL BOARD FOR CERTIFICATION | ALL CERTIFIED DENTAL TECHNICIAN EXAMINATIONS APPLICATION
+MENTORSHIP ATTESTING SIGNATURES
+(Only complete this affidavit if you are claiming mentorship on your CE log)
+
+As a CDT applicant claiming continuing education through mentorship, you must obtain an attesting
+signature(s) from your mentor(s).
+
+To the attesting persons:
+
+Your signature below testifies that the mentorship claimed by the applicant in the Continuing Education
+Log is true and correct to the best of your knowledge. Mentorship is only permitted if managed by a
+certified individual; CDT, DMD, DDS, etc. Your signature below also testifies that as the applicant’s claimed
+mentor, you meet the designation requirements.
+
+
+
+
+Signature________________________________________            Signature________________________________________
+
+Name___________________________________________              Name___________________________________________
+(please print)                                               (please print)
+Credential:       CDT    DMD    DDS    Other:_ _______   Credential:       CDT    DMD    DDS    Other:_ _______
+
+Date____________________________________________             Date____________________________________________
+
+Mailing address___________________________________           Mailing address___________________________________
+
+_______________________________________________              _______________________________________________
+
+Telephone_ ______________________________________            Telephone_ ______________________________________
+
+Fax ____________________________________________             Fax ____________________________________________
+
+Email___________________________________________             Email___________________________________________
+
+
+
+
+                                                                                                                          43
+Revised 3/1/2026
+                                     NOTES
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+____________________________________________________________________________________
+                          CHECKLIST
+      HAVE YOU:
+
+         read this handbook in its ENTIRETY?
+         COMPLETELY filled out the application(s)?
+         SIGNED the application affidavit?
+         enclosed the appropriate FEE(S)?
+         kept a COPY of the entire application for your records?
+
+
+WE RECOMMEND THAT YOU KEEP THIS CANDIDATE
+HANDBOOK FOR REFERENCE THROUGHOUT THE
+ENTIRE APPLICATION AND EXAMINATION PROCESS.
+This handbook contains information about how to become nationally certified in dental
+laboratory technology. To avoid problems in processing your application, it is important
+that you follow the guidelines outlined in this handbook and that you comply with
+the required deadlines. If you have questions about the policies, procedures or
+processing of your certification after reading this handbook, please go to our website
+at www.nbccert.org, or email us at certification@nbccert.org. Additional copies of this
+handbook may be obtained by emailing certification@nbccert.org, by calling
+(800) 684-5310 or by sending a written request to the NBC at the address below.
+
+
+
+
+                                        325 John Knox Road, #L103, Tallahassee, FL 32303
+                                        (800) 684-5310 Toll Free • (850) 205-5626
+                                        (850) 222-0053 Fax • www.nbccert.org
+325 John Knox Road, #L103, Tallahassee, FL 32303
+(800) 684-5310 Toll Free • (850) 205-5626
+(850) 222-0053 Fax • www.nbccert.org
+
