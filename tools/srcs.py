@@ -7,9 +7,15 @@ WEB={
 "PIC":{"ref":"OSHA QuickCard: Hazard Communication Standard Pictogram (OSHA 3491)","url":"https://www.osha.gov/sites/default/files/publications/OSHA3491QuickCardPictogram.pdf"},
 "FDAC":{"ref":"FDA: Classify Your Medical Device","url":"https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device"},
 "FDAIMP":{"ref":"FDA: Dental Implants: What You Should Know","url":"https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know"},
+"CAM":{"ref":"Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/"},
+"IOS":{"ref":"Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/"},
+"VP":{"ref":"Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/"},
+"K510":{"ref":"FDA: Premarket Notification 510(k)","url":"https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-notification-510k"},
 "QMSR":{"ref":"FDA: Quality Management System Regulation (QMSR)","url":"https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr"}}
 def src(s):
     """'1.2:2.5.1' = Vol 1 ch 2 para 2.5.1 ; 'BBP' = web source"""
+    if '#' in s:
+        k,loc=s.split('#',1); d=dict(WEB[k]); d['loc']='section '+loc; return d
     if s in WEB: return dict(WEB[s])
     vc,para=s.split(':'); v,c=map(int,vc.split('.'))
     return {"ref":AF1 if v==1 else AF2,"loc":"para "+para,"url":B%(v,c)}

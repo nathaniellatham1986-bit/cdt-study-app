@@ -1,0 +1,3866 @@
+[
+ {
+  "id": "orf-A-001",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How many teeth are in a complete adult natural dentition?",
+  "back": "32 teeth, with 16 in each arch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "orf-A-002",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How many premolars are there in the adult dentition?",
+  "back": "Eight, two in each quadrant. They are sometimes called bicuspids.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.2.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "orf-A-003",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How many molars are normally in each arch?",
+  "back": "Six, three in each quadrant: first, second, and third molars.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.2.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "orf-A-004",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "In the Universal numbering system, which tooth is number 1?",
+  "back": "The upper right third molar. Numbers 1 through 16 run around the maxillary arch to the upper left third molar.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "orf-A-005",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How many lobes does a central incisor develop from, compared to a first molar?",
+  "back": "A central incisor develops from four lobes; a first molar develops from five.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.8.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "orf-A-006",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What are mamelons?",
+  "back": "Small rounded projections of enamel on the incisal edges of newly erupted anterior teeth. They wear away soon after eruption.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.8.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "orf-A-007",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "When is cementum formed?",
+  "back": "During development of the tooth's root. It is a thin calcified layer covering the root.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.5.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "orf-A-008",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Describe a Class I occlusion.",
+  "back": "Normal profile; the mesiobuccal cusp of the upper first molar falls in the buccal groove of the lower first molar in maximum intercuspation.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "orf-A-009",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Describe a Class II occlusion.",
+  "back": "Retruded (retrognathic) profile, deficient in chin length; the upper first molar's mesiobuccal cusp falls anterior to the lower first molar's buccal groove.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "orf-A-010",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Describe a Class III occlusion.",
+  "back": "Protruded (prognathic) profile, excessive chin length; the upper first molar's mesiobuccal cusp falls posterior to the lower first molar's buccal groove.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "orf-A-011",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What marks a Class II, Division 1 malocclusion?",
+  "back": "The maxillary incisors have a normal labiolingual inclination or are too labially inclined.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "orf-A-012",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What marks a Class II, Division 2 malocclusion?",
+  "back": "Two or more maxillary incisors are tipped palatally.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "orf-A-013",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the normal horizontal and vertical overlap ranges in Class I?",
+  "back": "Horizontal overlap 0 to 2 mm; vertical overlap averages 1 to 5 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "orf-A-014",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How do the anterior teeth usually meet in a Class III case?",
+  "back": "Usually edge to edge, with 0 mm of vertical and horizontal overlap. Negative overlaps are possible.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "orf-A-015",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are orthodontic casts made before and after treatment?",
+  "back": "Before, to explain treatment to the patient; after, to show the amount of change or development that occurred.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.21.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-A-016",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a space maintainer designed to do?",
+  "back": "Preserve the space created by the premature loss of a tooth. It is purely passive.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.18",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-001",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How are orthodontic appliances classified by anchorage?",
+  "back": "As fixed or removable, or a combination of both. A patient cannot remove a fixed appliance.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-002",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How are fixed orthodontic appliances generally anchored?",
+  "back": "By metal bands cemented to anchoring teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-003",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How do most removable appliances get their anchorage?",
+  "back": "From acrylic resin bases retained by wrought wire clasps.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-004",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does an active orthodontic appliance do?",
+  "back": "It moves teeth into a more esthetic and functional alignment, using forces from spring wire attachments or rubber bands.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-005",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does a passive orthodontic appliance do?",
+  "back": "It holds or maintains teeth in the positions they already occupy.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-006",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How must a passive appliance's anchorage compare to the teeth it stabilizes?",
+  "back": "It must be more resistant to movement than the teeth it is supposed to stabilize.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-007",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the three parts of a removable orthodontic appliance?",
+  "back": "The effecting mechanism, the anchorage, and the retention.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.15",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-008",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the effecting mechanism?",
+  "back": "The device that moves teeth or holds them in place: active or passive bows with springs, screws, or rubber bands.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.15.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-009",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What provides retention in a removable orthodontic appliance?",
+  "back": "Wrought wire clasps embedded in the anchorage and adapted to natural teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.15.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-010",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Which appliance was the forerunner of most removable orthodontic appliances?",
+  "back": "The Hawley retainer. Most are modifications of the Hawley principle.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.15.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-011",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How do you finish the resin of a Hawley used as a passive retainer?",
+  "back": "Leave the resin in contact with the lingual surfaces of the anterior teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-012",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does an activated labial bow do?",
+  "back": "It moves teeth lingually. The resin must be cut back from the anteriors to allow movement.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-013",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are clear acrylic shields sometimes added to a labial bow?",
+  "back": "They add occlusal-gingival stability and help eliminate unwanted rotation of anterior teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-014",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does the screw in an expansion appliance do when opened?",
+  "back": "It expands the dental arch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-015",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does an incisal inclined plane appliance do?",
+  "back": "It moves one or two maxillary teeth in crossbite facially, using a resin ramp anchored on at least four lower teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-016",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the maximum angle the inclined plane ramp should make with the occlusal plane?",
+  "back": "45 degrees. A steeper ramp moves teeth faster, but should not exceed this.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-017",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What can happen if an inclined plane appliance separates the teeth too much?",
+  "back": "Extreme discomfort in the masticatory muscles or the temporomandibular joints.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-018",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "When is a preformed stainless steel crown used instead of a band?",
+  "back": "When the natural tooth is badly broken down and needs to be covered to retard its deterioration.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-019",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How does the lab usually receive bands for a fixed appliance?",
+  "back": "The dentist fits the bands, makes an impression with them in place, and seats them in the impression before sending it.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-020",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the space-closing appliance used for?",
+  "back": "With rubber bands, it gives a degree of bodily tooth movement while closing a space.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.20.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-021",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How does the space-regaining version differ from the space-closing version?",
+  "back": "It has no hooks; compressed coil springs are threaded onto the guide wires instead.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.20.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-022",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Where are the ends of a lingual archwire space maintainer soldered?",
+  "back": "To bands on the first permanent molars.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.19.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-023",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Where are the optional vertical loops of a lingual archwire placed?",
+  "back": "Just anterior to the first permanent molars, directed toward the floor of the mouth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.19.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-024",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What can a rubber band with bilateral booties substitute for?",
+  "back": "A labial bow, to make teeth contact or move teeth lingually.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-B-025",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a drawback of a rubber band on teeth with facial inclinations?",
+  "back": "It tends to migrate gingivally.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-001",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How are gradual and acute bends made in orthodontic wire?",
+  "back": "Gradual bends with the fingers; acute bends also need pliers, which act as a vise to hold the wire.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.10.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-002",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How do you mark where a bend should go?",
+  "back": "Position the wire on the working cast and mark it with a wax pencil.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.10.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-003",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Over which beak should round wire be bent?",
+  "back": "The rounded beak, never a sharp-edged beak, so the wire is not nicked.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.10.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-004",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why keep bends at right angles to the wire's long axis?",
+  "back": "So torque is incorporated into the wire and all bends stay in the same plane.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.10.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-005",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Where do you start when bending a short section like a clasp?",
+  "back": "With the more critical areas, usually the toothborne areas.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.10.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-006",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Where do you start a complex series of bends such as a labial bow or helical spring?",
+  "back": "In the center of the wire, working toward either end.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.10.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-007",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a closed-end loop used for?",
+  "back": "Mechanical retention of wire anchored in acrylic.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.11.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-008",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Where on bird beak pliers is the smallest loop made?",
+  "back": "Near the very tip; larger loops are made closer to the hinge.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.11.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-009",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the zigzag bend used for, and which pliers make it?",
+  "back": "Mechanical retention in acrylic; made with three-prong pliers.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.11.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-010",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is the helical bend the preferred way to add spring action?",
+  "back": "The helix produces a lighter force over a longer period of time.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.11.5.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-011",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "When is an offset bend used?",
+  "back": "Where wire must contact an isolated tooth or clear the opposing occlusion.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.11.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-012",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the parts and wire size of a Hawley labial bow?",
+  "back": "A bow portion and bilateral canine loops; .030 to .032 inch wire.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-013",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Where should the labial bow contact the teeth?",
+  "back": "The middle thirds of the crowns' facial surfaces.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-014",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Where is the canine loop's first bend made?",
+  "back": "At about the mesial third of the canine, a 90-degree bend toward the gingiva.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-015",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How far off the cast should the palatal part of the bow be?",
+  "back": "About 1/2 mm, so it becomes firmly embedded in the resin.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-016",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the common clasps for removable orthodontic appliances?",
+  "back": "Circumferential, Adams, and ball.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-017",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What wire size is used for a circumferential clasp?",
+  "back": ".028 to .030 inch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-018",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Which wrought wire clasp is the most retentive, and what wire does it use?",
+  "back": "The Adams clasp, .022 to .025 inch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-019",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Where should the horizontal part of an Adams clasp cross the tooth?",
+  "back": "The middle third, with no contact.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.2.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-020",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How much space is left between the cast and the Adams clasp wire on the palate?",
+  "back": "About 1/2 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.2.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-021",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a ball clasp usually supplied?",
+  "back": "Prefabricated, in 0.024, 0.028, or 0.040 inch diameters; the ball gets bigger as wire size increases.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-022",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How do springs produce force?",
+  "back": "A wire's attempt to return from a stressed to an unstressed condition is resisted.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-023",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Who activates the springs on a removable appliance?",
+  "back": "The dentist. The technician places them on the cast in a passive condition.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-024",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the three parts of a helical loop spring?",
+  "back": "A tag embedded in the anchorage, a spiral coil, and an arm that contacts the tooth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-025",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "In what direction does a tooth move relative to the spring's initial contact?",
+  "back": "At a right angle to the initial point of contact.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-026",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What are finger springs used for, and what wire sizes?",
+  "back": "Moving teeth mesially or distally; .014 to .032 inch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-027",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are guards used with finger springs?",
+  "back": "Without them the springs would be less likely to keep proper contact with the teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-028",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How is the canine retractor-premolar holder different from other finger springs?",
+  "back": "It is facially oriented; wire is .030 to .032 inch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-029",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a W spring mostly used for, and what wire size?",
+  "back": "Moving teeth facially; .014 to .020 inch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-030",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the coffin spring for?",
+  "back": "Expanding the posterior segments of the maxillary arch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-031",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a bootie?",
+  "back": "A rubber band anchoring device, bent from .032 to .036 inch wire.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-032",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the wire size of a lingual archwire?",
+  "back": ".032 to .036 inch, round in cross-section.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.19.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-033",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Where is a lingual archwire adapted?",
+  "back": "To the linguogingival third of the teeth, just above the gingival margins.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.19.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-C-034",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the listed wire size for a spring guard?",
+  "back": ".028 to .030 inch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.20",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-001",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What role does autopolymerizing resin play in a removable orthodontic appliance?",
+  "back": "It forms the resistance or anchorage portion that other parts act against.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-002",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How are orthodontic self-curing resins usually molded?",
+  "back": "By the sprinkle-on method.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-003",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why does sprinkled orthodontic polymer stay where it is put?",
+  "back": "The polymer powder is exceptionally fine, so the wet mass holds its place.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-004",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the properties of cured orthodontic resin?",
+  "back": "Dense, nonporous, cleans well, and strong.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-005",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How far should blockout wax be carved back from the survey line?",
+  "back": "1 to 2 mm gingival to the survey line, with wax ledges rounded off.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-006",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Is some lingual tooth undercut desirable for orthodontic resin bases?",
+  "back": "Yes, some lingual tooth undercut is desirable.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-007",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why soak the working cast in saturated calcium SDS?",
+  "back": "To remove air from the cast; trapped air could cause air pockets between resin and cast.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-008",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is painted on the cast before applying resin?",
+  "back": "Tinfoil substitute, allowed to dry.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-009",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What secures springs, bows, and clasps before resin is added?",
+  "back": "Sticky wax, kept off the retentive loops, which sit about 0.5 mm off the cast.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-010",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why cover the active portion of springs with wax?",
+  "back": "So they are not trapped in hardened resin and have room to function later.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-011",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How much area do you do at a time in sprinkle-on, and how thick?",
+  "back": "About a third at a time, in an even layer 2 to 3 mm thick.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-012",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "When do you move on to the next third?",
+  "back": "As soon as the surface sheen disappears.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-013",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a sprinkle-on appliance cured?",
+  "back": "Upside down in a pressure pot of 110°F water at 15 psi for 10 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-014",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is the cast placed upside down in the pressure pot?",
+  "back": "It minimizes porosity caused by air escaping from the cast.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-015",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Who usually creates space between the base and a tooth to be moved?",
+  "back": "The dentist, with the patient present.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-D-016",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "When covering a spring and guard with acrylic, how thick should blockout wax be?",
+  "back": "No thicker than the wire, and the retentive tag is not blocked out.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-001",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How are stainless steel surfaces usually joined in orthodontics?",
+  "back": "By spot-welding or silver soldering.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-002",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "At what temperatures do silver solder and gold solder melt?",
+  "back": "Silver solder at about 1150°F; gold solder at about 1400°F.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-003",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What happens to stainless steel wire above 1250°F?",
+  "back": "It softens and loses its springiness.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-004",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How does silver solder's corrosion resistance compare to gold solder?",
+  "back": "It is lower, but acceptable.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-005",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What kind of bond forms between stainless steel and silver solder?",
+  "back": "A mechanical bond.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-006",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What two things does fluoride flux do to stainless steel?",
+  "back": "It rids the steel of its oxide layer and etches it so solder bonds better.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-007",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Define soldering.",
+  "back": "Joining two pieces of metal using a third metal whose melting range is lower than theirs.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-008",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What torch is most often used for orthodontic soldering?",
+  "back": "A handheld butane torch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-009",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What holds wire-to-wire joints in position for soldering?",
+  "back": "A soldering jig.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.2.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-010",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How is wire held still when soldering it to a band on a cast?",
+  "back": "With wet tissue or a little stone over the wires on both sides, which also protects the cast from heat.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.2.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-011",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Should parts to be soldered in orthodontics be in contact?",
+  "back": "Yes. The exception is fixed partial denture soldering, which needs a slight space.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-012",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What happens if an oxide film forms on stainless steel during soldering?",
+  "back": "The solder may ball up and fail to flow, or form a weak joint.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-013",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What two conditions must the joint meet for the flame?",
+  "back": "It must be accessible to the flame and visible.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-014",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Which part of the flame is used for soldering?",
+  "back": "The reducing zone, never the tip or outer zone, which causes oxidation.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.2.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-015",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "When do you remove the flame?",
+  "back": "As soon as the solder flows into the joint. Overheating causes weak joints.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.2.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-016",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What lighting is best for soldering?",
+  "back": "Subdued light, because the metal and solder are harder to observe in bright light.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.2.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-017",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What does fluoride flux look like as it melts?",
+  "back": "It bubbles up and melts to look like liquid glass.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.3.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-018",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Which piece should the flame be concentrated on?",
+  "back": "The larger of the two pieces.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.3.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-019",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How does spot-welding join metal?",
+  "back": "High-voltage current passes through parts held by electrodes; resistance creates heat, the metal melts, and the parts unite.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.14",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-E-020",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Is solder or flux used in spot-welding?",
+  "back": "No. A true weld forms. It is used only on stainless steel alloys.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.14",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-001",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What two stainless steel wires are frequently used in orthodontics?",
+  "back": "18-8 and Elgiloy, both chrome-nickel-iron alloys.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-002",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What makes Elgiloy different from 18-8?",
+  "back": "It contains substantial cobalt and molybdenum and is said to resist breakage when bent at sharp angles.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-003",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How is orthodontic wire manufactured and supplied?",
+  "back": "Drawn through dies and supplied wrought, in round, rectangular, and square cross-sections.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-004",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How are orthodontic wire sizes measured?",
+  "back": "In thousandths of an inch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-005",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What wire size range covers common holding, moving, and clasping uses?",
+  "back": ".014 to .036 inch, usually very springy and round.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-006",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "If unsure of wire size and temper, which way should you err?",
+  "back": "Too large and too soft, rather than too small and too highly tempered.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-007",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the thickness and width of molar band material?",
+  "back": "0.005 inch thick; 0.180 to 0.250 inch wide.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-008",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the thickness of premolar and anterior band material?",
+  "back": "0.003 to 0.004 inch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-009",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What determines the band width chosen?",
+  "back": "The height of the clinical crown and the band's position on the tooth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-010",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the most commonly used orthodontic bands?",
+  "back": "Prefabricated stainless steel bands, which come closed and need no soldering or welding.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-011",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What attachments may be soldered or welded to bands and crowns?",
+  "back": "Hooks, eyelets, tubes, brackets, and others, usually prefabricated stock.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-012",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What are bird beak pliers used for?",
+  "back": "A universal pliers, 5 inches, for acute or gradual bends and loops.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.9.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-013",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What can three-prong pliers do?",
+  "back": "Make abrupt bends between 0 and 90 degrees without nicking the wire. They are 4 3/4 inches.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.9.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-014",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What are Young-loop bending pliers used for?",
+  "back": "Consistently accurate uniform curves such as canine loops and helical loops.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.9.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-015",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How do orthodontic casts sit when finished?",
+  "back": "On their heels on a flat surface, or on either side, with teeth in maximum intercuspation.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.21.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-016",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "To what height is the maxillary cast base trimmed first?",
+  "back": "40 mm, parallel to the occlusal plane.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-017",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How is the back of the maxillary ortho cast trimmed?",
+  "back": "Perpendicular to the median raphe, 6 mm short of the pterygomaxillary notch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-018",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What angle is used for the maxillary side cuts?",
+  "back": "65 degrees, to the deepest part of the mucobuccal fold.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-019",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What angle is used for the maxillary anterior cuts?",
+  "back": "22 degrees, from the canine eminence to the midline.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-020",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What combined height should the casts have in occlusion?",
+  "back": "70 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-021",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What angle is used for the mandibular side cuts?",
+  "back": "55 degrees.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.11",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-022",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How are the heels trimmed?",
+  "back": "At 120 degrees, to 6 mm from the distobuccal cusp of the most terminal molar.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.13",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-023",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How are ortho casts given their final gloss?",
+  "back": "Soak in liquid soap for 30 to 45 minutes, rinse, and rub with a damp cloth or chamois.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.21",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orf-F-024",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Why use rubber base former molds?",
+  "back": "They give bulk of stone for trimming and eliminate a line between impression and base.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-A-001",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How many teeth are in a complete adult natural dentition?",
+  "options": [
+   "28",
+   "20",
+   "32",
+   "36"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 32. (para 4.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "orq-A-002",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How many premolars are there in a complete adult dentition?",
+  "options": [
+   "Eight",
+   "Four",
+   "Twelve",
+   "Sixteen"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Eight. (para 4.2.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.2.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "orq-A-003",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In the Universal numbering system, which tooth is number 1?",
+  "options": [
+   "The lower left third molar",
+   "The upper right central incisor",
+   "The upper right third molar",
+   "The lower right first molar"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The upper right third molar. (para 4.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "orq-A-004",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "From how many lobes does a central incisor develop?",
+  "options": [
+   "Two",
+   "Five",
+   "Seven",
+   "Four"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Four. (para 4.8.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.8.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "orq-A-005",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What happens to mamelons on newly erupted anterior teeth?",
+  "options": [
+   "They grow larger with age",
+   "They turn into cusps",
+   "They wear away soon after eruption",
+   "They become the cingulum"
+  ],
+  "answer": 2,
+  "explanation": "Correct: They wear away soon after eruption. (para 4.8.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.8.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "orq-A-006",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When in tooth development is cementum formed?",
+  "options": [
+   "During development of the root",
+   "After the tooth is lost",
+   "Before the crown begins to form",
+   "Only after orthodontic treatment"
+  ],
+  "answer": 0,
+  "explanation": "Correct: During development of the root. (para 4.5.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.5.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-04"
+  }
+ },
+ {
+  "id": "orq-A-007",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In a Class I occlusion, where does the mesiobuccal cusp of the upper first molar fall?",
+  "options": [
+   "On the lingual cusp of the lower canine",
+   "Behind the lower third molar",
+   "In the buccal groove of the lower first molar",
+   "On the incisal edge of the lower incisors"
+  ],
+  "answer": 2,
+  "explanation": "Correct: In the buccal groove of the lower first molar. (para 5.6.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "orq-A-008",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which profile is characteristic of a Class II occlusion?",
+  "options": [
+   "A protruded profile with an excessive chin",
+   "A retruded, or retrognathic, profile with a deficient chin",
+   "A perfectly normal profile",
+   "A profile with no mandible"
+  ],
+  "answer": 1,
+  "explanation": "Correct: A retruded, or retrognathic, profile with a deficient chin. (para 5.6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "orq-A-009",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which profile is characteristic of a Class III occlusion?",
+  "options": [
+   "A protruded, or prognathic, profile with an excessive chin",
+   "A retruded profile with a deficient chin",
+   "A normal profile with ideal overlap",
+   "A profile with no maxilla"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A protruded, or prognathic, profile with an excessive chin. (para 5.6.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "orq-A-010",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What feature defines a Class II, Division 2 malocclusion?",
+  "options": [
+   "All the lower molars are missing",
+   "The patient has no vertical overlap at all",
+   "The mandibular canines are impacted",
+   "Two or more maxillary incisors are tipped palatally"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Two or more maxillary incisors are tipped palatally. (para 5.6.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "orq-A-011",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How do the upper and lower anterior teeth usually meet in a Class III case?",
+  "options": [
+   "With 10 mm of horizontal overlap",
+   "With the lower incisors biting into the palate",
+   "Edge to edge",
+   "They never come near each other"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Edge to edge. (para 5.6.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 5.6.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-05"
+  }
+ },
+ {
+  "id": "orq-A-012",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the purpose of a space maintainer?",
+  "options": [
+   "To expand the mandible",
+   "To preserve the space left by the premature loss of a tooth",
+   "To close a diastema quickly",
+   "To retract all anterior teeth"
+  ],
+  "answer": 1,
+  "explanation": "Correct: To preserve the space left by the premature loss of a tooth. (para 9.18)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.18",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-A-013",
+  "exam": "orthodontics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why might orthodontic casts be made after treatment is complete?",
+  "options": [
+   "To serve as a working cast for a complete denture",
+   "To make a night guard",
+   "To show the amount of change or development that has occurred",
+   "To replace the patient's records"
+  ],
+  "answer": 2,
+  "explanation": "Correct: To show the amount of change or development that has occurred. (para 9.21.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.21.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-001",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What generally anchors a fixed orthodontic appliance?",
+  "options": [
+   "A removable acrylic palate",
+   "Denture adhesive",
+   "Elastic ligatures only",
+   "Metal bands cemented to anchoring teeth"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Metal bands cemented to anchoring teeth. (para 9.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-002",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which statement describes a passive orthodontic appliance?",
+  "options": [
+   "It moves teeth rapidly into new positions",
+   "It is always made without wire",
+   "It expands the arch with a screw",
+   "It holds teeth in the positions they already occupy"
+  ],
+  "answer": 3,
+  "explanation": "Correct: It holds teeth in the positions they already occupy. (para 9.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-003",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is required of the anchorage of a passive appliance?",
+  "options": [
+   "It must move along with the teeth",
+   "It must be made of rubber",
+   "It must resist movement more than the teeth it stabilizes",
+   "It must be removable by the patient at any time"
+  ],
+  "answer": 2,
+  "explanation": "Correct: It must resist movement more than the teeth it stabilizes. (para 9.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-004",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What are the three parts of a removable orthodontic appliance?",
+  "options": [
+   "The crown, the root, and the pulp",
+   "The pontic, the retainer, and the connector",
+   "The flask, the investment, and the sprue",
+   "The effecting mechanism, the anchorage, and the retention"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The effecting mechanism, the anchorage, and the retention. (para 9.15)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.15",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-005",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the purpose of the clasps on a removable orthodontic appliance?",
+  "options": [
+   "To maintain the anchorage in place",
+   "To move the molars distally",
+   "To expand the palate",
+   "To seal the posterior palatal border"
+  ],
+  "answer": 0,
+  "explanation": "Correct: To maintain the anchorage in place. (para 9.15.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.15.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-006",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which appliance was the forerunner of most removable orthodontic appliances in use today?",
+  "options": [
+   "The complete denture",
+   "The occlusal splint",
+   "The metal-ceramic crown",
+   "The Hawley retainer"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The Hawley retainer. (para 9.15.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.15.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-007",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How should the resin be finished when a Hawley retainer will be used passively?",
+  "options": [
+   "Cut back well away from all teeth",
+   "Removed completely from the palate",
+   "Built up onto the incisal edges",
+   "Left in contact with the lingual surfaces of the anterior teeth"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Left in contact with the lingual surfaces of the anterior teeth. (para 9.16.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-008",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In which direction does an activated labial bow move teeth?",
+  "options": [
+   "Facially",
+   "Occlusally",
+   "Lingually",
+   "Distally into the ramus"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Lingually. (para 9.16.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-009",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is an incisal inclined plane appliance used to do?",
+  "options": [
+   "Close the space after a molar extraction",
+   "Retain a complete denture",
+   "Expand the mandibular arch",
+   "Move one or two maxillary teeth in crossbite facially"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Move one or two maxillary teeth in crossbite facially. (para 9.17.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-010",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the maximum angle an inclined plane ramp should make with the occlusal plane?",
+  "options": [
+   "45 degrees",
+   "90 degrees",
+   "75 degrees",
+   "120 degrees"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 45 degrees. (para 9.17.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-011",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When is a preformed stainless steel crown usually chosen instead of a band?",
+  "options": [
+   "When the tooth is perfectly sound",
+   "When the patient prefers gold",
+   "When the tooth is badly broken down and needs coverage",
+   "When the tooth is a primary incisor about to exfoliate"
+  ],
+  "answer": 2,
+  "explanation": "Correct: When the tooth is badly broken down and needs coverage. (para 9.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-012",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What replaces the hooks when the space-closing appliance is used to regain space?",
+  "options": [
+   "A palatal screw",
+   "Compressed coil springs threaded onto the guide wires",
+   "A labial bow",
+   "An Adams clasp"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Compressed coil springs threaded onto the guide wires. (para 9.20.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.20.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-013",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where are the ends of a lingual archwire space maintainer soldered?",
+  "options": [
+   "To the central incisors",
+   "To bands on the first permanent molars",
+   "To an acrylic palate",
+   "To the canine crowns"
+  ],
+  "answer": 1,
+  "explanation": "Correct: To bands on the first permanent molars. (para 9.19.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.19.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-014",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What happens when the screw in an arch-expansion appliance is opened?",
+  "options": [
+   "The dental arch expands",
+   "The teeth are extracted",
+   "The bite is closed",
+   "The acrylic is cured"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The dental arch expands. (para 9.17.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-015",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a disadvantage of using a rubber band on teeth with moderate facial inclinations?",
+  "options": [
+   "It turns the teeth blue",
+   "It cannot be stretched",
+   "It tends to migrate gingivally",
+   "It softens the stainless steel wire"
+  ],
+  "answer": 2,
+  "explanation": "Correct: It tends to migrate gingivally. (para 9.17.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-B-016",
+  "exam": "orthodontics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why are clear acrylic shields sometimes added to the labial bow of a passive retainer?",
+  "options": [
+   "To make the appliance heavier",
+   "To add stability and help eliminate unwanted rotation of anterior teeth",
+   "To replace the clasps",
+   "To cure the resin faster"
+  ],
+  "answer": 1,
+  "explanation": "Correct: To add stability and help eliminate unwanted rotation of anterior teeth. (para 9.17)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-001",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Over which part of the pliers should round wire be bent?",
+  "options": [
+   "The sharp-edged beak",
+   "The hinge",
+   "The rounded beak",
+   "The cutting edge"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The rounded beak. (para 9.10.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.10.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-002",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is used to mark where a bend should be made?",
+  "options": [
+   "A wax pencil",
+   "A diamond bur",
+   "A scalpel nick",
+   "A hammer and punch"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A wax pencil. (para 9.10.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.10.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-003",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where should you begin a complex series of bends, such as a labial bow?",
+  "options": [
+   "In the center of the wire",
+   "At the very end of the wire",
+   "At the retentive tag only",
+   "Wherever the wire is thickest"
+  ],
+  "answer": 0,
+  "explanation": "Correct: In the center of the wire. (para 9.10.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.10.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-004",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When bending a short section such as a clasp, which areas do you bend first?",
+  "options": [
+   "The retentive tail first",
+   "The palatal area last only",
+   "The more critical, toothborne areas",
+   "Any area, order does not matter"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The more critical, toothborne areas. (para 9.10.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.10.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-005",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a closed-end loop used for?",
+  "options": [
+   "Activating a screw",
+   "Mechanical retention of wire anchored in acrylic",
+   "Closing a space",
+   "Holding a rubber band on the occlusal surface"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Mechanical retention of wire anchored in acrylic. (para 9.11.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.11.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-006",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is the helical bend the preferred way to increase spring action?",
+  "options": [
+   "It produces a heavy, sudden force",
+   "It makes the wire rigid",
+   "It produces a lighter force over a longer period of time",
+   "It removes the need for anchorage"
+  ],
+  "answer": 2,
+  "explanation": "Correct: It produces a lighter force over a longer period of time. (para 9.11.5.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.11.5.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-007",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When is an offset bend used?",
+  "options": [
+   "When joining two wires with solder",
+   "When curing acrylic",
+   "When trimming a cast",
+   "When the wire must contact an isolated tooth or clear the opposing occlusion"
+  ],
+  "answer": 3,
+  "explanation": "Correct: When the wire must contact an isolated tooth or clear the opposing occlusion. (para 9.11.6.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.11.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-008",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What wire size is used for a Hawley labial bow?",
+  "options": [
+   ".010 inch",
+   ".030 to .032 inch",
+   ".060 inch",
+   ".005 inch"
+  ],
+  "answer": 1,
+  "explanation": "Correct: .030 to .032 inch. (para 9.16.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-009",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where should the labial bow contact the facial surfaces of the teeth?",
+  "options": [
+   "At the gingival margin only",
+   "On the incisal edges",
+   "It should not touch the teeth at all",
+   "In the middle thirds of the crowns"
+  ],
+  "answer": 3,
+  "explanation": "Correct: In the middle thirds of the crowns. (para 9.16.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-010",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which wrought wire clasp is the most retentive?",
+  "options": [
+   "The ball clasp",
+   "The bootie",
+   "The Adams clasp",
+   "The coffin spring"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The Adams clasp. (para 9.16.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-011",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What wire size is used for an Adams clasp?",
+  "options": [
+   ".050 to .060 inch",
+   ".005 inch",
+   ".100 inch",
+   ".022 to .025 inch"
+  ],
+  "answer": 3,
+  "explanation": "Correct: .022 to .025 inch. (para 9.16.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-012",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where should the horizontal bar of an Adams clasp cross the tooth?",
+  "options": [
+   "The gingival third, pressed into the tissue",
+   "The occlusal surface",
+   "The lingual cingulum",
+   "The middle third, with no contact"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The middle third, with no contact. (para 9.16.2.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.2.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-013",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What wire size is used for a circumferential clasp on an orthodontic appliance?",
+  "options": [
+   ".005 inch",
+   ".028 to .030 inch",
+   ".080 inch",
+   ".150 inch"
+  ],
+  "answer": 1,
+  "explanation": "Correct: .028 to .030 inch. (para 9.16.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.16.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-014",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What are the three parts of a helical loop spring?",
+  "options": [
+   "A crown, a root, and a pulp",
+   "A tube, a hook, and a band",
+   "A tag, a spiral coil, and an arm",
+   "A ramp, a screw, and a shield"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A tag, a spiral coil, and an arm. (para 9.17.1.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-015",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Relative to the spring's initial point of contact, in which direction does the tooth move?",
+  "options": [
+   "Directly toward the spring's tag",
+   "It does not move",
+   "Straight up out of the socket",
+   "At a right angle to it"
+  ],
+  "answer": 3,
+  "explanation": "Correct: At a right angle to it. (para 9.17.1.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-016",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Who activates the springs of a removable orthodontic appliance?",
+  "options": [
+   "The patient's parent",
+   "The dentist",
+   "The shipping clerk",
+   "No one, they are always active when made"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The dentist. (para 9.17.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-017",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a W spring mostly used for?",
+  "options": [
+   "Moving teeth facially",
+   "Expanding the mandible",
+   "Anchoring rubber bands",
+   "Retaining the appliance"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Moving teeth facially. (para 9.17.1.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-018",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the purpose of the coffin spring?",
+  "options": [
+   "Retracting a single canine",
+   "Closing a midline diastema",
+   "Holding a rubber band",
+   "Expansion of the posterior segments of the maxillary arch"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Expansion of the posterior segments of the maxillary arch. (para 9.17.1.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-019",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a bootie?",
+  "options": [
+   "A type of acrylic cure",
+   "A rubber band anchoring device",
+   "A pliers for helical loops",
+   "A molar band"
+  ],
+  "answer": 1,
+  "explanation": "Correct: A rubber band anchoring device. (para 9.17.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-020",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which direction are finger springs generally designed to move teeth?",
+  "options": [
+   "Only occlusally",
+   "Only into the bone",
+   "They never move teeth",
+   "Mesially or distally"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Mesially or distally. (para 9.17.1.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.17.1.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-C-021",
+  "exam": "orthodontics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the diameter range of a lingual archwire?",
+  "options": [
+   ".005 to .008 inch",
+   ".100 to .200 inch",
+   ".032 to .036 inch",
+   ".010 to .012 inch"
+  ],
+  "answer": 2,
+  "explanation": "Correct: .032 to .036 inch. (para 9.19.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.19.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-D-001",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How are orthodontic self-curing resins usually molded?",
+  "options": [
+   "By injection molding at 300°F",
+   "By the sprinkle-on method",
+   "By heat-curing in a flask overnight",
+   "By pressing sheets of wax"
+  ],
+  "answer": 1,
+  "explanation": "Correct: By the sprinkle-on method. (para 9.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-D-002",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why does sprinkled orthodontic polymer stay where it is put when wet with monomer?",
+  "options": [
+   "The powder is magnetic",
+   "The polymer powder is exceptionally fine",
+   "The cast is heated to 500°F",
+   "Glue is added to the monomer"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The polymer powder is exceptionally fine. (para 9.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-D-003",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which describes autopolymerizing orthodontic resin after it cures?",
+  "options": [
+   "Porous and weak",
+   "Soft and rubbery",
+   "Brittle and transparent like glass",
+   "Dense, nonporous, and strong"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Dense, nonporous, and strong. (para 9.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-D-004",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How far gingival to the survey line should blockout wax be carved back?",
+  "options": [
+   "10 to 12 mm",
+   "Exactly on the incisal edge",
+   "1 to 2 mm",
+   "It should cover the entire tooth"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 1 to 2 mm. (para 9.12.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-D-005",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is the working cast soaked in saturated calcium SDS?",
+  "options": [
+   "To color the cast",
+   "To harden the resin",
+   "To remove air from the cast",
+   "To lubricate the pliers"
+  ],
+  "answer": 2,
+  "explanation": "Correct: To remove air from the cast. (para 9.12.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-D-006",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is painted on the cast before the resin is applied?",
+  "options": [
+   "Tinfoil substitute",
+   "Flux paste",
+   "Pumice slurry",
+   "Die hardener only"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Tinfoil substitute. (para 9.12.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-D-007",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "About how far off the cast should retentive wire loops sit?",
+  "options": [
+   "About 10 mm",
+   "Pressed tightly into the stone",
+   "About 2 inches",
+   "About 0.5 mm"
+  ],
+  "answer": 3,
+  "explanation": "Correct: About 0.5 mm. (para 9.12.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-D-008",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is wax placed over the active portion of springs before adding resin?",
+  "options": [
+   "To make the springs stronger",
+   "To color the springs",
+   "So the springs are not trapped in hardened resin",
+   "To solder the springs"
+  ],
+  "answer": 2,
+  "explanation": "Correct: So the springs are not trapped in hardened resin. (para 9.12.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-D-009",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How much of the total area should you cover at a time in the sprinkle-on method?",
+  "options": [
+   "All of it at once",
+   "One tenth",
+   "Only the clasps",
+   "About a third"
+  ],
+  "answer": 3,
+  "explanation": "Correct: About a third. (para 9.12.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-D-010",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How thick should the even layer of sprinkle-on resin be?",
+  "options": [
+   "10 to 12 mm",
+   "0.1 mm",
+   "20 mm",
+   "2 to 3 mm"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 2 to 3 mm. (para 9.12.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-D-011",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What pressure and time are used to cure a sprinkle-on appliance in the pressure pot?",
+  "options": [
+   "100 psi for 4 hours",
+   "2 psi for 30 seconds",
+   "No pressure for 24 hours",
+   "15 psi for 10 minutes"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 15 psi for 10 minutes. (para 9.12.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-D-012",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What water temperature is used in the pressure pot?",
+  "options": [
+   "32°F",
+   "212°F",
+   "450°F",
+   "110°F"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 110°F. (para 9.12.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-D-013",
+  "exam": "orthodontics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is the appliance placed upside down in the pressure pot?",
+  "options": [
+   "To minimize porosity from air escaping from the cast",
+   "To speed up the wax burnout",
+   "To keep the springs active",
+   "To make the resin shiny"
+  ],
+  "answer": 0,
+  "explanation": "Correct: To minimize porosity from air escaping from the cast. (para 9.12.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.12.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-E-001",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which definition describes soldering?",
+  "options": [
+   "Joining two metals with a third metal that has a lower melting range",
+   "Joining two metals with high-voltage current only",
+   "Melting two metals together with no filler",
+   "Gluing metals with acrylic resin"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Joining two metals with a third metal that has a lower melting range. (para 9.13.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-E-002",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "At about what temperature does silver solder melt?",
+  "options": [
+   "1150°F",
+   "400°F",
+   "2500°F",
+   "212°F"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 1150°F. (para 9.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-E-003",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What happens to stainless steel wire heated above 1250°F?",
+  "options": [
+   "It becomes springier",
+   "It softens and loses its springiness",
+   "It turns to gold",
+   "It is unaffected at any temperature"
+  ],
+  "answer": 1,
+  "explanation": "Correct: It softens and loses its springiness. (para 9.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-E-004",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What type of flux is required to silver solder stainless steel?",
+  "options": [
+   "A fluoride flux",
+   "No flux at all",
+   "Plain water",
+   "Petroleum jelly"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A fluoride flux. (para 9.8)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-E-005",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What kind of bond forms between stainless steel and silver solder?",
+  "options": [
+   "A chemical bond with the oxide layer",
+   "An ionic bond with the flux",
+   "A mechanical bond",
+   "No bond at all"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A mechanical bond. (para 9.8)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-E-006",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What torch is most often used for orthodontic soldering?",
+  "options": [
+   "An oxyacetylene cutting torch",
+   "A laser welder only",
+   "A handheld butane torch",
+   "A curing light"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A handheld butane torch. (para 9.13.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-E-007",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What device holds wire-to-wire joints for soldering?",
+  "options": [
+   "A pressure pot",
+   "A model trimmer",
+   "A soldering jig",
+   "A dental surveyor"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A soldering jig. (para 9.13.2.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.2.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-E-008",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which type of soldering needs a slight space between parts instead of contact?",
+  "options": [
+   "Orthodontic wire-to-wire soldering",
+   "Fixed partial denture soldering",
+   "Orthodontic wire-to-band soldering",
+   "Spot-welding of bands"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Fixed partial denture soldering. (para 9.13.2.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-E-009",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What can happen if an oxide film forms on stainless steel during soldering?",
+  "options": [
+   "The joint becomes stronger",
+   "The solder may ball up and fail to flow",
+   "The steel becomes gold-colored and harder",
+   "The solder flows faster"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The solder may ball up and fail to flow. (para 9.13.2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-E-010",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which part of the flame should be used for soldering?",
+  "options": [
+   "The tip, or outer zone",
+   "The unlit gas",
+   "The reducing part",
+   "The part farthest from the torch"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The reducing part. (para 9.13.2.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.2.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-E-011",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What lighting conditions are best for soldering?",
+  "options": [
+   "Bright direct sunlight",
+   "Complete darkness",
+   "Ultraviolet light only",
+   "Subdued light"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Subdued light. (para 9.13.2.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.2.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-E-012",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What does fluoride flux look like when it melts?",
+  "options": [
+   "Liquid glass",
+   "Black smoke",
+   "White powder",
+   "Red rust"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Liquid glass. (para 9.13.3.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.3.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-E-013",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which statement about spot-welding is correct?",
+  "options": [
+   "It always requires silver solder",
+   "It is used mainly on gold alloys",
+   "No solder or flux is used and a true weld forms",
+   "It uses a butane flame"
+  ],
+  "answer": 2,
+  "explanation": "Correct: No solder or flux is used and a true weld forms. (para 9.14)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.14",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-E-014",
+  "exam": "orthodontics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When should the flame be removed from the assembly?",
+  "options": [
+   "As soon as the solder flows into the joint",
+   "After the wire glows white for a minute",
+   "Before the solder melts",
+   "Only after the cast cracks"
+  ],
+  "answer": 0,
+  "explanation": "Correct: As soon as the solder flows into the joint. (para 9.13.2.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.13.2.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-001",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which two stainless steel wires are frequently used for orthodontic appliances?",
+  "options": [
+   "Pure gold and pure silver",
+   "18-8 and Elgiloy",
+   "Copper and tin",
+   "Titanium and zirconia"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 18-8 and Elgiloy. (para 9.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-002",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which alloy family are 18-8 and Elgiloy wires?",
+  "options": [
+   "Gold-platinum-palladium",
+   "Chrome-nickel-iron",
+   "Copper-zinc",
+   "Aluminum-magnesium"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Chrome-nickel-iron. (para 9.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-003",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How are orthodontic wires supplied?",
+  "options": [
+   "In wrought condition, drawn through dies",
+   "As cast ingots",
+   "As liquid metal",
+   "As ceramic rods"
+  ],
+  "answer": 0,
+  "explanation": "Correct: In wrought condition, drawn through dies. (para 9.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-004",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "If you are unsure, what wire is better to use?",
+  "options": [
+   "Always the thinnest available",
+   "Always the hardest available",
+   "Too large and too soft rather than too small and too highly tempered",
+   "Any copper wire"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Too large and too soft rather than too small and too highly tempered. (para 9.2.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-005",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How thick is molar band material?",
+  "options": [
+   "0.5 inch",
+   "0.050 inch",
+   "1 inch",
+   "0.005 inch"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 0.005 inch. (para 9.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-006",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What determines the width of band selected?",
+  "options": [
+   "The patient's age only",
+   "The height of the clinical crown and the band's position on the tooth",
+   "The color of the tooth",
+   "The size of the opposing arch"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The height of the clinical crown and the band's position on the tooth. (para 9.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-007",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which statement about prefabricated stainless steel bands is correct?",
+  "options": [
+   "They must always be cast in gold",
+   "They come closed and need no soldering or welding to close",
+   "They come as flat strips that must be welded",
+   "They are made from acrylic resin"
+  ],
+  "answer": 1,
+  "explanation": "Correct: They come closed and need no soldering or welding to close. (para 9.3.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-008",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What can three-prong pliers do?",
+  "options": [
+   "Make abrupt bends from 0 to 90 degrees without nicking the wire",
+   "Cut heavy wire only",
+   "Trim plaster casts",
+   "Heat solder"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Make abrupt bends from 0 to 90 degrees without nicking the wire. (para 9.9.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.9.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-009",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What are Young-loop bending pliers used for?",
+  "options": [
+   "Removing crowns",
+   "Cutting acrylic",
+   "Making accurate uniform curves such as canine and helical loops",
+   "Mixing flux"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Making accurate uniform curves such as canine and helical loops. (para 9.9.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.9.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-010",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How long are bird beak pliers?",
+  "options": [
+   "12 inches",
+   "1 inch",
+   "2 feet",
+   "5 inches"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 5 inches. (para 9.9.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.9.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-011",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How far short of the pterygomaxillary notch is the back of the maxillary ortho cast trimmed?",
+  "options": [
+   "30 mm",
+   "6 mm",
+   "0 mm, through the notch",
+   "60 mm"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 6 mm. (para 9.22.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-012",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "At what angle are the sides of the maxillary orthodontic cast trimmed?",
+  "options": [
+   "10 degrees",
+   "90 degrees",
+   "150 degrees",
+   "65 degrees"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 65 degrees. (para 9.22.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-013",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "At what angle are the anterior cuts of the maxillary orthodontic cast made?",
+  "options": [
+   "22 degrees",
+   "90 degrees",
+   "65 degrees",
+   "180 degrees"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 22 degrees. (para 9.22.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-014",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What should the combined height of the occluded orthodontic casts be?",
+  "options": [
+   "70 mm",
+   "20 mm",
+   "150 mm",
+   "7 mm"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 70 mm. (para 9.22.9)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-015",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "At what angle are the sides of the mandibular orthodontic cast trimmed?",
+  "options": [
+   "5 degrees",
+   "90 degrees",
+   "55 degrees",
+   "170 degrees"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 55 degrees. (para 9.22.11)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.11",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-016",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "At what angle are the heels of the orthodontic casts trimmed?",
+  "options": [
+   "22 degrees",
+   "10 degrees",
+   "180 degrees",
+   "120 degrees"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 120 degrees. (para 9.22.13)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.13",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ },
+ {
+  "id": "orq-F-017",
+  "exam": "orthodontics",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How long are finished orthodontic casts soaked in liquid soap?",
+  "options": [
+   "10 seconds",
+   "30 to 45 minutes",
+   "3 days",
+   "1 week"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 30 to 45 minutes. (para 9.22.21)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 9.22.21",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-09"
+  }
+ }
+]

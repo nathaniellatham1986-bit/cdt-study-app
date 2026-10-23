@@ -1,0 +1,236 @@
+# Orthodontics — AFPAM 47-103 Vol 1 Ch 9 (1.9), plus Ch 4 tooth anatomy (1.4) and Ch 5 occlusion (1.5) for Growth & Development
+# ---- A Growth & Development
+F|A|1.4:4.2|How many teeth are in a complete adult natural dentition?|32 teeth, with 16 in each arch.
+F|A|1.4:4.2.2.1|How many premolars are there in the adult dentition?|Eight, two in each quadrant. They are sometimes called bicuspids.
+F|A|1.4:4.2.2.2|How many molars are normally in each arch?|Six, three in each quadrant: first, second, and third molars.
+F|A|1.4:4.3.1|In the Universal numbering system, which tooth is number 1?|The upper right third molar. Numbers 1 through 16 run around the maxillary arch to the upper left third molar.
+F|A|1.4:4.8.1|How many lobes does a central incisor develop from, compared to a first molar?|A central incisor develops from four lobes; a first molar develops from five.
+F|A|1.4:4.8.2|What are mamelons?|Small rounded projections of enamel on the incisal edges of newly erupted anterior teeth. They wear away soon after eruption.
+F|A|1.4:4.5.3|When is cementum formed?|During development of the tooth's root. It is a thin calcified layer covering the root.
+F|A|1.5:5.6.1|Describe a Class I occlusion.|Normal profile; the mesiobuccal cusp of the upper first molar falls in the buccal groove of the lower first molar in maximum intercuspation.
+F|A|1.5:5.6.2|Describe a Class II occlusion.|Retruded (retrognathic) profile, deficient in chin length; the upper first molar's mesiobuccal cusp falls anterior to the lower first molar's buccal groove.
+F|A|1.5:5.6.3|Describe a Class III occlusion.|Protruded (prognathic) profile, excessive chin length; the upper first molar's mesiobuccal cusp falls posterior to the lower first molar's buccal groove.
+F|A|1.5:5.6.2.1|What marks a Class II, Division 1 malocclusion?|The maxillary incisors have a normal labiolingual inclination or are too labially inclined.
+F|A|1.5:5.6.2.2|What marks a Class II, Division 2 malocclusion?|Two or more maxillary incisors are tipped palatally.
+F|A|1.5:5.6.1|What are the normal horizontal and vertical overlap ranges in Class I?|Horizontal overlap 0 to 2 mm; vertical overlap averages 1 to 5 mm.
+F|A|1.5:5.6.3|How do the anterior teeth usually meet in a Class III case?|Usually edge to edge, with 0 mm of vertical and horizontal overlap. Negative overlaps are possible.
+F|A|1.9:9.21.1|Why are orthodontic casts made before and after treatment?|Before, to explain treatment to the patient; after, to show the amount of change or development that occurred.
+F|A|1.9:9.18|What is a space maintainer designed to do?|Preserve the space created by the premature loss of a tooth. It is purely passive.
+M|A|1.4:4.2|How many teeth are in a complete adult natural dentition?|32|28;20;36
+M|A|1.4:4.2.2.1|How many premolars are there in a complete adult dentition?|Eight|Four;Twelve;Sixteen
+M|A|1.4:4.3.1|In the Universal numbering system, which tooth is number 1?|The upper right third molar|The lower left third molar;The upper right central incisor;The lower right first molar
+M|A|1.4:4.8.1|From how many lobes does a central incisor develop?|Four|Two;Five;Seven
+M|A|1.4:4.8.2|What happens to mamelons on newly erupted anterior teeth?|They wear away soon after eruption|They grow larger with age;They turn into cusps;They become the cingulum
+M|A|1.4:4.5.3|When in tooth development is cementum formed?|During development of the root|After the tooth is lost;Before the crown begins to form;Only after orthodontic treatment
+M|A|1.5:5.6.1|In a Class I occlusion, where does the mesiobuccal cusp of the upper first molar fall?|In the buccal groove of the lower first molar|On the lingual cusp of the lower canine;Behind the lower third molar;On the incisal edge of the lower incisors
+M|A|1.5:5.6.2|Which profile is characteristic of a Class II occlusion?|A retruded, or retrognathic, profile with a deficient chin|A protruded profile with an excessive chin;A perfectly normal profile;A profile with no mandible
+M|A|1.5:5.6.3|Which profile is characteristic of a Class III occlusion?|A protruded, or prognathic, profile with an excessive chin|A retruded profile with a deficient chin;A normal profile with ideal overlap;A profile with no maxilla
+M|A|1.5:5.6.2.2|What feature defines a Class II, Division 2 malocclusion?|Two or more maxillary incisors are tipped palatally|All the lower molars are missing;The patient has no vertical overlap at all;The mandibular canines are impacted
+M|A|1.5:5.6.3|How do the upper and lower anterior teeth usually meet in a Class III case?|Edge to edge|With 10 mm of horizontal overlap;With the lower incisors biting into the palate;They never come near each other
+M|A|1.9:9.18|What is the purpose of a space maintainer?|To preserve the space left by the premature loss of a tooth|To expand the mandible;To close a diastema quickly;To retract all anterior teeth
+M|A|1.9:9.21.1|Why might orthodontic casts be made after treatment is complete?|To show the amount of change or development that has occurred|To serve as a working cast for a complete denture;To make a night guard;To replace the patient's records
+# ---- B Treatment & Appliances
+F|B|1.9:9.1.1|How are orthodontic appliances classified by anchorage?|As fixed or removable, or a combination of both. A patient cannot remove a fixed appliance.
+F|B|1.9:9.1.1|How are fixed orthodontic appliances generally anchored?|By metal bands cemented to anchoring teeth.
+F|B|1.9:9.1.1|How do most removable appliances get their anchorage?|From acrylic resin bases retained by wrought wire clasps.
+F|B|1.9:9.1.2|What does an active orthodontic appliance do?|It moves teeth into a more esthetic and functional alignment, using forces from spring wire attachments or rubber bands.
+F|B|1.9:9.1.2|What does a passive orthodontic appliance do?|It holds or maintains teeth in the positions they already occupy.
+F|B|1.9:9.1.2|How must a passive appliance's anchorage compare to the teeth it stabilizes?|It must be more resistant to movement than the teeth it is supposed to stabilize.
+F|B|1.9:9.15|What are the three parts of a removable orthodontic appliance?|The effecting mechanism, the anchorage, and the retention.
+F|B|1.9:9.15.1|What is the effecting mechanism?|The device that moves teeth or holds them in place: active or passive bows with springs, screws, or rubber bands.
+F|B|1.9:9.15.3|What provides retention in a removable orthodontic appliance?|Wrought wire clasps embedded in the anchorage and adapted to natural teeth.
+F|B|1.9:9.15.3|Which appliance was the forerunner of most removable orthodontic appliances?|The Hawley retainer. Most are modifications of the Hawley principle.
+F|B|1.9:9.16.3.2|How do you finish the resin of a Hawley used as a passive retainer?|Leave the resin in contact with the lingual surfaces of the anterior teeth.
+F|B|1.9:9.16.3.2|What does an activated labial bow do?|It moves teeth lingually. The resin must be cut back from the anteriors to allow movement.
+F|B|1.9:9.17|Why are clear acrylic shields sometimes added to a labial bow?|They add occlusal-gingival stability and help eliminate unwanted rotation of anterior teeth.
+F|B|1.9:9.17.3.1|What does the screw in an expansion appliance do when opened?|It expands the dental arch.
+F|B|1.9:9.17.4|What does an incisal inclined plane appliance do?|It moves one or two maxillary teeth in crossbite facially, using a resin ramp anchored on at least four lower teeth.
+F|B|1.9:9.17.4|What is the maximum angle the inclined plane ramp should make with the occlusal plane?|45 degrees. A steeper ramp moves teeth faster, but should not exceed this.
+F|B|1.9:9.17.4|What can happen if an inclined plane appliance separates the teeth too much?|Extreme discomfort in the masticatory muscles or the temporomandibular joints.
+F|B|1.9:9.4|When is a preformed stainless steel crown used instead of a band?|When the natural tooth is badly broken down and needs to be covered to retard its deterioration.
+F|B|1.9:9.13|How does the lab usually receive bands for a fixed appliance?|The dentist fits the bands, makes an impression with them in place, and seats them in the impression before sending it.
+F|B|1.9:9.20.1|What is the space-closing appliance used for?|With rubber bands, it gives a degree of bodily tooth movement while closing a space.
+F|B|1.9:9.20.2|How does the space-regaining version differ from the space-closing version?|It has no hooks; compressed coil springs are threaded onto the guide wires instead.
+F|B|1.9:9.19.2.2|Where are the ends of a lingual archwire space maintainer soldered?|To bands on the first permanent molars.
+F|B|1.9:9.19.2.2|Where are the optional vertical loops of a lingual archwire placed?|Just anterior to the first permanent molars, directed toward the floor of the mouth.
+F|B|1.9:9.17.2.1|What can a rubber band with bilateral booties substitute for?|A labial bow, to make teeth contact or move teeth lingually.
+F|B|1.9:9.17.2.2|What is a drawback of a rubber band on teeth with facial inclinations?|It tends to migrate gingivally.
+M|B|1.9:9.1.1|What generally anchors a fixed orthodontic appliance?|Metal bands cemented to anchoring teeth|A removable acrylic palate;Denture adhesive;Elastic ligatures only
+M|B|1.9:9.1.2|Which statement describes a passive orthodontic appliance?|It holds teeth in the positions they already occupy|It moves teeth rapidly into new positions;It is always made without wire;It expands the arch with a screw
+M|B|1.9:9.1.2|What is required of the anchorage of a passive appliance?|It must resist movement more than the teeth it stabilizes|It must move along with the teeth;It must be made of rubber;It must be removable by the patient at any time
+M|B|1.9:9.15|What are the three parts of a removable orthodontic appliance?|The effecting mechanism, the anchorage, and the retention|The crown, the root, and the pulp;The pontic, the retainer, and the connector;The flask, the investment, and the sprue
+M|B|1.9:9.15.3|What is the purpose of the clasps on a removable orthodontic appliance?|To maintain the anchorage in place|To move the molars distally;To expand the palate;To seal the posterior palatal border
+M|B|1.9:9.15.3|Which appliance was the forerunner of most removable orthodontic appliances in use today?|The Hawley retainer|The complete denture;The occlusal splint;The metal-ceramic crown
+M|B|1.9:9.16.3.2|How should the resin be finished when a Hawley retainer will be used passively?|Left in contact with the lingual surfaces of the anterior teeth|Cut back well away from all teeth;Removed completely from the palate;Built up onto the incisal edges
+M|B|1.9:9.16.3.2|In which direction does an activated labial bow move teeth?|Lingually|Facially;Occlusally;Distally into the ramus
+M|B|1.9:9.17.4|What is an incisal inclined plane appliance used to do?|Move one or two maxillary teeth in crossbite facially|Close the space after a molar extraction;Retain a complete denture;Expand the mandibular arch
+M|B|1.9:9.17.4|What is the maximum angle an inclined plane ramp should make with the occlusal plane?|45 degrees|90 degrees;75 degrees;120 degrees
+M|B|1.9:9.4|When is a preformed stainless steel crown usually chosen instead of a band?|When the tooth is badly broken down and needs coverage|When the tooth is perfectly sound;When the patient prefers gold;When the tooth is a primary incisor about to exfoliate
+M|B|1.9:9.20.2|What replaces the hooks when the space-closing appliance is used to regain space?|Compressed coil springs threaded onto the guide wires|A palatal screw;A labial bow;An Adams clasp
+M|B|1.9:9.19.2.2|Where are the ends of a lingual archwire space maintainer soldered?|To bands on the first permanent molars|To the central incisors;To an acrylic palate;To the canine crowns
+M|B|1.9:9.17.3.1|What happens when the screw in an arch-expansion appliance is opened?|The dental arch expands|The teeth are extracted;The bite is closed;The acrylic is cured
+M|B|1.9:9.17.2.2|What is a disadvantage of using a rubber band on teeth with moderate facial inclinations?|It tends to migrate gingivally|It turns the teeth blue;It cannot be stretched;It softens the stainless steel wire
+M|B|1.9:9.17|Why are clear acrylic shields sometimes added to the labial bow of a passive retainer?|To add stability and help eliminate unwanted rotation of anterior teeth|To make the appliance heavier;To replace the clasps;To cure the resin faster
+# ---- C Wire Components & Auxiliaries
+F|C|1.9:9.10.1|How are gradual and acute bends made in orthodontic wire?|Gradual bends with the fingers; acute bends also need pliers, which act as a vise to hold the wire.
+F|C|1.9:9.10.2|How do you mark where a bend should go?|Position the wire on the working cast and mark it with a wax pencil.
+F|C|1.9:9.10.3|Over which beak should round wire be bent?|The rounded beak, never a sharp-edged beak, so the wire is not nicked.
+F|C|1.9:9.10.4|Why keep bends at right angles to the wire's long axis?|So torque is incorporated into the wire and all bends stay in the same plane.
+F|C|1.9:9.10.5|Where do you start when bending a short section like a clasp?|With the more critical areas, usually the toothborne areas.
+F|C|1.9:9.10.6|Where do you start a complex series of bends such as a labial bow or helical spring?|In the center of the wire, working toward either end.
+F|C|1.9:9.11.1.1|What is a closed-end loop used for?|Mechanical retention of wire anchored in acrylic.
+F|C|1.9:9.11.1.2|Where on bird beak pliers is the smallest loop made?|Near the very tip; larger loops are made closer to the hinge.
+F|C|1.9:9.11.2.1|What is the zigzag bend used for, and which pliers make it?|Mechanical retention in acrylic; made with three-prong pliers.
+F|C|1.9:9.11.5.1|Why is the helical bend the preferred way to add spring action?|The helix produces a lighter force over a longer period of time.
+F|C|1.9:9.11.6.1|When is an offset bend used?|Where wire must contact an isolated tooth or clear the opposing occlusion.
+F|C|1.9:9.16.1|What are the parts and wire size of a Hawley labial bow?|A bow portion and bilateral canine loops; .030 to .032 inch wire.
+F|C|1.9:9.16.1.1|Where should the labial bow contact the teeth?|The middle thirds of the crowns' facial surfaces.
+F|C|1.9:9.16.1.2|Where is the canine loop's first bend made?|At about the mesial third of the canine, a 90-degree bend toward the gingiva.
+F|C|1.9:9.16.1.3|How far off the cast should the palatal part of the bow be?|About 1/2 mm, so it becomes firmly embedded in the resin.
+F|C|1.9:9.16.2|What are the common clasps for removable orthodontic appliances?|Circumferential, Adams, and ball.
+F|C|1.9:9.16.2.1|What wire size is used for a circumferential clasp?|.028 to .030 inch.
+F|C|1.9:9.16.2.2|Which wrought wire clasp is the most retentive, and what wire does it use?|The Adams clasp, .022 to .025 inch.
+F|C|1.9:9.16.2.2.2|Where should the horizontal part of an Adams clasp cross the tooth?|The middle third, with no contact.
+F|C|1.9:9.16.2.2.4|How much space is left between the cast and the Adams clasp wire on the palate?|About 1/2 mm.
+F|C|1.9:9.16.2.3|How is a ball clasp usually supplied?|Prefabricated, in 0.024, 0.028, or 0.040 inch diameters; the ball gets bigger as wire size increases.
+F|C|1.9:9.17.1.1|How do springs produce force?|A wire's attempt to return from a stressed to an unstressed condition is resisted.
+F|C|1.9:9.17.1.1|Who activates the springs on a removable appliance?|The dentist. The technician places them on the cast in a passive condition.
+F|C|1.9:9.17.1.2.1|What are the three parts of a helical loop spring?|A tag embedded in the anchorage, a spiral coil, and an arm that contacts the tooth.
+F|C|1.9:9.17.1.2.2|In what direction does a tooth move relative to the spring's initial contact?|At a right angle to the initial point of contact.
+F|C|1.9:9.17.1.3.1|What are finger springs used for, and what wire sizes?|Moving teeth mesially or distally; .014 to .032 inch.
+F|C|1.9:9.17.1.3.1|Why are guards used with finger springs?|Without them the springs would be less likely to keep proper contact with the teeth.
+F|C|1.9:9.17.1.4|How is the canine retractor-premolar holder different from other finger springs?|It is facially oriented; wire is .030 to .032 inch.
+F|C|1.9:9.17.1.5|What is a W spring mostly used for, and what wire size?|Moving teeth facially; .014 to .020 inch.
+F|C|1.9:9.17.1.6|What is the coffin spring for?|Expanding the posterior segments of the maxillary arch.
+F|C|1.9:9.17.2.1|What is a bootie?|A rubber band anchoring device, bent from .032 to .036 inch wire.
+F|C|1.9:9.19.2.1|What is the wire size of a lingual archwire?|.032 to .036 inch, round in cross-section.
+F|C|1.9:9.19.2.1|Where is a lingual archwire adapted?|To the linguogingival third of the teeth, just above the gingival margins.
+F|C|1.9:9.20|What is the listed wire size for a spring guard?|.028 to .030 inch.
+M|C|1.9:9.10.3|Over which part of the pliers should round wire be bent?|The rounded beak|The sharp-edged beak;The hinge;The cutting edge
+M|C|1.9:9.10.2|What is used to mark where a bend should be made?|A wax pencil|A diamond bur;A scalpel nick;A hammer and punch
+M|C|1.9:9.10.6|Where should you begin a complex series of bends, such as a labial bow?|In the center of the wire|At the very end of the wire;At the retentive tag only;Wherever the wire is thickest
+M|C|1.9:9.10.5|When bending a short section such as a clasp, which areas do you bend first?|The more critical, toothborne areas|The retentive tail first;The palatal area last only;Any area, order does not matter
+M|C|1.9:9.11.1.1|What is a closed-end loop used for?|Mechanical retention of wire anchored in acrylic|Activating a screw;Closing a space;Holding a rubber band on the occlusal surface
+M|C|1.9:9.11.5.1|Why is the helical bend the preferred way to increase spring action?|It produces a lighter force over a longer period of time|It produces a heavy, sudden force;It makes the wire rigid;It removes the need for anchorage
+M|C|1.9:9.11.6.1|When is an offset bend used?|When the wire must contact an isolated tooth or clear the opposing occlusion|When joining two wires with solder;When curing acrylic;When trimming a cast
+M|C|1.9:9.16.1|What wire size is used for a Hawley labial bow?|.030 to .032 inch|.010 inch;.060 inch;.005 inch
+M|C|1.9:9.16.1.1|Where should the labial bow contact the facial surfaces of the teeth?|In the middle thirds of the crowns|At the gingival margin only;On the incisal edges;It should not touch the teeth at all
+M|C|1.9:9.16.2.2|Which wrought wire clasp is the most retentive?|The Adams clasp|The ball clasp;The bootie;The coffin spring
+M|C|1.9:9.16.2.2|What wire size is used for an Adams clasp?|.022 to .025 inch|.050 to .060 inch;.005 inch;.100 inch
+M|C|1.9:9.16.2.2.2|Where should the horizontal bar of an Adams clasp cross the tooth?|The middle third, with no contact|The gingival third, pressed into the tissue;The occlusal surface;The lingual cingulum
+M|C|1.9:9.16.2.1|What wire size is used for a circumferential clasp on an orthodontic appliance?|.028 to .030 inch|.005 inch;.080 inch;.150 inch
+M|C|1.9:9.17.1.2.1|What are the three parts of a helical loop spring?|A tag, a spiral coil, and an arm|A crown, a root, and a pulp;A tube, a hook, and a band;A ramp, a screw, and a shield
+M|C|1.9:9.17.1.2.2|Relative to the spring's initial point of contact, in which direction does the tooth move?|At a right angle to it|Directly toward the spring's tag;It does not move;Straight up out of the socket
+M|C|1.9:9.17.1.1|Who activates the springs of a removable orthodontic appliance?|The dentist|The patient's parent;The shipping clerk;No one, they are always active when made
+M|C|1.9:9.17.1.5|What is a W spring mostly used for?|Moving teeth facially|Expanding the mandible;Anchoring rubber bands;Retaining the appliance
+M|C|1.9:9.17.1.6|What is the purpose of the coffin spring?|Expansion of the posterior segments of the maxillary arch|Retracting a single canine;Closing a midline diastema;Holding a rubber band
+M|C|1.9:9.17.2.1|What is a bootie?|A rubber band anchoring device|A type of acrylic cure;A pliers for helical loops;A molar band
+M|C|1.9:9.17.1.3.1|Which direction are finger springs generally designed to move teeth?|Mesially or distally|Only occlusally;Only into the bone;They never move teeth
+M|C|1.9:9.19.2.1|What is the diameter range of a lingual archwire?|.032 to .036 inch|.005 to .008 inch;.100 to .200 inch;.010 to .012 inch
+# ---- D Acrylics / Composites / Plastics
+F|D|1.9:9.6|What role does autopolymerizing resin play in a removable orthodontic appliance?|It forms the resistance or anchorage portion that other parts act against.
+F|D|1.9:9.6|How are orthodontic self-curing resins usually molded?|By the sprinkle-on method.
+F|D|1.9:9.6|Why does sprinkled orthodontic polymer stay where it is put?|The polymer powder is exceptionally fine, so the wet mass holds its place.
+F|D|1.9:9.6|What are the properties of cured orthodontic resin?|Dense, nonporous, cleans well, and strong.
+F|D|1.9:9.12.1|How far should blockout wax be carved back from the survey line?|1 to 2 mm gingival to the survey line, with wax ledges rounded off.
+F|D|1.9:9.12.1|Is some lingual tooth undercut desirable for orthodontic resin bases?|Yes, some lingual tooth undercut is desirable.
+F|D|1.9:9.12.2|Why soak the working cast in saturated calcium SDS?|To remove air from the cast; trapped air could cause air pockets between resin and cast.
+F|D|1.9:9.12.3|What is painted on the cast before applying resin?|Tinfoil substitute, allowed to dry.
+F|D|1.9:9.12.4|What secures springs, bows, and clasps before resin is added?|Sticky wax, kept off the retentive loops, which sit about 0.5 mm off the cast.
+F|D|1.9:9.12.5|Why cover the active portion of springs with wax?|So they are not trapped in hardened resin and have room to function later.
+F|D|1.9:9.12.6|How much area do you do at a time in sprinkle-on, and how thick?|About a third at a time, in an even layer 2 to 3 mm thick.
+F|D|1.9:9.12.6|When do you move on to the next third?|As soon as the surface sheen disappears.
+F|D|1.9:9.12.7|How is a sprinkle-on appliance cured?|Upside down in a pressure pot of 110°F water at 15 psi for 10 minutes.
+F|D|1.9:9.12.7|Why is the cast placed upside down in the pressure pot?|It minimizes porosity caused by air escaping from the cast.
+F|D|1.9:9.12.9|Who usually creates space between the base and a tooth to be moved?|The dentist, with the patient present.
+F|D|1.9:9.17.1.3.3|When covering a spring and guard with acrylic, how thick should blockout wax be?|No thicker than the wire, and the retentive tag is not blocked out.
+M|D|1.9:9.6|How are orthodontic self-curing resins usually molded?|By the sprinkle-on method|By injection molding at 300°F;By heat-curing in a flask overnight;By pressing sheets of wax
+M|D|1.9:9.6|Why does sprinkled orthodontic polymer stay where it is put when wet with monomer?|The polymer powder is exceptionally fine|The powder is magnetic;The cast is heated to 500°F;Glue is added to the monomer
+M|D|1.9:9.6|Which describes autopolymerizing orthodontic resin after it cures?|Dense, nonporous, and strong|Porous and weak;Soft and rubbery;Brittle and transparent like glass
+M|D|1.9:9.12.1|How far gingival to the survey line should blockout wax be carved back?|1 to 2 mm|10 to 12 mm;Exactly on the incisal edge;It should cover the entire tooth
+M|D|1.9:9.12.2|Why is the working cast soaked in saturated calcium SDS?|To remove air from the cast|To color the cast;To harden the resin;To lubricate the pliers
+M|D|1.9:9.12.3|What is painted on the cast before the resin is applied?|Tinfoil substitute|Flux paste;Pumice slurry;Die hardener only
+M|D|1.9:9.12.4|About how far off the cast should retentive wire loops sit?|About 0.5 mm|About 10 mm;Pressed tightly into the stone;About 2 inches
+M|D|1.9:9.12.5|Why is wax placed over the active portion of springs before adding resin?|So the springs are not trapped in hardened resin|To make the springs stronger;To color the springs;To solder the springs
+M|D|1.9:9.12.6|How much of the total area should you cover at a time in the sprinkle-on method?|About a third|All of it at once;One tenth;Only the clasps
+M|D|1.9:9.12.6|How thick should the even layer of sprinkle-on resin be?|2 to 3 mm|10 to 12 mm;0.1 mm;20 mm
+M|D|1.9:9.12.7|What pressure and time are used to cure a sprinkle-on appliance in the pressure pot?|15 psi for 10 minutes|100 psi for 4 hours;2 psi for 30 seconds;No pressure for 24 hours
+M|D|1.9:9.12.7|What water temperature is used in the pressure pot?|110°F|32°F;212°F;450°F
+M|D|1.9:9.12.7|Why is the appliance placed upside down in the pressure pot?|To minimize porosity from air escaping from the cast|To speed up the wax burnout;To keep the springs active;To make the resin shiny
+# ---- E Soldering & Welding
+F|E|1.9:9.7|How are stainless steel surfaces usually joined in orthodontics?|By spot-welding or silver soldering.
+F|E|1.9:9.7|At what temperatures do silver solder and gold solder melt?|Silver solder at about 1150°F; gold solder at about 1400°F.
+F|E|1.9:9.7|What happens to stainless steel wire above 1250°F?|It softens and loses its springiness.
+F|E|1.9:9.7|How does silver solder's corrosion resistance compare to gold solder?|It is lower, but acceptable.
+F|E|1.9:9.8|What kind of bond forms between stainless steel and silver solder?|A mechanical bond.
+F|E|1.9:9.8|What two things does fluoride flux do to stainless steel?|It rids the steel of its oxide layer and etches it so solder bonds better.
+F|E|1.9:9.13.1|Define soldering.|Joining two pieces of metal using a third metal whose melting range is lower than theirs.
+F|E|1.9:9.13.1|What torch is most often used for orthodontic soldering?|A handheld butane torch.
+F|E|1.9:9.13.2.2.1|What holds wire-to-wire joints in position for soldering?|A soldering jig.
+F|E|1.9:9.13.2.2.2|How is wire held still when soldering it to a band on a cast?|With wet tissue or a little stone over the wires on both sides, which also protects the cast from heat.
+F|E|1.9:9.13.2.3|Should parts to be soldered in orthodontics be in contact?|Yes. The exception is fixed partial denture soldering, which needs a slight space.
+F|E|1.9:9.13.2.4|What happens if an oxide film forms on stainless steel during soldering?|The solder may ball up and fail to flow, or form a weak joint.
+F|E|1.9:9.13.2.5|What two conditions must the joint meet for the flame?|It must be accessible to the flame and visible.
+F|E|1.9:9.13.2.6|Which part of the flame is used for soldering?|The reducing zone, never the tip or outer zone, which causes oxidation.
+F|E|1.9:9.13.2.6|When do you remove the flame?|As soon as the solder flows into the joint. Overheating causes weak joints.
+F|E|1.9:9.13.2.6|What lighting is best for soldering?|Subdued light, because the metal and solder are harder to observe in bright light.
+F|E|1.9:9.13.3.5|What does fluoride flux look like as it melts?|It bubbles up and melts to look like liquid glass.
+F|E|1.9:9.13.3.5|Which piece should the flame be concentrated on?|The larger of the two pieces.
+F|E|1.9:9.14|How does spot-welding join metal?|High-voltage current passes through parts held by electrodes; resistance creates heat, the metal melts, and the parts unite.
+F|E|1.9:9.14|Is solder or flux used in spot-welding?|No. A true weld forms. It is used only on stainless steel alloys.
+M|E|1.9:9.13.1|Which definition describes soldering?|Joining two metals with a third metal that has a lower melting range|Joining two metals with high-voltage current only;Melting two metals together with no filler;Gluing metals with acrylic resin
+M|E|1.9:9.7|At about what temperature does silver solder melt?|1150°F|400°F;2500°F;212°F
+M|E|1.9:9.7|What happens to stainless steel wire heated above 1250°F?|It softens and loses its springiness|It becomes springier;It turns to gold;It is unaffected at any temperature
+M|E|1.9:9.8|What type of flux is required to silver solder stainless steel?|A fluoride flux|No flux at all;Plain water;Petroleum jelly
+M|E|1.9:9.8|What kind of bond forms between stainless steel and silver solder?|A mechanical bond|A chemical bond with the oxide layer;An ionic bond with the flux;No bond at all
+M|E|1.9:9.13.1|What torch is most often used for orthodontic soldering?|A handheld butane torch|An oxyacetylene cutting torch;A laser welder only;A curing light
+M|E|1.9:9.13.2.2.1|What device holds wire-to-wire joints for soldering?|A soldering jig|A pressure pot;A model trimmer;A dental surveyor
+M|E|1.9:9.13.2.3|Which type of soldering needs a slight space between parts instead of contact?|Fixed partial denture soldering|Orthodontic wire-to-wire soldering;Orthodontic wire-to-band soldering;Spot-welding of bands
+M|E|1.9:9.13.2.4|What can happen if an oxide film forms on stainless steel during soldering?|The solder may ball up and fail to flow|The joint becomes stronger;The steel becomes gold-colored and harder;The solder flows faster
+M|E|1.9:9.13.2.6|Which part of the flame should be used for soldering?|The reducing part|The tip, or outer zone;The unlit gas;The part farthest from the torch
+M|E|1.9:9.13.2.6|What lighting conditions are best for soldering?|Subdued light|Bright direct sunlight;Complete darkness;Ultraviolet light only
+M|E|1.9:9.13.3.5|What does fluoride flux look like when it melts?|Liquid glass|Black smoke;White powder;Red rust
+M|E|1.9:9.14|Which statement about spot-welding is correct?|No solder or flux is used and a true weld forms|It always requires silver solder;It is used mainly on gold alloys;It uses a butane flame
+M|E|1.9:9.13.2.6|When should the flame be removed from the assembly?|As soon as the solder flows into the joint|After the wire glows white for a minute;Before the solder melts;Only after the cast cracks
+# ---- F Materials & Equipment
+F|F|1.9:9.2.1|What two stainless steel wires are frequently used in orthodontics?|18-8 and Elgiloy, both chrome-nickel-iron alloys.
+F|F|1.9:9.2.1|What makes Elgiloy different from 18-8?|It contains substantial cobalt and molybdenum and is said to resist breakage when bent at sharp angles.
+F|F|1.9:9.2.2|How is orthodontic wire manufactured and supplied?|Drawn through dies and supplied wrought, in round, rectangular, and square cross-sections.
+F|F|1.9:9.2.2|How are orthodontic wire sizes measured?|In thousandths of an inch.
+F|F|1.9:9.2.3|What wire size range covers common holding, moving, and clasping uses?|.014 to .036 inch, usually very springy and round.
+F|F|1.9:9.2.3|If unsure of wire size and temper, which way should you err?|Too large and too soft, rather than too small and too highly tempered.
+F|F|1.9:9.3.1|What are the thickness and width of molar band material?|0.005 inch thick; 0.180 to 0.250 inch wide.
+F|F|1.9:9.3.1|What is the thickness of premolar and anterior band material?|0.003 to 0.004 inch.
+F|F|1.9:9.3.1|What determines the band width chosen?|The height of the clinical crown and the band's position on the tooth.
+F|F|1.9:9.3.3|What are the most commonly used orthodontic bands?|Prefabricated stainless steel bands, which come closed and need no soldering or welding.
+F|F|1.9:9.5|What attachments may be soldered or welded to bands and crowns?|Hooks, eyelets, tubes, brackets, and others, usually prefabricated stock.
+F|F|1.9:9.9.2|What are bird beak pliers used for?|A universal pliers, 5 inches, for acute or gradual bends and loops.
+F|F|1.9:9.9.3|What can three-prong pliers do?|Make abrupt bends between 0 and 90 degrees without nicking the wire. They are 4 3/4 inches.
+F|F|1.9:9.9.4|What are Young-loop bending pliers used for?|Consistently accurate uniform curves such as canine loops and helical loops.
+F|F|1.9:9.21.2|How do orthodontic casts sit when finished?|On their heels on a flat surface, or on either side, with teeth in maximum intercuspation.
+F|F|1.9:9.22.3|To what height is the maxillary cast base trimmed first?|40 mm, parallel to the occlusal plane.
+F|F|1.9:9.22.5|How is the back of the maxillary ortho cast trimmed?|Perpendicular to the median raphe, 6 mm short of the pterygomaxillary notch.
+F|F|1.9:9.22.6|What angle is used for the maxillary side cuts?|65 degrees, to the deepest part of the mucobuccal fold.
+F|F|1.9:9.22.7|What angle is used for the maxillary anterior cuts?|22 degrees, from the canine eminence to the midline.
+F|F|1.9:9.22.9|What combined height should the casts have in occlusion?|70 mm.
+F|F|1.9:9.22.11|What angle is used for the mandibular side cuts?|55 degrees.
+F|F|1.9:9.22.13|How are the heels trimmed?|At 120 degrees, to 6 mm from the distobuccal cusp of the most terminal molar.
+F|F|1.9:9.22.21|How are ortho casts given their final gloss?|Soak in liquid soap for 30 to 45 minutes, rinse, and rub with a damp cloth or chamois.
+F|F|1.9:9.22.1|Why use rubber base former molds?|They give bulk of stone for trimming and eliminate a line between impression and base.
+M|F|1.9:9.2.1|Which two stainless steel wires are frequently used for orthodontic appliances?|18-8 and Elgiloy|Pure gold and pure silver;Copper and tin;Titanium and zirconia
+M|F|1.9:9.2.1|Which alloy family are 18-8 and Elgiloy wires?|Chrome-nickel-iron|Gold-platinum-palladium;Copper-zinc;Aluminum-magnesium
+M|F|1.9:9.2.2|How are orthodontic wires supplied?|In wrought condition, drawn through dies|As cast ingots;As liquid metal;As ceramic rods
+M|F|1.9:9.2.3|If you are unsure, what wire is better to use?|Too large and too soft rather than too small and too highly tempered|Always the thinnest available;Always the hardest available;Any copper wire
+M|F|1.9:9.3.1|How thick is molar band material?|0.005 inch|0.5 inch;0.050 inch;1 inch
+M|F|1.9:9.3.1|What determines the width of band selected?|The height of the clinical crown and the band's position on the tooth|The patient's age only;The color of the tooth;The size of the opposing arch
+M|F|1.9:9.3.3|Which statement about prefabricated stainless steel bands is correct?|They come closed and need no soldering or welding to close|They must always be cast in gold;They come as flat strips that must be welded;They are made from acrylic resin
+M|F|1.9:9.9.3|What can three-prong pliers do?|Make abrupt bends from 0 to 90 degrees without nicking the wire|Cut heavy wire only;Trim plaster casts;Heat solder
+M|F|1.9:9.9.4|What are Young-loop bending pliers used for?|Making accurate uniform curves such as canine and helical loops|Removing crowns;Cutting acrylic;Mixing flux
+M|F|1.9:9.9.2|How long are bird beak pliers?|5 inches|12 inches;1 inch;2 feet
+M|F|1.9:9.22.5|How far short of the pterygomaxillary notch is the back of the maxillary ortho cast trimmed?|6 mm|30 mm;0 mm, through the notch;60 mm
+M|F|1.9:9.22.6|At what angle are the sides of the maxillary orthodontic cast trimmed?|65 degrees|10 degrees;90 degrees;150 degrees
+M|F|1.9:9.22.7|At what angle are the anterior cuts of the maxillary orthodontic cast made?|22 degrees|90 degrees;65 degrees;180 degrees
+M|F|1.9:9.22.9|What should the combined height of the occluded orthodontic casts be?|70 mm|20 mm;150 mm;7 mm
+M|F|1.9:9.22.11|At what angle are the sides of the mandibular orthodontic cast trimmed?|55 degrees|5 degrees;90 degrees;170 degrees
+M|F|1.9:9.22.13|At what angle are the heels of the orthodontic casts trimmed?|120 degrees|22 degrees;10 degrees;180 degrees
+M|F|1.9:9.22.21|How long are finished orthodontic casts soaked in liquid soap?|30 to 45 minutes|10 seconds;3 days;1 week

@@ -1,0 +1,3497 @@
+[
+ {
+  "id": "dwf-A-001",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an intraoral scanner (IOS)?",
+  "back": "A device that captures direct optical impressions of the dental arches.",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section Background"
+  }
+ },
+ {
+  "id": "dwf-A-002",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What do intraoral scanners project onto the teeth to scan them?",
+  "back": "A light source, either laser or, more recently, structured light.",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section Background"
+  }
+ },
+ {
+  "id": "dwf-A-003",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What are implant scanbodies?",
+  "back": "Cylinders screwed onto implants so the scanner can capture implant position.",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section Background"
+  }
+ },
+ {
+  "id": "dwf-A-004",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a conventional physical impression, compared with an optical one?",
+  "back": "An impression made with trays and impression materials.",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwf-A-005",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Name a patient-comfort advantage of optical impressions.",
+  "back": "They avoid the discomfort of conventional impression materials and trays.",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwf-A-006",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How do optical impressions affect working time?",
+  "back": "They are time-efficient and reduce working time and cost compared with conventional impressions.",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwf-A-007",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How fast can the latest intraoral scanners capture a full arch?",
+  "back": "In less than 3 minutes.",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwf-A-008",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Which complex cases can intraoral scanning simplify?",
+  "back": "Cases with multiple implants or severe undercuts.",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwf-A-009",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What step does an optical impression let the clinic skip?",
+  "back": "Making a physical impression and pouring a gypsum model.",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwf-A-010",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How can a technician check a scan's quality right away?",
+  "back": "The dentist can email the scan immediately and the technician can check it in real time.",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwf-A-011",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is one of the most frequent problems with intraoral scans?",
+  "back": "Detecting deep margin lines on prepared teeth, or margins when there is bleeding.",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwf-A-012",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Who may find intraoral scanners harder to adopt?",
+  "back": "Clinicians with less experience or interest in technology; there is a learning curve.",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwf-A-013",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "About how much does an intraoral scanner cost, per the 2017 review?",
+  "back": "Roughly 15,000 to 35,000 euros depending on the model.",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwf-A-014",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How do optical impressions help patient communication?",
+  "back": "Patients feel more involved in their treatment.",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwf-A-015",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the most common file format for 3D files sent to a printer slicer?",
+  "back": "STL.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.1"
+  }
+ },
+ {
+  "id": "dwf-A-016",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What geometry must an STL file have to print successfully?",
+  "back": "A closed geometry, not an open mesh.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.1"
+  }
+ },
+ {
+  "id": "dwf-A-017",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What happens to the design data once a CAD design is completed?",
+  "back": "It is transferred to CAM software that controls the production unit.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3"
+  }
+ },
+ {
+  "id": "dwf-A-018",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What can be measured on 3D models in digital dentistry before treatment?",
+  "back": "Volumes and distances, for example to analyze a tooth preparation.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwf-A-019",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why do milled implant components often fit better than milled tooth-borne restorations?",
+  "back": "Implant component geometry has a simple, accurate numerical representation, reducing reliance on scanning.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.3"
+  }
+ },
+ {
+  "id": "dwf-A-020",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the conventional fabrication steps that CAD/CAM can replace?",
+  "back": "Impression, stone model, wax pattern, investing, and replacing the pattern with permanent material.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwf-A-021",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why can conventional fabrication introduce error?",
+  "back": "Much human handling and materials with processing shrinkage or expansion.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwf-B-001",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Which high-strength ceramics can only be produced by computer-aided manufacturing?",
+  "back": "Alumina and zirconia.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwf-B-002",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Name material groups modern CAD/CAM machines can use.",
+  "back": "Metals, ceramics, and resins.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwf-B-003",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Name metals used in CAD/CAM prosthodontics.",
+  "back": "Base metal alloys and titanium.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwf-B-004",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What was the early use of CAM in prosthodontics?",
+  "back": "Fixed prostheses luted to teeth.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwf-B-005",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Name two ways CAD/CAM can produce removable partial denture frameworks.",
+  "back": "Directly from metal, or as a resin pattern that is cast conventionally.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwf-B-006",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Which materials can be processed by subtractive milling?",
+  "back": "Metals, ceramics, resins, and waxes.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwf-B-007",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What durability advantage comes from milling from an industrial blank?",
+  "back": "It relies on the manufacturer's tight quality control and reduces flaws like porosity.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwf-B-008",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Where were glass ceramics acceptable before CAD/CAM high-strength ceramics?",
+  "back": "Inlays, onlays, or anterior crowns cemented with resin.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwf-B-009",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What are known limitations of zirconia?",
+  "back": "A high incidence of veneer porcelain fracture and material instability.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwf-B-010",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why should zirconia be produced at accurate dimensions?",
+  "back": "To avoid manual adjustment after sintering, which can cause phase transformation and defects.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwf-B-011",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How does zirconia durability compare with metal prostheses?",
+  "back": "Less durable than metal but within a clinically acceptable range.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwf-B-012",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What marginal gap is considered clinically acceptable?",
+  "back": "Within 100 micrometers.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.3"
+  }
+ },
+ {
+  "id": "dwf-B-013",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is no tool compensation needed in additive manufacturing?",
+  "back": "No drilling or cutting tool is involved.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.3"
+  }
+ },
+ {
+  "id": "dwf-B-014",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What features can additive manufacturing reproduce that milling struggles with?",
+  "back": "Detailed morphology, sharp corners, undercuts, and voids.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.3"
+  }
+ },
+ {
+  "id": "dwf-B-015",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is stereolithography primarily used for in dentistry?",
+  "back": "Producing surgical implant guides.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.3"
+  }
+ },
+ {
+  "id": "dwf-B-016",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Name an advantage of additive over subtractive manufacturing for large items.",
+  "back": "There is little restriction on fabricating large workpieces such as facial prostheses.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.2"
+  }
+ },
+ {
+  "id": "dwf-B-017",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does build orientation in the slicer affect?",
+  "back": "Print time, trueness, how many parts fit on the plate, and the risk of detachment.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.2"
+  }
+ },
+ {
+  "id": "dwf-B-018",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Which orientation angle is most accurate in most studies when supports are used?",
+  "back": "45 degrees to the build plate.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.2"
+  }
+ },
+ {
+  "id": "dwf-B-019",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Which orientation is fastest to print?",
+  "back": "0 degrees, because it needs the fewest layers.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.2"
+  }
+ },
+ {
+  "id": "dwf-B-020",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Which orientation fits the most parts on one build plate?",
+  "back": "90 degrees.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.2"
+  }
+ },
+ {
+  "id": "dwf-B-021",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Which orientation has the lowest failure rate from warping?",
+  "back": "45 degrees.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.2"
+  }
+ },
+ {
+  "id": "dwf-B-022",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is warping in 3D printing?",
+  "back": "The object detaching from the build plate during printing.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.2"
+  }
+ },
+ {
+  "id": "dwf-B-023",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What do printing resins actually resemble in composition?",
+  "back": "Direct or machinable composite resins, not PMMA as often claimed.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwf-B-024",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What light wavelengths activate printing resin photoinitiators?",
+  "back": "UV wavelengths from 365 to 405 nm, depending on the printer.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwf-B-025",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What happens if a resin's filler content is too high?",
+  "back": "Light diffuses more and the resin may no longer be printable.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwf-B-026",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Is it acceptable to use a printing resin outside its indication?",
+  "back": "No. Each resin must be used within its indication; other uses are not legally compliant.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwf-B-027",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What two properties must surgical guide resins have?",
+  "back": "Biocompatibility and the ability to be autoclaved.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwf-B-028",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Name dental items printing resins are offered for.",
+  "back": "Models, surgical guides, aligners, splints, custom trays, crowns, and dentures.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwf-B-029",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the main advantage of additive manufacturing in dentistry?",
+  "back": "Customized devices in less time at lower cost.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwf-C-001",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is subtractive manufacturing?",
+  "back": "Milling a workpiece from a larger blank with a computer numeric controlled (CNC) machine.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwf-C-002",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What does CAM software compute for a milling machine?",
+  "back": "The tool path: sequencing, tools, and tool motion direction and magnitude.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwf-C-003",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why do dental mills combine burs of different sizes?",
+  "back": "Because dental restoration features are uneven.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwf-C-004",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How accurate is mill tool positioning reported to be?",
+  "back": "Within 10 micrometers.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwf-C-005",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What does cutter diameter compensation in CAM ensure?",
+  "back": "That the bur reaches the desired surface without removing needed material.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwf-C-006",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Which milling systems are most common in dentistry?",
+  "back": "3-axis systems.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwf-C-007",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an advantage of 3-axis milling?",
+  "back": "Minimal calculation and shorter milling time.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwf-C-008",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What limitation do 3-axis mills have?",
+  "back": "They cannot produce large prostheses.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwf-C-009",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What does the fourth axis add to a mill?",
+  "back": "Blank movement in another axis, useful for large blanks and long-span frameworks.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwf-C-010",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What does the fifth axis add?",
+  "back": "A rotating path of the tool or blank for complex geometry and smooth surfaces.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwf-C-011",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is hard machining used for?",
+  "back": "Metal, densely sintered zirconia, and composite resin.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwf-C-012",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is soft machining used for?",
+  "back": "Presintered zirconia.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwf-C-013",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is presintered zirconia milled oversized?",
+  "back": "It shrinks during the sintering that follows milling.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwf-C-014",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why must a hard machining mill be very strong?",
+  "back": "It mills very hard blanks with heavy cutting forces.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwf-C-015",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is additive manufacturing?",
+  "back": "Joining materials layer upon layer from 3D model data.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.1"
+  }
+ },
+ {
+  "id": "dwf-C-016",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How many layers per millimeter do additive systems lay down?",
+  "back": "5 to 20 layers.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.1"
+  }
+ },
+ {
+  "id": "dwf-C-017",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Name the additive systems used in dentistry.",
+  "back": "Stereolithography, selective laser sintering or melting, and 3D printing.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.1"
+  }
+ },
+ {
+  "id": "dwf-C-018",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How does selective laser melting build a part?",
+  "back": "A laser fuses metal powder layer by layer.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.1"
+  }
+ },
+ {
+  "id": "dwf-C-019",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How does stereolithography build a part?",
+  "back": "A UV light beam cures a liquid polymer layer by layer as the platform lowers.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.1"
+  }
+ },
+ {
+  "id": "dwf-C-020",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What finishing follows stereolithography?",
+  "back": "Rinsing with solvent and curing in a UV oven.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.1"
+  }
+ },
+ {
+  "id": "dwf-C-021",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is additive manufacturing more economical in material?",
+  "back": "There is little waste and unused material can be reused.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.2"
+  }
+ },
+ {
+  "id": "dwf-C-022",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What flaw do selective laser melted metal parts show?",
+  "back": "Microporosities.",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.2"
+  }
+ },
+ {
+  "id": "dwf-C-023",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Name the three vat photopolymerization technologies.",
+  "back": "SLA, DLP, and LCD (also called mSLA).",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwf-C-024",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What does the build plate do between layers in vat printing?",
+  "back": "It lifts vertically by a few tens of microns, the layer thickness.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwf-C-025",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What happens to print time if layer thickness goes from 100 to 50 microns?",
+  "back": "The number of layers and the print time double.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwf-C-026",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What light source does SLA use?",
+  "back": "A high-energy laser that draws each cross-section.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 2.1"
+  }
+ },
+ {
+  "id": "dwf-C-027",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why do SLA print times grow with more or larger objects?",
+  "back": "The laser must cross the whole surface of each layer.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 2.1"
+  }
+ },
+ {
+  "id": "dwf-C-028",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the main difference between DLP and SLA?",
+  "back": "The light source: DLP uses a projector with a chip of micromirrors.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 2.2"
+  }
+ },
+ {
+  "id": "dwf-C-029",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is DLP layer time the same regardless of how many objects print?",
+  "back": "The whole layer is projected at once.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 2.2"
+  }
+ },
+ {
+  "id": "dwf-C-030",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What light source does an LCD (mSLA) printer use?",
+  "back": "An LED projector behind an LCD screen.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 2.3"
+  }
+ },
+ {
+  "id": "dwf-C-031",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What does slicer software do?",
+  "back": "Turns a 3D file into a sequence of 2D layers and lets the user set parameters and supports.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.1"
+  }
+ },
+ {
+  "id": "dwf-C-032",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are the first 10 to 15 layers overexposed?",
+  "back": "To make the print adhere well to the build plate.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.1"
+  }
+ },
+ {
+  "id": "dwf-C-033",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What file does the slicer generate for the printer?",
+  "back": "A G-code file with the manufacturing path.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.1"
+  }
+ },
+ {
+  "id": "dwf-C-034",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why can't a printed part be used straight off the printer?",
+  "back": "The resin is not fully polymerized, so properties are unsatisfactory.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4"
+  }
+ },
+ {
+  "id": "dwf-C-035",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "List the post-processing steps for vat-printed parts.",
+  "back": "Rinse, dry, post-cure, remove supports, and optionally polish.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4"
+  }
+ },
+ {
+  "id": "dwf-C-036",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What solvent is generally used to rinse printed parts?",
+  "back": "99% isopropyl alcohol.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.1"
+  }
+ },
+ {
+  "id": "dwf-C-037",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What happens if a printed part is poorly rinsed?",
+  "back": "Leftover resin fuses to it during post-curing and can affect fit.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.1"
+  }
+ },
+ {
+  "id": "dwf-C-038",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How long does rinsing typically take?",
+  "back": "Between 5 and 20 minutes depending on the resin.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.1"
+  }
+ },
+ {
+  "id": "dwf-C-039",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a rinsed part dried?",
+  "back": "With an air syringe, then left a few minutes for alcohol to evaporate.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.2"
+  }
+ },
+ {
+  "id": "dwf-C-040",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why must each resin be cured in its recommended device?",
+  "back": "Wavelength incompatibility prevents complete polymerization.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.3"
+  }
+ },
+ {
+  "id": "dwf-C-041",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why do some makers post-cure under vacuum or nitrogen?",
+  "back": "Oxygen inhibits polymerization of the surface layer.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.3"
+  }
+ },
+ {
+  "id": "dwf-C-042",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What are breakaway supports?",
+  "back": "Supports removed with simple finger pressure.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.4"
+  }
+ },
+ {
+  "id": "dwf-D-001",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why should IPA rinsing be done under a fume hood or ventilated area?",
+  "back": "IPA evaporates and is highly flammable.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.1"
+  }
+ },
+ {
+  "id": "dwf-D-002",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a wash unit?",
+  "back": "A device that agitates the solvent to clean printed parts.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.1"
+  }
+ },
+ {
+  "id": "dwf-D-003",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "May saturated IPA be poured into wastewater?",
+  "back": "No. It is harmful to the environment and legally prohibited.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.1"
+  }
+ },
+ {
+  "id": "dwf-D-004",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How can usable alcohol be recovered from saturated IPA?",
+  "back": "By decanting after the resin settles out.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.1"
+  }
+ },
+ {
+  "id": "dwf-D-005",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the main limitation of LCD printers?",
+  "back": "Overheating of the LCD screen.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 2.3"
+  }
+ },
+ {
+  "id": "dwf-D-006",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why might a resin from one brand not print on another brand's printer?",
+  "back": "Their light wavelengths may not be compatible.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwf-D-007",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Does FDA clear or approve printing materials alone?",
+  "back": "No. FDA evaluates a material within a medical product and its intended use.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 4"
+  }
+ },
+ {
+  "id": "dwf-D-008",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What must a practitioner printing intraoral prostheses declare to regulators?",
+  "back": "That they are a manufacturer of prostheses.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 4"
+  }
+ },
+ {
+  "id": "dwf-D-009",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Is model printing subject to the prosthesis manufacturer obligation?",
+  "back": "No, models are not affected.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 4"
+  }
+ },
+ {
+  "id": "dwf-D-010",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What system must a producer of custom devices set up?",
+  "back": "A quality control and traceability system.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 4"
+  }
+ },
+ {
+  "id": "dwf-D-011",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What printing setups does the review recommend avoiding?",
+  "back": "Uncertified printing chains and unapproved printing profiles.",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 4"
+  }
+ },
+ {
+  "id": "dwf-D-012",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a 510(k)?",
+  "back": "A premarket submission showing a device is substantially equivalent to a legally marketed device.",
+  "source": {
+   "ref": "FDA: Premarket Notification 510(k)",
+   "url": "https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-notification-510k"
+  }
+ },
+ {
+  "id": "dwf-D-013",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a predicate device?",
+  "back": "The legally marketed device to which substantial equivalence is claimed.",
+  "source": {
+   "ref": "FDA: Premarket Notification 510(k)",
+   "url": "https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-notification-510k"
+  }
+ },
+ {
+  "id": "dwf-D-014",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How long does FDA usually take for a substantial equivalence decision?",
+  "back": "Within about 90 days.",
+  "source": {
+   "ref": "FDA: Premarket Notification 510(k)",
+   "url": "https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-notification-510k"
+  }
+ },
+ {
+  "id": "dwf-D-015",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Since October 1, 2023, how must most 510(k)s be submitted?",
+  "back": "Electronically using eSTAR.",
+  "source": {
+   "ref": "FDA: Premarket Notification 510(k)",
+   "url": "https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-notification-510k"
+  }
+ },
+ {
+  "id": "dwf-D-016",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Can a device be marketed before FDA finds it substantially equivalent?",
+  "back": "No.",
+  "source": {
+   "ref": "FDA: Premarket Notification 510(k)",
+   "url": "https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-notification-510k"
+  }
+ },
+ {
+  "id": "dwf-D-017",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How many FDA device classes are there, and what decides the class?",
+  "back": "Three, based on risk to the patient or user.",
+  "source": {
+   "ref": "FDA: Classify Your Medical Device",
+   "url": "https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device"
+  }
+ },
+ {
+  "id": "dwf-D-018",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Which device class has the greatest risk?",
+  "back": "Class III.",
+  "source": {
+   "ref": "FDA: Classify Your Medical Device",
+   "url": "https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device"
+  }
+ },
+ {
+  "id": "dwf-D-019",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What are General Controls?",
+  "back": "Baseline FD&C Act requirements that apply to all device classes.",
+  "source": {
+   "ref": "FDA: Classify Your Medical Device",
+   "url": "https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device"
+  }
+ },
+ {
+  "id": "dwf-D-020",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "When did FDA's Quality Management System Regulation take effect?",
+  "back": "February 2, 2026.",
+  "source": {
+   "ref": "FDA: Quality Management System Regulation (QMSR)",
+   "url": "https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr"
+  }
+ },
+ {
+  "id": "dwf-D-021",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Which international standard does the QMSR incorporate by reference?",
+  "back": "ISO 13485:2016.",
+  "source": {
+   "ref": "FDA: Quality Management System Regulation (QMSR)",
+   "url": "https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr"
+  }
+ },
+ {
+  "id": "dwq-A-001",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is an intraoral scanner used for?",
+  "options": [
+   "Sintering zirconia",
+   "Milling wax patterns",
+   "Capturing direct optical impressions of the dental arches",
+   "Curing printed resin"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Capturing direct optical impressions of the dental arches. (section Background)",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section Background"
+  }
+ },
+ {
+  "id": "dwq-A-002",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What do intraoral scanners project onto the teeth?",
+  "options": [
+   "A light source such as laser or structured light",
+   "Liquid alginate",
+   "Heated wax",
+   "Ultrasonic waves only"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A light source such as laser or structured light. (section Background)",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section Background"
+  }
+ },
+ {
+  "id": "dwq-A-003",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is screwed onto an implant so its position can be scanned?",
+  "options": [
+   "A cover screw",
+   "A healing cap",
+   "A scanbody",
+   "A sprue"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A scanbody. (section Background)",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section Background"
+  }
+ },
+ {
+  "id": "dwq-A-004",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How do optical impressions usually compare with conventional impressions for working time?",
+  "options": [
+   "They reduce working time and cost",
+   "They always take twice as long",
+   "They need a gypsum pour first",
+   "They need a custom tray"
+  ],
+  "answer": 0,
+  "explanation": "Correct: They reduce working time and cost. (section 1)",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwq-A-005",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which step does an optical impression let the clinic skip?",
+  "options": [
+   "Designing the restoration",
+   "Choosing a shade",
+   "Pouring a gypsum model from a physical impression",
+   "Sending the case to a lab"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Pouring a gypsum model from a physical impression. (section 1)",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwq-A-006",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is one of the most common problems with intraoral scans?",
+  "options": [
+   "Capturing deep margin lines or margins with bleeding",
+   "Scanning flat occlusal surfaces",
+   "Saving the file",
+   "Scanning in daylight"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Capturing deep margin lines or margins with bleeding. (section 1)",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwq-A-007",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How quickly can the newest intraoral scanners capture a full arch?",
+  "options": [
+   "In about 3 hours",
+   "In about 3 days",
+   "Only one tooth at a time",
+   "In less than 3 minutes"
+  ],
+  "answer": 3,
+  "explanation": "Correct: In less than 3 minutes. (section 1)",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwq-A-008",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which kinds of cases can intraoral scanning make easier?",
+  "options": [
+   "Only single anterior crowns",
+   "Cases with multiple implants or severe undercuts",
+   "Only edentulous dentures without implants",
+   "None"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Cases with multiple implants or severe undercuts. (section 1)",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwq-A-009",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How can the lab check an intraoral scan's quality right away?",
+  "options": [
+   "The lab must wait for a stone model",
+   "The dentist emails it and the technician checks it in real time",
+   "The lab mills a test crown first",
+   "The patient mails a tray"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The dentist emails it and the technician checks it in real time. (section 1)",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwq-A-010",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What does adopting an intraoral scanner involve for the clinician?",
+  "options": [
+   "No training at all",
+   "A new gypsum product",
+   "A learning curve",
+   "A casting furnace"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A learning curve. (section 1)",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwq-A-011",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which file format is most commonly sent to a printer slicer?",
+  "options": [
+   "JPEG",
+   "MP3",
+   "DOCX",
+   "STL"
+  ],
+  "answer": 3,
+  "explanation": "Correct: STL. (section 3.1)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.1"
+  }
+ },
+ {
+  "id": "dwq-A-012",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What happens if an STL file is an open mesh?",
+  "options": [
+   "It can lead to printing failure",
+   "It prints faster",
+   "It improves accuracy",
+   "It changes the shade"
+  ],
+  "answer": 0,
+  "explanation": "Correct: It can lead to printing failure. (section 3.1)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.1"
+  }
+ },
+ {
+  "id": "dwq-A-013",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where does the CAD design go to control the production unit?",
+  "options": [
+   "To the articulator",
+   "To CAM software",
+   "To the model trimmer",
+   "To the sintering tray"
+  ],
+  "answer": 1,
+  "explanation": "Correct: To CAM software. (section 3)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3"
+  }
+ },
+ {
+  "id": "dwq-A-014",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What can be measured precisely on 3D models before treatment?",
+  "options": [
+   "Patient blood pressure",
+   "Room humidity",
+   "Volumes and distances",
+   "Gypsum setting time"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Volumes and distances. (section 2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwq-A-015",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why do milled implant components fit more accurately than milled tooth-borne crowns?",
+  "options": [
+   "Their geometry is simply and accurately represented numerically",
+   "They are milled from wax",
+   "They are scanned at lower resolution",
+   "They need hand carving"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Their geometry is simply and accurately represented numerically. (section 3.1.3)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.3"
+  }
+ },
+ {
+  "id": "dwq-A-016",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why can conventional fabrication add error compared with digital?",
+  "options": [
+   "Much handling and materials that shrink or expand during processing",
+   "It uses no materials",
+   "It is fully automated",
+   "It never uses a model"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Much handling and materials that shrink or expand during processing. (section 1)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwq-A-017",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a patient advantage of optical impressions?",
+  "options": [
+   "They avoid the discomfort of trays and impression material",
+   "They require general anesthesia",
+   "They take a full day",
+   "They need a stone pour in the mouth"
+  ],
+  "answer": 0,
+  "explanation": "Correct: They avoid the discomfort of trays and impression material. (section 1)",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwq-A-018",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What did the 2017 review list as the cost range of an intraoral scanner?",
+  "options": [
+   "About 50 euros",
+   "About 15,000 to 35,000 euros",
+   "About 1 million euros",
+   "They are free"
+  ],
+  "answer": 1,
+  "explanation": "Correct: About 15,000 to 35,000 euros. (section 1)",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwq-A-019",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a communication benefit of optical impressions?",
+  "options": [
+   "Patients feel more involved in their treatment",
+   "Patients never see their scan",
+   "It replaces the dentist",
+   "It removes the need for a prescription"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Patients feel more involved in their treatment. (section 1)",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwq-A-020",
+  "exam": "digital-workflow",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a conventional physical impression?",
+  "options": [
+   "A photograph of the face",
+   "An impression made with trays and impression materials",
+   "A milled block",
+   "A G-code file"
+  ],
+  "answer": 1,
+  "explanation": "Correct: An impression made with trays and impression materials. (section 1)",
+  "source": {
+   "ref": "Mangano F et al. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health 2017 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727697/",
+   "loc": "section 1"
+  }
+ },
+ {
+  "id": "dwq-B-001",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which high-strength ceramics can only be made by computer-aided manufacturing?",
+  "options": [
+   "Feldspathic porcelain only",
+   "Alumina and zirconia",
+   "Gypsum and wax",
+   "Acrylic and silicone"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Alumina and zirconia. (section 2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwq-B-002",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which group of materials can be milled?",
+  "options": [
+   "Only gypsum",
+   "Only liquids",
+   "Only gold foil",
+   "Metals, ceramics, resins, and waxes"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Metals, ceramics, resins, and waxes. (section 3.1.2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwq-B-003",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a durability advantage of milling from an industrial blank?",
+  "options": [
+   "It adds porosity",
+   "It makes the material softer",
+   "It removes the need for design",
+   "It relies on the manufacturer's quality control and reduces porosity"
+  ],
+  "answer": 3,
+  "explanation": "Correct: It relies on the manufacturer's quality control and reduces porosity. (section 3.1.2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwq-B-004",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which is a known limitation of zirconia restorations?",
+  "options": [
+   "They cannot be milled",
+   "High incidence of veneer porcelain fracture",
+   "They dissolve in saliva",
+   "They are radiolucent wax"
+  ],
+  "answer": 1,
+  "explanation": "Correct: High incidence of veneer porcelain fracture. (section 3.1.2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwq-B-005",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why should zirconia be produced at accurate dimensions?",
+  "options": [
+   "It improves gypsum expansion",
+   "It makes it translucent automatically",
+   "So it can be cast",
+   "Post-sintering adjustment can cause phase transformation and defects"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Post-sintering adjustment can cause phase transformation and defects. (section 3.1.2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwq-B-006",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How does zirconia durability compare with metal prostheses?",
+  "options": [
+   "Far more durable than metal",
+   "Not usable in the mouth",
+   "Less durable than metal but clinically acceptable",
+   "Identical to wax"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Less durable than metal but clinically acceptable. (section 3.1.2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwq-B-007",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What marginal gap is generally considered clinically acceptable?",
+  "options": [
+   "Within 5 millimeters",
+   "Within 100 micrometers",
+   "Within 1 centimeter",
+   "Any gap is acceptable"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Within 100 micrometers. (section 3.1.3)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.3"
+  }
+ },
+ {
+  "id": "dwq-B-008",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which metals are used in CAD/CAM prosthodontics?",
+  "options": [
+   "Lead and mercury",
+   "Base metal alloys and titanium",
+   "Copper wire only",
+   "Aluminum foil"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Base metal alloys and titanium. (section 2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwq-B-009",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How can CAD/CAM produce a removable partial denture framework?",
+  "options": [
+   "Only by hand waxing",
+   "Directly in metal or as a resin pattern that is cast",
+   "Only from gypsum",
+   "Only from silicone"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Directly in metal or as a resin pattern that is cast. (section 2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwq-B-010",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is no tool compensation needed in additive manufacturing?",
+  "options": [
+   "Burs are extra small",
+   "The file is not sliced",
+   "Printing is done by hand",
+   "No cutting tool is involved"
+  ],
+  "answer": 3,
+  "explanation": "Correct: No cutting tool is involved. (section 3.2.3)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.3"
+  }
+ },
+ {
+  "id": "dwq-B-011",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which features can additive manufacturing reproduce well?",
+  "options": [
+   "Sharp corners, undercuts, and voids",
+   "Only flat surfaces",
+   "Only spheres",
+   "Nothing detailed"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Sharp corners, undercuts, and voids. (section 3.2.3)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.3"
+  }
+ },
+ {
+  "id": "dwq-B-012",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is stereolithography primarily used for in dentistry?",
+  "options": [
+   "Casting gold crowns",
+   "Pouring gypsum",
+   "Surgical implant guides",
+   "Sintering zirconia"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Surgical implant guides. (section 3.2.3)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.3"
+  }
+ },
+ {
+  "id": "dwq-B-013",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which build angle is most accurate in most studies when supports are used?",
+  "options": [
+   "0 degrees always",
+   "180 degrees",
+   "It has no effect",
+   "45 degrees"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 45 degrees. (section 3.2)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.2"
+  }
+ },
+ {
+  "id": "dwq-B-014",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which build angle prints fastest?",
+  "options": [
+   "0 degrees",
+   "90 degrees",
+   "45 degrees",
+   "Angle does not matter"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 0 degrees. (section 3.2)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.2"
+  }
+ },
+ {
+  "id": "dwq-B-015",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which build angle fits the most parts on one build plate?",
+  "options": [
+   "0 degrees",
+   "45 degrees",
+   "30 degrees",
+   "90 degrees"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 90 degrees. (section 3.2)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.2"
+  }
+ },
+ {
+  "id": "dwq-B-016",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which build angle has the lowest failure rate from warping?",
+  "options": [
+   "0 degrees",
+   "90 degrees",
+   "10 degrees",
+   "45 degrees"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 45 degrees. (section 3.2)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.2"
+  }
+ },
+ {
+  "id": "dwq-B-017",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In 3D printing, what does warping refer to?",
+  "options": [
+   "The object detaching from the build plate during printing",
+   "Changing shade after curing",
+   "Milling bur breakage",
+   "Scanner calibration"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The object detaching from the build plate during printing. (section 3.2)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.2"
+  }
+ },
+ {
+  "id": "dwq-B-018",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Printing resins are actually closer in composition to which material?",
+  "options": [
+   "Pure PMMA",
+   "Dental stone",
+   "Direct or machinable composite resins",
+   "Gold alloy"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Direct or machinable composite resins. (section 3.3)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwq-B-019",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What happens if a printing resin's filler content is too high?",
+  "options": [
+   "It prints faster",
+   "It becomes a metal",
+   "It needs no curing",
+   "Light diffuses more and it may no longer be printable"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Light diffuses more and it may no longer be printable. (section 3.3)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwq-B-020",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Is it acceptable to use a printing resin for an application outside its indication?",
+  "options": [
+   "Yes, any resin can be used for anything",
+   "Only on weekends",
+   "Only for crowns",
+   "No, it is not legally compliant"
+  ],
+  "answer": 3,
+  "explanation": "Correct: No, it is not legally compliant. (section 3.3)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwq-B-021",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which two properties must resins for surgical guides have?",
+  "options": [
+   "Biocompatible and autoclavable",
+   "Magnetic and conductive",
+   "Opaque and brittle",
+   "Water soluble and flexible"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Biocompatible and autoclavable. (section 3.3)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwq-B-022",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the main advantage of additive manufacturing in dentistry?",
+  "options": [
+   "It eliminates all design work",
+   "Customized devices in less time at lower cost",
+   "It requires no post-processing",
+   "It only makes metal crowns"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Customized devices in less time at lower cost. (section 3.3)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwq-B-023",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which items are printing resins offered for?",
+  "options": [
+   "Only implants",
+   "Only gypsum casts",
+   "Only impression trays made of metal",
+   "Models, surgical guides, splints, custom trays, and crowns"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Models, surgical guides, splints, custom trays, and crowns. (section 3.3)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwq-B-024",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which is an advantage of additive manufacturing for large items?",
+  "options": [
+   "Little restriction on large workpieces such as facial prostheses",
+   "It cannot make anything over 1 mm",
+   "It needs larger blanks than milling",
+   "It wastes more material"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Little restriction on large workpieces such as facial prostheses. (section 3.2.2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.2"
+  }
+ },
+ {
+  "id": "dwq-B-025",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where were glass ceramics considered acceptable before high-strength ceramics?",
+  "options": [
+   "Long-span posterior bridges",
+   "Inlays, onlays, or anterior crowns cemented with resin",
+   "Implant bars",
+   "Denture bases"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Inlays, onlays, or anterior crowns cemented with resin. (section 3.1.2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwq-B-026",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What wavelength range activates printing resin photoinitiators?",
+  "options": [
+   "Infrared above 2000 nm",
+   "Radio waves",
+   "365 to 405 nm UV",
+   "X-rays"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 365 to 405 nm UV. (section 3.3)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwq-B-027",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What was the earliest prosthodontic use of computer-aided manufacturing?",
+  "options": [
+   "Complete denture bases",
+   "Fixed prostheses luted to teeth",
+   "Facial prostheses",
+   "Orthodontic wires"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Fixed prostheses luted to teeth. (section 2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwq-B-028",
+  "exam": "digital-workflow",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What was the reported range of implant placement accuracy with stereolithographic guides?",
+  "options": [
+   "Exactly zero",
+   "About 2 cm",
+   "About 0.4 to 2.0 mm",
+   "About 10 cm"
+  ],
+  "answer": 2,
+  "explanation": "Correct: About 0.4 to 2.0 mm. (section 3.2.3)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.3"
+  }
+ },
+ {
+  "id": "dwq-C-001",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is subtractive manufacturing?",
+  "options": [
+   "Building a part layer by layer",
+   "Casting in a flask",
+   "Milling a part from a larger blank with a CNC machine",
+   "Pouring stone into an impression"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Milling a part from a larger blank with a CNC machine. (section 3.1.1)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwq-C-002",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What does CAM software calculate for a mill?",
+  "options": [
+   "The patient's shade",
+   "The tool path, tools, and tool motion",
+   "The bite registration",
+   "The invoice"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The tool path, tools, and tool motion. (section 3.1.1)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwq-C-003",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which milling systems are most common in dental milling?",
+  "options": [
+   "1-axis",
+   "7-axis",
+   "Manual lathes",
+   "3-axis"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 3-axis. (section 3.1.1)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwq-C-004",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What does a 5th axis add to a milling machine?",
+  "options": [
+   "A second monitor",
+   "A sintering chamber",
+   "A rotating path of the tool or blank for complex shapes",
+   "A vacuum mixer"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A rotating path of the tool or blank for complex shapes. (section 3.1.1)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwq-C-005",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the 4th axis useful for?",
+  "options": [
+   "Only single inlays",
+   "Scanning",
+   "Large blanks and long-span frameworks",
+   "Glazing"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Large blanks and long-span frameworks. (section 3.1.1)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwq-C-006",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why do dental mills use burs of different sizes?",
+  "options": [
+   "To save electricity",
+   "Restoration features are uneven",
+   "To change shade",
+   "To weigh the blank"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Restoration features are uneven. (section 3.1.1)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwq-C-007",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How accurate is mill tool positioning reported to be?",
+  "options": [
+   "Within 10 micrometers",
+   "Within 1 centimeter",
+   "Within 5 millimeters",
+   "Not measurable"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Within 10 micrometers. (section 3.1.1)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.1"
+  }
+ },
+ {
+  "id": "dwq-C-008",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Soft machining is used specifically for which material?",
+  "options": [
+   "Presintered zirconia",
+   "Cobalt chromium",
+   "Densely sintered zirconia",
+   "Gold alloy"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Presintered zirconia. (section 3.1.2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwq-C-009",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Hard machining is used for which materials?",
+  "options": [
+   "Only wax",
+   "Presintered zirconia only",
+   "Metal, densely sintered zirconia, and composite resin",
+   "Gypsum"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Metal, densely sintered zirconia, and composite resin. (section 3.1.2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwq-C-010",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is presintered zirconia milled oversized?",
+  "options": [
+   "To leave room for cement only",
+   "It is then sintered, which shrinks it to size",
+   "So it can be cast",
+   "To make it opaque"
+  ],
+  "answer": 1,
+  "explanation": "Correct: It is then sintered, which shrinks it to size. (section 3.1.2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.1.2"
+  }
+ },
+ {
+  "id": "dwq-C-011",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is additive manufacturing?",
+  "options": [
+   "Cutting from a solid block",
+   "Casting with lost wax",
+   "Grinding by hand",
+   "Joining material layer upon layer from 3D data"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Joining material layer upon layer from 3D data. (section 3.2.1)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.1"
+  }
+ },
+ {
+  "id": "dwq-C-012",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How does selective laser melting build a metal part?",
+  "options": [
+   "A laser fuses powder layer by layer",
+   "A bur mills a blank",
+   "Wax is cast",
+   "Resin is poured in a flask"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A laser fuses powder layer by layer. (section 3.2.1)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.1"
+  }
+ },
+ {
+  "id": "dwq-C-013",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What finishing follows stereolithography printing?",
+  "options": [
+   "Sintering at 1500 degrees",
+   "Casting in gold",
+   "Electroplating",
+   "Rinsing in solvent and curing in a UV oven"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Rinsing in solvent and curing in a UV oven. (section 3.2.1)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.1"
+  }
+ },
+ {
+  "id": "dwq-C-014",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What defect do selective laser melted metal frameworks show?",
+  "options": [
+   "Large voids from burs",
+   "Microporosities",
+   "Shade mismatch",
+   "Wax residue"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Microporosities. (section 3.2.2)",
+  "source": {
+   "ref": "Abduo J, Lyons K, Bennamoun M. Trends in Computer-Aided Manufacturing in Prosthodontics: A Review of the Available Streams. Int J Dent 2014 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000974/",
+   "loc": "section 3.2.2"
+  }
+ },
+ {
+  "id": "dwq-C-015",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which are the three vat photopolymerization technologies?",
+  "options": [
+   "CNC, EDM, and lathe",
+   "Casting, soldering, welding",
+   "Alginate, gypsum, wax",
+   "SLA, DLP, and LCD"
+  ],
+  "answer": 3,
+  "explanation": "Correct: SLA, DLP, and LCD. (section 2)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwq-C-016",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "If layer thickness goes from 100 to 50 microns, what happens to print time?",
+  "options": [
+   "It halves",
+   "It stays the same",
+   "It triples the resin cost only",
+   "It doubles"
+  ],
+  "answer": 3,
+  "explanation": "Correct: It doubles. (section 2)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 2"
+  }
+ },
+ {
+  "id": "dwq-C-017",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the main difference between DLP and SLA printers?",
+  "options": [
+   "The file format",
+   "The light source",
+   "The resin color",
+   "The build plate material"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The light source. (section 2.2)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 2.2"
+  }
+ },
+ {
+  "id": "dwq-C-018",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is DLP layer time the same no matter how many objects print?",
+  "options": [
+   "It prints one object at a time",
+   "It uses no light",
+   "It mills the layer",
+   "The whole layer is projected at once"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The whole layer is projected at once. (section 2.2)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 2.2"
+  }
+ },
+ {
+  "id": "dwq-C-019",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why are the first 10 to 15 layers of a print overexposed?",
+  "options": [
+   "For good adhesion to the build plate",
+   "To change the color",
+   "To save resin",
+   "To speed up rinsing"
+  ],
+  "answer": 0,
+  "explanation": "Correct: For good adhesion to the build plate. (section 3.1)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.1"
+  }
+ },
+ {
+  "id": "dwq-C-020",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "List the order of post-processing for vat-printed parts.",
+  "options": [
+   "Polish, sinter, rinse",
+   "Rinse, dry, post-cure, remove supports, optionally polish",
+   "Cast, invest, divest",
+   "Scan, design, mill"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Rinse, dry, post-cure, remove supports, optionally polish. (section 3.4)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4"
+  }
+ },
+ {
+  "id": "dwq-C-021",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What solvent is generally used to rinse printed resin parts?",
+  "options": [
+   "Tap water only",
+   "Acetone mixed with gypsum",
+   "99% isopropyl alcohol",
+   "Saline"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 99% isopropyl alcohol. (section 3.4.1)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.1"
+  }
+ },
+ {
+  "id": "dwq-C-022",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What happens if a printed part is not rinsed well?",
+  "options": [
+   "It becomes stronger",
+   "It changes into metal",
+   "Nothing",
+   "Leftover resin fuses on during post-curing and can affect fit"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Leftover resin fuses on during post-curing and can affect fit. (section 3.4.1)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.1"
+  }
+ },
+ {
+  "id": "dwq-C-023",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why do some manufacturers post-cure under vacuum or nitrogen?",
+  "options": [
+   "Oxygen inhibits surface polymerization",
+   "To make it cheaper",
+   "To speed up rinsing",
+   "To color the part"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Oxygen inhibits surface polymerization. (section 3.4.3)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.3"
+  }
+ },
+ {
+  "id": "dwq-C-024",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What are breakaway supports?",
+  "options": [
+   "Supports that must be cast",
+   "Supports removed with finger pressure",
+   "Supports made of metal",
+   "Supports printed separately"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Supports removed with finger pressure. (section 3.4.4)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.4"
+  }
+ },
+ {
+  "id": "dwq-C-025",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What file does the slicer produce for the printer?",
+  "options": [
+   "A G-code file",
+   "An STL scan",
+   "A JPEG photo",
+   "A spreadsheet"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A G-code file. (section 3.1)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.1"
+  }
+ },
+ {
+  "id": "dwq-C-026",
+  "exam": "digital-workflow",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why can't a printed part be used straight off the printer?",
+  "options": [
+   "It is too hot to touch for a week",
+   "It is still a liquid file",
+   "The resin is not fully polymerized",
+   "It must be cast first"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The resin is not fully polymerized. (section 3.4)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4"
+  }
+ },
+ {
+  "id": "dwq-D-001",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why should IPA rinsing be done under a fume hood or in a ventilated space?",
+  "options": [
+   "It is odorless and harmless",
+   "It cools the printer",
+   "It must stay humid",
+   "IPA evaporates and is highly flammable"
+  ],
+  "answer": 3,
+  "explanation": "Correct: IPA evaporates and is highly flammable. (section 3.4.1)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.1"
+  }
+ },
+ {
+  "id": "dwq-D-002",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What should be done with saturated rinsing IPA?",
+  "options": [
+   "Decant or send it to a recycling or disposal circuit, not wastewater",
+   "Pour it down the sink",
+   "Reuse it forever without change",
+   "Mix it with stone"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Decant or send it to a recycling or disposal circuit, not wastewater. (section 3.4.1)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.1"
+  }
+ },
+ {
+  "id": "dwq-D-003",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a wash unit?",
+  "options": [
+   "A furnace for sintering",
+   "A scanner calibrator",
+   "A model trimmer",
+   "A device that agitates solvent to clean printed parts"
+  ],
+  "answer": 3,
+  "explanation": "Correct: A device that agitates solvent to clean printed parts. (section 3.4.1)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.1"
+  }
+ },
+ {
+  "id": "dwq-D-004",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the main limitation of LCD printers?",
+  "options": [
+   "Overheating of the LCD screen",
+   "They cannot read STL files",
+   "They need gypsum",
+   "They have no light source"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Overheating of the LCD screen. (section 2.3)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 2.3"
+  }
+ },
+ {
+  "id": "dwq-D-005",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why might a resin not work in another brand's printer?",
+  "options": [
+   "Resin brands all differ in color",
+   "Printers reject liquids",
+   "Resins expire on contact",
+   "The light wavelengths may not match"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The light wavelengths may not match. (section 3.3)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.3"
+  }
+ },
+ {
+  "id": "dwq-D-006",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why must a resin be post-cured in its recommended curing device?",
+  "options": [
+   "To make it cheaper",
+   "To avoid static electricity",
+   "Wavelength mismatch prevents complete polymerization",
+   "It is a 510(k) form"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Wavelength mismatch prevents complete polymerization. (section 3.4.3)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 3.4.3"
+  }
+ },
+ {
+  "id": "dwq-D-007",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How does FDA evaluate a printing material?",
+  "options": [
+   "Within the context of a medical product and its intended use",
+   "It approves all materials alone for any use",
+   "It does not regulate dental devices",
+   "Only by color"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Within the context of a medical product and its intended use. (section 4)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 4"
+  }
+ },
+ {
+  "id": "dwq-D-008",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What must practitioners who print intraoral prostheses declare to regulators?",
+  "options": [
+   "Nothing at all",
+   "Only their printer color",
+   "That they are prosthesis manufacturers",
+   "Their patient's address"
+  ],
+  "answer": 2,
+  "explanation": "Correct: That they are prosthesis manufacturers. (section 4)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 4"
+  }
+ },
+ {
+  "id": "dwq-D-009",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What must a producer of custom dental devices set up, per the review?",
+  "options": [
+   "A gypsum recycling program",
+   "A quality control and traceability system",
+   "A social media page",
+   "Nothing"
+  ],
+  "answer": 1,
+  "explanation": "Correct: A quality control and traceability system. (section 4)",
+  "source": {
+   "ref": "Caussin E et al. Vat Photopolymerization 3D Printing in Dentistry: A Comprehensive Review of Actual Popular Technologies. Materials 2024 (open access)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10890271/",
+   "loc": "section 4"
+  }
+ },
+ {
+  "id": "dwq-D-010",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What does a 510(k) show FDA?",
+  "options": [
+   "That a device is free",
+   "That a device is substantially equivalent to a legally marketed device",
+   "That a lab has passed OSHA",
+   "That a patient consented"
+  ],
+  "answer": 1,
+  "explanation": "Correct: That a device is substantially equivalent to a legally marketed device. (see source)",
+  "source": {
+   "ref": "FDA: Premarket Notification 510(k)",
+   "url": "https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-notification-510k"
+  }
+ },
+ {
+  "id": "dwq-D-011",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the legally marketed device used for comparison in a 510(k) called?",
+  "options": [
+   "The analog",
+   "The predicate",
+   "The prototype",
+   "The sprue"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The predicate. (see source)",
+  "source": {
+   "ref": "FDA: Premarket Notification 510(k)",
+   "url": "https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-notification-510k"
+  }
+ },
+ {
+  "id": "dwq-D-012",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "About how long does FDA usually take to make a substantial equivalence decision?",
+  "options": [
+   "About 9 years",
+   "About 90 days",
+   "About 1 hour",
+   "It never decides"
+  ],
+  "answer": 1,
+  "explanation": "Correct: About 90 days. (see source)",
+  "source": {
+   "ref": "FDA: Premarket Notification 510(k)",
+   "url": "https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-notification-510k"
+  }
+ },
+ {
+  "id": "dwq-D-013",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Since October 1, 2023, how must most 510(k) submissions be sent?",
+  "options": [
+   "By fax only",
+   "On paper by mail only",
+   "By phone",
+   "Electronically using eSTAR"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Electronically using eSTAR. (see source)",
+  "source": {
+   "ref": "FDA: Premarket Notification 510(k)",
+   "url": "https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-notification-510k"
+  }
+ },
+ {
+  "id": "dwq-D-014",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What determines an FDA device class?",
+  "options": [
+   "The device color",
+   "The risk the device poses to the patient or user",
+   "The lab's location",
+   "The price"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The risk the device poses to the patient or user. (see source)",
+  "source": {
+   "ref": "FDA: Classify Your Medical Device",
+   "url": "https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device"
+  }
+ },
+ {
+  "id": "dwq-D-015",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which FDA device class carries the greatest risk?",
+  "options": [
+   "Class III",
+   "Class I",
+   "Class 0",
+   "Class A"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Class III. (see source)",
+  "source": {
+   "ref": "FDA: Classify Your Medical Device",
+   "url": "https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device"
+  }
+ },
+ {
+  "id": "dwq-D-016",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which controls apply to all FDA device classes?",
+  "options": [
+   "Premarket approval only",
+   "Special controls only",
+   "General Controls",
+   "None"
+  ],
+  "answer": 2,
+  "explanation": "Correct: General Controls. (see source)",
+  "source": {
+   "ref": "FDA: Classify Your Medical Device",
+   "url": "https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device"
+  }
+ },
+ {
+  "id": "dwq-D-017",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which international standard does FDA's QMSR incorporate?",
+  "options": [
+   "ISO 9001 for food",
+   "ISO 13485:2016",
+   "ADA No. 1",
+   "OSHA 1910.1030"
+  ],
+  "answer": 1,
+  "explanation": "Correct: ISO 13485:2016. (see source)",
+  "source": {
+   "ref": "FDA: Quality Management System Regulation (QMSR)",
+   "url": "https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr"
+  }
+ },
+ {
+  "id": "dwq-D-018",
+  "exam": "digital-workflow",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When did FDA's Quality Management System Regulation take effect?",
+  "options": [
+   "February 2, 2026",
+   "January 1, 1976",
+   "October 1, 2023",
+   "It has not taken effect"
+  ],
+  "answer": 0,
+  "explanation": "Correct: February 2, 2026. (see source)",
+  "source": {
+   "ref": "FDA: Quality Management System Regulation (QMSR)",
+   "url": "https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr"
+  }
+ }
+]

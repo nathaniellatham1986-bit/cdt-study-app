@@ -1,0 +1,207 @@
+# Digital Workflow — NBC JTO domains; sources: CAM (PMC4000974), IOS (PMC5727697), VP (PMC10890271), FDA 510(k)/QMSR/classification
+F|A|IOS#Background|What is an intraoral scanner (IOS)?|A device that captures direct optical impressions of the dental arches.
+F|A|IOS#Background|What do intraoral scanners project onto the teeth to scan them?|A light source, either laser or, more recently, structured light.
+F|A|IOS#Background|What are implant scanbodies?|Cylinders screwed onto implants so the scanner can capture implant position.
+F|A|IOS#1|What is a conventional physical impression, compared with an optical one?|An impression made with trays and impression materials.
+F|A|IOS#1|Name a patient-comfort advantage of optical impressions.|They avoid the discomfort of conventional impression materials and trays.
+F|A|IOS#1|How do optical impressions affect working time?|They are time-efficient and reduce working time and cost compared with conventional impressions.
+F|A|IOS#1|How fast can the latest intraoral scanners capture a full arch?|In less than 3 minutes.
+F|A|IOS#1|Which complex cases can intraoral scanning simplify?|Cases with multiple implants or severe undercuts.
+F|A|IOS#1|What step does an optical impression let the clinic skip?|Making a physical impression and pouring a gypsum model.
+F|A|IOS#1|How can a technician check a scan's quality right away?|The dentist can email the scan immediately and the technician can check it in real time.
+F|A|IOS#1|What is one of the most frequent problems with intraoral scans?|Detecting deep margin lines on prepared teeth, or margins when there is bleeding.
+F|A|IOS#1|Who may find intraoral scanners harder to adopt?|Clinicians with less experience or interest in technology; there is a learning curve.
+F|A|IOS#1|About how much does an intraoral scanner cost, per the 2017 review?|Roughly 15,000 to 35,000 euros depending on the model.
+F|A|IOS#1|How do optical impressions help patient communication?|Patients feel more involved in their treatment.
+F|A|VP#3.1|What is the most common file format for 3D files sent to a printer slicer?|STL.
+F|A|VP#3.1|What geometry must an STL file have to print successfully?|A closed geometry, not an open mesh.
+F|A|CAM#3|What happens to the design data once a CAD design is completed?|It is transferred to CAM software that controls the production unit.
+F|A|CAM#2|What can be measured on 3D models in digital dentistry before treatment?|Volumes and distances, for example to analyze a tooth preparation.
+F|A|CAM#3.1.3|Why do milled implant components often fit better than milled tooth-borne restorations?|Implant component geometry has a simple, accurate numerical representation, reducing reliance on scanning.
+F|A|CAM#1|What are the conventional fabrication steps that CAD/CAM can replace?|Impression, stone model, wax pattern, investing, and replacing the pattern with permanent material.
+F|A|CAM#1|Why can conventional fabrication introduce error?|Much human handling and materials with processing shrinkage or expansion.
+F|B|CAM#2|Which high-strength ceramics can only be produced by computer-aided manufacturing?|Alumina and zirconia.
+F|B|CAM#2|Name material groups modern CAD/CAM machines can use.|Metals, ceramics, and resins.
+F|B|CAM#2|Name metals used in CAD/CAM prosthodontics.|Base metal alloys and titanium.
+F|B|CAM#2|What was the early use of CAM in prosthodontics?|Fixed prostheses luted to teeth.
+F|B|CAM#2|Name two ways CAD/CAM can produce removable partial denture frameworks.|Directly from metal, or as a resin pattern that is cast conventionally.
+F|B|CAM#3.1.2|Which materials can be processed by subtractive milling?|Metals, ceramics, resins, and waxes.
+F|B|CAM#3.1.2|What durability advantage comes from milling from an industrial blank?|It relies on the manufacturer's tight quality control and reduces flaws like porosity.
+F|B|CAM#3.1.2|Where were glass ceramics acceptable before CAD/CAM high-strength ceramics?|Inlays, onlays, or anterior crowns cemented with resin.
+F|B|CAM#3.1.2|What are known limitations of zirconia?|A high incidence of veneer porcelain fracture and material instability.
+F|B|CAM#3.1.2|Why should zirconia be produced at accurate dimensions?|To avoid manual adjustment after sintering, which can cause phase transformation and defects.
+F|B|CAM#3.1.2|How does zirconia durability compare with metal prostheses?|Less durable than metal but within a clinically acceptable range.
+F|B|CAM#3.1.3|What marginal gap is considered clinically acceptable?|Within 100 micrometers.
+F|B|CAM#3.2.3|Why is no tool compensation needed in additive manufacturing?|No drilling or cutting tool is involved.
+F|B|CAM#3.2.3|What features can additive manufacturing reproduce that milling struggles with?|Detailed morphology, sharp corners, undercuts, and voids.
+F|B|CAM#3.2.3|What is stereolithography primarily used for in dentistry?|Producing surgical implant guides.
+F|B|CAM#3.2.2|Name an advantage of additive over subtractive manufacturing for large items.|There is little restriction on fabricating large workpieces such as facial prostheses.
+F|B|VP#3.2|What does build orientation in the slicer affect?|Print time, trueness, how many parts fit on the plate, and the risk of detachment.
+F|B|VP#3.2|Which orientation angle is most accurate in most studies when supports are used?|45 degrees to the build plate.
+F|B|VP#3.2|Which orientation is fastest to print?|0 degrees, because it needs the fewest layers.
+F|B|VP#3.2|Which orientation fits the most parts on one build plate?|90 degrees.
+F|B|VP#3.2|Which orientation has the lowest failure rate from warping?|45 degrees.
+F|B|VP#3.2|What is warping in 3D printing?|The object detaching from the build plate during printing.
+F|B|VP#3.3|What do printing resins actually resemble in composition?|Direct or machinable composite resins, not PMMA as often claimed.
+F|B|VP#3.3|What light wavelengths activate printing resin photoinitiators?|UV wavelengths from 365 to 405 nm, depending on the printer.
+F|B|VP#3.3|What happens if a resin's filler content is too high?|Light diffuses more and the resin may no longer be printable.
+F|B|VP#3.3|Is it acceptable to use a printing resin outside its indication?|No. Each resin must be used within its indication; other uses are not legally compliant.
+F|B|VP#3.3|What two properties must surgical guide resins have?|Biocompatibility and the ability to be autoclaved.
+F|B|VP#3.3|Name dental items printing resins are offered for.|Models, surgical guides, aligners, splints, custom trays, crowns, and dentures.
+F|B|VP#3.3|What is the main advantage of additive manufacturing in dentistry?|Customized devices in less time at lower cost.
+F|C|CAM#3.1.1|What is subtractive manufacturing?|Milling a workpiece from a larger blank with a computer numeric controlled (CNC) machine.
+F|C|CAM#3.1.1|What does CAM software compute for a milling machine?|The tool path: sequencing, tools, and tool motion direction and magnitude.
+F|C|CAM#3.1.1|Why do dental mills combine burs of different sizes?|Because dental restoration features are uneven.
+F|C|CAM#3.1.1|How accurate is mill tool positioning reported to be?|Within 10 micrometers.
+F|C|CAM#3.1.1|What does cutter diameter compensation in CAM ensure?|That the bur reaches the desired surface without removing needed material.
+F|C|CAM#3.1.1|Which milling systems are most common in dentistry?|3-axis systems.
+F|C|CAM#3.1.1|What is an advantage of 3-axis milling?|Minimal calculation and shorter milling time.
+F|C|CAM#3.1.1|What limitation do 3-axis mills have?|They cannot produce large prostheses.
+F|C|CAM#3.1.1|What does the fourth axis add to a mill?|Blank movement in another axis, useful for large blanks and long-span frameworks.
+F|C|CAM#3.1.1|What does the fifth axis add?|A rotating path of the tool or blank for complex geometry and smooth surfaces.
+F|C|CAM#3.1.2|What is hard machining used for?|Metal, densely sintered zirconia, and composite resin.
+F|C|CAM#3.1.2|What is soft machining used for?|Presintered zirconia.
+F|C|CAM#3.1.2|Why is presintered zirconia milled oversized?|It shrinks during the sintering that follows milling.
+F|C|CAM#3.1.2|Why must a hard machining mill be very strong?|It mills very hard blanks with heavy cutting forces.
+F|C|CAM#3.2.1|What is additive manufacturing?|Joining materials layer upon layer from 3D model data.
+F|C|CAM#3.2.1|How many layers per millimeter do additive systems lay down?|5 to 20 layers.
+F|C|CAM#3.2.1|Name the additive systems used in dentistry.|Stereolithography, selective laser sintering or melting, and 3D printing.
+F|C|CAM#3.2.1|How does selective laser melting build a part?|A laser fuses metal powder layer by layer.
+F|C|CAM#3.2.1|How does stereolithography build a part?|A UV light beam cures a liquid polymer layer by layer as the platform lowers.
+F|C|CAM#3.2.1|What finishing follows stereolithography?|Rinsing with solvent and curing in a UV oven.
+F|C|CAM#3.2.2|Why is additive manufacturing more economical in material?|There is little waste and unused material can be reused.
+F|C|CAM#3.2.2|What flaw do selective laser melted metal parts show?|Microporosities.
+F|C|VP#2|Name the three vat photopolymerization technologies.|SLA, DLP, and LCD (also called mSLA).
+F|C|VP#2|What does the build plate do between layers in vat printing?|It lifts vertically by a few tens of microns, the layer thickness.
+F|C|VP#2|What happens to print time if layer thickness goes from 100 to 50 microns?|The number of layers and the print time double.
+F|C|VP#2.1|What light source does SLA use?|A high-energy laser that draws each cross-section.
+F|C|VP#2.1|Why do SLA print times grow with more or larger objects?|The laser must cross the whole surface of each layer.
+F|C|VP#2.2|What is the main difference between DLP and SLA?|The light source: DLP uses a projector with a chip of micromirrors.
+F|C|VP#2.2|Why is DLP layer time the same regardless of how many objects print?|The whole layer is projected at once.
+F|C|VP#2.3|What light source does an LCD (mSLA) printer use?|An LED projector behind an LCD screen.
+F|C|VP#3.1|What does slicer software do?|Turns a 3D file into a sequence of 2D layers and lets the user set parameters and supports.
+F|C|VP#3.1|Why are the first 10 to 15 layers overexposed?|To make the print adhere well to the build plate.
+F|C|VP#3.1|What file does the slicer generate for the printer?|A G-code file with the manufacturing path.
+F|C|VP#3.4|Why can't a printed part be used straight off the printer?|The resin is not fully polymerized, so properties are unsatisfactory.
+F|C|VP#3.4|List the post-processing steps for vat-printed parts.|Rinse, dry, post-cure, remove supports, and optionally polish.
+F|C|VP#3.4.1|What solvent is generally used to rinse printed parts?|99% isopropyl alcohol.
+F|C|VP#3.4.1|What happens if a printed part is poorly rinsed?|Leftover resin fuses to it during post-curing and can affect fit.
+F|C|VP#3.4.1|How long does rinsing typically take?|Between 5 and 20 minutes depending on the resin.
+F|C|VP#3.4.2|How is a rinsed part dried?|With an air syringe, then left a few minutes for alcohol to evaporate.
+F|C|VP#3.4.3|Why must each resin be cured in its recommended device?|Wavelength incompatibility prevents complete polymerization.
+F|C|VP#3.4.3|Why do some makers post-cure under vacuum or nitrogen?|Oxygen inhibits polymerization of the surface layer.
+F|C|VP#3.4.4|What are breakaway supports?|Supports removed with simple finger pressure.
+F|D|VP#3.4.1|Why should IPA rinsing be done under a fume hood or ventilated area?|IPA evaporates and is highly flammable.
+F|D|VP#3.4.1|What is a wash unit?|A device that agitates the solvent to clean printed parts.
+F|D|VP#3.4.1|May saturated IPA be poured into wastewater?|No. It is harmful to the environment and legally prohibited.
+F|D|VP#3.4.1|How can usable alcohol be recovered from saturated IPA?|By decanting after the resin settles out.
+F|D|VP#2.3|What is the main limitation of LCD printers?|Overheating of the LCD screen.
+F|D|VP#3.3|Why might a resin from one brand not print on another brand's printer?|Their light wavelengths may not be compatible.
+F|D|VP#4|Does FDA clear or approve printing materials alone?|No. FDA evaluates a material within a medical product and its intended use.
+F|D|VP#4|What must a practitioner printing intraoral prostheses declare to regulators?|That they are a manufacturer of prostheses.
+F|D|VP#4|Is model printing subject to the prosthesis manufacturer obligation?|No, models are not affected.
+F|D|VP#4|What system must a producer of custom devices set up?|A quality control and traceability system.
+F|D|VP#4|What printing setups does the review recommend avoiding?|Uncertified printing chains and unapproved printing profiles.
+F|D|K510|What is a 510(k)?|A premarket submission showing a device is substantially equivalent to a legally marketed device.
+F|D|K510|What is a predicate device?|The legally marketed device to which substantial equivalence is claimed.
+F|D|K510|How long does FDA usually take for a substantial equivalence decision?|Within about 90 days.
+F|D|K510|Since October 1, 2023, how must most 510(k)s be submitted?|Electronically using eSTAR.
+F|D|K510|Can a device be marketed before FDA finds it substantially equivalent?|No.
+F|D|FDAC|How many FDA device classes are there, and what decides the class?|Three, based on risk to the patient or user.
+F|D|FDAC|Which device class has the greatest risk?|Class III.
+F|D|FDAC|What are General Controls?|Baseline FD&C Act requirements that apply to all device classes.
+F|D|QMSR|When did FDA's Quality Management System Regulation take effect?|February 2, 2026.
+F|D|QMSR|Which international standard does the QMSR incorporate by reference?|ISO 13485:2016.
+# MCQs
+M|A|IOS#Background|What is an intraoral scanner used for?|Capturing direct optical impressions of the dental arches|Sintering zirconia;Milling wax patterns;Curing printed resin
+M|A|IOS#Background|What do intraoral scanners project onto the teeth?|A light source such as laser or structured light|Liquid alginate;Heated wax;Ultrasonic waves only
+M|A|IOS#Background|What is screwed onto an implant so its position can be scanned?|A scanbody|A cover screw;A healing cap;A sprue
+M|A|IOS#1|How do optical impressions usually compare with conventional impressions for working time?|They reduce working time and cost|They always take twice as long;They need a gypsum pour first;They need a custom tray
+M|A|IOS#1|Which step does an optical impression let the clinic skip?|Pouring a gypsum model from a physical impression|Designing the restoration;Choosing a shade;Sending the case to a lab
+M|A|IOS#1|What is one of the most common problems with intraoral scans?|Capturing deep margin lines or margins with bleeding|Scanning flat occlusal surfaces;Saving the file;Scanning in daylight
+M|A|IOS#1|How quickly can the newest intraoral scanners capture a full arch?|In less than 3 minutes|In about 3 hours;In about 3 days;Only one tooth at a time
+M|A|IOS#1|Which kinds of cases can intraoral scanning make easier?|Cases with multiple implants or severe undercuts|Only single anterior crowns;Only edentulous dentures without implants;None
+M|A|IOS#1|How can the lab check an intraoral scan's quality right away?|The dentist emails it and the technician checks it in real time|The lab must wait for a stone model;The lab mills a test crown first;The patient mails a tray
+M|A|IOS#1|What does adopting an intraoral scanner involve for the clinician?|A learning curve|No training at all;A new gypsum product;A casting furnace
+M|A|VP#3.1|Which file format is most commonly sent to a printer slicer?|STL|JPEG;MP3;DOCX
+M|A|VP#3.1|What happens if an STL file is an open mesh?|It can lead to printing failure|It prints faster;It improves accuracy;It changes the shade
+M|A|CAM#3|Where does the CAD design go to control the production unit?|To CAM software|To the articulator;To the model trimmer;To the sintering tray
+M|A|CAM#2|What can be measured precisely on 3D models before treatment?|Volumes and distances|Patient blood pressure;Room humidity;Gypsum setting time
+M|A|CAM#3.1.3|Why do milled implant components fit more accurately than milled tooth-borne crowns?|Their geometry is simply and accurately represented numerically|They are milled from wax;They are scanned at lower resolution;They need hand carving
+M|A|CAM#1|Why can conventional fabrication add error compared with digital?|Much handling and materials that shrink or expand during processing|It uses no materials;It is fully automated;It never uses a model
+M|A|IOS#1|What is a patient advantage of optical impressions?|They avoid the discomfort of trays and impression material|They require general anesthesia;They take a full day;They need a stone pour in the mouth
+M|A|IOS#1|What did the 2017 review list as the cost range of an intraoral scanner?|About 15,000 to 35,000 euros|About 50 euros;About 1 million euros;They are free
+M|A|IOS#1|What is a communication benefit of optical impressions?|Patients feel more involved in their treatment|Patients never see their scan;It replaces the dentist;It removes the need for a prescription
+M|A|IOS#1|What is a conventional physical impression?|An impression made with trays and impression materials|A photograph of the face;A milled block;A G-code file
+M|B|CAM#2|Which high-strength ceramics can only be made by computer-aided manufacturing?|Alumina and zirconia|Feldspathic porcelain only;Gypsum and wax;Acrylic and silicone
+M|B|CAM#3.1.2|Which group of materials can be milled?|Metals, ceramics, resins, and waxes|Only gypsum;Only liquids;Only gold foil
+M|B|CAM#3.1.2|What is a durability advantage of milling from an industrial blank?|It relies on the manufacturer's quality control and reduces porosity|It adds porosity;It makes the material softer;It removes the need for design
+M|B|CAM#3.1.2|Which is a known limitation of zirconia restorations?|High incidence of veneer porcelain fracture|They cannot be milled;They dissolve in saliva;They are radiolucent wax
+M|B|CAM#3.1.2|Why should zirconia be produced at accurate dimensions?|Post-sintering adjustment can cause phase transformation and defects|It improves gypsum expansion;It makes it translucent automatically;So it can be cast
+M|B|CAM#3.1.2|How does zirconia durability compare with metal prostheses?|Less durable than metal but clinically acceptable|Far more durable than metal;Not usable in the mouth;Identical to wax
+M|B|CAM#3.1.3|What marginal gap is generally considered clinically acceptable?|Within 100 micrometers|Within 5 millimeters;Within 1 centimeter;Any gap is acceptable
+M|B|CAM#2|Which metals are used in CAD/CAM prosthodontics?|Base metal alloys and titanium|Lead and mercury;Copper wire only;Aluminum foil
+M|B|CAM#2|How can CAD/CAM produce a removable partial denture framework?|Directly in metal or as a resin pattern that is cast|Only by hand waxing;Only from gypsum;Only from silicone
+M|B|CAM#3.2.3|Why is no tool compensation needed in additive manufacturing?|No cutting tool is involved|Burs are extra small;The file is not sliced;Printing is done by hand
+M|B|CAM#3.2.3|Which features can additive manufacturing reproduce well?|Sharp corners, undercuts, and voids|Only flat surfaces;Only spheres;Nothing detailed
+M|B|CAM#3.2.3|What is stereolithography primarily used for in dentistry?|Surgical implant guides|Casting gold crowns;Pouring gypsum;Sintering zirconia
+M|B|VP#3.2|Which build angle is most accurate in most studies when supports are used?|45 degrees|0 degrees always;180 degrees;It has no effect
+M|B|VP#3.2|Which build angle prints fastest?|0 degrees|90 degrees;45 degrees;Angle does not matter
+M|B|VP#3.2|Which build angle fits the most parts on one build plate?|90 degrees|0 degrees;45 degrees;30 degrees
+M|B|VP#3.2|Which build angle has the lowest failure rate from warping?|45 degrees|0 degrees;90 degrees;10 degrees
+M|B|VP#3.2|In 3D printing, what does warping refer to?|The object detaching from the build plate during printing|Changing shade after curing;Milling bur breakage;Scanner calibration
+M|B|VP#3.3|Printing resins are actually closer in composition to which material?|Direct or machinable composite resins|Pure PMMA;Dental stone;Gold alloy
+M|B|VP#3.3|What happens if a printing resin's filler content is too high?|Light diffuses more and it may no longer be printable|It prints faster;It becomes a metal;It needs no curing
+M|B|VP#3.3|Is it acceptable to use a printing resin for an application outside its indication?|No, it is not legally compliant|Yes, any resin can be used for anything;Only on weekends;Only for crowns
+M|B|VP#3.3|Which two properties must resins for surgical guides have?|Biocompatible and autoclavable|Magnetic and conductive;Opaque and brittle;Water soluble and flexible
+M|B|VP#3.3|What is the main advantage of additive manufacturing in dentistry?|Customized devices in less time at lower cost|It eliminates all design work;It requires no post-processing;It only makes metal crowns
+M|B|VP#3.3|Which items are printing resins offered for?|Models, surgical guides, splints, custom trays, and crowns|Only implants;Only gypsum casts;Only impression trays made of metal
+M|B|CAM#3.2.2|Which is an advantage of additive manufacturing for large items?|Little restriction on large workpieces such as facial prostheses|It cannot make anything over 1 mm;It needs larger blanks than milling;It wastes more material
+M|B|CAM#3.1.2|Where were glass ceramics considered acceptable before high-strength ceramics?|Inlays, onlays, or anterior crowns cemented with resin|Long-span posterior bridges;Implant bars;Denture bases
+M|B|VP#3.3|What wavelength range activates printing resin photoinitiators?|365 to 405 nm UV|Infrared above 2000 nm;Radio waves;X-rays
+M|B|CAM#2|What was the earliest prosthodontic use of computer-aided manufacturing?|Fixed prostheses luted to teeth|Complete denture bases;Facial prostheses;Orthodontic wires
+M|B|CAM#3.2.3|What was the reported range of implant placement accuracy with stereolithographic guides?|About 0.4 to 2.0 mm|Exactly zero;About 2 cm;About 10 cm
+M|C|CAM#3.1.1|What is subtractive manufacturing?|Milling a part from a larger blank with a CNC machine|Building a part layer by layer;Casting in a flask;Pouring stone into an impression
+M|C|CAM#3.1.1|What does CAM software calculate for a mill?|The tool path, tools, and tool motion|The patient's shade;The bite registration;The invoice
+M|C|CAM#3.1.1|Which milling systems are most common in dental milling?|3-axis|1-axis;7-axis;Manual lathes
+M|C|CAM#3.1.1|What does a 5th axis add to a milling machine?|A rotating path of the tool or blank for complex shapes|A second monitor;A sintering chamber;A vacuum mixer
+M|C|CAM#3.1.1|What is the 4th axis useful for?|Large blanks and long-span frameworks|Only single inlays;Scanning;Glazing
+M|C|CAM#3.1.1|Why do dental mills use burs of different sizes?|Restoration features are uneven|To save electricity;To change shade;To weigh the blank
+M|C|CAM#3.1.1|How accurate is mill tool positioning reported to be?|Within 10 micrometers|Within 1 centimeter;Within 5 millimeters;Not measurable
+M|C|CAM#3.1.2|Soft machining is used specifically for which material?|Presintered zirconia|Cobalt chromium;Densely sintered zirconia;Gold alloy
+M|C|CAM#3.1.2|Hard machining is used for which materials?|Metal, densely sintered zirconia, and composite resin|Only wax;Presintered zirconia only;Gypsum
+M|C|CAM#3.1.2|Why is presintered zirconia milled oversized?|It is then sintered, which shrinks it to size|To leave room for cement only;So it can be cast;To make it opaque
+M|C|CAM#3.2.1|What is additive manufacturing?|Joining material layer upon layer from 3D data|Cutting from a solid block;Casting with lost wax;Grinding by hand
+M|C|CAM#3.2.1|How does selective laser melting build a metal part?|A laser fuses powder layer by layer|A bur mills a blank;Wax is cast;Resin is poured in a flask
+M|C|CAM#3.2.1|What finishing follows stereolithography printing?|Rinsing in solvent and curing in a UV oven|Sintering at 1500 degrees;Casting in gold;Electroplating
+M|C|CAM#3.2.2|What defect do selective laser melted metal frameworks show?|Microporosities|Large voids from burs;Shade mismatch;Wax residue
+M|C|VP#2|Which are the three vat photopolymerization technologies?|SLA, DLP, and LCD|CNC, EDM, and lathe;Casting, soldering, welding;Alginate, gypsum, wax
+M|C|VP#2|If layer thickness goes from 100 to 50 microns, what happens to print time?|It doubles|It halves;It stays the same;It triples the resin cost only
+M|C|VP#2.2|What is the main difference between DLP and SLA printers?|The light source|The file format;The resin color;The build plate material
+M|C|VP#2.2|Why is DLP layer time the same no matter how many objects print?|The whole layer is projected at once|It prints one object at a time;It uses no light;It mills the layer
+M|C|VP#3.1|Why are the first 10 to 15 layers of a print overexposed?|For good adhesion to the build plate|To change the color;To save resin;To speed up rinsing
+M|C|VP#3.4|List the order of post-processing for vat-printed parts.|Rinse, dry, post-cure, remove supports, optionally polish|Polish, sinter, rinse;Cast, invest, divest;Scan, design, mill
+M|C|VP#3.4.1|What solvent is generally used to rinse printed resin parts?|99% isopropyl alcohol|Tap water only;Acetone mixed with gypsum;Saline
+M|C|VP#3.4.1|What happens if a printed part is not rinsed well?|Leftover resin fuses on during post-curing and can affect fit|It becomes stronger;It changes into metal;Nothing
+M|C|VP#3.4.3|Why do some manufacturers post-cure under vacuum or nitrogen?|Oxygen inhibits surface polymerization|To make it cheaper;To speed up rinsing;To color the part
+M|C|VP#3.4.4|What are breakaway supports?|Supports removed with finger pressure|Supports that must be cast;Supports made of metal;Supports printed separately
+M|C|VP#3.1|What file does the slicer produce for the printer?|A G-code file|An STL scan;A JPEG photo;A spreadsheet
+M|C|VP#3.4|Why can't a printed part be used straight off the printer?|The resin is not fully polymerized|It is too hot to touch for a week;It is still a liquid file;It must be cast first
+M|D|VP#3.4.1|Why should IPA rinsing be done under a fume hood or in a ventilated space?|IPA evaporates and is highly flammable|It is odorless and harmless;It cools the printer;It must stay humid
+M|D|VP#3.4.1|What should be done with saturated rinsing IPA?|Decant or send it to a recycling or disposal circuit, not wastewater|Pour it down the sink;Reuse it forever without change;Mix it with stone
+M|D|VP#3.4.1|What is a wash unit?|A device that agitates solvent to clean printed parts|A furnace for sintering;A scanner calibrator;A model trimmer
+M|D|VP#2.3|What is the main limitation of LCD printers?|Overheating of the LCD screen|They cannot read STL files;They need gypsum;They have no light source
+M|D|VP#3.3|Why might a resin not work in another brand's printer?|The light wavelengths may not match|Resin brands all differ in color;Printers reject liquids;Resins expire on contact
+M|D|VP#3.4.3|Why must a resin be post-cured in its recommended curing device?|Wavelength mismatch prevents complete polymerization|To make it cheaper;To avoid static electricity;It is a 510(k) form
+M|D|VP#4|How does FDA evaluate a printing material?|Within the context of a medical product and its intended use|It approves all materials alone for any use;It does not regulate dental devices;Only by color
+M|D|VP#4|What must practitioners who print intraoral prostheses declare to regulators?|That they are prosthesis manufacturers|Nothing at all;Only their printer color;Their patient's address
+M|D|VP#4|What must a producer of custom dental devices set up, per the review?|A quality control and traceability system|A gypsum recycling program;A social media page;Nothing
+M|D|K510|What does a 510(k) show FDA?|That a device is substantially equivalent to a legally marketed device|That a device is free;That a lab has passed OSHA;That a patient consented
+M|D|K510|What is the legally marketed device used for comparison in a 510(k) called?|The predicate|The analog;The prototype;The sprue
+M|D|K510|About how long does FDA usually take to make a substantial equivalence decision?|About 90 days|About 9 years;About 1 hour;It never decides
+M|D|K510|Since October 1, 2023, how must most 510(k) submissions be sent?|Electronically using eSTAR|By fax only;On paper by mail only;By phone
+M|D|FDAC|What determines an FDA device class?|The risk the device poses to the patient or user|The device color;The lab's location;The price
+M|D|FDAC|Which FDA device class carries the greatest risk?|Class III|Class I;Class 0;Class A
+M|D|FDAC|Which controls apply to all FDA device classes?|General Controls|Premarket approval only;Special controls only;None
+M|D|QMSR|Which international standard does FDA's QMSR incorporate?|ISO 13485:2016|ISO 9001 for food;ADA No. 1;OSHA 1910.1030
+M|D|QMSR|When did FDA's Quality Management System Regulation take effect?|February 2, 2026|January 1, 1976;October 1, 2023;It has not taken effect
