@@ -1,0 +1,43 @@
+# Ceramics MCQ top-up (prefix cr2). Facts are the ones already cited in ceramics.json flashcards.
+M|A|2.1:1.13.1|Why are elastic impression materials used for fixed prosthodontic impressions?|Because of natural tooth and soft-tissue undercuts|Because they are the cheapest option;Because they need no pouring;Because they are reversible by heat
+M|A|2.1:1.14.1.1.1|When should a diagnostic wax-up be done before making a provisional template?|When the teeth to be prepared are broken down|Never, because templates are always made from the patient's mouth;Only after the final crown is glazed;Only for complete dentures
+M|A|2.1:1.14.1.2.8|How is a provisional prosthesis packaged for the dentist?|Disinfected, in a plastic bag with a moist cotton roll|Dry, in an open box;Soaked in hydrofluoric acid;Still attached to the stone cast
+M|A|2.2:2.3.4|Why should you avoid staring at shade tabs?|It causes cone, or eye, fatigue|It fades the tabs;It changes the tooth color;It warms the porcelain
+M|A|2.2:2.4|Where should the shade be taken?|In a neutral-colored room with color-corrected light|In a brightly colored room;In a dark room;Under a red light
+M|B|2.1:1.16.1|What is a working cast?|A cast duplicating the prepared teeth, the other teeth in the arch, and the associated soft tissue|A cast of the opposing arch only;A refractory cast for pressing;A wax model of the crown
+M|B|2.1:1.19.3|Why are keyed, tapered dowel pins with serrated heads used?|So the die seats in the working cast only one way|So the die can rotate freely;So no separator is needed;So the die can be electroplated
+M|B|2.1:1.19.2|What stone is used for both pours of a doweled working cast?|Improved, or die, stone|Model plaster;Impression plaster;Investment
+M|B|2.1:1.22.1.7|What saw blade is used to section dies in the shim technique?|A number 0000 jeweler's saw blade|A diamond disk;A pear-shaped bur;A number 25 Bard-Parker blade
+M|B|2.1:1.24.7|About how long does silver plating an impression take?|About 15 hours|About 15 minutes;About 2 minutes;About 3 days
+M|B|2.1:1.33.1.1.1|At what angle does a shoulder margin meet the tooth?|90 degrees, forming a butt joint|45 degrees, forming a bevel;180 degrees;30 degrees, forming a knife edge
+M|C|2.2:2.2.1|What are the three mechanisms of the metal-ceramic bond?|Chemical, compression, and mechanical|Thermal, electrical, and magnetic;Adhesive, cohesive, and magnetic;Glaze, stain, and opaque
+M|C|2.2:2.2.5|What is the minimum combined metal and porcelain facial thickness?|1.2 to 1.5 millimeters|0.1 to 0.2 millimeters;3 to 4 millimeters;5 millimeters
+M|C|2.2:2.5.3|Anterior proximal contacts should be placed in what material?|Porcelain|Bare metal;The metal-ceramic junction;Wax
+M|C|2.2:2.6.3.3|On a metal collar crown, how wide is the cervical collar left on the facial?|1.5 millimeters|0.1 millimeter;5 millimeters;No collar is left
+M|C|2.2:2.7.2.1.1|Where are single anterior metal-ceramic units sprued?|On the incisal edge|On the facial margin;On the lingual margin;On the cervical collar
+M|C|2.2:2.10.2.2|What is the alloy melt color sequence while casting?|Red, orange, dull white, then mirror-like white|White, then red, then black;Blue, then green, then red;It stays red throughout
+M|C|2.2:2.11.1.3|What are the best finishing instruments for metal-ceramic frameworks?|Single-cut carbide burs, grinding in one direction|Rubber wheels;Epoxy-bonded silica stones;Any abrasive used on other alloys
+M|C|2.2:2.11.3.4|What is the minimum noble metal coping thickness when reducing the facial?|0.3 millimeters|0.03 millimeters;3 millimeters;1.5 millimeters
+M|C|2.4:4.4.5.2|What is the minimum In-Ceram coping thickness?|At least 0.5 millimeters|0.05 millimeters;At least 3 millimeters;At least 5 millimeters
+M|C|2.4:4.7.3.1|What sprue is used for a pressed ceramic pattern?|A single 8-gauge sprue, 6 to 8 millimeters long|Three 18-gauge sprues;No sprue;A single sprue 30 millimeters long
+M|D|2.2:2.13|What are two purposes of opaque porcelain?|Masking the metal and simulating dentin color|Glazing the surface and adding stain;Forming the margin and the contacts;Polishing the metal
+M|D|2.2:2.13.3|What is the goal of the second opaque coat?|To eliminate all metal shadows|To spot-patch only small areas;To glaze the crown;To form the incisal edge
+M|D|2.2:2.13.4|What is the pink opaque modifier used for?|A warmer tone|The cervical area only;Raising value;Glazing
+M|D|2.2:2.14.1|What does condensing porcelain mean?|Packing porcelain particles and removing water|Adding more water to the porcelain;Grinding the fired porcelain;Applying glaze
+M|D|2.2:2.14.1|What effect does fine-grained porcelain have on shrinkage?|It lowers volume shrinkage|It doubles shrinkage;It removes the need for firing;It has no effect at all
+M|D|2.2:2.14.2|How are die contact areas sealed before building porcelain?|With clear nail polish or cyanoacrylate|With hydrofluoric acid;With utility wax;With pencil lead
+M|D|2.2:2.14.6.5|In what order is enamel added to the cusps?|Functioning cusps first, then nonfunctioning cusps|Nonfunctioning cusps first;All cusps at once after glazing;Enamel is never added to cusps
+M|D|2.2:2.14.9.2.1|How do mamelons appear?|As three finger-like dentin extensions|As a single white stripe;As a brown cervical band;As a shiny glaze line
+M|D|2.2:2.15.1|Why must the porcelain buildup be dried fully before firing?|Steam can crack the veneer sections|It changes the shade to gray;It removes the opaque;It makes the glaze too shiny
+M|D|2.2:2.16.3|What must be done before refiring a glazed restoration?|Remove the glaze by air abrading with aluminum oxide|Add a second coat of opaque;Soak it in water overnight;Nothing, it can be refired as is
+M|D|2.2:2.23.1.1|How should color be appraised before glazing?|With liquid glaze medium, not saliva or water|With saliva;With tap water;Dry under a red light
+M|D|2.2:2.23.2.4|What stain color is used for hypocalcification?|White|Blue;Orange;Black
+M|E|1.2:2.58.1|Which group are the noble metals?|Gold and the platinum group metals|Silver and copper;Chromium, cobalt, and nickel;Tin and zinc
+M|E|1.2:2.70.3|What is the most common intermediate oxide in dental porcelain?|Aluminum oxide|Tin oxide;Cerium oxide;Potassium oxide
+M|E|2.2:2.12|What is the role of a ceramic conditioner?|It acts as a barrier layer|It etches the porcelain;It colors the opaque pink;It reduces surface silver
+M|E|2.4:4.4.4.1|How much In-Ceram alumina powder is used in a mix?|38 grams|3.8 grams;380 grams;1 gram
+M|E|2.4:4.4.2|What duplicating material is used for In-Ceram?|Polyvinyl siloxane, or addition silicone|Reversible hydrocolloid;Impression plaster;Baseplate wax
+M|E|2.4:4.7.3.4|If a pressed-ceramic pattern weighs less than 0.24 gram, what should be done?|Add a dummy pattern|Use a larger ring with no other change;Skip the sprue;Press it without investment
+M|E|2.4:4.9.4.1|Why is the refractory die soaked in distilled water?|To keep the porcelain from drying out too fast|To etch it;To color it blue;To remove the glaze
+M|E|2.4:4.1.4|What restorations can all-ceramics be used for?|Crowns, inlays, onlays, and veneers|Complete denture bases only;Partial denture frameworks only;Orthodontic wires only
+M|E|1.2:2.93|What first-aid item should be kept near hydrofluoric acid?|Magnesium oxide ointment|Petroleum jelly;Clear nail polish;Utility wax

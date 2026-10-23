@@ -1,0 +1,71 @@
+# Comprehensive MCQ top-up (prefix cx). Facts are the ones already cited in comprehensive.json flashcards.
+M|A|FDAC|Which FDA device class carries the lowest risk?|Class I|Class II;Class III;Class IV
+M|A|FDAC|Which controls apply to a Class II medical device?|General Controls plus Special Controls|General Controls only;Premarket Approval only;No controls at all
+M|A|FDAC|Besides risk, FDA device classification depends on which two things?|The device's intended use and its indications for use|The device's price and color;The lab's size and location;The dentist's specialty and age
+M|A|QMSR|The FDA Quality Management System Regulation amends which part of the Code of Federal Regulations?|21 CFR Part 820|29 CFR 1910.1030;29 CFR 1910.1200;21 CFR Part 1000
+M|A|1.1:1.4.1|Who must give the technician specific written directions for each case?|The dentist, through the prescription|The laboratory supervisor;The patient;The materials supplier
+M|A|1.1:1.4.3.3|How should a technician treat what they learn about a patient's dental condition or personal life?|As privileged information that is not repeated outside professional conversation|As public information;As material to share with other patients;As something to post in the lab
+M|B|1.3:3.21.1|Where does the masseter muscle originate?|The zygomatic arch|The coronoid process;The mylohyoid line;The neck of the condyle
+M|B|1.3:3.21.1.3|What is the primary action of the masseter?|It elevates, or closes, the mandible|It depresses the hyoid;It closes the lips;It forms the floor of the mouth
+M|B|1.3:3.21.3.2|Where does the medial pterygoid insert?|On the medial, or internal, surface of the mandibular ramus|On the coronoid process;On the neck of the condyloid process;On the zygomatic arch
+M|B|1.3:3.24|What does the orbicularis oris muscle do?|It closes the lips|It elevates the mandible;It protrudes the mandible;It forms the floor of the mouth
+M|B|1.3:3.32.4|What is a primary function of the buccinator?|Holding food between the teeth while chewing|Closing the jaw;Pulling the mandible into protrusion;Elevating the tongue
+M|B|1.3:3.37.3|The hamular notch serves as a guide to what?|The posterior border of a maxillary denture|The midline of the mandibular denture;The position of the mental foramen;The height of the lower occlusal plane
+M|B|1.3:3.37.4|What portion of the palatal vault is made up by the soft palate?|The posterior one-third|The anterior two-thirds;The entire vault;The anterior one-third
+M|B|1.3:3.37.8|What is the vibrating line?|The line of flexion between the hard and soft palates|The cutting edge of an anterior tooth;The border of the attached gingiva;The midline of the incisive papilla
+M|B|1.3:3.38.2|Why do the retromolar pads matter in denture work?|They guide the plane of occlusion because their position stays constant after extraction|They mark the incisive foramen;They form the floor of the mouth;They house the condyle
+M|B|1.3:3.43|The glenoid fossa is found on which bone?|The temporal bone, under its zygomatic process|The mandible;The maxilla;The hyoid bone
+M|B|1.3:3.44|During protrusive movement, where do both condyles move?|Out of the fossae and onto the articular eminences|Deeper into the glenoid fossae;Backward behind the fossae;They do not move
+M|B|1.4:4.1.3.2|How many anterior teeth are in one permanent arch?|Six, from canine to canine|Four;Eight;Ten
+M|B|1.4:4.4.4|Through what opening do nerves and blood vessels enter a tooth?|The apical foramen|The incisive foramen;The mental foramen;The gingival sulcus
+M|B|1.4:4.5.1.2|What is the lamina dura?|A thin, dense layer of bone lining the tooth socket|The outer layer of enamel;A layer of cementum;The free gingiva
+M|B|1.4:4.5.4|What is the difference between free and attached gingiva?|Free gingiva can be displaced, while attached gingiva is firmly fixed to the underlying bone|Free gingiva is fixed to bone, while attached gingiva moves;They are the same tissue;Attached gingiva covers the crown
+M|C|1.4:4.3|In the Universal numbering system, which numbers are the maxillary teeth?|1 through 16|17 through 32;1 through 8;9 through 24
+M|C|1.3:3.2.2|Medial is a synonym for what term?|Internal|External;Superior;Posterior
+M|C|1.4:4.7.4-4.7.5|What is the incisal surface?|The cutting edge of an anterior tooth|The chewing surface of a posterior tooth;The surface facing the cheek;The surface closest to the midline
+M|C|1.4:4.11.2.1|What is an embrasure?|A space that diverges from the contacting proximal surfaces of two adjacent teeth|The junction of three crown surfaces;The cutting edge of an incisor;The opening at the root apex
+M|D|1.5:5.6.3|In an Angle Class III relationship, what profile is typical?|A prognathic profile|A retrognathic profile;A perfectly straight profile;No profile change is described
+M|D|1.6:6.7|On an arcon articulator, where are the condyle elements?|On the lower member, with the fossae on the upper member, as in the natural anatomy|On the upper member, with the fossae on the lower member;There are no condyle elements;On the incisal pin
+M|D|1.6:6.3.3|What are the three articulator categories by adjustability?|Nonadjustable, semiadjustable, and fully adjustable|Small, medium, and large;Hinge, facebow, and pantograph;Plaster, stone, and die stone
+M|E|1.2:2.5.2|What does overmixing gypsum do to its crushing strength?|It breaks the forming crystals and reduces strength|It always doubles strength;It has no effect;It removes all porosity
+M|E|1.2:2.6.4.4|What is slurry water used for?|Accelerating the set of plaster or stone, for example when mounting casts|Retarding the set of investments;Polishing acrylic;Disinfecting impressions
+M|E|1.2:2.6.4.3|Why should chemical accelerators or retarders never be added to casting or soldering investments?|They also reduce setting expansion and crushing strength|They turn the investment green;They make the investment flammable;They make it impossible to mix
+M|E|1.2:2.10.3|What is the typical initial set time of dental stone?|8 to 15 minutes|1 to 2 minutes;About 45 minutes;About 2 hours
+M|E|1.2:2.12|What are investments composed of?|A refractory, such as cristobalite or quartz, plus a binder|Beeswax and paraffin;Polymer and monomer;Zinc oxide and eugenol
+M|E|1.2:2.17.7|What should you do if a gypsum mix in progress seems too thick or thin?|Start a new mix rather than adding powder or water|Add more water;Add more powder;Add slurry water
+M|E|1.2:2.17.6|How long should a phosphate-bonded investment be held under vacuum?|30 seconds|5 seconds;5 minutes;15 minutes
+M|E|1.2:2.22.1|What are the main components of baseplate wax?|Beeswax, paraffin, and coloring|Beeswax, resin, and kaolin;Quartz and ethyl silicate;Zinc oxide and eugenol
+M|E|1.2:2.28|What is boxing wax used for?|Boxing impressions|Detecting pressure points on castings;Sealing refractory casts;Blocking out undercuts
+M|E|1.2:2.32|At what temperature is a beeswax dip used to seal refractory casts?|280 to 300 degrees Fahrenheit|100 to 120 degrees Fahrenheit;500 to 600 degrees Fahrenheit;2600 degrees Fahrenheit
+M|E|1.2:2.42|In heat-cured denture resin, what is the powder?|The polymer|The monomer;The inhibitor;The flux
+M|E|1.2:2.44.2|Why are self-curing resins preferred for denture repair?|The denture does not have to go through a high curing temperature|They are the strongest resins;They never need polishing;They are the most elastic liners
+M|E|1.2:2.63.2|How does the specific gravity of chrome alloys compare with gold?|It is about half, so castings are lighter|It is about double;It is the same;It is about ten times higher
+M|E|1.2:2.77.1.2|What tinfoil thickness is used over the waxed denture?|0.003 inch|0.001 inch;0.020 inch;0.1 inch
+M|E|1.2:2.77.2.1|What are tinfoil substitutes made of?|Sodium or potassium alginate in distilled water|Beeswax and paraffin;Silicon carbide;Aqua regia
+M|E|1.2:2.80.2|Which form of flux is best for casting?|Powdered flux|Pencil lead;Liquid monomer;Rouge
+M|E|1.2:2.86|Why is isopropyl alcohol not recommended for the torch?|It smokes badly when applied to wax|It burns too hot for gold;It is not flammable;It dissolves porcelain
+M|E|1.2:2.90|What is the advantage of sulfuric acid over hydrochloric acid as a pickling solution?|It has no objectionable fumes|It dissolves gold;It dissolves porcelain;It is used to polish acrylic
+M|E|1.2:2.93|What is hydrofluoric acid used for in the lab?|Dissolving porcelain off metal|Pickling gold castings;Sealing refractory casts;Mixing investments
+M|E|1.2:2.100.2|Which polishing agent is not recommended for acrylic?|Rouge, because it collects in crevices around the denture teeth|Pumice;Diamond;Water
+M|E|1.2:2.100.10|What is the hardest abrasive known?|Diamond|Carborundum;Rouge;Pumice
+M|E|1.2:2.102.4.2|What flame is suitable for melting chrome alloys?|Oxyacetylene|A Bunsen burner flame;An alcohol torch;A candle flame
+M|E|1.2:2.102.4.2|What is the typical melting range of chrome alloys?|Over 2600 degrees Fahrenheit|About 300 degrees Fahrenheit;About 1000 degrees Fahrenheit;Under 200 degrees Fahrenheit
+M|E|1.2:2.11.2|What must be done to gypsum before autoclaving to make improved stone?|It is boiled in a 30 percent calcium chloride solution|It is mixed with beeswax;It is soaked in aqua regia;It is heated in open vats
+M|F|1.2:2.34.4|Is a separator needed when pouring gypsum into impression compound?|No|Yes, always tinfoil;Yes, always beeswax;Yes, always sodium hypochlorite
+M|F|1.2:2.35.2|How should a low-fusing wax impression be rinsed?|Carefully with room-temperature water, without touching the tissue side|With boiling water;With hydrofluoric acid;By scrubbing the tissue side with a brush
+M|F|1.2:2.37.2.3|Why should condensation silicone impressions be poured promptly?|Shrinkage occurs after about 30 minutes|They turn into gypsum;They release ammonia gas;They become reversible
+M|F|1.2:2.40|Which hydrocolloid is irreversible?|Alginate|Agar;Polyether;Impression compound
+M|F|1.2:2.40.2.3.1|What happens to a gelled hydrocolloid impression exposed to water or air?|It changes dimensions|It becomes stronger;It sets harder with no change;Nothing happens
+M|F|1.1:1.26|Addition silicone and polysulfide impressions should NOT be immersed in which disinfectant?|Neutral glutaraldehyde|Plain tap water;Slurry water;Dental stone
+M|F|1.1:1.27|How are polyether impressions disinfected?|Like hydrocolloids, by spraying rather than immersion|By boiling;By long immersion in glutaraldehyde;By heating in a furnace
+M|F|1.1:1.31|From what is slurry dihydrate solution prepared?|Freshly set stone that was never poured against a contaminated impression|Used polishing paste;Leftover investment;Alginate impression scraps
+M|G|1.1:1.10|When should eye protection be worn?|Whenever any possibility of eye damage exists|Only when using acids;Only on the lathe;Only when the supervisor is present
+M|G|1.1:1.15.1|What is the rule for running lathes?|Never leave them unattended, and turn them off when not in use|Leave them running between cases;Run them with guards removed;Only turn them off at the end of the week
+M|G|1.1:1.20.2|What is the key infection control concept in the lab?|Clean and disinfect contaminated items before they reach the production area|Disinfect items only after they are finished;Disinfect only items that look dirty;Disinfection is done only by the dentist
+M|G|1.1:1.23.1|What is the receiving area?|A separate engineering control area for disinfecting incoming items|The shipping desk for finished cases;The polishing station;The break room
+M|G|1.1:1.24|What PPE is worn in the receiving area?|Gloves, mask, eye protection, and smocks|No PPE is needed;Gloves only;A lead apron
+M|G|1.1:1.30|How is a finished prosthesis returned to the dentist?|Cleaned, disinfected, and bagged|Unwrapped and dry;Still on the working cast;Soaked in aqua regia
+M|G|BBP|Under OSHA, what is an exposure incident?|Eye, mouth, mucous membrane, non-intact skin, or parenteral contact with blood or other potentially infectious materials|Any contact with dental stone;Touching a clean cast;Breathing room air in the lab
+M|G|BBP|How often is OSHA bloodborne pathogens training given?|At assignment, annually, and when tasks change|Only once in a career;Every ten years;Only after an exposure incident
+M|G|PIC|Which HazCom pictogram is used for skin corrosion?|Corrosion|Gas cylinder;Exclamation mark;Flame over circle
+M|G|PIC|Which HazCom pictogram is used for gases under pressure?|Gas cylinder|Corrosion;Skull and crossbones;Exploding bomb

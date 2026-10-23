@@ -1,0 +1,884 @@
+[
+ {
+  "id": "cr2q-A-001",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why are elastic impression materials used for fixed prosthodontic impressions?",
+  "options": [
+   "Because they are the cheapest option",
+   "Because they need no pouring",
+   "Because they are reversible by heat",
+   "Because of natural tooth and soft-tissue undercuts"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Because of natural tooth and soft-tissue undercuts. (para 1.13.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.13.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cr2q-A-002",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When should a diagnostic wax-up be done before making a provisional template?",
+  "options": [
+   "Never, because templates are always made from the patient's mouth",
+   "Only after the final crown is glazed",
+   "Only for complete dentures",
+   "When the teeth to be prepared are broken down"
+  ],
+  "answer": 3,
+  "explanation": "Correct: When the teeth to be prepared are broken down. (para 1.14.1.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.1.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cr2q-A-003",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How is a provisional prosthesis packaged for the dentist?",
+  "options": [
+   "Dry, in an open box",
+   "Soaked in hydrofluoric acid",
+   "Still attached to the stone cast",
+   "Disinfected, in a plastic bag with a moist cotton roll"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Disinfected, in a plastic bag with a moist cotton roll. (para 1.14.1.2.8)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.14.1.2.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cr2q-A-004",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why should you avoid staring at shade tabs?",
+  "options": [
+   "It fades the tabs",
+   "It causes cone, or eye, fatigue",
+   "It changes the tooth color",
+   "It warms the porcelain"
+  ],
+  "answer": 1,
+  "explanation": "Correct: It causes cone, or eye, fatigue. (para 2.3.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-A-005",
+  "exam": "ceramics",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where should the shade be taken?",
+  "options": [
+   "In a brightly colored room",
+   "In a dark room",
+   "Under a red light",
+   "In a neutral-colored room with color-corrected light"
+  ],
+  "answer": 3,
+  "explanation": "Correct: In a neutral-colored room with color-corrected light. (para 2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-B-001",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a working cast?",
+  "options": [
+   "A cast of the opposing arch only",
+   "A cast duplicating the prepared teeth, the other teeth in the arch, and the associated soft tissue",
+   "A refractory cast for pressing",
+   "A wax model of the crown"
+  ],
+  "answer": 1,
+  "explanation": "Correct: A cast duplicating the prepared teeth, the other teeth in the arch, and the associated soft tissue. (para 1.16.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.16.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cr2q-B-002",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why are keyed, tapered dowel pins with serrated heads used?",
+  "options": [
+   "So the die can rotate freely",
+   "So no separator is needed",
+   "So the die seats in the working cast only one way",
+   "So the die can be electroplated"
+  ],
+  "answer": 2,
+  "explanation": "Correct: So the die seats in the working cast only one way. (para 1.19.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.19.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cr2q-B-003",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What stone is used for both pours of a doweled working cast?",
+  "options": [
+   "Model plaster",
+   "Impression plaster",
+   "Improved, or die, stone",
+   "Investment"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Improved, or die, stone. (para 1.19.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.19.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cr2q-B-004",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What saw blade is used to section dies in the shim technique?",
+  "options": [
+   "A diamond disk",
+   "A pear-shaped bur",
+   "A number 25 Bard-Parker blade",
+   "A number 0000 jeweler's saw blade"
+  ],
+  "answer": 3,
+  "explanation": "Correct: A number 0000 jeweler's saw blade. (para 1.22.1.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.22.1.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cr2q-B-005",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "About how long does silver plating an impression take?",
+  "options": [
+   "About 15 minutes",
+   "About 15 hours",
+   "About 2 minutes",
+   "About 3 days"
+  ],
+  "answer": 1,
+  "explanation": "Correct: About 15 hours. (para 1.24.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.24.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cr2q-B-006",
+  "exam": "ceramics",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "At what angle does a shoulder margin meet the tooth?",
+  "options": [
+   "45 degrees, forming a bevel",
+   "90 degrees, forming a butt joint",
+   "180 degrees",
+   "30 degrees, forming a knife edge"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 90 degrees, forming a butt joint. (para 1.33.1.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 1.33.1.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-01"
+  }
+ },
+ {
+  "id": "cr2q-C-001",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What are the three mechanisms of the metal-ceramic bond?",
+  "options": [
+   "Thermal, electrical, and magnetic",
+   "Chemical, compression, and mechanical",
+   "Adhesive, cohesive, and magnetic",
+   "Glaze, stain, and opaque"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Chemical, compression, and mechanical. (para 2.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-C-002",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the minimum combined metal and porcelain facial thickness?",
+  "options": [
+   "0.1 to 0.2 millimeters",
+   "3 to 4 millimeters",
+   "1.2 to 1.5 millimeters",
+   "5 millimeters"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 1.2 to 1.5 millimeters. (para 2.2.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-C-003",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Anterior proximal contacts should be placed in what material?",
+  "options": [
+   "Bare metal",
+   "The metal-ceramic junction",
+   "Wax",
+   "Porcelain"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Porcelain. (para 2.5.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.5.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-C-004",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "On a metal collar crown, how wide is the cervical collar left on the facial?",
+  "options": [
+   "0.1 millimeter",
+   "5 millimeters",
+   "No collar is left",
+   "1.5 millimeters"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 1.5 millimeters. (para 2.6.3.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.6.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-C-005",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where are single anterior metal-ceramic units sprued?",
+  "options": [
+   "On the facial margin",
+   "On the incisal edge",
+   "On the lingual margin",
+   "On the cervical collar"
+  ],
+  "answer": 1,
+  "explanation": "Correct: On the incisal edge. (para 2.7.2.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.7.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-C-006",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the alloy melt color sequence while casting?",
+  "options": [
+   "White, then red, then black",
+   "Blue, then green, then red",
+   "It stays red throughout",
+   "Red, orange, dull white, then mirror-like white"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Red, orange, dull white, then mirror-like white. (para 2.10.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.10.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-C-007",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What are the best finishing instruments for metal-ceramic frameworks?",
+  "options": [
+   "Rubber wheels",
+   "Epoxy-bonded silica stones",
+   "Single-cut carbide burs, grinding in one direction",
+   "Any abrasive used on other alloys"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Single-cut carbide burs, grinding in one direction. (para 2.11.1.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.11.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-C-008",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the minimum noble metal coping thickness when reducing the facial?",
+  "options": [
+   "0.03 millimeters",
+   "0.3 millimeters",
+   "3 millimeters",
+   "1.5 millimeters"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 0.3 millimeters. (para 2.11.3.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.11.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-C-009",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the minimum In-Ceram coping thickness?",
+  "options": [
+   "0.05 millimeters",
+   "At least 0.5 millimeters",
+   "At least 3 millimeters",
+   "At least 5 millimeters"
+  ],
+  "answer": 1,
+  "explanation": "Correct: At least 0.5 millimeters. (para 4.4.5.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.4.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cr2q-C-010",
+  "exam": "ceramics",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What sprue is used for a pressed ceramic pattern?",
+  "options": [
+   "Three 18-gauge sprues",
+   "A single 8-gauge sprue, 6 to 8 millimeters long",
+   "No sprue",
+   "A single sprue 30 millimeters long"
+  ],
+  "answer": 1,
+  "explanation": "Correct: A single 8-gauge sprue, 6 to 8 millimeters long. (para 4.7.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cr2q-D-001",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What are two purposes of opaque porcelain?",
+  "options": [
+   "Masking the metal and simulating dentin color",
+   "Glazing the surface and adding stain",
+   "Forming the margin and the contacts",
+   "Polishing the metal"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Masking the metal and simulating dentin color. (para 2.13)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.13",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-D-002",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the goal of the second opaque coat?",
+  "options": [
+   "To eliminate all metal shadows",
+   "To spot-patch only small areas",
+   "To glaze the crown",
+   "To form the incisal edge"
+  ],
+  "answer": 0,
+  "explanation": "Correct: To eliminate all metal shadows. (para 2.13.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.13.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-D-003",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the pink opaque modifier used for?",
+  "options": [
+   "The cervical area only",
+   "Raising value",
+   "A warmer tone",
+   "Glazing"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A warmer tone. (para 2.13.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.13.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-D-004",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What does condensing porcelain mean?",
+  "options": [
+   "Packing porcelain particles and removing water",
+   "Adding more water to the porcelain",
+   "Grinding the fired porcelain",
+   "Applying glaze"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Packing porcelain particles and removing water. (para 2.14.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-D-005",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What effect does fine-grained porcelain have on shrinkage?",
+  "options": [
+   "It doubles shrinkage",
+   "It removes the need for firing",
+   "It has no effect at all",
+   "It lowers volume shrinkage"
+  ],
+  "answer": 3,
+  "explanation": "Correct: It lowers volume shrinkage. (para 2.14.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-D-006",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How are die contact areas sealed before building porcelain?",
+  "options": [
+   "With hydrofluoric acid",
+   "With utility wax",
+   "With pencil lead",
+   "With clear nail polish or cyanoacrylate"
+  ],
+  "answer": 3,
+  "explanation": "Correct: With clear nail polish or cyanoacrylate. (para 2.14.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-D-007",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In what order is enamel added to the cusps?",
+  "options": [
+   "Functioning cusps first, then nonfunctioning cusps",
+   "Nonfunctioning cusps first",
+   "All cusps at once after glazing",
+   "Enamel is never added to cusps"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Functioning cusps first, then nonfunctioning cusps. (para 2.14.6.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.6.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-D-008",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How do mamelons appear?",
+  "options": [
+   "As a single white stripe",
+   "As a brown cervical band",
+   "As a shiny glaze line",
+   "As three finger-like dentin extensions"
+  ],
+  "answer": 3,
+  "explanation": "Correct: As three finger-like dentin extensions. (para 2.14.9.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.14.9.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-D-009",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why must the porcelain buildup be dried fully before firing?",
+  "options": [
+   "It changes the shade to gray",
+   "Steam can crack the veneer sections",
+   "It removes the opaque",
+   "It makes the glaze too shiny"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Steam can crack the veneer sections. (para 2.15.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.15.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-D-010",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What must be done before refiring a glazed restoration?",
+  "options": [
+   "Add a second coat of opaque",
+   "Soak it in water overnight",
+   "Nothing, it can be refired as is",
+   "Remove the glaze by air abrading with aluminum oxide"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Remove the glaze by air abrading with aluminum oxide. (para 2.16.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.16.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-D-011",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How should color be appraised before glazing?",
+  "options": [
+   "With saliva",
+   "With tap water",
+   "Dry under a red light",
+   "With liquid glaze medium, not saliva or water"
+  ],
+  "answer": 3,
+  "explanation": "Correct: With liquid glaze medium, not saliva or water. (para 2.23.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-D-012",
+  "exam": "ceramics",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What stain color is used for hypocalcification?",
+  "options": [
+   "White",
+   "Blue",
+   "Orange",
+   "Black"
+  ],
+  "answer": 0,
+  "explanation": "Correct: White. (para 2.23.2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.23.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-E-001",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which group are the noble metals?",
+  "options": [
+   "Silver and copper",
+   "Chromium, cobalt, and nickel",
+   "Tin and zinc",
+   "Gold and the platinum group metals"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Gold and the platinum group metals. (para 2.58.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.58.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-E-002",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the most common intermediate oxide in dental porcelain?",
+  "options": [
+   "Tin oxide",
+   "Cerium oxide",
+   "Aluminum oxide",
+   "Potassium oxide"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Aluminum oxide. (para 2.70.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.70.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-E-003",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the role of a ceramic conditioner?",
+  "options": [
+   "It etches the porcelain",
+   "It colors the opaque pink",
+   "It reduces surface silver",
+   "It acts as a barrier layer"
+  ],
+  "answer": 3,
+  "explanation": "Correct: It acts as a barrier layer. (para 2.12)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.12",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-02"
+  }
+ },
+ {
+  "id": "cr2q-E-004",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How much In-Ceram alumina powder is used in a mix?",
+  "options": [
+   "38 grams",
+   "3.8 grams",
+   "380 grams",
+   "1 gram"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 38 grams. (para 4.4.4.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.4.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cr2q-E-005",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What duplicating material is used for In-Ceram?",
+  "options": [
+   "Polyvinyl siloxane, or addition silicone",
+   "Reversible hydrocolloid",
+   "Impression plaster",
+   "Baseplate wax"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Polyvinyl siloxane, or addition silicone. (para 4.4.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cr2q-E-006",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "If a pressed-ceramic pattern weighs less than 0.24 gram, what should be done?",
+  "options": [
+   "Use a larger ring with no other change",
+   "Skip the sprue",
+   "Press it without investment",
+   "Add a dummy pattern"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Add a dummy pattern. (para 4.7.3.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.7.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cr2q-E-007",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is the refractory die soaked in distilled water?",
+  "options": [
+   "To etch it",
+   "To color it blue",
+   "To keep the porcelain from drying out too fast",
+   "To remove the glaze"
+  ],
+  "answer": 2,
+  "explanation": "Correct: To keep the porcelain from drying out too fast. (para 4.9.4.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.9.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cr2q-E-008",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What restorations can all-ceramics be used for?",
+  "options": [
+   "Complete denture bases only",
+   "Crowns, inlays, onlays, and veneers",
+   "Partial denture frameworks only",
+   "Orthodontic wires only"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Crowns, inlays, onlays, and veneers. (para 4.1.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 2 (restored ed., dentaltechnology.org)",
+   "loc": "para 4.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-2/chapter-04"
+  }
+ },
+ {
+  "id": "cr2q-E-009",
+  "exam": "ceramics",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What first-aid item should be kept near hydrofluoric acid?",
+  "options": [
+   "Magnesium oxide ointment",
+   "Petroleum jelly",
+   "Clear nail polish",
+   "Utility wax"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Magnesium oxide ointment. (para 2.93)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 2.93",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-02"
+  }
+ }
+]
