@@ -1,0 +1,5105 @@
+[
+ {
+  "id": "cdf-A-001",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "In complete dentures, what is an impression?",
+  "back": "An accurate, negative likeness of a highly specific intraoral area.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-002",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a cast?",
+  "back": "A positive likeness poured from an impression.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-003",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the denture-bearing areas of the maxillary arch?",
+  "back": "The residual ridge and the hard palate.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.5.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-004",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the denture-bearing areas of the mandible?",
+  "back": "The residual ridge, the retromolar pads, and the buccal shelves.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-005",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How soon should an alginate impression be poured?",
+  "back": "Within 10 to 15 minutes after removal from the mouth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.21.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-006",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How is mucous film and debris removed from an impression before pouring?",
+  "back": "With a gentle stream of body-temperature water.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.21.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-007",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What should be used when pouring one gypsum material against another?",
+  "back": "A proper separator, such as Super Sep.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.22.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-008",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "About how long after pouring should a cast be separated from the impression?",
+  "back": "After the setting heat dissipates completely, about 45 minutes after pouring.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.23.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-009",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a modeling plastic (compound) impression softened to separate the cast?",
+  "back": "In a 140 degree Fahrenheit water bath until it softens.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.23.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-010",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How long after final set should you wait before trimming a cast?",
+  "back": "At least 2 hours.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.23.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-011",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why should you never trim a dry cast on a wet model trimmer?",
+  "back": "Slushy debris from the wheel falls on the dry cast and sticks to it; rinse the cast in slurry water (saturated calcium sulfate dihydrate solution) first.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.23.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-012",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How far should a maxillary cast extend beyond the pterygomaxillary notches, and a mandibular cast beyond the retromolar pads?",
+  "back": "About 5 millimeters.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.23.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-013",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How thick should a complete denture cast be at its thinnest area?",
+  "back": "About 15 millimeters, or five-eighths of an inch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.23.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-014",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the two basic kinds of impression trays?",
+  "back": "Prefabricated and custom.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.24.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-015",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What material is used to make preliminary impressions?",
+  "back": "Alginate.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.24.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-016",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "In the two-step method of pouring a diagnostic cast, what is poured first?",
+  "back": "The anatomic portion first, then the base.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.25.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-017",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How do you ensure a union between the two pours of a two-step cast?",
+  "back": "Leave nodules and roughened peaks on the surface of the first pour.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.25.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-018",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why must an impression never be poured and then inverted onto a mound of gypsum?",
+  "back": "The material settles toward the base while setting, leaving softer material toward the tissue surface.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.26.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-019",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why use a custom tray instead of a prefabricated tray?",
+  "back": "A custom tray helps the dentist make a more accurate impression; prefabricated trays fit everyone moderately but no one perfectly.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.27.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-020",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Name three ways of making custom trays.",
+  "back": "The self-curing resin dough method, the vacuum method, and the light-cured material method.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.27.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-021",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Before making a resin dough custom tray, what is done to the cast?",
+  "back": "Fill undercuts with baseplate wax, then paint two layers of tinfoil substitute.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.28.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-022",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "At what angle to the cast base is a vacuum-formed tray handle positioned?",
+  "back": "45 degrees.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.29.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-023",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a light-cured custom tray cured?",
+  "back": "Two minutes in the light-curing unit, then air barrier coating on all sides and 8 more minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.30.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-024",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why do many dentists want a spaced custom tray?",
+  "back": "To provide room for a controlled thickness of impression material.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.31",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-025",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the purpose of boxing a final impression?",
+  "back": "To confine the flow of stone when pouring the master cast.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.32",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-026",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How far from the flange edges is the utility wax beading placed when boxing?",
+  "back": "About 3 millimeters.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.33.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-027",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How far above the impression should the boxing wall extend?",
+  "back": "About 15 millimeters, or five-eighths of an inch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.33.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-028",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How wide is the land area trimmed around a plaster-pumice matrix?",
+  "back": "6 millimeters.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.34.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-029",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Which final impression material requires a separator before pouring the cast?",
+  "back": "Impression plaster.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.35.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-A-030",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How should stone be mixed to obtain a dense, accurate master cast?",
+  "back": "Vacuum spatulate it.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.35.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-B-001",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a record base with occlusion rim?",
+  "back": "A base that accurately fits the cast plus an arch-shaped wax buildup that occupies the space of the missing teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.37",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-B-002",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does the high lip line marked on the maxillary rim indicate?",
+  "back": "The level to which the upper lip rises when the patient smiles.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.38.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-B-003",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What do the canine lines on an occlusion rim represent?",
+  "back": "The estimated long axes of the canines; the distance between them helps select the width of the six anterior teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.38.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-B-004",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How does the dentist know the correct occlusal vertical dimension has been reached with occlusion rims?",
+  "back": "The S sound is distinct and the rims barely miss each other when it is spoken.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.38.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-B-005",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Which material is preferred for record bases, and why?",
+  "back": "Autopolymerizing resin, because it is stronger and more stable than light-cured material.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.39.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-B-006",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How may a mandibular record base be reinforced?",
+  "back": "With a U-shaped piece of coat hanger wire adapted to the lingual area.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.39.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-B-007",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a sprinkle-on record base polymerized?",
+  "back": "In a pressure pot with 110 degree Fahrenheit water at 15 pounds per square inch for 10 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.40.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-B-008",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How thick should a finished record base be?",
+  "back": "2 to 3 millimeters, thinned over the crest of the ridge.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.40.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-B-009",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What polymer-to-monomer ratio is used for the bulk resin record base method?",
+  "back": "2 to 1; for example, 20 cc of polymer to 10 cc of monomer.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.40.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-B-010",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What material is most commonly used for occlusion rims?",
+  "back": "Baseplate wax.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.43",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-B-011",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the anterior height of a maxillary occlusion rim?",
+  "back": "22 millimeters from the labial flange to the occlusal plane.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.45.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-B-012",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the anterior height of a mandibular occlusion rim?",
+  "back": "18 millimeters from the labial flange to the occlusal plane.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.45.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-G-001",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What type of articulator is commonly used for removable prostheses?",
+  "back": "A Hanau or similar semiadjustable articulator.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.46.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-G-002",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What average horizontal condylar guidance is set on the Hanau H2?",
+  "back": "30 degrees.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.49.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-G-003",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What average lateral condylar guidance is set on the Hanau H2?",
+  "back": "15 degrees.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.49.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-G-004",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "At what setting is the incisal guide table set during cast mounting?",
+  "back": "0 degrees.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.49.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-G-005",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a facebow?",
+  "back": "A caliper-like device used to position the maxillary cast on the articulator the way the upper jaw relates to the temporomandibular joints.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.47.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-G-006",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "With a facebow mounting, how much can the occlusal vertical dimension be changed on the articulator without a new record?",
+  "back": "Plus or minus 2 millimeters.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.47.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-G-007",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Name parts of the facebow assembly.",
+  "back": "The bow, jack clamp, jackscrew, slide bars and locks, facebow fork, and orbital pointer.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.47.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-G-008",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Why coat mounting rings with petroleum jelly?",
+  "back": "To protect them from corrosion and extend their usefulness.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.47.1.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-G-009",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What is used to attach a cast to the mounting ring?",
+  "back": "A slurry-accelerated mix of dental stone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.47.1.3.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-G-010",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "How is horizontal condylar guidance set using the semiadjustable capability of the Hanau H2?",
+  "back": "With a separate protrusive jaw relationship record, or checkbite.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.50.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-001",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is complete balance?",
+  "back": "Simultaneous contact of maxillary and mandibular teeth on right and left, in the posterior and anterior occlusal areas, in centric and eccentric positions.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.7.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-002",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a compensating curve?",
+  "back": "An alignment of occluding surfaces and incisal edges along anteroposterior and lateral curves to develop complete balance in dentures.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.7.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-003",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What phenomenon makes a compensating curve necessary?",
+  "back": "Christensen's phenomenon: posterior teeth separate as the condyles move down the eminences in protrusion.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.7.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-004",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "In a completely balanced denture, how much vertical and horizontal overlap do the anterior teeth have in centric occlusion?",
+  "back": "About 1 millimeter of each.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.8.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-005",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "In a nonbalanced monoplane denture, what is the anterior overlap in centric occlusion?",
+  "back": "0 millimeters vertical and 1 to 2 millimeters horizontal.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.14.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-006",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How are teeth arranged in a monoplane setup?",
+  "back": "0-degree teeth set on a flat plane with no compensating curve.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.13",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-007",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "For which jaw relationships is monoplane occlusion the occlusion of choice?",
+  "back": "Class II and Class III jaw relationships, and crossbite cases.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.15.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-008",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a main disadvantage of monoplane dentures?",
+  "back": "They tend to tip more than balanced dentures, because they lack protrusive balance.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.16.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-009",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is lingualized occlusion?",
+  "back": "Cusped maxillary posterior teeth set against 0-degree or shallow-cusp mandibular posterior teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.17",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-010",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a main advantage of lingualized occlusion?",
+  "back": "Maximized cutting efficiency with minimized lateral forces.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.19.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-011",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How many teeth are in a full complement of denture teeth, and why?",
+  "back": "28, because third molars are not used in complete dentures.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.52.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-012",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why do porcelain denture teeth need pins or diatorics?",
+  "back": "Porcelain does not chemically bond to the acrylic resin denture base, so mechanical retention is needed.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.53",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-013",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a diatoric?",
+  "back": "A hole in the ridgelap of a posterior porcelain denture tooth that holds the tooth to the denture base.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.53.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-014",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the ridgelap of a denture tooth?",
+  "back": "The portion between the shut and the collar that laps over the ridge of the cast.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.53.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-015",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the shut of an anterior porcelain denture tooth?",
+  "back": "The part of the lingual surface where the pins are located.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.53.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-016",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How are plastic denture teeth retained in the denture base?",
+  "back": "They bond chemically with the denture base material.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.54",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-017",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are porcelain teeth rarely used to oppose natural teeth?",
+  "back": "Porcelain abrades natural tooth structure.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.55.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-018",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the denture tooth material of choice to oppose natural teeth?",
+  "back": "Plastic, because it does not abrade enamel.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.55.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-019",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the best pre-extraction record of a patient's original teeth?",
+  "back": "A plaster cast of the patient's dental arch made before the teeth were extracted.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.56.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-020",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "According to the face-form theory, what does an inverted maxillary central incisor resemble?",
+  "back": "The shape of the patient's face, in profile and frontal view.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.57.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-021",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Which face forms are usually associated with males?",
+  "back": "The square, tapering, and square tapering forms; the softer ovoid subgroups are considered more feminine.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.57.2.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-022",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What mainly determines the color choice for denture teeth?",
+  "back": "The patient's age.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.57.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-023",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are 20-degree posterior denture teeth popular?",
+  "back": "They cause less lateral denture-displacing force than 30-degree teeth and look better than 0-degree teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.60.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-024",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How is the posterior denture tooth shade usually chosen relative to the anteriors?",
+  "back": "About one shade darker than the anterior teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.60.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-025",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What does a posterior mold code like 30L mean?",
+  "back": "The four maxillary posterior teeth on one side measure 30 millimeters mesiodistally, and the L indicates long teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.61.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-026",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Which anatomic landmark is an excellent guide to the facial midline, and which should not be used?",
+  "back": "The incisive papilla is an excellent guide; the maxillary labial frenum is unreliable.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.63.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-027",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Where should the posterior end of the occlusal plane fall?",
+  "back": "Two-thirds of the way up the retromolar pad on both sides.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.63.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-028",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Where should the central grooves of the maxillary posterior teeth be positioned?",
+  "back": "Centered over the crest of the mandibular ridge.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.64.2.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-029",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Are denture teeth set on the maxillary tuberosities?",
+  "back": "No. Denture teeth are not set on tuberosities.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.64.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-030",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Are denture teeth ever set on the retromolar pad?",
+  "back": "No. Denture teeth must never be set on a retromolar pad.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.64.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-031",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the most popular tooth-setting sequence?",
+  "back": "Maxillary anteriors, maxillary posteriors, mandibular posteriors, then mandibular anteriors; mandibular first premolars last.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.65.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-032",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is one solution when interarch space is limited?",
+  "back": "Use plastic denture teeth, and if needed, cut out the interfering part of the record base.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.66",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-033",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What are other names for the basic maxillary anterior arrangement?",
+  "back": "The symmetrical arrangement or silver-dollar setup.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.67.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-034",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the main reason the silver-dollar setup is made?",
+  "back": "As a point of departure; teeth are then moved into more natural, characterized positions.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.67.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-035",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How can maxillary incisors be modified for a more feminine appearance?",
+  "back": "Round their mesial and distal corners.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.73.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-036",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "In a vigorous arrangement, where is the maxillary lateral incisor's incisal edge placed, and what does it suggest?",
+  "back": "On the same plane as the central incisor; it suggests masculinity and old age.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.75.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-037",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "In a softened arrangement, where is the lateral incisor's incisal edge placed?",
+  "back": "Raised above the plane of the central incisor, which is also a youthful characteristic.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.75.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-038",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What space is recommended between the maxillary canine and first premolar when setting cusped posteriors?",
+  "back": "About 0.5 millimeter.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.77.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-039",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What horizontal overlap is acceptable for Class I ridge relations in a balanced setup?",
+  "back": "Between 1 and 2 millimeters.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.79.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-040",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Does the mandibular first premolar have a balancing contact in a balancing excursion?",
+  "back": "No.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.78.7.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-041",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "In a monoplane setup, how much horizontal overlap is typical for Class I and Class II?",
+  "back": "Class I about 1 millimeter; Class II 5 millimeters or more.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.86.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-042",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What problem do monoplane mandibular dentures have in protrusive contact?",
+  "back": "Their heels tend to flip up, because there is no protrusive balance.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.87.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-043",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a posterior crossbite?",
+  "back": "The normal buccolingual relationship of mandibular to maxillary posterior teeth is reversed.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.88.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-044",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Besides natural crossbite, what can cause edentulous ridges to be in crossbite?",
+  "back": "Drastic resorption of the maxillary and mandibular arches.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.89.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-045",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a quadrant reversal arrangement?",
+  "back": "For crossbite cases, maxillary left posterior teeth are set on the mandibular right side, and so on, so the teeth fit the reversed relationship.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.91.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-046",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What are advantages of lingualized occlusion?",
+  "back": "It suits most cases including Class II and III, uses esthetic cusped maxillary teeth, maximizes cutting efficiency with minimal lateral force, and readily gives bilateral balance.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.94.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-047",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "In a lingualized setup, why is vertical overlap kept to about 1 millimeter?",
+  "back": "More than 1 millimeter may jeopardize balance in excursions and dislodge the denture.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.96.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-048",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "In lingualized occlusion, what is done with the maxillary buccal (shearing) cusps?",
+  "back": "They are raised about 1 millimeter so they never contact the mandibular teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.96.7.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-001",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a denture wax-up?",
+  "back": "A wax pattern around the tooth arrangement that simulates the soft tissues attached to the teeth, alveolar processes, and palate.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.99.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-002",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How thick should wax be over the collars of the teeth during bulk waxing?",
+  "back": "1.5 to 2 millimeters.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.100.2.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-003",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What must the interdental papillae do in gingival trimming?",
+  "back": "Extend to the area of tooth contact, fill the gingival embrasure, and be convex in all directions, to avoid food traps.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.100.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-004",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "At what angle is the carver held for the facial gingival trim?",
+  "back": "About 45 degrees to the horizontal.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.100.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-005",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Which maxillary anterior tooth has the longest, most prominent root eminence, and which the shortest?",
+  "back": "The canine is longest and most prominent; the lateral incisor is shortest.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.100.4.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-006",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are labial flanges made slightly concave?",
+  "back": "To accommodate the natural drape of the orbicularis oris muscle.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.100.4.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-007",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are buccal flanges made concave?",
+  "back": "To allow for the natural drape of the buccinator muscle.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.100.4.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-008",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a posterior palatal seal?",
+  "back": "A feature in a maxillary denture that offsets processing changes in the acrylic and improves retention.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.101.1.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-009",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Where is the posterior border of a maxillary denture determined?",
+  "back": "At the vibrating line marked on the cast by the dentist.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.101.1.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-010",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why must the palatal vault of a denture have a uniform, not excessive, thickness?",
+  "back": "The patient's speech is affected if the palatal vault is too thick.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.101.1.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-011",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What gingival trim is used for young patients?",
+  "back": "A half-circle gingival trim; the form changes with age.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.101.1.7.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-012",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is stippling added to a denture base?",
+  "back": "To break up large reflective surfaces so the base looks more natural.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.101.1.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-013",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a flask?",
+  "back": "A metal or microwave-safe plastic case used to make sectional molds for processing acrylic resin denture bases.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.103",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-014",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "In how many steps is compression flasking done?",
+  "back": "Three: lower half flasking, upper half flasking, and the cap.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.104.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-015",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How much clearance should there be between the base of the cast and the sides of the flask?",
+  "back": "At least 6 millimeters.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.104.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-016",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How long should the stone in a flask harden before wax elimination?",
+  "back": "At least 1 hour.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.104.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-017",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How thick is silicone insulating paste applied over the wax-up?",
+  "back": "About 1 to 2 millimeters.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.104.5.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-018",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How many injection channels does a mandibular complete denture need for injection molding?",
+  "back": "Two.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.105.2.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-019",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the three boil-out tanks used for?",
+  "back": "The first softens and removes bulk wax, the second is a detergent rinse, and the third is a clean hot water flush.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.107.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-020",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How long is a flask placed in boiling water to soften the wax?",
+  "back": "About 5 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.107.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-021",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Is a posterior palatal seal recommended for injection molded processing?",
+  "back": "No.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.109.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-022",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is the gypsum mold sealed with a separator before packing resin?",
+  "back": "Plaster and stone absorb fluid; sealing prevents monomer from soaking into the mold.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.109.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-023",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What renders tinfoil substitute useless?",
+  "back": "Contamination with gypsum particles; never dip a used brush into the bulk supply.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.109.4.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-024",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What simulates blood vessels in denture base resin?",
+  "back": "Red nylon fibers.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.112.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-025",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How long should tinting set before packing?",
+  "back": "About 20 minutes, in a covered container with a monomer-moistened cotton roll.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.113.2.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-026",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the principal resin used for denture bases?",
+  "back": "Polymethyl methacrylate.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.114",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-027",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the reaction that turns acrylic resin dough into solid plastic called?",
+  "back": "Polymerization.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.115.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-028",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What are other names for chemically activated acrylic resin?",
+  "back": "Self-curing, cold-curing, or autopolymerizing resin.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.115.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-029",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Without manufacturer's instructions, what monomer-to-polymer ratio is used for heat-curing resin?",
+  "back": "One part monomer to three parts polymer by volume, for example 10 cc to 30 cc.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.116.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-030",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "When mixing acrylic resin, is powder added to liquid or liquid to powder?",
+  "back": "Always add the powder to the liquid, to reduce entrapped air.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.116.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-031",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What happens if acrylic is packed at the sandy or stringy stage?",
+  "back": "It lacks body and flows too readily from the mold.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.116.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-032",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How is resin dough prepared for packing?",
+  "back": "Roll it into a 1-inch sausage to align the fibers, then flatten it into a 3 millimeter slab between packing sheets.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.117.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-033",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the goal of trial packing?",
+  "back": "A densely filled mold with metal-to-metal contact between the flask halves.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.117.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-034",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How thick is a silicone putty spacer for a soft liner?",
+  "back": "About 2 millimeters.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.118.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-035",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "To what temperature must heat-curing acrylic be heated before polymerization begins?",
+  "back": "At least 158 degrees Fahrenheit.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.119.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-036",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the long-cure cycle for heat-curing denture resin?",
+  "back": "Heat slowly to 160 degrees Fahrenheit and hold for 8 hours.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.119.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-037",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What happens if denture resin not made for microwave processing is microwaved?",
+  "back": "The acrylic will be porous in the thickest areas.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.119.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-038",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why should processed flasks be cooled slowly?",
+  "back": "Dimensional change in the processed denture is smaller.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.119.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-039",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a key feature of injection molding of denture resin?",
+  "back": "The resin stays under constant pressure, feeding material into the mold as it polymerizes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.120.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-040",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "In injection molding, at what temperature is the flask polymerized and for how long?",
+  "back": "In a 212 degree Fahrenheit bath for 35 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.122.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-041",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the mixing ratio for pour (fluid) denture resin?",
+  "back": "2.5 cc of polymer to 1 cc of monomer.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.123.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-042",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a poured resin denture processed in the pressure pot?",
+  "back": "At 20 pounds of air pressure for 30 minutes, in water of 100 to 120 degrees Fahrenheit.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.124.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-043",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What identification must every completed removable prosthesis carry, per the manual?",
+  "back": "The patient's Social Security number, embedded in the base.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.125.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-044",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the objective of deflasking?",
+  "back": "Remove the denture from the investment without breaking it or dislodging it from the cast.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.126",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-045",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "After deflasking, where should the denture be?",
+  "back": "Still firmly seated on its cast, so it can be remounted.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.128.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-046",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the most typical processing change in compression-molded, heat-cured dentures?",
+  "back": "An increase in the occlusal vertical dimension.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.129.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-047",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "When remounting a denture cast with modeling plastic, why is part of the junction line left uncovered?",
+  "back": "To detect whether the cast separates from the mounting.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.130.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-048",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the objective of selective grinding of balanced complete dentures?",
+  "back": "To eliminate premature contacts that prevent multiple, well-distributed contacts.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.131.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-049",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What incisal pin opening is the limit of reasonable acceptability after processing a set of complete dentures?",
+  "back": "About 1 millimeter.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.134.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-050",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "When correcting protrusive interferences, what must not be reduced?",
+  "back": "The heights of the cusps; grind the inclines instead.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.136",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-051",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is milling-in?",
+  "back": "Covering the occlusal surfaces with abrasive paste and moving the teeth in contact to rub off small remaining interferences.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.138",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-052",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "When grinding monoplane dentures, which arch is flattened first?",
+  "back": "The mandibular arch, which is nearly flat already.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.139.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-D-053",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a remounting index?",
+  "back": "A permanent stone record of the facebow transfer, used to remount the maxillary denture later.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.140.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-001",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is a processed denture not pried off its master cast?",
+  "back": "Most dentures are undercut, so prying breaks or distorts them; the cast is cut away instead.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.145",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-002",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What equipment is used to recover a denture from its cast, in order?",
+  "back": "Plaster saw, pneumatic chisel, shell blaster, and sodium citrate or stone-remover solution.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.145.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-003",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What does a shell blaster use?",
+  "back": "A high-pressure jet of walnut shell particles.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.145.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-004",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is finishing a denture?",
+  "back": "Contouring the denture to the desired shape and thickness.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.146",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-005",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Where must abrasives never be applied unless the dentist directs it?",
+  "back": "On the tissue surfaces of the denture.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.146.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-006",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What does polishing a denture do?",
+  "back": "Removes all scratches and gives a glossy finish, so the denture collects less debris.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.147",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-007",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Is a highly reflective, mirror-like denture base finish desirable?",
+  "back": "No.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.147.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-008",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How are acrylic denture teeth protected during polishing?",
+  "back": "Cover their facial and lingual surfaces with adhesive tape.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.147.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-009",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What wheel completes the bulk polishing of the denture base?",
+  "back": "A rag wheel at low speed.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.147.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-010",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What polishing agent follows pumice?",
+  "back": "Tripoli, on a separate set of wheels and brushes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.147.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-011",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is used for the final denture polish?",
+  "back": "A soft, dry rag wheel with a commercial polishing compound made for acrylic.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.147.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-012",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are finished dentures stored in a moist denture bag?",
+  "back": "To keep the acrylic from drying out, which causes dimensional change and warping.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.148",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-013",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Name causes of porosity in processed denture resin.",
+  "back": "Insufficient mold pressure, packing too early, improper cure temperature or time, wrong monomer amount, and excessive thickness.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.149.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-014",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What causes grainy-appearing denture resin?",
+  "back": "Too little monomer to wet the powder, or letting a packed case stand too long before curing.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.149.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-015",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What causes craze or check lines in acrylic resin?",
+  "back": "Contact with a highly volatile solvent such as acetone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.149.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-016",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What can cause streaks in a denture base?",
+  "back": "Dirt and oils from bare hands, poor mixing, flaking separator, dry resin crusts, or poor staining technique.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.149.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-017",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Name causes of excessive tooth movement and incisal pin opening after processing.",
+  "back": "No metal-to-metal flask contact, excessive packing pressure, plaster instead of stone in the flask, or adding resin after trial packing.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.149.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-E-018",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Name causes of fractured denture teeth during processing.",
+  "back": "Packing stiff dough, grinding porcelain teeth with a coarse wheel, fast packing pressure, teeth touching the cast, or misplacing dislodged teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.149.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-049",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What denture teeth are used to oppose natural teeth?",
+  "back": "Plastic cusped teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.153",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-050",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an immediate denture?",
+  "back": "A denture made before all natural teeth are extracted and inserted immediately after the last extraction.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.155.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-051",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "When is ridge resorption greatest after extractions?",
+  "back": "In the first 2 months; it slows to a gradual rate after a year.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.157.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-052",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How deep is the facial root area excavated on an immediate denture cast?",
+  "back": "Just enough for the denture tooth collar, 1.5 millimeters maximum.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.161.2.6.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-C-053",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Is stippling recommended on immediate dentures?",
+  "back": "No; if used, it should be the positive, blow-on type.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.162.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-G-011",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What metals are cast metal denture bases usually made of?",
+  "back": "Chrome or an aluminum alloy.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.164",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-G-012",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Who are cast metal denture bases mainly for?",
+  "back": "Patients who repeatedly fracture their dentures in normal function.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.165",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-001",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an overdenture (tooth-supported denture)?",
+  "back": "A denture that fits over natural teeth cut down near the gum line and left in the bone to slow ridge resorption.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.169",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-002",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How can an overdenture base be strengthened?",
+  "back": "With high-impact resin, alternative packing techniques, or a cast metal base.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.170",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-003",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What must be done with a broken acrylic tooth before repair?",
+  "back": "It must be completely drilled out, since its original seat is usually destroyed.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.173.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-004",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How do you find the mold of a lost denture tooth?",
+  "back": "From the mold number imprinted in the ridgelap area of the denture base.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.174.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-005",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a replacement plastic tooth prepared for retention?",
+  "back": "Roughen the ridgelap and cut a small diatoric into it.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.174.3.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-006",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What holds a replacement tooth in position during a tooth repair?",
+  "back": "A labial stone matrix.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.174.3.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-007",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How is autopolymerizing repair resin applied in a tooth repair?",
+  "back": "Alternately wet with monomer and sprinkle polymer until slightly higher than the surrounding base.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.174.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-008",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "In a pressure pot repair, what do water and warm water do?",
+  "back": "Immersion in water slows monomer evaporation; warm water speeds polymerization.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.174.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-009",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Why did flasking for repairs fall out of use?",
+  "back": "Heat processing often warped the denture base by releasing stresses; self-curing resins replaced it.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.175.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-010",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What three conditions must be met for any denture base repair to succeed?",
+  "back": "The parts are perfectly clean, assembled with total accuracy, and kept immobile while the resin cures.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.176",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-011",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a simple denture base fracture?",
+  "back": "One where there is no doubt how the pieces fit together.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.177.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-012",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a complex denture base fracture?",
+  "back": "One where the pieces cannot be fit together precisely, or fragments are lost.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.177.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-013",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What reinforces a broken denture across the fracture line before the cast is poured?",
+  "back": "Two or more old burs or pieces of coat hanger wire stuck across the fracture.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.178.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-014",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How far beyond the fracture line is tinfoil substitute applied on the repair cast?",
+  "back": "At least 8 millimeters in all directions.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.178.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-015",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are fracture edges rabbeted and beveled?",
+  "back": "To increase the bonding area between old and new acrylic.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.178.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-016",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Without directions, what water temperature is used in the pressure pot for a repair?",
+  "back": "About 110 degrees Fahrenheit.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.178.10",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-017",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What two methods add self-curing repair resin to a fractured denture?",
+  "back": "The dough method and the sprinkle method.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.178.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-018",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a reline?",
+  "back": "Resurfacing the tissue side of a denture with new base material so it fits more accurately.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.180.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-019",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What two reline methods does the manual describe?",
+  "back": "The jig method and the flask method.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.180.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-020",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Before a reline impression, how much does the dentist usually reduce the flanges?",
+  "back": "Uniformly about 2 millimeters, after grinding out tissue undercuts.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.181",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-021",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is the tissue surface of a denture roughened before a reline?",
+  "back": "To improve the bond between the old base and the new resin.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.182.5.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-022",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What powder-to-liquid ratio is used for self-curing reline resin in the jig method?",
+  "back": "Two parts powder to one part liquid.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.182.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-023",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a jig reline cured?",
+  "back": "In a pressure pot with lukewarm 110 degree water, at least 15 pounds per square inch for at least 10 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.182.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-024",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "In the flask reline method, how is the impression material softened?",
+  "back": "Place the flask in boiling water for 4 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.183.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-025",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What is rebasing a denture?",
+  "back": "Refitting it with a corrective impression and replacing all of the denture base material with new resin.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.184",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-026",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are porcelain teeth heated slowly when removing them for a rebase?",
+  "back": "Rapid heating will crack the teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.185.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-027",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Is heat used to remove plastic teeth from an old denture base?",
+  "back": "No; acrylic teeth are separated without heat.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.185.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-028",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a duplicate denture?",
+  "back": "A spare copy of a complete denture, for when the original is lost or being repaired.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.187",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdf-F-029",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What impression material is used for the denture-flask duplicate denture method?",
+  "back": "Alginate, held in a modified mandibular denture flask.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.188",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-A-001",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Within how many minutes after removal from the mouth should an alginate impression be poured?",
+  "options": [
+   "1 to 2 hours",
+   "10 to 15 minutes",
+   "24 hours",
+   "45 to 60 minutes"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 10 to 15 minutes. (para 7.21.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.21.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-A-002",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "After a cast reaches final set, how long should you wait before trimming it?",
+  "options": [
+   "At least 2 hours",
+   "5 minutes",
+   "At least 24 hours",
+   "No wait is needed"
+  ],
+  "answer": 0,
+  "explanation": "Correct: At least 2 hours. (para 7.23.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.23.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-A-003",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How thick should a complete denture cast be at its thinnest area?",
+  "options": [
+   "About 15 millimeters",
+   "About 5 millimeters",
+   "About 30 millimeters",
+   "About 2 millimeters"
+  ],
+  "answer": 0,
+  "explanation": "Correct: About 15 millimeters. (para 7.23.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.23.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-A-004",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "At what water temperature is a modeling plastic impression softened before separating the cast?",
+  "options": [
+   "212 degrees Fahrenheit",
+   "140 degrees Fahrenheit",
+   "70 degrees Fahrenheit",
+   "300 degrees Fahrenheit"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 140 degrees Fahrenheit. (para 7.23.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.23.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-A-005",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which material is used to make preliminary impressions?",
+  "options": [
+   "Impression plaster",
+   "Zinc oxide eugenol paste",
+   "Alginate",
+   "Modeling plastic"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Alginate. (para 7.24.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.24.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-A-006",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which method of pouring a diagnostic cast must never be used?",
+  "options": [
+   "The two-step method",
+   "The upright method",
+   "Using a vibrator to flow the first mix",
+   "Pouring the impression and inverting it onto a mound of gypsum"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Pouring the impression and inverting it onto a mound of gypsum. (para 7.26.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.26.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-A-007",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "At what angle to the base of the cast is a vacuum-formed tray handle positioned?",
+  "options": [
+   "90 degrees",
+   "10 degrees",
+   "Parallel to the base",
+   "45 degrees"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 45 degrees. (para 7.29.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.29.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-A-008",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which final impression material requires a separator before the master cast is poured?",
+  "options": [
+   "Polysulfide",
+   "Zinc oxide eugenol paste",
+   "Impression plaster",
+   "Alginate"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Impression plaster. (para 7.35.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.35.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-A-009",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When boxing a final impression, how far from the flange edges is the utility wax beading placed?",
+  "options": [
+   "About 3 millimeters",
+   "About 15 millimeters",
+   "Directly on the flange edge",
+   "About 10 millimeters"
+  ],
+  "answer": 0,
+  "explanation": "Correct: About 3 millimeters. (para 7.33.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.33.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-A-010",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which of these is a denture-bearing area of the mandible?",
+  "options": [
+   "The hard palate",
+   "The buccal shelves",
+   "The vibrating line",
+   "The pterygomaxillary notch"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The buccal shelves. (para 7.5.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-A-011",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "About how long after pouring should a cast be separated from its impression?",
+  "options": [
+   "About 5 minutes",
+   "About 24 hours",
+   "About 3 days",
+   "About 45 minutes"
+  ],
+  "answer": 3,
+  "explanation": "Correct: About 45 minutes. (para 7.23.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.23.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-A-012",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In the two-step method of pouring a diagnostic cast, which part is poured first?",
+  "options": [
+   "The base",
+   "The anatomic portion",
+   "The land area",
+   "Both at once"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The anatomic portion. (para 7.25.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.25.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-A-013",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the main advantage of a custom impression tray over a prefabricated tray?",
+  "options": [
+   "It requires no diagnostic cast",
+   "It is the only tray that can hold alginate",
+   "It never needs a handle",
+   "It helps the dentist make a more accurate impression"
+  ],
+  "answer": 3,
+  "explanation": "Correct: It helps the dentist make a more accurate impression. (para 7.27.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.27.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-A-014",
+  "exam": "complete-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "After the first 2 minutes of light curing a custom tray and coating it with air barrier, how much longer is it cured?",
+  "options": [
+   "8 minutes",
+   "30 seconds",
+   "1 hour",
+   "No additional cure"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 8 minutes. (para 7.30.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.30.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-B-001",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the anterior height of a maxillary occlusion rim, from the labial flange to the occlusal plane?",
+  "options": [
+   "18 millimeters",
+   "22 millimeters",
+   "12 millimeters",
+   "30 millimeters"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 22 millimeters. (para 7.45.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.45.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-B-002",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the anterior height of a mandibular occlusion rim, from the labial flange to the occlusal plane?",
+  "options": [
+   "22 millimeters",
+   "18 millimeters",
+   "10 millimeters",
+   "28 millimeters"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 18 millimeters. (para 7.45.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.45.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-B-003",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which record base material is preferred because it is stronger and more stable?",
+  "options": [
+   "Light-cured material",
+   "Autopolymerizing resin",
+   "Baseplate wax",
+   "Shellac"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Autopolymerizing resin. (para 7.39.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.39.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-B-004",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which material is most commonly used to make occlusion rims?",
+  "options": [
+   "Inlay wax",
+   "Dental stone",
+   "Utility wax",
+   "Baseplate wax"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Baseplate wax. (para 7.43)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.43",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-B-005",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When determining occlusal vertical dimension with occlusion rims, which speech sound does the dentist use?",
+  "options": [
+   "The M sound",
+   "The F sound",
+   "The S sound",
+   "The TH sound"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The S sound. (para 7.38.2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.38.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-B-006",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How thick should a finished record base be, except over the ridge crest?",
+  "options": [
+   "2 to 3 millimeters",
+   "0.5 millimeter",
+   "6 to 8 millimeters",
+   "10 millimeters"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 2 to 3 millimeters. (para 7.40.1.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.40.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-B-007",
+  "exam": "complete-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What does the high lip line on the maxillary occlusion rim indicate?",
+  "options": [
+   "How high the upper lip rises when the patient smiles",
+   "The center of the face",
+   "The long axis of the canine",
+   "The occlusal plane"
+  ],
+  "answer": 0,
+  "explanation": "Correct: How high the upper lip rises when the patient smiles. (para 7.38.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.38.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-G-001",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What average horizontal condylar guidance is set on a Hanau H2 used as a fixed-guide instrument?",
+  "options": [
+   "15 degrees",
+   "0 degrees",
+   "30 degrees",
+   "45 degrees"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 30 degrees. (para 7.49.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.49.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-G-002",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What average lateral condylar guidance is set on a Hanau H2?",
+  "options": [
+   "30 degrees",
+   "15 degrees",
+   "0 degrees",
+   "45 degrees"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 15 degrees. (para 7.49.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.49.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-G-003",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "During cast mounting, what is the incisal guide table set to?",
+  "options": [
+   "15 degrees",
+   "0 degrees",
+   "30 degrees",
+   "45 degrees"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 0 degrees. (para 7.49.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.49.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-G-004",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What device records how the maxilla relates to the temporomandibular joints, so the maxillary cast can be mounted the same way?",
+  "options": [
+   "A surveyor",
+   "A boley gauge",
+   "A facebow",
+   "A rim former"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A facebow. (para 7.47.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.47.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-G-005",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "With a facebow mounting, by how much can the occlusal vertical dimension be changed on the articulator without a new jaw record?",
+  "options": [
+   "Plus or minus 10 millimeters",
+   "It cannot be changed at all",
+   "Plus or minus 2 millimeters",
+   "Plus or minus 20 millimeters"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Plus or minus 2 millimeters. (para 7.47.2.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.47.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-G-006",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What record is used to set the horizontal condylar guidance on a semiadjustable articulator?",
+  "options": [
+   "A protrusive record, or checkbite",
+   "A centric relation record only",
+   "A preliminary alginate impression",
+   "A shade guide"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A protrusive record, or checkbite. (para 7.50.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.50.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-001",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which phenomenon makes a compensating curve necessary in balanced complete dentures?",
+  "options": [
+   "Bennett movement",
+   "Christensen's phenomenon",
+   "Curve of Wilson",
+   "Angle's classification"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Christensen's phenomenon. (para 7.7.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.7.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-002",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which denture occlusion is the occlusion of choice for crossbite cases and Class II or Class III jaw relationships?",
+  "options": [
+   "Completely balanced with 33-degree teeth",
+   "Canine-guided",
+   "Group function with cusped teeth",
+   "Monoplane"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Monoplane. (para 7.15.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.15.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-003",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Lingualized occlusion uses cusped maxillary posterior teeth set against which mandibular teeth?",
+  "options": [
+   "Porcelain anterior teeth",
+   "0-degree or shallow-cusp posterior teeth",
+   "33-degree cusped teeth only",
+   "No mandibular posterior teeth"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 0-degree or shallow-cusp posterior teeth. (para 7.17)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.17",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-004",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How many teeth are in a full complement of denture teeth?",
+  "options": [
+   "32",
+   "20",
+   "24",
+   "28"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 28. (para 7.52.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.52.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-005",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a diatoric?",
+  "options": [
+   "A raised identification dot",
+   "The lingual finish line",
+   "A retention hole in the ridgelap of a posterior porcelain denture tooth",
+   "The neck of a plastic tooth"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A retention hole in the ridgelap of a posterior porcelain denture tooth. (para 7.53.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.53.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-006",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which denture tooth material is the material of choice to oppose natural teeth?",
+  "options": [
+   "Plastic",
+   "Porcelain",
+   "Base metal alloy",
+   "Gold"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Plastic. (para 7.55.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.55.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-007",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In a nonbalanced monoplane denture, how much vertical overlap do the anterior teeth have in centric occlusion?",
+  "options": [
+   "3 millimeters",
+   "0 millimeters",
+   "5 millimeters",
+   "1 centimeter"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 0 millimeters. (para 7.14.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.14.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-008",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why do monoplane dentures tend to tip more than balanced dentures?",
+  "options": [
+   "They use porcelain teeth",
+   "They have too much vertical overlap",
+   "They use a steep compensating curve",
+   "They lack protrusive balance"
+  ],
+  "answer": 3,
+  "explanation": "Correct: They lack protrusive balance. (para 7.16.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.16.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-009",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which anatomic landmark is an excellent guide to the midline of the face when setting anterior teeth?",
+  "options": [
+   "The maxillary labial frenum",
+   "The incisive papilla",
+   "The retromolar pad",
+   "The tuberosity"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The incisive papilla. (para 7.63.8)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.63.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-010",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where should the posterior end of the occlusal plane fall on the retromolar pad?",
+  "options": [
+   "At the anterior border of the pad",
+   "Two-thirds of the way up the pad",
+   "Above the top of the pad",
+   "Beyond the posterior border"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Two-thirds of the way up the pad. (para 7.63.9)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.63.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-011",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which statement about the retromolar pad is correct?",
+  "options": [
+   "Denture teeth must never be set on it",
+   "It is the preferred place to set second molars",
+   "It is used as the facial midline",
+   "It is always removed from the cast"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Denture teeth must never be set on it. (para 7.64.4.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.64.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-012",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In the most popular tooth-setting sequence, which teeth are set last?",
+  "options": [
+   "The maxillary central incisors",
+   "The mandibular first premolars",
+   "The maxillary second molars",
+   "The mandibular first molars"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The mandibular first premolars. (para 7.65.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.65.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-013",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is another name for the basic, symmetrical maxillary anterior arrangement?",
+  "options": [
+   "The vigorous arrangement",
+   "The quadrant reversal",
+   "The silver-dollar setup",
+   "The crowded arrangement"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The silver-dollar setup. (para 7.67.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.67.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-014",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Compared with the anterior teeth, what shade are posterior denture teeth usually chosen?",
+  "options": [
+   "Two shades lighter",
+   "About one shade darker",
+   "Exactly the same shade always",
+   "Pure white"
+  ],
+  "answer": 1,
+  "explanation": "Correct: About one shade darker. (para 7.60.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.60.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-015",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why are 20-degree posterior denture teeth popular?",
+  "options": [
+   "They have the steepest cusps available",
+   "They cause less lateral force than 30-degree teeth and look better than 0-degree teeth",
+   "They never need a compensating curve",
+   "They are only made in porcelain"
+  ],
+  "answer": 1,
+  "explanation": "Correct: They cause less lateral force than 30-degree teeth and look better than 0-degree teeth. (para 7.60.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.60.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-016",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Setting the maxillary lateral incisor's incisal edge on the same plane as the central incisor suggests what?",
+  "options": [
+   "Youth and femininity",
+   "Masculinity and old age",
+   "A crossbite",
+   "A Class III jaw relationship"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Masculinity and old age. (para 7.75.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.75.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-017",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is color choice for denture teeth mainly a function of?",
+  "options": [
+   "The patient's ridge shape",
+   "The patient's age",
+   "The articulator type",
+   "The denture base resin brand"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The patient's age. (para 7.57.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.57.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-018",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a posterior crossbite?",
+  "options": [
+   "The anterior teeth have no vertical overlap",
+   "The normal buccolingual relationship of mandibular to maxillary posterior teeth is reversed",
+   "The molars are set on the retromolar pad",
+   "The upper midline is shifted to one side"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The normal buccolingual relationship of mandibular to maxillary posterior teeth is reversed. (para 7.88.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.88.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-019",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In a balanced setup with Class I ridges, what horizontal overlap is acceptable?",
+  "options": [
+   "5 to 7 millimeters",
+   "0 millimeters",
+   "1 to 2 millimeters",
+   "10 millimeters"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 1 to 2 millimeters. (para 7.79.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.79.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-020",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In monoplane mandibular dentures, what tends to happen when the anterior teeth meet in protrusive contact?",
+  "options": [
+   "The anterior teeth fracture",
+   "The denture locks in place",
+   "The condyles stop moving",
+   "The heels tend to flip up"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The heels tend to flip up. (para 7.87.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.87.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-021",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What space is recommended between the distal of the maxillary canine and the mesial of the first premolar when setting cusped posteriors?",
+  "options": [
+   "5 millimeters",
+   "0.5 millimeter",
+   "No space at all",
+   "3 millimeters"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 0.5 millimeter. (para 7.77.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.77.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-001",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Without manufacturer's instructions, what monomer-to-polymer ratio by volume is used for heat-curing denture resin?",
+  "options": [
+   "1 part monomer to 3 parts polymer",
+   "3 parts monomer to 1 part polymer",
+   "Equal parts",
+   "1 part monomer to 10 parts polymer"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 1 part monomer to 3 parts polymer. (para 7.116.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.116.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-002",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "To what minimum temperature must heat-curing acrylic resin be heated before polymerization begins?",
+  "options": [
+   "98 degrees Fahrenheit",
+   "158 degrees Fahrenheit",
+   "300 degrees Fahrenheit",
+   "120 degrees Fahrenheit"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 158 degrees Fahrenheit. (para 7.119.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.119.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-003",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In the long-cure method, at what temperature and for how long is a denture processed?",
+  "options": [
+   "212 degrees Fahrenheit for 10 minutes",
+   "100 degrees Fahrenheit for 1 hour",
+   "300 degrees Fahrenheit for 30 minutes",
+   "160 degrees Fahrenheit for 8 hours"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 160 degrees Fahrenheit for 8 hours. (para 7.119.2.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.119.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-004",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When mixing acrylic resin, how are the components combined?",
+  "options": [
+   "Add the liquid to the powder",
+   "Add the powder to the liquid",
+   "Mix them dry, then add water",
+   "Heat the powder first"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Add the powder to the liquid. (para 7.116.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.116.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-005",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How long should the stone in a flask harden before wax elimination?",
+  "options": [
+   "5 minutes",
+   "At least 1 hour",
+   "At least 24 hours",
+   "No waiting is needed"
+  ],
+  "answer": 1,
+  "explanation": "Correct: At least 1 hour. (para 7.104.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.104.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-006",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How long is a flask placed in boiling water to soften the wax before opening?",
+  "options": [
+   "About 1 hour",
+   "About 30 seconds",
+   "About 5 minutes",
+   "About 8 hours"
+  ],
+  "answer": 2,
+  "explanation": "Correct: About 5 minutes. (para 7.107.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.107.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-007",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the principal resin used for denture bases?",
+  "options": [
+   "Polycarbonate",
+   "Polymethyl methacrylate",
+   "Polyether",
+   "Bis-GMA composite"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Polymethyl methacrylate. (para 7.114)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.114",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-008",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What simulates fine blood vessels in denture base resin?",
+  "options": [
+   "Red wax",
+   "Brown stain only",
+   "Metal inserts",
+   "Red nylon fibers"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Red nylon fibers. (para 7.112.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.112.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-009",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "For which processing method is a posterior palatal seal not recommended?",
+  "options": [
+   "Compression molding with heat curing",
+   "All processing methods",
+   "Long-cure processing",
+   "Injection molding"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Injection molding. (para 7.109.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.109.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-010",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What happens if a denture resin not designed for microwave processing is microwaved?",
+  "options": [
+   "It cures perfectly in half the time",
+   "It turns pink",
+   "It bonds better to teeth",
+   "It becomes porous in the thickest areas"
+  ],
+  "answer": 3,
+  "explanation": "Correct: It becomes porous in the thickest areas. (para 7.119.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.119.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-011",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What feature is added to a maxillary denture to offset processing changes and improve retention?",
+  "options": [
+   "A diatoric",
+   "A lingual bar",
+   "A posterior palatal seal",
+   "An occlusal rest"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A posterior palatal seal. (para 7.101.1.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.101.1.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-012",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why are labial denture flanges made slightly concave?",
+  "options": [
+   "To make room for the tongue",
+   "To accommodate the drape of the orbicularis oris muscle",
+   "To cover the retromolar pad",
+   "To increase thickness for strength"
+  ],
+  "answer": 1,
+  "explanation": "Correct: To accommodate the drape of the orbicularis oris muscle. (para 7.100.4.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.100.4.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-013",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is the stone mold sealed with separator before packing acrylic?",
+  "options": [
+   "To make the stone set faster",
+   "To keep monomer from soaking into the mold",
+   "To color the denture base",
+   "To raise the curing temperature"
+  ],
+  "answer": 1,
+  "explanation": "Correct: To keep monomer from soaking into the mold. (para 7.109.4.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.109.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-014",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What minimum clearance should there be between the base of the cast and the sides of the flask?",
+  "options": [
+   "6 millimeters",
+   "0.5 millimeter",
+   "30 millimeters",
+   "None, it should touch"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 6 millimeters. (para 7.104.2.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.104.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-015",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the objective of trial packing a denture flask?",
+  "options": [
+   "Curing the resin completely",
+   "Removing all the denture teeth",
+   "A densely filled mold with metal-to-metal contact between the flask halves",
+   "Thinning the palate"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A densely filled mold with metal-to-metal contact between the flask halves. (para 7.117.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.117.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-016",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is slow cooling of processed flasks recommended?",
+  "options": [
+   "It makes the resin pinker",
+   "It speeds up deflasking",
+   "It removes residual monomer completely",
+   "It reduces dimensional change in the denture"
+  ],
+  "answer": 3,
+  "explanation": "Correct: It reduces dimensional change in the denture. (para 7.119.2.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.119.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-017",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How many injection channels are needed when injection-molding a mandibular complete denture?",
+  "options": [
+   "One",
+   "Four",
+   "None",
+   "Two"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Two. (para 7.105.2.2.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.105.2.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-018",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the most typical processing change in compression-molded, heat-cured dentures?",
+  "options": [
+   "A decrease in occlusal vertical dimension",
+   "A change of shade",
+   "An increase in occlusal vertical dimension",
+   "Loss of all denture teeth"
+  ],
+  "answer": 2,
+  "explanation": "Correct: An increase in occlusal vertical dimension. (para 7.129.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.129.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-019",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "After processing a set of complete dentures, what incisal pin opening is the limit of reasonable acceptability?",
+  "options": [
+   "5 millimeters",
+   "1 millimeter",
+   "0.01 millimeter",
+   "10 millimeters"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 1 millimeter. (para 7.134.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.134.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-020",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When correcting protrusive interferences by selective grinding, what should you avoid?",
+  "options": [
+   "Grinding the inclines",
+   "Reducing the heights of the cusps",
+   "Using articulating paper",
+   "Checking the incisal pin"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Reducing the heights of the cusps. (para 7.136)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.136",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-021",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the mixing ratio for pour-type denture resin?",
+  "options": [
+   "1 cc polymer to 3 cc monomer",
+   "10 cc polymer to 1 cc monomer",
+   "Equal parts",
+   "2.5 cc polymer to 1 cc monomer"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 2.5 cc polymer to 1 cc monomer. (para 7.123.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.123.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-022",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In the injection molding technique described, the flask is polymerized in a bath at what temperature?",
+  "options": [
+   "160 degrees Fahrenheit",
+   "98 degrees Fahrenheit",
+   "212 degrees Fahrenheit",
+   "300 degrees Fahrenheit"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 212 degrees Fahrenheit. (para 7.122.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.122.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-D-023",
+  "exam": "complete-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the process of rubbing off small remaining interferences with abrasive paste called?",
+  "options": [
+   "Festooning",
+   "Milling-in",
+   "Stippling",
+   "Boxing"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Milling-in. (para 7.138)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.138",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-E-001",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What causes craze or check lines in acrylic resin?",
+  "options": [
+   "Too much pumice",
+   "Slow flask cooling",
+   "Using red fibers",
+   "Contact with a volatile solvent such as acetone"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Contact with a volatile solvent such as acetone. (para 7.149.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.149.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-E-002",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where must abrasives never be applied unless the dentist directs it?",
+  "options": [
+   "The tissue surface of the denture",
+   "The denture borders",
+   "The labial flange",
+   "The palatal polished surface"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The tissue surface of the denture. (para 7.146.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.146.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-E-003",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What denture base finish is described as not desirable?",
+  "options": [
+   "A highly reflective, mirror-like finish",
+   "A smooth glossy finish",
+   "A stippled finish",
+   "A finish free of scratches"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A highly reflective, mirror-like finish. (para 7.147.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.147.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-E-004",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why are finished dentures placed in a moist denture bag?",
+  "options": [
+   "To speed up polymerization",
+   "To prevent drying, dimensional change, and warping",
+   "To bleach the denture teeth",
+   "To soften the denture base"
+  ],
+  "answer": 1,
+  "explanation": "Correct: To prevent drying, dimensional change, and warping. (para 7.148)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.148",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-E-005",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which polishing agent follows pumice in the denture polishing sequence?",
+  "options": [
+   "Coarse garnet",
+   "Tripoli",
+   "Sandpaper",
+   "Walnut shells"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Tripoli. (para 7.147.8)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.147.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-E-006",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What does a shell blaster blow?",
+  "options": [
+   "Aluminum oxide",
+   "Walnut shell particles",
+   "Glass beads",
+   "Pumice slurry"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Walnut shell particles. (para 7.145.2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.145.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-E-007",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a cause of grainy-appearing denture resin?",
+  "options": [
+   "Insufficient monomer to wet all the powder",
+   "Using a rag wheel",
+   "Slow cooling",
+   "Too much tin foil substitute"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Insufficient monomer to wet all the powder. (para 7.149.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.149.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-E-008",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which of these can cause porosity in a processed denture?",
+  "options": [
+   "Cooling the flask slowly",
+   "Using dental stone in the flask",
+   "Packing the resin dough before it is ready",
+   "Polishing with tripoli"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Packing the resin dough before it is ready. (para 7.149.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.149.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-E-009",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is a processed denture removed by cutting away the master cast instead of prying it off?",
+  "options": [
+   "Most dentures are undercut and would break or distort",
+   "The cast is needed again for the next patient",
+   "Prying is faster but too noisy",
+   "The cast is made of metal"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Most dentures are undercut and would break or distort. (para 7.145)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.145",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-E-010",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How are acrylic denture teeth protected from abrasives during polishing?",
+  "options": [
+   "They are removed from the denture",
+   "They are painted with separator",
+   "They are coated with wax only",
+   "Their facial and lingual surfaces are covered with adhesive tape"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Their facial and lingual surfaces are covered with adhesive tape. (para 7.147.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.147.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-E-011",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which practice can fracture denture teeth during processing?",
+  "options": [
+   "Setting denture teeth in direct contact with the cast",
+   "Using a tinfoil substitute",
+   "Cooling the flask slowly",
+   "Packing at the dough stage"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Setting denture teeth in direct contact with the cast. (para 7.149.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.149.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-E-012",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which error can cause excessive tooth movement and incisal pin opening after processing?",
+  "options": [
+   "Polishing with tripoli",
+   "Failing to get metal-to-metal contact when the flask is closed",
+   "Using red nylon fibers",
+   "Bench cooling the flask"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Failing to get metal-to-metal contact when the flask is closed. (para 7.149.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.149.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-022",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which denture teeth are used to oppose natural teeth?",
+  "options": [
+   "Porcelain 0-degree teeth",
+   "Plastic, cusped teeth",
+   "Porcelain 33-degree teeth",
+   "Metal occlusal teeth only"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Plastic, cusped teeth. (para 7.153)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.153",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-023",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When is bone resorption usually greatest after tooth extractions?",
+  "options": [
+   "In the first 2 months",
+   "After 5 years",
+   "Only after the first year",
+   "It never resorbs"
+  ],
+  "answer": 0,
+  "explanation": "Correct: In the first 2 months. (para 7.157.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.157.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-C-024",
+  "exam": "complete-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is an immediate denture?",
+  "options": [
+   "A denture inserted right after the last extraction, made before all teeth are removed",
+   "A denture made in one hour",
+   "A denture relined chairside",
+   "A temporary acrylic crown"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A denture inserted right after the last extraction, made before all teeth are removed. (para 7.155.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.155.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-F-001",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which is a required condition for success in any denture base repair?",
+  "options": [
+   "The repair is always heat cured",
+   "The parts are kept absolutely immobile while the resin cures",
+   "The fragments are left unbeveled",
+   "The cast is made of plaster"
+  ],
+  "answer": 1,
+  "explanation": "Correct: The parts are kept absolutely immobile while the resin cures. (para 7.176)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.176",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-F-002",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "A denture broken into pieces that clearly fit together in one way is what kind of fracture?",
+  "options": [
+   "Simple",
+   "Complex",
+   "Compound",
+   "Partial"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Simple. (para 7.177.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.177.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-F-003",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why are the fracture edges rabbeted and beveled before a denture repair?",
+  "options": [
+   "To make the denture lighter",
+   "To remove the denture teeth",
+   "To increase the bonding area between old and new acrylic",
+   "To speed up curing"
+  ],
+  "answer": 2,
+  "explanation": "Correct: To increase the bonding area between old and new acrylic. (para 7.178.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.178.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-F-004",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How far beyond the fracture line should tinfoil substitute be applied on the repair cast?",
+  "options": [
+   "0.5 millimeter",
+   "At least 8 millimeters",
+   "Only on the fracture line",
+   "30 millimeters"
+  ],
+  "answer": 1,
+  "explanation": "Correct: At least 8 millimeters. (para 7.178.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.178.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-F-005",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a reline?",
+  "options": [
+   "Replacing all denture teeth",
+   "Polishing the denture base",
+   "Making a spare denture",
+   "Resurfacing the tissue side of a denture with new base material"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Resurfacing the tissue side of a denture with new base material. (para 7.180.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.180.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-F-006",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is rebasing a denture?",
+  "options": [
+   "Adding resin to the tissue surface only",
+   "Replacing a single tooth",
+   "Replacing all of the denture base material with new resin while keeping the teeth",
+   "Grinding the occlusion"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Replacing all of the denture base material with new resin while keeping the teeth. (para 7.184)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.184",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-F-007",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What powder-to-liquid ratio does the manual give for self-curing resin in a jig reline?",
+  "options": [
+   "1 part powder to 3 parts liquid",
+   "2 parts powder to 1 part liquid",
+   "10 parts powder to 1 part liquid",
+   "Equal parts"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 2 parts powder to 1 part liquid. (para 7.182.6.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.182.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-F-008",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why must porcelain teeth be heated slowly when removing them for a rebase?",
+  "options": [
+   "Slow heating colors the teeth",
+   "Fast heating melts the porcelain",
+   "It keeps the cast wet",
+   "Rapid heating will crack the teeth"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Rapid heating will crack the teeth. (para 7.185.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.185.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-F-009",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where is the mold number of a lost denture tooth found?",
+  "options": [
+   "On the patient's chart only",
+   "In the ridgelap imprint in the denture base",
+   "Under the denture flange",
+   "On the articulator"
+  ],
+  "answer": 1,
+  "explanation": "Correct: In the ridgelap imprint in the denture base. (para 7.174.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.174.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-F-010",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why are denture base repairs no longer usually done by flasking with heat cure?",
+  "options": [
+   "It was too cheap",
+   "Self-curing resins are weaker",
+   "Flasks are no longer made",
+   "Heat processing often warped the denture base"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Heat processing often warped the denture base. (para 7.175.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.175.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-F-011",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is cut into a plastic replacement tooth for added retention?",
+  "options": [
+   "A posterior palatal seal",
+   "A rabbet joint on the incisal edge",
+   "A small diatoric",
+   "A vent sprue"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A small diatoric. (para 7.174.3.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.174.3.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-F-012",
+  "exam": "complete-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why are teeth sometimes cut down and left in the bone under an overdenture?",
+  "options": [
+   "To hold a fixed bridge",
+   "To make extractions easier later",
+   "To lower the vertical dimension",
+   "To reduce the rate of ridge resorption"
+  ],
+  "answer": 3,
+  "explanation": "Correct: To reduce the rate of ridge resorption. (para 7.169)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.169",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-G-007",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In a three-tank boil-out unit, what is the second tank for?",
+  "options": [
+   "Softening the bulk wax",
+   "Curing the resin",
+   "Storing finished dentures",
+   "A detergent rinse"
+  ],
+  "answer": 3,
+  "explanation": "Correct: A detergent rinse. (para 7.107.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.107.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-G-008",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which tool is used after the plaster saw to cut remaining stone from ridge areas during denture recovery?",
+  "options": [
+   "A rag wheel",
+   "A pneumatic chisel",
+   "A Boley gauge",
+   "A facebow"
+  ],
+  "answer": 1,
+  "explanation": "Correct: A pneumatic chisel. (para 7.145.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.145.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-G-009",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is another name for chemically activated acrylic resin?",
+  "options": [
+   "Heat-cured resin",
+   "Light-cured composite",
+   "Autopolymerizing resin",
+   "Thermoplastic nylon"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Autopolymerizing resin. (para 7.115.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.115.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-G-010",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Cast metal denture bases are usually made of which metals?",
+  "options": [
+   "Gold or platinum only",
+   "Pure titanium sheet",
+   "Copper or brass",
+   "Chrome or aluminum alloy"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Chrome or aluminum alloy. (para 7.164)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.164",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-G-011",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "For whom are cast metal denture bases primarily used?",
+  "options": [
+   "Patients with acrylic allergies only",
+   "All immediate denture patients",
+   "Children",
+   "Patients who keep fracturing their dentures in normal function"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Patients who keep fracturing their dentures in normal function. (para 7.165)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.165",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-G-012",
+  "exam": "complete-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a disadvantage of a cast metal denture base?",
+  "options": [
+   "It is weaker than acrylic",
+   "It is time-consuming to make and difficult to reline",
+   "It cannot hold denture teeth",
+   "It always warps when heated"
+  ],
+  "answer": 1,
+  "explanation": "Correct: It is time-consuming to make and difficult to reline. (para 7.166)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.166",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ },
+ {
+  "id": "cdq-E-013",
+  "exam": "complete-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which wheel is used at low speed to finish the bulk polishing of a denture base?",
+  "options": [
+   "A coarse diamond disc",
+   "A rag wheel",
+   "A carbide fissure bur",
+   "A separating disc"
+  ],
+  "answer": 1,
+  "explanation": "Correct: A rag wheel. (para 7.147.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 7.147.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-07"
+  }
+ }
+]

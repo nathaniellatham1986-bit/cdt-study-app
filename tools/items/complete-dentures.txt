@@ -1,0 +1,313 @@
+# Complete Dentures — AFPAM 47-103 Vol 1 Chapter 7 (source 1.7:para)
+F|A|1.7:7.3.1|In complete dentures, what is an impression?|An accurate, negative likeness of a highly specific intraoral area.
+F|A|1.7:7.3.2|What is a cast?|A positive likeness poured from an impression.
+F|A|1.7:7.5.1|What are the denture-bearing areas of the maxillary arch?|The residual ridge and the hard palate.
+F|A|1.7:7.5.2|What are the denture-bearing areas of the mandible?|The residual ridge, the retromolar pads, and the buccal shelves.
+F|A|1.7:7.21.2|How soon should an alginate impression be poured?|Within 10 to 15 minutes after removal from the mouth.
+F|A|1.7:7.21.3|How is mucous film and debris removed from an impression before pouring?|With a gentle stream of body-temperature water.
+F|A|1.7:7.22.2|What should be used when pouring one gypsum material against another?|A proper separator, such as Super Sep.
+F|A|1.7:7.23.1|About how long after pouring should a cast be separated from the impression?|After the setting heat dissipates completely, about 45 minutes after pouring.
+F|A|1.7:7.23.2|How is a modeling plastic (compound) impression softened to separate the cast?|In a 140 degree Fahrenheit water bath until it softens.
+F|A|1.7:7.23.3|How long after final set should you wait before trimming a cast?|At least 2 hours.
+F|A|1.7:7.23.4|Why should you never trim a dry cast on a wet model trimmer?|Slushy debris from the wheel falls on the dry cast and sticks to it; rinse the cast in slurry water (saturated calcium sulfate dihydrate solution) first.
+F|A|1.7:7.23.6|How far should a maxillary cast extend beyond the pterygomaxillary notches, and a mandibular cast beyond the retromolar pads?|About 5 millimeters.
+F|A|1.7:7.23.6|How thick should a complete denture cast be at its thinnest area?|About 15 millimeters, or five-eighths of an inch.
+F|A|1.7:7.24.1|What are the two basic kinds of impression trays?|Prefabricated and custom.
+F|A|1.7:7.24.3|What material is used to make preliminary impressions?|Alginate.
+F|A|1.7:7.25.1|In the two-step method of pouring a diagnostic cast, what is poured first?|The anatomic portion first, then the base.
+F|A|1.7:7.25.2|How do you ensure a union between the two pours of a two-step cast?|Leave nodules and roughened peaks on the surface of the first pour.
+F|A|1.7:7.26.1|Why must an impression never be poured and then inverted onto a mound of gypsum?|The material settles toward the base while setting, leaving softer material toward the tissue surface.
+F|A|1.7:7.27.1|Why use a custom tray instead of a prefabricated tray?|A custom tray helps the dentist make a more accurate impression; prefabricated trays fit everyone moderately but no one perfectly.
+F|A|1.7:7.27.3|Name three ways of making custom trays.|The self-curing resin dough method, the vacuum method, and the light-cured material method.
+F|A|1.7:7.28.1|Before making a resin dough custom tray, what is done to the cast?|Fill undercuts with baseplate wax, then paint two layers of tinfoil substitute.
+F|A|1.7:7.29.3|At what angle to the cast base is a vacuum-formed tray handle positioned?|45 degrees.
+F|A|1.7:7.30.4|How is a light-cured custom tray cured?|Two minutes in the light-curing unit, then air barrier coating on all sides and 8 more minutes.
+F|A|1.7:7.31|Why do many dentists want a spaced custom tray?|To provide room for a controlled thickness of impression material.
+F|A|1.7:7.32|What is the purpose of boxing a final impression?|To confine the flow of stone when pouring the master cast.
+F|A|1.7:7.33.1.1|How far from the flange edges is the utility wax beading placed when boxing?|About 3 millimeters.
+F|A|1.7:7.33.1.2|How far above the impression should the boxing wall extend?|About 15 millimeters, or five-eighths of an inch.
+F|A|1.7:7.34.2.3|How wide is the land area trimmed around a plaster-pumice matrix?|6 millimeters.
+F|A|1.7:7.35.1|Which final impression material requires a separator before pouring the cast?|Impression plaster.
+F|A|1.7:7.35.2|How should stone be mixed to obtain a dense, accurate master cast?|Vacuum spatulate it.
+F|B|1.7:7.37|What is a record base with occlusion rim?|A base that accurately fits the cast plus an arch-shaped wax buildup that occupies the space of the missing teeth.
+F|B|1.7:7.38.1.2|What does the high lip line marked on the maxillary rim indicate?|The level to which the upper lip rises when the patient smiles.
+F|B|1.7:7.38.1.3|What do the canine lines on an occlusion rim represent?|The estimated long axes of the canines; the distance between them helps select the width of the six anterior teeth.
+F|B|1.7:7.38.2.4|How does the dentist know the correct occlusal vertical dimension has been reached with occlusion rims?|The S sound is distinct and the rims barely miss each other when it is spoken.
+F|B|1.7:7.39.4|Which material is preferred for record bases, and why?|Autopolymerizing resin, because it is stronger and more stable than light-cured material.
+F|B|1.7:7.39.5|How may a mandibular record base be reinforced?|With a U-shaped piece of coat hanger wire adapted to the lingual area.
+F|B|1.7:7.40.1.3|How is a sprinkle-on record base polymerized?|In a pressure pot with 110 degree Fahrenheit water at 15 pounds per square inch for 10 minutes.
+F|B|1.7:7.40.1.4|How thick should a finished record base be?|2 to 3 millimeters, thinned over the crest of the ridge.
+F|B|1.7:7.40.2.2|What polymer-to-monomer ratio is used for the bulk resin record base method?|2 to 1; for example, 20 cc of polymer to 10 cc of monomer.
+F|B|1.7:7.43|What material is most commonly used for occlusion rims?|Baseplate wax.
+F|B|1.7:7.45.1|What is the anterior height of a maxillary occlusion rim?|22 millimeters from the labial flange to the occlusal plane.
+F|B|1.7:7.45.2|What is the anterior height of a mandibular occlusion rim?|18 millimeters from the labial flange to the occlusal plane.
+F|G|1.7:7.46.1|What type of articulator is commonly used for removable prostheses?|A Hanau or similar semiadjustable articulator.
+F|G|1.7:7.49.2|What average horizontal condylar guidance is set on the Hanau H2?|30 degrees.
+F|G|1.7:7.49.3|What average lateral condylar guidance is set on the Hanau H2?|15 degrees.
+F|G|1.7:7.49.4|At what setting is the incisal guide table set during cast mounting?|0 degrees.
+F|G|1.7:7.47.2.1|What is a facebow?|A caliper-like device used to position the maxillary cast on the articulator the way the upper jaw relates to the temporomandibular joints.
+F|G|1.7:7.47.2.3|With a facebow mounting, how much can the occlusal vertical dimension be changed on the articulator without a new record?|Plus or minus 2 millimeters.
+F|G|1.7:7.47.2.4|Name parts of the facebow assembly.|The bow, jack clamp, jackscrew, slide bars and locks, facebow fork, and orbital pointer.
+F|G|1.7:7.47.1.3.2|Why coat mounting rings with petroleum jelly?|To protect them from corrosion and extend their usefulness.
+F|G|1.7:7.47.1.3.9|What is used to attach a cast to the mounting ring?|A slurry-accelerated mix of dental stone.
+F|G|1.7:7.50.2.1|How is horizontal condylar guidance set using the semiadjustable capability of the Hanau H2?|With a separate protrusive jaw relationship record, or checkbite.
+F|C|1.7:7.7.1|What is complete balance?|Simultaneous contact of maxillary and mandibular teeth on right and left, in the posterior and anterior occlusal areas, in centric and eccentric positions.
+F|C|1.7:7.7.2|What is a compensating curve?|An alignment of occluding surfaces and incisal edges along anteroposterior and lateral curves to develop complete balance in dentures.
+F|C|1.7:7.7.4|What phenomenon makes a compensating curve necessary?|Christensen's phenomenon: posterior teeth separate as the condyles move down the eminences in protrusion.
+F|C|1.7:7.8.1|In a completely balanced denture, how much vertical and horizontal overlap do the anterior teeth have in centric occlusion?|About 1 millimeter of each.
+F|C|1.7:7.14.1|In a nonbalanced monoplane denture, what is the anterior overlap in centric occlusion?|0 millimeters vertical and 1 to 2 millimeters horizontal.
+F|C|1.7:7.13|How are teeth arranged in a monoplane setup?|0-degree teeth set on a flat plane with no compensating curve.
+F|C|1.7:7.15.3|For which jaw relationships is monoplane occlusion the occlusion of choice?|Class II and Class III jaw relationships, and crossbite cases.
+F|C|1.7:7.16.3|What is a main disadvantage of monoplane dentures?|They tend to tip more than balanced dentures, because they lack protrusive balance.
+F|C|1.7:7.17|What is lingualized occlusion?|Cusped maxillary posterior teeth set against 0-degree or shallow-cusp mandibular posterior teeth.
+F|C|1.7:7.19.1|What is a main advantage of lingualized occlusion?|Maximized cutting efficiency with minimized lateral forces.
+F|C|1.7:7.52.2|How many teeth are in a full complement of denture teeth, and why?|28, because third molars are not used in complete dentures.
+F|C|1.7:7.53|Why do porcelain denture teeth need pins or diatorics?|Porcelain does not chemically bond to the acrylic resin denture base, so mechanical retention is needed.
+F|C|1.7:7.53.7|What is a diatoric?|A hole in the ridgelap of a posterior porcelain denture tooth that holds the tooth to the denture base.
+F|C|1.7:7.53.6|What is the ridgelap of a denture tooth?|The portion between the shut and the collar that laps over the ridge of the cast.
+F|C|1.7:7.53.5|What is the shut of an anterior porcelain denture tooth?|The part of the lingual surface where the pins are located.
+F|C|1.7:7.54|How are plastic denture teeth retained in the denture base?|They bond chemically with the denture base material.
+F|C|1.7:7.55.1.2|Why are porcelain teeth rarely used to oppose natural teeth?|Porcelain abrades natural tooth structure.
+F|C|1.7:7.55.2.2|What is the denture tooth material of choice to oppose natural teeth?|Plastic, because it does not abrade enamel.
+M|A|1.7:7.21.2|Within how many minutes after removal from the mouth should an alginate impression be poured?|10 to 15 minutes|1 to 2 hours;24 hours;45 to 60 minutes
+M|A|1.7:7.23.3|After a cast reaches final set, how long should you wait before trimming it?|At least 2 hours|5 minutes;At least 24 hours;No wait is needed
+M|A|1.7:7.23.6|How thick should a complete denture cast be at its thinnest area?|About 15 millimeters|About 5 millimeters;About 30 millimeters;About 2 millimeters
+M|A|1.7:7.23.2|At what water temperature is a modeling plastic impression softened before separating the cast?|140 degrees Fahrenheit|212 degrees Fahrenheit;70 degrees Fahrenheit;300 degrees Fahrenheit
+M|A|1.7:7.24.3|Which material is used to make preliminary impressions?|Alginate|Impression plaster;Zinc oxide eugenol paste;Modeling plastic
+M|A|1.7:7.26.1|Which method of pouring a diagnostic cast must never be used?|Pouring the impression and inverting it onto a mound of gypsum|The two-step method;The upright method;Using a vibrator to flow the first mix
+M|A|1.7:7.29.3|At what angle to the base of the cast is a vacuum-formed tray handle positioned?|45 degrees|90 degrees;10 degrees;Parallel to the base
+M|A|1.7:7.35.1|Which final impression material requires a separator before the master cast is poured?|Impression plaster|Polysulfide;Zinc oxide eugenol paste;Alginate
+M|A|1.7:7.33.1.1|When boxing a final impression, how far from the flange edges is the utility wax beading placed?|About 3 millimeters|About 15 millimeters;Directly on the flange edge;About 10 millimeters
+M|A|1.7:7.5.2|Which of these is a denture-bearing area of the mandible?|The buccal shelves|The hard palate;The vibrating line;The pterygomaxillary notch
+M|A|1.7:7.23.1|About how long after pouring should a cast be separated from its impression?|About 45 minutes|About 5 minutes;About 24 hours;About 3 days
+M|A|1.7:7.25.1|In the two-step method of pouring a diagnostic cast, which part is poured first?|The anatomic portion|The base;The land area;Both at once
+M|A|1.7:7.27.1|What is the main advantage of a custom impression tray over a prefabricated tray?|It helps the dentist make a more accurate impression|It requires no diagnostic cast;It is the only tray that can hold alginate;It never needs a handle
+M|A|1.7:7.30.4|After the first 2 minutes of light curing a custom tray and coating it with air barrier, how much longer is it cured?|8 minutes|30 seconds;1 hour;No additional cure
+M|B|1.7:7.45.1|What is the anterior height of a maxillary occlusion rim, from the labial flange to the occlusal plane?|22 millimeters|18 millimeters;12 millimeters;30 millimeters
+M|B|1.7:7.45.2|What is the anterior height of a mandibular occlusion rim, from the labial flange to the occlusal plane?|18 millimeters|22 millimeters;10 millimeters;28 millimeters
+M|B|1.7:7.39.4|Which record base material is preferred because it is stronger and more stable?|Autopolymerizing resin|Light-cured material;Baseplate wax;Shellac
+M|B|1.7:7.43|Which material is most commonly used to make occlusion rims?|Baseplate wax|Inlay wax;Dental stone;Utility wax
+M|B|1.7:7.38.2.4|When determining occlusal vertical dimension with occlusion rims, which speech sound does the dentist use?|The S sound|The M sound;The F sound;The TH sound
+M|B|1.7:7.40.1.4|How thick should a finished record base be, except over the ridge crest?|2 to 3 millimeters|0.5 millimeter;6 to 8 millimeters;10 millimeters
+M|B|1.7:7.38.1.2|What does the high lip line on the maxillary occlusion rim indicate?|How high the upper lip rises when the patient smiles|The center of the face;The long axis of the canine;The occlusal plane
+M|G|1.7:7.49.2|What average horizontal condylar guidance is set on a Hanau H2 used as a fixed-guide instrument?|30 degrees|15 degrees;0 degrees;45 degrees
+M|G|1.7:7.49.3|What average lateral condylar guidance is set on a Hanau H2?|15 degrees|30 degrees;0 degrees;45 degrees
+M|G|1.7:7.49.4|During cast mounting, what is the incisal guide table set to?|0 degrees|15 degrees;30 degrees;45 degrees
+M|G|1.7:7.47.2.1|What device records how the maxilla relates to the temporomandibular joints, so the maxillary cast can be mounted the same way?|A facebow|A surveyor;A boley gauge;A rim former
+M|G|1.7:7.47.2.3|With a facebow mounting, by how much can the occlusal vertical dimension be changed on the articulator without a new jaw record?|Plus or minus 2 millimeters|Plus or minus 10 millimeters;It cannot be changed at all;Plus or minus 20 millimeters
+M|G|1.7:7.50.2.1|What record is used to set the horizontal condylar guidance on a semiadjustable articulator?|A protrusive record, or checkbite|A centric relation record only;A preliminary alginate impression;A shade guide
+M|C|1.7:7.7.4|Which phenomenon makes a compensating curve necessary in balanced complete dentures?|Christensen's phenomenon|Bennett movement;Curve of Wilson;Angle's classification
+M|C|1.7:7.15.3|Which denture occlusion is the occlusion of choice for crossbite cases and Class II or Class III jaw relationships?|Monoplane|Completely balanced with 33-degree teeth;Canine-guided;Group function with cusped teeth
+M|C|1.7:7.17|Lingualized occlusion uses cusped maxillary posterior teeth set against which mandibular teeth?|0-degree or shallow-cusp posterior teeth|Porcelain anterior teeth;33-degree cusped teeth only;No mandibular posterior teeth
+M|C|1.7:7.52.2|How many teeth are in a full complement of denture teeth?|28|32;20;24
+M|C|1.7:7.53.7|What is a diatoric?|A retention hole in the ridgelap of a posterior porcelain denture tooth|A raised identification dot;The lingual finish line;The neck of a plastic tooth
+M|C|1.7:7.55.2.2|Which denture tooth material is the material of choice to oppose natural teeth?|Plastic|Porcelain;Base metal alloy;Gold
+M|C|1.7:7.14.1|In a nonbalanced monoplane denture, how much vertical overlap do the anterior teeth have in centric occlusion?|0 millimeters|3 millimeters;5 millimeters;1 centimeter
+M|C|1.7:7.16.3|Why do monoplane dentures tend to tip more than balanced dentures?|They lack protrusive balance|They use porcelain teeth;They have too much vertical overlap;They use a steep compensating curve
+F|C|1.7:7.56.2|What is the best pre-extraction record of a patient's original teeth?|A plaster cast of the patient's dental arch made before the teeth were extracted.
+F|C|1.7:7.57.2|According to the face-form theory, what does an inverted maxillary central incisor resemble?|The shape of the patient's face, in profile and frontal view.
+F|C|1.7:7.57.2.8|Which face forms are usually associated with males?|The square, tapering, and square tapering forms; the softer ovoid subgroups are considered more feminine.
+F|C|1.7:7.57.3|What mainly determines the color choice for denture teeth?|The patient's age.
+F|C|1.7:7.60.2.2|Why are 20-degree posterior denture teeth popular?|They cause less lateral denture-displacing force than 30-degree teeth and look better than 0-degree teeth.
+F|C|1.7:7.60.3|How is the posterior denture tooth shade usually chosen relative to the anteriors?|About one shade darker than the anterior teeth.
+F|C|1.7:7.61.3|What does a posterior mold code like 30L mean?|The four maxillary posterior teeth on one side measure 30 millimeters mesiodistally, and the L indicates long teeth.
+F|C|1.7:7.63.8|Which anatomic landmark is an excellent guide to the facial midline, and which should not be used?|The incisive papilla is an excellent guide; the maxillary labial frenum is unreliable.
+F|C|1.7:7.63.9|Where should the posterior end of the occlusal plane fall?|Two-thirds of the way up the retromolar pad on both sides.
+F|C|1.7:7.64.2.1.3|Where should the central grooves of the maxillary posterior teeth be positioned?|Centered over the crest of the mandibular ridge.
+F|C|1.7:7.64.3.3|Are denture teeth set on the maxillary tuberosities?|No. Denture teeth are not set on tuberosities.
+F|C|1.7:7.64.4.1|Are denture teeth ever set on the retromolar pad?|No. Denture teeth must never be set on a retromolar pad.
+F|C|1.7:7.65.1|What is the most popular tooth-setting sequence?|Maxillary anteriors, maxillary posteriors, mandibular posteriors, then mandibular anteriors; mandibular first premolars last.
+F|C|1.7:7.66|What is one solution when interarch space is limited?|Use plastic denture teeth, and if needed, cut out the interfering part of the record base.
+F|C|1.7:7.67.1|What are other names for the basic maxillary anterior arrangement?|The symmetrical arrangement or silver-dollar setup.
+F|C|1.7:7.67.3|What is the main reason the silver-dollar setup is made?|As a point of departure; teeth are then moved into more natural, characterized positions.
+F|C|1.7:7.73.1|How can maxillary incisors be modified for a more feminine appearance?|Round their mesial and distal corners.
+F|C|1.7:7.75.2.2|In a vigorous arrangement, where is the maxillary lateral incisor's incisal edge placed, and what does it suggest?|On the same plane as the central incisor; it suggests masculinity and old age.
+F|C|1.7:7.75.3.2|In a softened arrangement, where is the lateral incisor's incisal edge placed?|Raised above the plane of the central incisor, which is also a youthful characteristic.
+F|C|1.7:7.77.1|What space is recommended between the maxillary canine and first premolar when setting cusped posteriors?|About 0.5 millimeter.
+F|C|1.7:7.79.1.2|What horizontal overlap is acceptable for Class I ridge relations in a balanced setup?|Between 1 and 2 millimeters.
+F|C|1.7:7.78.7.3|Does the mandibular first premolar have a balancing contact in a balancing excursion?|No.
+F|C|1.7:7.86.2|In a monoplane setup, how much horizontal overlap is typical for Class I and Class II?|Class I about 1 millimeter; Class II 5 millimeters or more.
+F|C|1.7:7.87.1|What problem do monoplane mandibular dentures have in protrusive contact?|Their heels tend to flip up, because there is no protrusive balance.
+F|C|1.7:7.88.2|What is a posterior crossbite?|The normal buccolingual relationship of mandibular to maxillary posterior teeth is reversed.
+F|C|1.7:7.89.2|Besides natural crossbite, what can cause edentulous ridges to be in crossbite?|Drastic resorption of the maxillary and mandibular arches.
+F|C|1.7:7.91.1.1|What is a quadrant reversal arrangement?|For crossbite cases, maxillary left posterior teeth are set on the mandibular right side, and so on, so the teeth fit the reversed relationship.
+F|C|1.7:7.94.4|What are advantages of lingualized occlusion?|It suits most cases including Class II and III, uses esthetic cusped maxillary teeth, maximizes cutting efficiency with minimal lateral force, and readily gives bilateral balance.
+M|C|1.7:7.63.8|Which anatomic landmark is an excellent guide to the midline of the face when setting anterior teeth?|The incisive papilla|The maxillary labial frenum;The retromolar pad;The tuberosity
+M|C|1.7:7.63.9|Where should the posterior end of the occlusal plane fall on the retromolar pad?|Two-thirds of the way up the pad|At the anterior border of the pad;Above the top of the pad;Beyond the posterior border
+M|C|1.7:7.64.4.1|Which statement about the retromolar pad is correct?|Denture teeth must never be set on it|It is the preferred place to set second molars;It is used as the facial midline;It is always removed from the cast
+M|C|1.7:7.65.1|In the most popular tooth-setting sequence, which teeth are set last?|The mandibular first premolars|The maxillary central incisors;The maxillary second molars;The mandibular first molars
+M|C|1.7:7.67.1|What is another name for the basic, symmetrical maxillary anterior arrangement?|The silver-dollar setup|The vigorous arrangement;The quadrant reversal;The crowded arrangement
+M|C|1.7:7.60.3|Compared with the anterior teeth, what shade are posterior denture teeth usually chosen?|About one shade darker|Two shades lighter;Exactly the same shade always;Pure white
+M|C|1.7:7.60.2.2|Why are 20-degree posterior denture teeth popular?|They cause less lateral force than 30-degree teeth and look better than 0-degree teeth|They have the steepest cusps available;They never need a compensating curve;They are only made in porcelain
+M|C|1.7:7.75.2.2|Setting the maxillary lateral incisor's incisal edge on the same plane as the central incisor suggests what?|Masculinity and old age|Youth and femininity;A crossbite;A Class III jaw relationship
+M|C|1.7:7.57.3|What is color choice for denture teeth mainly a function of?|The patient's age|The patient's ridge shape;The articulator type;The denture base resin brand
+M|C|1.7:7.88.2|What is a posterior crossbite?|The normal buccolingual relationship of mandibular to maxillary posterior teeth is reversed|The anterior teeth have no vertical overlap;The molars are set on the retromolar pad;The upper midline is shifted to one side
+M|C|1.7:7.79.1.2|In a balanced setup with Class I ridges, what horizontal overlap is acceptable?|1 to 2 millimeters|5 to 7 millimeters;0 millimeters;10 millimeters
+M|C|1.7:7.87.1|In monoplane mandibular dentures, what tends to happen when the anterior teeth meet in protrusive contact?|The heels tend to flip up|The anterior teeth fracture;The denture locks in place;The condyles stop moving
+M|C|1.7:7.77.1|What space is recommended between the distal of the maxillary canine and the mesial of the first premolar when setting cusped posteriors?|0.5 millimeter|5 millimeters;No space at all;3 millimeters
+F|C|1.7:7.96.4|In a lingualized setup, why is vertical overlap kept to about 1 millimeter?|More than 1 millimeter may jeopardize balance in excursions and dislodge the denture.
+F|C|1.7:7.96.7.2|In lingualized occlusion, what is done with the maxillary buccal (shearing) cusps?|They are raised about 1 millimeter so they never contact the mandibular teeth.
+F|D|1.7:7.99.1|What is a denture wax-up?|A wax pattern around the tooth arrangement that simulates the soft tissues attached to the teeth, alveolar processes, and palate.
+F|D|1.7:7.100.2.1.2|How thick should wax be over the collars of the teeth during bulk waxing?|1.5 to 2 millimeters.
+F|D|1.7:7.100.3|What must the interdental papillae do in gingival trimming?|Extend to the area of tooth contact, fill the gingival embrasure, and be convex in all directions, to avoid food traps.
+F|D|1.7:7.100.3.1|At what angle is the carver held for the facial gingival trim?|About 45 degrees to the horizontal.
+F|D|1.7:7.100.4.2.1.1|Which maxillary anterior tooth has the longest, most prominent root eminence, and which the shortest?|The canine is longest and most prominent; the lateral incisor is shortest.
+F|D|1.7:7.100.4.3.1|Why are labial flanges made slightly concave?|To accommodate the natural drape of the orbicularis oris muscle.
+F|D|1.7:7.100.4.3.2|Why are buccal flanges made concave?|To allow for the natural drape of the buccinator muscle.
+F|D|1.7:7.101.1.2.1|What is a posterior palatal seal?|A feature in a maxillary denture that offsets processing changes in the acrylic and improves retention.
+F|D|1.7:7.101.1.2.4|Where is the posterior border of a maxillary denture determined?|At the vibrating line marked on the cast by the dentist.
+F|D|1.7:7.101.1.5|Why must the palatal vault of a denture have a uniform, not excessive, thickness?|The patient's speech is affected if the palatal vault is too thick.
+F|D|1.7:7.101.1.7.2|What gingival trim is used for young patients?|A half-circle gingival trim; the form changes with age.
+F|D|1.7:7.101.1.9|Why is stippling added to a denture base?|To break up large reflective surfaces so the base looks more natural.
+F|D|1.7:7.103|What is a flask?|A metal or microwave-safe plastic case used to make sectional molds for processing acrylic resin denture bases.
+F|D|1.7:7.104.1.3|In how many steps is compression flasking done?|Three: lower half flasking, upper half flasking, and the cap.
+F|D|1.7:7.104.2.1.1|How much clearance should there be between the base of the cast and the sides of the flask?|At least 6 millimeters.
+F|D|1.7:7.104.4|How long should the stone in a flask harden before wax elimination?|At least 1 hour.
+F|D|1.7:7.104.5.3|How thick is silicone insulating paste applied over the wax-up?|About 1 to 2 millimeters.
+F|D|1.7:7.105.2.2.3|How many injection channels does a mandibular complete denture need for injection molding?|Two.
+F|D|1.7:7.107.1.2|What are the three boil-out tanks used for?|The first softens and removes bulk wax, the second is a detergent rinse, and the third is a clean hot water flush.
+F|D|1.7:7.107.2.1|How long is a flask placed in boiling water to soften the wax?|About 5 minutes.
+F|D|1.7:7.109.1|Is a posterior palatal seal recommended for injection molded processing?|No.
+F|D|1.7:7.109.4.1|Why is the gypsum mold sealed with a separator before packing resin?|Plaster and stone absorb fluid; sealing prevents monomer from soaking into the mold.
+F|D|1.7:7.109.4.4|What renders tinfoil substitute useless?|Contamination with gypsum particles; never dip a used brush into the bulk supply.
+F|D|1.7:7.112.1|What simulates blood vessels in denture base resin?|Red nylon fibers.
+F|D|1.7:7.113.2.7|How long should tinting set before packing?|About 20 minutes, in a covered container with a monomer-moistened cotton roll.
+F|D|1.7:7.114|What is the principal resin used for denture bases?|Polymethyl methacrylate.
+F|D|1.7:7.115.1|What is the reaction that turns acrylic resin dough into solid plastic called?|Polymerization.
+F|D|1.7:7.115.3|What are other names for chemically activated acrylic resin?|Self-curing, cold-curing, or autopolymerizing resin.
+F|D|1.7:7.116.2|Without manufacturer's instructions, what monomer-to-polymer ratio is used for heat-curing resin?|One part monomer to three parts polymer by volume, for example 10 cc to 30 cc.
+F|D|1.7:7.116.4|When mixing acrylic resin, is powder added to liquid or liquid to powder?|Always add the powder to the liquid, to reduce entrapped air.
+F|D|1.7:7.116.6|What happens if acrylic is packed at the sandy or stringy stage?|It lacks body and flows too readily from the mold.
+F|D|1.7:7.117.2|How is resin dough prepared for packing?|Roll it into a 1-inch sausage to align the fibers, then flatten it into a 3 millimeter slab between packing sheets.
+F|D|1.7:7.117.4|What is the goal of trial packing?|A densely filled mold with metal-to-metal contact between the flask halves.
+F|D|1.7:7.118.2.1|How thick is a silicone putty spacer for a soft liner?|About 2 millimeters.
+F|D|1.7:7.119.1|To what temperature must heat-curing acrylic be heated before polymerization begins?|At least 158 degrees Fahrenheit.
+F|D|1.7:7.119.2.1.1|What is the long-cure cycle for heat-curing denture resin?|Heat slowly to 160 degrees Fahrenheit and hold for 8 hours.
+F|D|1.7:7.119.1|What happens if denture resin not made for microwave processing is microwaved?|The acrylic will be porous in the thickest areas.
+F|D|1.7:7.119.2.5|Why should processed flasks be cooled slowly?|Dimensional change in the processed denture is smaller.
+F|D|1.7:7.120.2|What is a key feature of injection molding of denture resin?|The resin stays under constant pressure, feeding material into the mold as it polymerizes.
+M|D|1.7:7.116.2|Without manufacturer's instructions, what monomer-to-polymer ratio by volume is used for heat-curing denture resin?|1 part monomer to 3 parts polymer|3 parts monomer to 1 part polymer;Equal parts;1 part monomer to 10 parts polymer
+M|D|1.7:7.119.1|To what minimum temperature must heat-curing acrylic resin be heated before polymerization begins?|158 degrees Fahrenheit|98 degrees Fahrenheit;300 degrees Fahrenheit;120 degrees Fahrenheit
+M|D|1.7:7.119.2.1.1|In the long-cure method, at what temperature and for how long is a denture processed?|160 degrees Fahrenheit for 8 hours|212 degrees Fahrenheit for 10 minutes;100 degrees Fahrenheit for 1 hour;300 degrees Fahrenheit for 30 minutes
+M|D|1.7:7.116.4|When mixing acrylic resin, how are the components combined?|Add the powder to the liquid|Add the liquid to the powder;Mix them dry, then add water;Heat the powder first
+M|D|1.7:7.104.4|How long should the stone in a flask harden before wax elimination?|At least 1 hour|5 minutes;At least 24 hours;No waiting is needed
+M|D|1.7:7.107.2.1|How long is a flask placed in boiling water to soften the wax before opening?|About 5 minutes|About 1 hour;About 30 seconds;About 8 hours
+M|D|1.7:7.114|What is the principal resin used for denture bases?|Polymethyl methacrylate|Polycarbonate;Polyether;Bis-GMA composite
+M|D|1.7:7.112.1|What simulates fine blood vessels in denture base resin?|Red nylon fibers|Red wax;Brown stain only;Metal inserts
+M|D|1.7:7.109.1|For which processing method is a posterior palatal seal not recommended?|Injection molding|Compression molding with heat curing;All processing methods;Long-cure processing
+M|D|1.7:7.119.1|What happens if a denture resin not designed for microwave processing is microwaved?|It becomes porous in the thickest areas|It cures perfectly in half the time;It turns pink;It bonds better to teeth
+M|D|1.7:7.101.1.2.1|What feature is added to a maxillary denture to offset processing changes and improve retention?|A posterior palatal seal|A diatoric;A lingual bar;An occlusal rest
+M|D|1.7:7.100.4.3.1|Why are labial denture flanges made slightly concave?|To accommodate the drape of the orbicularis oris muscle|To make room for the tongue;To cover the retromolar pad;To increase thickness for strength
+M|D|1.7:7.109.4.1|Why is the stone mold sealed with separator before packing acrylic?|To keep monomer from soaking into the mold|To make the stone set faster;To color the denture base;To raise the curing temperature
+M|D|1.7:7.104.2.1.1|What minimum clearance should there be between the base of the cast and the sides of the flask?|6 millimeters|0.5 millimeter;30 millimeters;None, it should touch
+M|D|1.7:7.117.4|What is the objective of trial packing a denture flask?|A densely filled mold with metal-to-metal contact between the flask halves|Curing the resin completely;Removing all the denture teeth;Thinning the palate
+M|D|1.7:7.119.2.5|Why is slow cooling of processed flasks recommended?|It reduces dimensional change in the denture|It makes the resin pinker;It speeds up deflasking;It removes residual monomer completely
+M|D|1.7:7.105.2.2.3|How many injection channels are needed when injection-molding a mandibular complete denture?|Two|One;Four;None
+F|D|1.7:7.122.7|In injection molding, at what temperature is the flask polymerized and for how long?|In a 212 degree Fahrenheit bath for 35 minutes.
+F|D|1.7:7.123.2|What is the mixing ratio for pour (fluid) denture resin?|2.5 cc of polymer to 1 cc of monomer.
+F|D|1.7:7.124.4|How is a poured resin denture processed in the pressure pot?|At 20 pounds of air pressure for 30 minutes, in water of 100 to 120 degrees Fahrenheit.
+F|D|1.7:7.125.1.2|What identification must every completed removable prosthesis carry, per the manual?|The patient's Social Security number, embedded in the base.
+F|D|1.7:7.126|What is the objective of deflasking?|Remove the denture from the investment without breaking it or dislodging it from the cast.
+F|D|1.7:7.128.4|After deflasking, where should the denture be?|Still firmly seated on its cast, so it can be remounted.
+F|D|1.7:7.129.1|What is the most typical processing change in compression-molded, heat-cured dentures?|An increase in the occlusal vertical dimension.
+F|D|1.7:7.130.3|When remounting a denture cast with modeling plastic, why is part of the junction line left uncovered?|To detect whether the cast separates from the mounting.
+F|D|1.7:7.131.1|What is the objective of selective grinding of balanced complete dentures?|To eliminate premature contacts that prevent multiple, well-distributed contacts.
+F|D|1.7:7.134.3|What incisal pin opening is the limit of reasonable acceptability after processing a set of complete dentures?|About 1 millimeter.
+F|D|1.7:7.136|When correcting protrusive interferences, what must not be reduced?|The heights of the cusps; grind the inclines instead.
+F|D|1.7:7.138|What is milling-in?|Covering the occlusal surfaces with abrasive paste and moving the teeth in contact to rub off small remaining interferences.
+F|D|1.7:7.139.3|When grinding monoplane dentures, which arch is flattened first?|The mandibular arch, which is nearly flat already.
+F|D|1.7:7.140.1|What is a remounting index?|A permanent stone record of the facebow transfer, used to remount the maxillary denture later.
+F|E|1.7:7.145|Why is a processed denture not pried off its master cast?|Most dentures are undercut, so prying breaks or distorts them; the cast is cut away instead.
+F|E|1.7:7.145.1|What equipment is used to recover a denture from its cast, in order?|Plaster saw, pneumatic chisel, shell blaster, and sodium citrate or stone-remover solution.
+F|E|1.7:7.145.2.4|What does a shell blaster use?|A high-pressure jet of walnut shell particles.
+F|E|1.7:7.146|What is finishing a denture?|Contouring the denture to the desired shape and thickness.
+F|E|1.7:7.146.1|Where must abrasives never be applied unless the dentist directs it?|On the tissue surfaces of the denture.
+F|E|1.7:7.147|What does polishing a denture do?|Removes all scratches and gives a glossy finish, so the denture collects less debris.
+F|E|1.7:7.147.1|Is a highly reflective, mirror-like denture base finish desirable?|No.
+F|E|1.7:7.147.2|How are acrylic denture teeth protected during polishing?|Cover their facial and lingual surfaces with adhesive tape.
+F|E|1.7:7.147.5|What wheel completes the bulk polishing of the denture base?|A rag wheel at low speed.
+F|E|1.7:7.147.8|What polishing agent follows pumice?|Tripoli, on a separate set of wheels and brushes.
+F|E|1.7:7.147.9|What is used for the final denture polish?|A soft, dry rag wheel with a commercial polishing compound made for acrylic.
+F|E|1.7:7.148|Why are finished dentures stored in a moist denture bag?|To keep the acrylic from drying out, which causes dimensional change and warping.
+F|E|1.7:7.149.2|Name causes of porosity in processed denture resin.|Insufficient mold pressure, packing too early, improper cure temperature or time, wrong monomer amount, and excessive thickness.
+F|E|1.7:7.149.4|What causes grainy-appearing denture resin?|Too little monomer to wet the powder, or letting a packed case stand too long before curing.
+F|E|1.7:7.149.5|What causes craze or check lines in acrylic resin?|Contact with a highly volatile solvent such as acetone.
+F|E|1.7:7.149.6.1|What can cause streaks in a denture base?|Dirt and oils from bare hands, poor mixing, flaking separator, dry resin crusts, or poor staining technique.
+F|E|1.7:7.149.1|Name causes of excessive tooth movement and incisal pin opening after processing.|No metal-to-metal flask contact, excessive packing pressure, plaster instead of stone in the flask, or adding resin after trial packing.
+F|E|1.7:7.149.3|Name causes of fractured denture teeth during processing.|Packing stiff dough, grinding porcelain teeth with a coarse wheel, fast packing pressure, teeth touching the cast, or misplacing dislodged teeth.
+F|C|1.7:7.153|What denture teeth are used to oppose natural teeth?|Plastic cusped teeth.
+F|C|1.7:7.155.1|What is an immediate denture?|A denture made before all natural teeth are extracted and inserted immediately after the last extraction.
+F|C|1.7:7.157.2|When is ridge resorption greatest after extractions?|In the first 2 months; it slows to a gradual rate after a year.
+F|C|1.7:7.161.2.6.3|How deep is the facial root area excavated on an immediate denture cast?|Just enough for the denture tooth collar, 1.5 millimeters maximum.
+F|C|1.7:7.162.2.4|Is stippling recommended on immediate dentures?|No; if used, it should be the positive, blow-on type.
+F|G|1.7:7.164|What metals are cast metal denture bases usually made of?|Chrome or an aluminum alloy.
+F|G|1.7:7.165|Who are cast metal denture bases mainly for?|Patients who repeatedly fracture their dentures in normal function.
+M|D|1.7:7.129.1|What is the most typical processing change in compression-molded, heat-cured dentures?|An increase in occlusal vertical dimension|A decrease in occlusal vertical dimension;A change of shade;Loss of all denture teeth
+M|D|1.7:7.134.3|After processing a set of complete dentures, what incisal pin opening is the limit of reasonable acceptability?|1 millimeter|5 millimeters;0.01 millimeter;10 millimeters
+M|D|1.7:7.136|When correcting protrusive interferences by selective grinding, what should you avoid?|Reducing the heights of the cusps|Grinding the inclines;Using articulating paper;Checking the incisal pin
+M|D|1.7:7.123.2|What is the mixing ratio for pour-type denture resin?|2.5 cc polymer to 1 cc monomer|1 cc polymer to 3 cc monomer;10 cc polymer to 1 cc monomer;Equal parts
+M|D|1.7:7.122.7|In the injection molding technique described, the flask is polymerized in a bath at what temperature?|212 degrees Fahrenheit|160 degrees Fahrenheit;98 degrees Fahrenheit;300 degrees Fahrenheit
+M|D|1.7:7.138|What is the process of rubbing off small remaining interferences with abrasive paste called?|Milling-in|Festooning;Stippling;Boxing
+M|E|1.7:7.149.5|What causes craze or check lines in acrylic resin?|Contact with a volatile solvent such as acetone|Too much pumice;Slow flask cooling;Using red fibers
+M|E|1.7:7.146.1|Where must abrasives never be applied unless the dentist directs it?|The tissue surface of the denture|The denture borders;The labial flange;The palatal polished surface
+M|E|1.7:7.147.1|What denture base finish is described as not desirable?|A highly reflective, mirror-like finish|A smooth glossy finish;A stippled finish;A finish free of scratches
+M|E|1.7:7.148|Why are finished dentures placed in a moist denture bag?|To prevent drying, dimensional change, and warping|To speed up polymerization;To bleach the denture teeth;To soften the denture base
+M|E|1.7:7.147.8|Which polishing agent follows pumice in the denture polishing sequence?|Tripoli|Coarse garnet;Sandpaper;Walnut shells
+M|E|1.7:7.145.2.4|What does a shell blaster blow?|Walnut shell particles|Aluminum oxide;Glass beads;Pumice slurry
+M|E|1.7:7.149.4|What is a cause of grainy-appearing denture resin?|Insufficient monomer to wet all the powder|Using a rag wheel;Slow cooling;Too much tin foil substitute
+M|E|1.7:7.149.2|Which of these can cause porosity in a processed denture?|Packing the resin dough before it is ready|Cooling the flask slowly;Using dental stone in the flask;Polishing with tripoli
+M|E|1.7:7.145|Why is a processed denture removed by cutting away the master cast instead of prying it off?|Most dentures are undercut and would break or distort|The cast is needed again for the next patient;Prying is faster but too noisy;The cast is made of metal
+M|E|1.7:7.147.2|How are acrylic denture teeth protected from abrasives during polishing?|Their facial and lingual surfaces are covered with adhesive tape|They are removed from the denture;They are painted with separator;They are coated with wax only
+M|E|1.7:7.149.3|Which practice can fracture denture teeth during processing?|Setting denture teeth in direct contact with the cast|Using a tinfoil substitute;Cooling the flask slowly;Packing at the dough stage
+M|E|1.7:7.149.1|Which error can cause excessive tooth movement and incisal pin opening after processing?|Failing to get metal-to-metal contact when the flask is closed|Polishing with tripoli;Using red nylon fibers;Bench cooling the flask
+M|C|1.7:7.153|Which denture teeth are used to oppose natural teeth?|Plastic, cusped teeth|Porcelain 0-degree teeth;Porcelain 33-degree teeth;Metal occlusal teeth only
+M|C|1.7:7.157.2|When is bone resorption usually greatest after tooth extractions?|In the first 2 months|After 5 years;Only after the first year;It never resorbs
+M|C|1.7:7.155.1|What is an immediate denture?|A denture inserted right after the last extraction, made before all teeth are removed|A denture made in one hour;A denture relined chairside;A temporary acrylic crown
+F|F|1.7:7.169|What is an overdenture (tooth-supported denture)?|A denture that fits over natural teeth cut down near the gum line and left in the bone to slow ridge resorption.
+F|F|1.7:7.170|How can an overdenture base be strengthened?|With high-impact resin, alternative packing techniques, or a cast metal base.
+F|F|1.7:7.173.2.2|What must be done with a broken acrylic tooth before repair?|It must be completely drilled out, since its original seat is usually destroyed.
+F|F|1.7:7.174.2|How do you find the mold of a lost denture tooth?|From the mold number imprinted in the ridgelap area of the denture base.
+F|F|1.7:7.174.3.1.1|How is a replacement plastic tooth prepared for retention?|Roughen the ridgelap and cut a small diatoric into it.
+F|F|1.7:7.174.3.1.4|What holds a replacement tooth in position during a tooth repair?|A labial stone matrix.
+F|F|1.7:7.174.4.1|How is autopolymerizing repair resin applied in a tooth repair?|Alternately wet with monomer and sprinkle polymer until slightly higher than the surrounding base.
+F|F|1.7:7.174.4.2|In a pressure pot repair, what do water and warm water do?|Immersion in water slows monomer evaporation; warm water speeds polymerization.
+F|F|1.7:7.175.2|Why did flasking for repairs fall out of use?|Heat processing often warped the denture base by releasing stresses; self-curing resins replaced it.
+F|F|1.7:7.176|What three conditions must be met for any denture base repair to succeed?|The parts are perfectly clean, assembled with total accuracy, and kept immobile while the resin cures.
+F|F|1.7:7.177.1|What is a simple denture base fracture?|One where there is no doubt how the pieces fit together.
+F|F|1.7:7.177.2|What is a complex denture base fracture?|One where the pieces cannot be fit together precisely, or fragments are lost.
+F|F|1.7:7.178.2|What reinforces a broken denture across the fracture line before the cast is poured?|Two or more old burs or pieces of coat hanger wire stuck across the fracture.
+F|F|1.7:7.178.4|How far beyond the fracture line is tinfoil substitute applied on the repair cast?|At least 8 millimeters in all directions.
+F|F|1.7:7.178.5|Why are fracture edges rabbeted and beveled?|To increase the bonding area between old and new acrylic.
+F|F|1.7:7.178.10|Without directions, what water temperature is used in the pressure pot for a repair?|About 110 degrees Fahrenheit.
+F|F|1.7:7.178.9|What two methods add self-curing repair resin to a fractured denture?|The dough method and the sprinkle method.
+F|F|1.7:7.180.1|What is a reline?|Resurfacing the tissue side of a denture with new base material so it fits more accurately.
+F|F|1.7:7.180.3|What two reline methods does the manual describe?|The jig method and the flask method.
+F|F|1.7:7.181|Before a reline impression, how much does the dentist usually reduce the flanges?|Uniformly about 2 millimeters, after grinding out tissue undercuts.
+F|F|1.7:7.182.5.3|Why is the tissue surface of a denture roughened before a reline?|To improve the bond between the old base and the new resin.
+F|F|1.7:7.182.6.1|What powder-to-liquid ratio is used for self-curing reline resin in the jig method?|Two parts powder to one part liquid.
+F|F|1.7:7.182.8|How is a jig reline cured?|In a pressure pot with lukewarm 110 degree water, at least 15 pounds per square inch for at least 10 minutes.
+F|F|1.7:7.183.2|In the flask reline method, how is the impression material softened?|Place the flask in boiling water for 4 minutes.
+F|F|1.7:7.184|What is rebasing a denture?|Refitting it with a corrective impression and replacing all of the denture base material with new resin.
+F|F|1.7:7.185.3.1|Why are porcelain teeth heated slowly when removing them for a rebase?|Rapid heating will crack the teeth.
+F|F|1.7:7.185.3.2|Is heat used to remove plastic teeth from an old denture base?|No; acrylic teeth are separated without heat.
+F|F|1.7:7.187|What is a duplicate denture?|A spare copy of a complete denture, for when the original is lost or being repaired.
+F|F|1.7:7.188|What impression material is used for the denture-flask duplicate denture method?|Alginate, held in a modified mandibular denture flask.
+M|F|1.7:7.176|Which is a required condition for success in any denture base repair?|The parts are kept absolutely immobile while the resin cures|The repair is always heat cured;The fragments are left unbeveled;The cast is made of plaster
+M|F|1.7:7.177.1|A denture broken into pieces that clearly fit together in one way is what kind of fracture?|Simple|Complex;Compound;Partial
+M|F|1.7:7.178.5|Why are the fracture edges rabbeted and beveled before a denture repair?|To increase the bonding area between old and new acrylic|To make the denture lighter;To remove the denture teeth;To speed up curing
+M|F|1.7:7.178.4|How far beyond the fracture line should tinfoil substitute be applied on the repair cast?|At least 8 millimeters|0.5 millimeter;Only on the fracture line;30 millimeters
+M|F|1.7:7.180.1|What is a reline?|Resurfacing the tissue side of a denture with new base material|Replacing all denture teeth;Polishing the denture base;Making a spare denture
+M|F|1.7:7.184|What is rebasing a denture?|Replacing all of the denture base material with new resin while keeping the teeth|Adding resin to the tissue surface only;Replacing a single tooth;Grinding the occlusion
+M|F|1.7:7.182.6.1|What powder-to-liquid ratio does the manual give for self-curing resin in a jig reline?|2 parts powder to 1 part liquid|1 part powder to 3 parts liquid;10 parts powder to 1 part liquid;Equal parts
+M|F|1.7:7.185.3.1|Why must porcelain teeth be heated slowly when removing them for a rebase?|Rapid heating will crack the teeth|Slow heating colors the teeth;Fast heating melts the porcelain;It keeps the cast wet
+M|F|1.7:7.174.2|Where is the mold number of a lost denture tooth found?|In the ridgelap imprint in the denture base|On the patient's chart only;Under the denture flange;On the articulator
+M|F|1.7:7.175.2|Why are denture base repairs no longer usually done by flasking with heat cure?|Heat processing often warped the denture base|It was too cheap;Self-curing resins are weaker;Flasks are no longer made
+M|F|1.7:7.174.3.1.1|What is cut into a plastic replacement tooth for added retention?|A small diatoric|A posterior palatal seal;A rabbet joint on the incisal edge;A vent sprue
+M|F|1.7:7.169|Why are teeth sometimes cut down and left in the bone under an overdenture?|To reduce the rate of ridge resorption|To hold a fixed bridge;To make extractions easier later;To lower the vertical dimension
+M|G|1.7:7.107.1.2|In a three-tank boil-out unit, what is the second tank for?|A detergent rinse|Softening the bulk wax;Curing the resin;Storing finished dentures
+M|G|1.7:7.145.1|Which tool is used after the plaster saw to cut remaining stone from ridge areas during denture recovery?|A pneumatic chisel|A rag wheel;A Boley gauge;A facebow
+M|G|1.7:7.115.3|What is another name for chemically activated acrylic resin?|Autopolymerizing resin|Heat-cured resin;Light-cured composite;Thermoplastic nylon
+M|G|1.7:7.164|Cast metal denture bases are usually made of which metals?|Chrome or aluminum alloy|Gold or platinum only;Pure titanium sheet;Copper or brass
+M|G|1.7:7.165|For whom are cast metal denture bases primarily used?|Patients who keep fracturing their dentures in normal function|Patients with acrylic allergies only;All immediate denture patients;Children
+M|G|1.7:7.166|What is a disadvantage of a cast metal denture base?|It is time-consuming to make and difficult to reline|It is weaker than acrylic;It cannot hold denture teeth;It always warps when heated
+M|E|1.7:7.147.5|Which wheel is used at low speed to finish the bulk polishing of a denture base?|A rag wheel|A coarse diamond disc;A carbide fissure bur;A separating disc
