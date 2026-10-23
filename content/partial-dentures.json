@@ -1,0 +1,4237 @@
+[
+ {
+  "id": "pdf-A-001",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What kind of impression material do dentists prefer for partial denture impressions, and why?",
+  "back": "Elastic impression material, because partially edentulous arches have many deep undercuts around the remaining teeth and ridges.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.17.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-A-002",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What material is most often used for the final impression of a partial denture?",
+  "back": "Alginate, usually in a prefabricated (stock) tray.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.17.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-A-003",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What must a master cast be?",
+  "back": "A precise, positive duplicate of the patient's dental structures, poured from the final impression.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.16.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-A-004",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is pouring the final impression one of the most crucial steps in partial denture fabrication?",
+  "back": "The master cast has to be as accurate, dense, and strong as possible.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.39.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-A-005",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How should a final impression be poured for maximum density and strength?",
+  "back": "With a vacuum-spatulated mix of artificial stone, using the two-step pour method.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.39.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-A-006",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is sent to the area dental laboratory for framework fabrication?",
+  "back": "The surveyed and designed diagnostic cast plus the unsurveyed master cast.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.16.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-A-007",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the first step in transferring the design to the master cast?",
+  "back": "Transfer the tripod marks from the diagnostic cast to the master cast.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.41.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-A-008",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "After the original tilt is duplicated on the master cast, what happens next?",
+  "back": "The master cast is surveyed, then the color-coded design is transferred from the diagnostic cast.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.41.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-A-009",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "At what angle should the sides of a master cast base be trimmed, and why?",
+  "back": "At 90 degrees to the bottom, because an undercut in the base distorts the duplicating material.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.1.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-A-010",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "What must be preserved when trimming a master cast that needs acrylic flanges?",
+  "back": "The labial sulcus.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-A-011",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "For an MI mounting on a Hanau H2, what are the horizontal and lateral condylar settings?",
+  "back": "Horizontal condylar 30 degrees and lateral condylar guidance 15 degrees.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.40.2.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-A-012",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "When are record bases and occlusion rims needed to mount partial denture casts?",
+  "back": "When not enough opposing natural teeth exist to find the patient's maximum intercuspation.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.40.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-A-013",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "flash",
+  "verified": false,
+  "front": "How should occlusion rims for a partial denture be made relative to adjacent natural teeth?",
+  "back": "A little wider and higher than the adjacent natural teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.40.3.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-001",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What three things must a partial denture be to serve its purpose?",
+  "back": "Retained, supported, and braced.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-002",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an abutment tooth?",
+  "back": "A natural tooth specifically used for partial denture retention, bracing, or support.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-003",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Which classification is the chapter's survey and design instruction keyed to?",
+  "back": "The Word Picture classification.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-004",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How many basic patterns of tooth loss does the Word Picture classification recognize?",
+  "back": "Eight.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-005",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a toothborne partial denture?",
+  "back": "One supported entirely by the remaining natural teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-006",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What supports an extension partial denture?",
+  "back": "The remaining natural teeth plus the tissues of the residual ridges.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-007",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Where does the axis of rotation of an extension partial denture run?",
+  "back": "Through or near the rest nearest the extension base.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-008",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a distal extension?",
+  "back": "An edentulous area located posterior to the remaining natural teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.6.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-009",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an anterior extension?",
+  "back": "A single edentulous area crossing the midline, anterior to the remaining natural teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.6.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-010",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a case with both extension and toothborne defects classified?",
+  "back": "By the kind of extension situation it represents.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.6.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-011",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does a major connector do?",
+  "back": "Joins the two sides of a partial denture and distributes chewing stress to structures on the opposite side.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.9.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-012",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How wide must a palatal strap be?",
+  "back": "8 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.9.1.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-013",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How wide must an anterior-posterior palatal strap be?",
+  "back": "6 to 8 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.9.1.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-014",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How does a palatal bar compare with a palatal strap?",
+  "back": "It is narrower and thicker, less comfortable, and rarely used.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.9.1.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-015",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is a horseshoe connector less desirable than an anterior-posterior palatal strap?",
+  "back": "It is less rigid.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.9.1.1.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-016",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the most commonly used mandibular major connector?",
+  "back": "The lingual bar.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.9.1.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-017",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a sublingual bar?",
+  "back": "A lingual bar turned 90 degrees to fit under the tongue.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.9.1.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-018",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How far from the tissue is the inferior border of a cingulum bar?",
+  "back": "At least 3 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.9.1.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-019",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "When is a lingual plate used instead of a lingual bar?",
+  "back": "When the superior border of a lingual bar cannot be placed 4 mm from the gingival margin.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.9.1.2.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-020",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What do minor connectors do?",
+  "back": "Join the major connector to other components of the partial denture.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.9.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-021",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How thick must all rests be at minimum?",
+  "back": "At least 1 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.10.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-022",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does a clasp assembly consist of?",
+  "back": "A clasp, a rest, and a minor connector.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.10.1.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-023",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the snowshoe principle?",
+  "back": "The tissue replacement part should cover as much area as possible to spread chewing forces over the tissue.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.10.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-024",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the two broad groups of clasps?",
+  "back": "Circumferential (suprabulge or Akers) clasps and bar (infrabulge or Roach) clasps.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-025",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What four functions must a clasp perform?",
+  "back": "Retention, reciprocation, bracing, and encirclement.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-026",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is encirclement?",
+  "back": "Surrounding more than 180 degrees of the abutment's circumference so the tooth cannot drift out of the clasp.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-027",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Of retention, reciprocation, bracing, and support, which is least important?",
+  "back": "Retention.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.5.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-028",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does support prevent?",
+  "back": "Vertical movement of the partial denture toward the gingival tissues.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.5.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-029",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How does clasp arm length affect flexibility and retention?",
+  "back": "Longer arms are more flexible and give less retention.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.6.5.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-030",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Which is more flexible, a round or a half-round clasp arm?",
+  "back": "A round clasp arm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.6.5.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-031",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an undercut?",
+  "back": "The portion of a tooth cervical to the survey line.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.6.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-032",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Which produces more retention per unit of undercut, a bar clasp or a circumferential clasp?",
+  "back": "A bar clasp.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.6.5.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-033",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Who prescribes the clasp assembly type and the amount of retentive undercut?",
+  "back": "The dentist.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.6.5.4.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-034",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an indirect retainer?",
+  "back": "A part of an extension base partial denture that keeps the extension base from lifting off the ridge.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.13.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-035",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the most effective indirect retention features?",
+  "back": "Additional rests placed on the opposite side of the axis of rotation from the extension base.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.13.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-036",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What are guide planes?",
+  "back": "Flat vertical areas on tooth surfaces that contact and stabilize the partial denture.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.14.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-037",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How must multiple guide planes relate to each other?",
+  "back": "They must be parallel.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.14.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-038",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the path of insertion?",
+  "back": "The direction the partial denture travels when going to place.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.18.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-039",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does an analyzing rod do, and what can it not do?",
+  "back": "It grossly checks for undercuts but cannot measure the amount of undercut.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.19.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-040",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the three standard undercut gauge sizes?",
+  "back": ".010, .020, and .030 inch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.19.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-041",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What are undesirable undercuts?",
+  "back": "All tooth and soft tissue undercuts along the path of insertion that are not used for retention.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.19.3.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-042",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How deep must an undercut be for a chrome clasp?",
+  "back": "0.010 inch.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.29.5.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-043",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What surveyor tilt is used for an anterior extension partial denture?",
+  "back": "Horizontal (neutral).",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.29.5.5.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-044",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Can tripod marks be placed in undercut areas?",
+  "back": "No.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.31.1.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-045",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "In the design color code, what does blue show?",
+  "back": "The extent of acrylic resin denture base coverage.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.37.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-046",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "In the design color code, what does brown show?",
+  "back": "The metal parts of the partial denture.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.37.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-047",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "In the design color code, what does black show?",
+  "back": "Tooth and soft tissue survey lines, plus special written instructions.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.37.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-048",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "On a diagnostic cast, what does red show?",
+  "back": "Areas in the mouth needing preparation or recontouring, such as rest seats.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.37.1.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-049",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "What does RPI stand for?",
+  "back": "Rest, proximal plate, and I-bar.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.35.2.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-050",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "How much passage space through an embrasure does a simple circumferential clasp need?",
+  "back": "1.25 mm wide and 1 mm high.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.35.1.1.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-B-051",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "flash",
+  "verified": false,
+  "front": "Where can a bar clasp not be used?",
+  "back": "In posterior segments where no teeth are missing.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.35.1.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-C-001",
+  "exam": "partial-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What material is used to duplicate the blocked-out master cast?",
+  "back": "Reversible hydrocolloid.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.16.10",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-C-002",
+  "exam": "partial-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the pouring temperature for duplicating hydrocolloid?",
+  "back": "125 to 130 degrees Fahrenheit.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.2.1.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-C-003",
+  "exam": "partial-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "Which investment is used to pour the Ticonium refractory cast?",
+  "back": "Ticonium investment (Investic), matched to the alloy's casting contraction.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.2.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-C-004",
+  "exam": "partial-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How long should the poured refractory mold set?",
+  "back": "1 hour, away from vibration.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.2.7.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-C-005",
+  "exam": "partial-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How is the refractory cast dehydrated?",
+  "back": "In a vented dehydrating oven for 1 hour at 190 degrees Fahrenheit.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.44.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-C-006",
+  "exam": "partial-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the beeswax dipping temperature for a refractory cast?",
+  "back": "280 to 300 degrees Fahrenheit.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.44.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-C-007",
+  "exam": "partial-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "What are the two advantages of a beeswax dip?",
+  "back": "A smooth, dense surface for the pattern, and it does not absorb water from secondary investment.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.44.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-C-008",
+  "exam": "partial-dentures",
+  "domain": "C",
+  "type": "flash",
+  "verified": false,
+  "front": "How is a cast soaked before duplicating?",
+  "back": "Stand it on end in slurry water (SDS), 6 mm deep, for 20 to 30 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-001",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "In what order are pattern components placed on the refractory cast?",
+  "back": "Larger components first, then progressively smaller ones.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.45.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-002",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the first component in the suggested framework waxing sequence?",
+  "back": "The major connector.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.45.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-003",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What two jobs does a sprue do?",
+  "back": "Gives molten metal a path into the mold and acts as a reservoir of molten metal.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.48.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-004",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "When is a single sprue used?",
+  "back": "On patterns that get progressively smaller in volume away from the sprue.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.48.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-005",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "When are multiple sprues used?",
+  "back": "When metal must flow through a thin section to reach a bulkier section.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.48.2.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-006",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an advantage of overjet spruing?",
+  "back": "Less molten metal turbulence at the mold entrance and less scuffing of the investment.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.48.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-007",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is Ticonium number 100 metal used for?",
+  "back": "Routine partial denture castings.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.49.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-008",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "About how thick should the paint-on investment layer be?",
+  "back": "About 3 mm, as uniform as possible.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.50.1.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-009",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How long until the paint-on layer reaches final set?",
+  "back": "About 10 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.50.1.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-010",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What water-to-powder ratio is used for the outer investment?",
+  "back": "30 cc water to 100 g investment.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.50.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-011",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "About how long does wax take to burn out once the oven reaches high temperature?",
+  "back": "About 1 hour.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.51.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-012",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What temperature does the Ticonium burnout oven reach?",
+  "back": "1350 degrees Fahrenheit, after 2 to 3 hours of heatup.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.51.2.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-013",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "Why should a mold never be quenched in water?",
+  "back": "It can cause serious warpage.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.51.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-014",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How is chrome-alloy metal cast into the mold?",
+  "back": "Melted and cast with centrifugal force.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.16.15",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-015",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "How does a wire clasp arm flex compared with a cast clasp arm?",
+  "back": "A wire arm flexes vertically and horizontally; a cast arm flexes mostly horizontally.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.47.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-D-016",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a combination clasp?",
+  "back": "A wrought wire retentive arm with a cast reciprocal arm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.35.2.1.7.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-E-001",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What type of denture teeth is almost universally chosen for partial denture retention grids?",
+  "back": "Plastic denture teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.55.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-E-002",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why are porcelain teeth rarely used in partial dentures?",
+  "back": "They chip, break, and wear opposing natural teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.15.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-E-003",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is normally used to replace missing tissue and attach teeth to the framework?",
+  "back": "Pink acrylic resin, heat-cured or self-curing.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.15.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-E-004",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How high are posterior teeth set in occlusion before grinding?",
+  "back": "A little high, about 0.5 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.55.3.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-E-005",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What should bear most of the contact load in a working excursion?",
+  "back": "The natural teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.55.3.2.2.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-E-006",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Should artificial anterior teeth in an anterior toothborne partial denture contact in working excursions?",
+  "back": "No.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.55.3.2.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-E-007",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is the base of the cast keyed before processing?",
+  "back": "So the cast can be accurately remounted after resin processing.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.55.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-E-008",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "Why is wax removed from clasp arms before flasking?",
+  "back": "So they do not become embedded in plastic during packing and processing.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.55.4.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-E-009",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How long is the flask placed in boiling water to soften the wax base?",
+  "back": "About 4 1/2 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.56.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-E-010",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "How many coats of tinfoil substitute go over the mold surfaces?",
+  "back": "Two coats.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.56.1.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-E-011",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "At what consistency is acrylic resin packed?",
+  "back": "Early dough, or snap, stage.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.56.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-E-012",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a reinforced acrylic pontic (RAP)?",
+  "back": "One of the strongest anterior replacements, made from a denture tooth attached to the frame; used where room is average or limited and bite force is high.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.15.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-E-013",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the strongest tooth replacement?",
+  "back": "Metal teeth and base cast with the frame, used when space is very limited.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.15.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-E-014",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the strongest, most commonly used open retention?",
+  "back": "Ladder retention.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.23.2.3.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-F-001",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What should be done to each stone tooth under a clasp when recovering the partial denture from the cast?",
+  "back": "Cut through it with a bur or knife to relieve the clasp of strain.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.57.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-F-002",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What should you do if a border extension is in doubt?",
+  "back": "Leave it long until a dentist indicates otherwise.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.57.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-F-003",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How does polishing a partial denture compare with polishing a complete denture?",
+  "back": "It is similar but significantly more hazardous; wear protective eyeglasses.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.57.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-F-004",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How is the deflasked partial denture remounted?",
+  "back": "By repositioning the casts on the original mountings with the indexing keys.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.57.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-F-005",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How is the occlusal vertical dimension reestablished after processing?",
+  "back": "Bring the incisal guide pin back into contact with the incisal guide table.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.57.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-F-006",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What lathe speed does finishing chrome alloys require?",
+  "back": "A high-speed lathe, about 24,000 rpm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-F-007",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "Why avoid heavy pressure when finishing a framework?",
+  "back": "It heats and can warp the casting and crushes abrasive particles.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.1.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-F-008",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What must each finishing step accomplish?",
+  "back": "Remove all scratches left by the previous abrasive.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.1.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-F-009",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "At what temperature is Ti-Lectro electropolishing solution used?",
+  "back": "120 to 140 degrees Fahrenheit.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-F-010",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How much current is allowed per square inch in electropolishing?",
+  "back": "2 amperes per square inch of surface, both sides.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.3.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-F-011",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How long is an average casting electropolished?",
+  "back": "6 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.3.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-F-012",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "What does a dark yellow-brown casting after electropolishing mean?",
+  "back": "Water is in the polishing solution.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.3.10.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-F-013",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "When is a framework considered seated?",
+  "back": "When all rests come into full contact with their rest seats.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.5.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-F-014",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "flash",
+  "verified": false,
+  "front": "How long is a finished framework cleaned in an ultrasonic cleaner?",
+  "back": "10 minutes.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.8.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-001",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "How common are partial denture repairs and additions?",
+  "back": "Very common laboratory requests.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.64.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-002",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What is needed for all but the simplest repairs?",
+  "back": "A stone matrix to position parts correctly.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.64.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-003",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a pickup impression?",
+  "back": "An impression made with the partial denture in the mouth, so it stays in the impression when poured.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.64.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-004",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "When should a pickup impression be poured?",
+  "back": "Immediately after disinfection and blockout, in stone or plaster.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.64.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-005",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Where should a soldering repair be done?",
+  "back": "On a duplicate refractory cast.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.64.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-006",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What resin is used to repair a fractured partial denture base?",
+  "back": "Autopolymerizing resin, with the matrix coated in tinfoil substitute.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.65.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-007",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "How much resin bulk should a finish line allow where resin meets polished metal?",
+  "back": "At least 1 mm.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.66.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-008",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What impression is usually needed to repair a reinforced acrylic pontic?",
+  "back": "An alginate pickup impression.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.67.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-009",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Why must resin parts be insulated during a soldering repair?",
+  "back": "Soldering applies high heat that can damage them.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.69.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-010",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "Which part of the torch flame is used for soldering?",
+  "back": "The reducing part, the blue-green cone.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.69.7.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-011",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "How is moisture removed from soldering investment?",
+  "back": "Dehydration oven at 190 degrees Fahrenheit for 1 hour.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.69.7.8",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-012",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What if a broken clasp piece has been lost?",
+  "back": "A replacement clasp assembly must be cast or made from wrought wire.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.70.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-013",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What is a Swing-Lock partial denture?",
+  "back": "Labial and lingual sections, with the labial part hinged and locked to the lingual part around the remaining teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.63.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-014",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What is done to a partial denture base before a reline impression?",
+  "back": "Relieve tissue-side undercuts and grind out old resin to make room for impression material.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.62.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-015",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "In the altered cast technique, where is the first cut made?",
+  "back": "Across the distal extension, buccal to lingual, 1 mm behind the distal abutment.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.59.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-G-016",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "flash",
+  "verified": false,
+  "front": "What bath temperature softens the corrective impression material?",
+  "back": "A warm bath of 135 degrees Fahrenheit.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.59.3.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-001",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "What alloy do military labs use for partial denture frameworks?",
+  "back": "Ticonium, a nickel-chrome alloy.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-002",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "What alloy is available for patients allergic to nickel?",
+  "back": "Vitallium, a chrome-cobalt alloy.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-003",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "What is an interim partial denture?",
+  "back": "A temporary partial denture made mostly of acrylic and plastic teeth.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-004",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "What does a surveyor's survey table include?",
+  "back": "A base, a tilt top with cast clamp, and a tilt top lock screw.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.19.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-005",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "What is the carbon marker?",
+  "back": "A black pencil lead used to mark survey lines after the path of insertion is chosen.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.19.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-006",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "What does blockout do?",
+  "back": "Fills undesirable tooth and soft tissue undercuts so rigid parts can pass them.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.19.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-007",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "What is subduing wax made of?",
+  "back": "Two sheets of baseplate wax, two ropes of beading or utility wax, and sudan red.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.1.4.4.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-008",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "What tissue stop is cut into relief wax for a distal extension?",
+  "back": "A hole about 2 mm square over the ridge crest.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.1.5.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-009",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "What is finish line wax made of?",
+  "back": "Half baseplate wax and half blockout wax.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.1.5.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-010",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "Does cast Ticonium form a metallurgical union with wire cast against it?",
+  "back": "No.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.47.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-011",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "About how many castings is Ti-Lectro solution good for?",
+  "back": "Up to 200 castings.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.3.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-012",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "What metal support and retention components may a partial denture use?",
+  "back": "Beads, posts, rods, mesh, and bars.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.15.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-013",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "What is mesh retention made from?",
+  "back": "Commercially prefabricated plastic patterns.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.23.2.3.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-014",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "What consistency should opaque have?",
+  "back": "Creamy, applied in thin, even coats.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.58.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-015",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "How much dentine paste is applied and cured at a time when veneering?",
+  "back": "About 1 mm, cured for 5 seconds.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.58.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdf-H-016",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "flash",
+  "verified": false,
+  "front": "What three metals can be used for clasps?",
+  "back": "Cast chrome-alloy, cast gold, and noncorrosive wires.",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.6.5.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-A-001",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which type of impression material do dentists prefer for partial denture impressions because of deep undercuts?",
+  "options": [
+   "Elastic impression material",
+   "Rigid impression plaster",
+   "Modeling compound only",
+   "Zinc oxide eugenol paste only"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Elastic impression material. (para 8.17.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.17.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-A-002",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How should the final impression be poured to get a master cast of maximum density and strength?",
+  "options": [
+   "With a hand-mixed thin plaster",
+   "With refractory investment",
+   "With a vacuum-spatulated mix of artificial stone",
+   "With self-curing acrylic resin"
+  ],
+  "answer": 2,
+  "explanation": "Correct: With a vacuum-spatulated mix of artificial stone. (para 8.39.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.39.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-A-003",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "At what angle to the bottom of the cast should the sides of a master cast base be trimmed?",
+  "options": [
+   "90 degrees",
+   "45 degrees",
+   "30 degrees",
+   "15 degrees"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 90 degrees. (para 8.42.1.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.1.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-A-004",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What does the dental clinic send to the area dental laboratory for framework fabrication?",
+  "options": [
+   "The surveyed and designed diagnostic cast and an unsurveyed master cast",
+   "Only the final impression with no casts",
+   "A finished wax framework",
+   "Only the refractory cast"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The surveyed and designed diagnostic cast and an unsurveyed master cast. (para 8.16.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.16.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-A-005",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When transferring the survey and design to the master cast, what is transferred first?",
+  "options": [
+   "The retention grids",
+   "The finish lines",
+   "The tripod marks",
+   "The sprue leads"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The tripod marks. (para 8.41.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.41.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-A-006",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When are record bases and occlusion rims needed for mounting partial denture casts?",
+  "options": [
+   "Whenever the case is a toothborne case",
+   "Only for all-metal partial dentures",
+   "Never, they are only used for complete dentures",
+   "When too few opposing natural teeth exist to find maximum intercuspation"
+  ],
+  "answer": 3,
+  "explanation": "Correct: When too few opposing natural teeth exist to find maximum intercuspation. (para 8.40.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.40.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-A-007",
+  "exam": "partial-dentures",
+  "domain": "A",
+  "type": "mcq",
+  "verified": false,
+  "stem": "For a maximum intercuspation mounting on a Hanau H2 articulator, what horizontal condylar setting is used?",
+  "options": [
+   "0 degrees",
+   "60 degrees",
+   "90 degrees",
+   "30 degrees"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 30 degrees. (para 8.40.2.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.40.2.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-001",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which three requirements must a partial denture meet to serve its stated purpose?",
+  "options": [
+   "Retained, supported, and braced",
+   "Heavy, rigid, and visible",
+   "Polished, opaque, and relined",
+   "Flexible, mobile, and colored"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Retained, supported, and braced. (para 8.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-002",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How many basic patterns of tooth loss does the Word Picture classification recognize?",
+  "options": [
+   "Three",
+   "Eight",
+   "Fifty",
+   "Twelve"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Eight. (para 8.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-003",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What supports a toothborne partial denture?",
+  "options": [
+   "The residual ridge only",
+   "The palate only",
+   "The remaining natural teeth only",
+   "Dental implants only"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The remaining natural teeth only. (para 8.6.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.6.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-004",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Through or near which part does the axis of rotation of an extension partial denture run?",
+  "options": [
+   "The most anterior incisor",
+   "The center of the palate",
+   "The retromolar pad",
+   "The rest nearest the extension base"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The rest nearest the extension base. (para 8.6.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.6.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-005",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When a case has both extension and toothborne defects, how is it classified?",
+  "options": [
+   "According to its toothborne situation",
+   "According to its extension situation",
+   "It cannot be classified",
+   "By the number of clasps"
+  ],
+  "answer": 1,
+  "explanation": "Correct: According to its extension situation. (para 8.6.2.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.6.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-006",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How wide must a palatal strap major connector be?",
+  "options": [
+   "2 mm",
+   "20 mm",
+   "8 mm",
+   "1 mm"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 8 mm. (para 8.9.1.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.9.1.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-007",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which maxillary major connector is described as one of the most commonly used, very rigid, and well accepted?",
+  "options": [
+   "The anterior-posterior palatal strap",
+   "The palatal bar",
+   "The horseshoe",
+   "The sublingual bar"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The anterior-posterior palatal strap. (para 8.9.1.1.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.9.1.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-008",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the most commonly used mandibular major connector?",
+  "options": [
+   "The palatal strap",
+   "The horseshoe",
+   "The full palatal plate",
+   "The lingual bar"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The lingual bar. (para 8.9.1.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.9.1.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-009",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When the superior border of a lingual bar cannot be placed 4 mm from the gingival margin, what is an excellent alternative?",
+  "options": [
+   "A lingual plate",
+   "A palatal bar",
+   "A ring clasp",
+   "An occlusion rim"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A lingual plate. (para 8.9.1.2.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.9.1.2.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-010",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the minimum thickness for any rest so it does not break under chewing forces?",
+  "options": [
+   "0.1 mm",
+   "5 mm",
+   "10 mm",
+   "1 mm"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 1 mm. (para 8.10.1.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.10.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-011",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What three parts make up a clasp assembly?",
+  "options": [
+   "A sprue, a button, and a reservoir",
+   "A clasp, a rest, and a minor connector",
+   "A denture tooth, a facing, and a backing",
+   "A flask, a clamp, and a press"
+  ],
+  "answer": 1,
+  "explanation": "Correct: A clasp, a rest, and a minor connector. (para 8.10.1.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.10.1.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-012",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How much of the abutment's circumference must a clasp surround for encirclement?",
+  "options": [
+   "Less than 90 degrees",
+   "Exactly 45 degrees",
+   "More than 180 degrees",
+   "None of it"
+  ],
+  "answer": 2,
+  "explanation": "Correct: More than 180 degrees. (para 8.12.3.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.3.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-013",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Among retention, reciprocation, bracing, and support, which does the manual call the least important?",
+  "options": [
+   "Support",
+   "Bracing",
+   "Retention",
+   "Reciprocation"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Retention. (para 8.12.5.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.5.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-014",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "As the length of a clasp arm increases, what happens to its retention?",
+  "options": [
+   "Retention increases",
+   "Retention doubles",
+   "Retention is unaffected by anything",
+   "Retention decreases"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Retention decreases. (para 8.12.6.5.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.6.5.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-015",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "As the cross-sectional size of a clasp arm increases, what happens to its flexibility?",
+  "options": [
+   "Flexibility increases",
+   "Flexibility becomes infinite",
+   "Flexibility decreases",
+   "The arm becomes a rest"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Flexibility decreases. (para 8.12.6.5.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.6.5.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-016",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which clasp arm cross-section is more flexible?",
+  "options": [
+   "Half-round",
+   "Square",
+   "Round",
+   "Flat rectangular"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Round. (para 8.12.6.5.1.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.6.5.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-017",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which clasp type generally produces more retention per unit of undercut?",
+  "options": [
+   "Circumferential clasps",
+   "Lingual plates",
+   "Bar clasps",
+   "Palatal straps"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Bar clasps. (para 8.12.6.5.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.6.5.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-018",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What are the most effective indirect retention features for an extension base partial denture?",
+  "options": [
+   "Additional rests placed opposite the axis of rotation from the extension base",
+   "Thicker denture base acrylic",
+   "Extra clasp arms on the extension side only",
+   "A longer sprue"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Additional rests placed opposite the axis of rotation from the extension base. (para 8.13.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.13.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-019",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How must multiple guide planes on a partial denture case relate to each other?",
+  "options": [
+   "They must converge sharply",
+   "They must be parallel",
+   "They must be perpendicular",
+   "They must be curved"
+  ],
+  "answer": 1,
+  "explanation": "Correct: They must be parallel. (para 8.14.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.14.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-020",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What can an analyzing rod not do?",
+  "options": [
+   "Check for the presence of undercuts",
+   "Measure the amount of undercut",
+   "Fit in the surveyor spindle",
+   "Contact the cast"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Measure the amount of undercut. (para 8.19.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.19.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-021",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which set lists the three standard undercut gauge sizes?",
+  "options": [
+   ".1, .2, and .3 inch",
+   ".010, .020, and .030 inch",
+   "1, 2, and 3 mm",
+   ".5, 1, and 1.5 inch"
+  ],
+  "answer": 1,
+  "explanation": "Correct: .010, .020, and .030 inch. (para 8.19.3.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.19.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-022",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How deep must an undercut be for a chrome clasp?",
+  "options": [
+   "0.100 inch",
+   "0.010 inch",
+   "0.500 inch",
+   "1 inch"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 0.010 inch. (para 8.29.5.4.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.29.5.4.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-023",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In the partial denture design color code, which color outlines acrylic resin denture base coverage?",
+  "options": [
+   "Blue",
+   "Brown",
+   "Black",
+   "Green"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Blue. (para 8.37.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.37.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-024",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In the partial denture design color code, which color outlines the metal parts?",
+  "options": [
+   "Brown",
+   "Blue",
+   "Yellow",
+   "Purple"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Brown. (para 8.37.1.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.37.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-025",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In the partial denture design color code, which color shows the survey lines?",
+  "options": [
+   "Blue",
+   "Brown",
+   "Black",
+   "Orange"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Black. (para 8.37.1.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.37.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-026",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What do the letters RPI stand for in the RPI clasp assembly?",
+  "options": [
+   "Retainer, palate, and incisal",
+   "Rest, proximal plate, and I-bar",
+   "Resin, porcelain, and investment",
+   "Ring, post, and implant"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Rest, proximal plate, and I-bar. (para 8.35.2.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.35.2.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-027",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where can tripod marks never be placed?",
+  "options": [
+   "On the cast at all",
+   "On immobile features",
+   "In undercut areas",
+   "On widely separated spots"
+  ],
+  "answer": 2,
+  "explanation": "Correct: In undercut areas. (para 8.31.1.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.31.1.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-B-028",
+  "exam": "partial-dentures",
+  "domain": "B",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the snowshoe principle in partial denture design?",
+  "options": [
+   "Making the base as small as possible",
+   "Covering as much ridge area as possible to spread chewing forces",
+   "Using only metal teeth",
+   "Placing clasps on every tooth"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Covering as much ridge area as possible to spread chewing forces. (para 8.10.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.10.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-C-001",
+  "exam": "partial-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which material is used to make the impression of the blocked-out master cast for duplication?",
+  "options": [
+   "Pink baseplate wax",
+   "Self-curing acrylic",
+   "Pumice",
+   "Reversible hydrocolloid"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Reversible hydrocolloid. (para 8.16.10)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.16.10",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-C-002",
+  "exam": "partial-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How long and at what temperature is a refractory cast dehydrated?",
+  "options": [
+   "1 hour at 190 degrees Fahrenheit",
+   "5 minutes at 1350 degrees Fahrenheit",
+   "24 hours at room temperature",
+   "10 seconds under a torch"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 1 hour at 190 degrees Fahrenheit. (para 8.44.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.44.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-C-003",
+  "exam": "partial-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the dipping temperature for refined beeswax when sealing a refractory cast?",
+  "options": [
+   "90 to 100 degrees Fahrenheit",
+   "1350 degrees Fahrenheit",
+   "32 degrees Fahrenheit",
+   "280 to 300 degrees Fahrenheit"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 280 to 300 degrees Fahrenheit. (para 8.44.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.44.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-C-004",
+  "exam": "partial-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the pouring temperature for duplicating hydrocolloid?",
+  "options": [
+   "212 degrees Fahrenheit",
+   "40 degrees Fahrenheit",
+   "125 to 130 degrees Fahrenheit",
+   "1000 degrees Fahrenheit"
+  ],
+  "answer": 2,
+  "explanation": "Correct: 125 to 130 degrees Fahrenheit. (para 8.42.2.1.2.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.2.1.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-C-005",
+  "exam": "partial-dentures",
+  "domain": "C",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How long should a poured refractory mold be left to set?",
+  "options": [
+   "30 seconds",
+   "5 minutes",
+   "1 week",
+   "1 hour"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 1 hour. (para 8.42.2.7.2.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.2.7.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-D-001",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is waxed first in the suggested framework construction sequence?",
+  "options": [
+   "The clasp tips",
+   "The finish lines",
+   "The major connector",
+   "The sprue button"
+  ],
+  "answer": 2,
+  "explanation": "Correct: The major connector. (para 8.45.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.45.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-D-002",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Besides providing a pathway for molten metal, what does a sprue do?",
+  "options": [
+   "Polishes the casting",
+   "Holds the denture teeth",
+   "Acts as a reservoir of molten metal",
+   "Blocks out undercuts"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Acts as a reservoir of molten metal. (para 8.48.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.48.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-D-003",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When are multiple sprues used on a framework pattern?",
+  "options": [
+   "When the pattern gets smaller away from the sprue",
+   "When metal must flow through a thin section to reach a bulkier section",
+   "Never on any case",
+   "Only for all-acrylic partial dentures"
+  ],
+  "answer": 1,
+  "explanation": "Correct: When metal must flow through a thin section to reach a bulkier section. (para 8.48.2.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.48.2.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-D-004",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which Ticonium metal is used for routine partial denture castings?",
+  "options": [
+   "Number 100 metal",
+   "Type I gold foil",
+   "Pure silver",
+   "Number 1 aluminum"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Number 100 metal. (para 8.49.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.49.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-D-005",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What water-to-powder ratio is used for the outer investment?",
+  "options": [
+   "300 cc of water to 10 grams",
+   "30 cc of water to 100 grams of investment",
+   "1 cc of water to 1000 grams",
+   "No water at all"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 30 cc of water to 100 grams of investment. (para 8.50.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.50.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-D-006",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why should a hot casting mold never be quenched in water?",
+  "options": [
+   "It can cause serious warpage",
+   "It makes the metal stronger",
+   "It speeds burnout",
+   "It improves the polish"
+  ],
+  "answer": 0,
+  "explanation": "Correct: It can cause serious warpage. (para 8.51.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.51.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-D-007",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "To what temperature does the Ticonium burnout oven heat?",
+  "options": [
+   "190 degrees Fahrenheit",
+   "1350 degrees Fahrenheit",
+   "500 degrees Fahrenheit",
+   "3000 degrees Fahrenheit"
+  ],
+  "answer": 1,
+  "explanation": "Correct: 1350 degrees Fahrenheit. (para 8.51.2.4.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.51.2.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-D-008",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "About how thick should the paint-on layer of investment be?",
+  "options": [
+   "About 30 mm",
+   "About 3 mm",
+   "About 0.01 mm",
+   "About 10 cm"
+  ],
+  "answer": 1,
+  "explanation": "Correct: About 3 mm. (para 8.50.1.3.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.50.1.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-D-009",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What makes up a combination clasp?",
+  "options": [
+   "Two cast retentive arms",
+   "A wrought wire retentive arm and a cast reciprocal arm",
+   "A porcelain arm and a resin arm",
+   "A rest and a sprue"
+  ],
+  "answer": 1,
+  "explanation": "Correct: A wrought wire retentive arm and a cast reciprocal arm. (para 8.35.2.1.7.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.35.2.1.7.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-D-010",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How does a wrought wire clasp arm flex compared with a cast clasp arm?",
+  "options": [
+   "It does not flex at all",
+   "It flexes both vertically and horizontally",
+   "It flexes only vertically",
+   "It flexes less than a cast arm in every direction"
+  ],
+  "answer": 1,
+  "explanation": "Correct: It flexes both vertically and horizontally. (para 8.47.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.47.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-D-011",
+  "exam": "partial-dentures",
+  "domain": "D",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How is the chrome-alloy metal forced into the mold?",
+  "options": [
+   "By centrifugal force",
+   "By gravity alone over a day",
+   "By hand pressing",
+   "By vacuum forming a sheet"
+  ],
+  "answer": 0,
+  "explanation": "Correct: By centrifugal force. (para 8.16.15)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.16.15",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-E-001",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which type of denture tooth is almost universally chosen for attachment to partial denture retention grids?",
+  "options": [
+   "Porcelain denture teeth",
+   "Ivory teeth",
+   "Gold foil teeth",
+   "Plastic denture teeth"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Plastic denture teeth. (para 8.55.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.55.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-E-002",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why are porcelain teeth rarely used for partial dentures anymore?",
+  "options": [
+   "They are too flexible",
+   "They chip, break, and wear opposing natural teeth",
+   "They cannot be shaded",
+   "They dissolve in saliva"
+  ],
+  "answer": 1,
+  "explanation": "Correct: They chip, break, and wear opposing natural teeth. (para 8.15.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.15.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-E-003",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How high are posterior denture teeth set in occlusion before the occlusal surfaces are ground?",
+  "options": [
+   "About 5 mm high",
+   "About 2 cm high",
+   "About 0.5 mm high",
+   "Exactly level with no adjustment ever"
+  ],
+  "answer": 2,
+  "explanation": "Correct: About 0.5 mm high. (para 8.55.3.1.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.55.3.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-E-004",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In a working excursion, what is recommended to bear most of the contact load?",
+  "options": [
+   "The natural teeth",
+   "The artificial anterior teeth",
+   "The major connector",
+   "The clasp tips"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The natural teeth. (para 8.55.3.2.2.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.55.3.2.2.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-E-005",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "About how long is the flask placed in boiling water to soften the wax denture base?",
+  "options": [
+   "About 4 1/2 hours",
+   "About 4 1/2 minutes",
+   "About 1 second",
+   "About 3 days"
+  ],
+  "answer": 1,
+  "explanation": "Correct: About 4 1/2 minutes. (para 8.56.1.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.56.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-E-006",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "At what consistency is denture base acrylic packed?",
+  "options": [
+   "Watery liquid stage",
+   "Fully hardened stage",
+   "Early dough or snap stage",
+   "Powder only"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Early dough or snap stage. (para 8.56.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.56.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-E-007",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is wax removed from the clasp arms before the case is flasked?",
+  "options": [
+   "To make the clasps heavier",
+   "So the clasps do not get embedded in plastic",
+   "To color the clasps pink",
+   "To solder them later"
+  ],
+  "answer": 1,
+  "explanation": "Correct: So the clasps do not get embedded in plastic. (para 8.55.4.2.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.55.4.2.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-E-008",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which tooth replacement does the manual call the strongest?",
+  "options": [
+   "Porcelain facings",
+   "Metal teeth and a metal base cast with the frame",
+   "Plastic teeth on mesh",
+   "Tube teeth only"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Metal teeth and a metal base cast with the frame. (para 8.15.2.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.15.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-E-009",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which open retention grid is the strongest and most commonly used?",
+  "options": [
+   "Mesh retention",
+   "Bead retention",
+   "No retention",
+   "Ladder retention"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Ladder retention. (para 8.23.2.3.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.23.2.3.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-E-010",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How many coats of tinfoil substitute are painted over the mold surfaces?",
+  "options": [
+   "Two",
+   "Ten",
+   "Zero",
+   "Twenty"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Two. (para 8.56.1.5.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.56.1.5.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-E-011",
+  "exam": "partial-dentures",
+  "domain": "E",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why is the base of the cast keyed before processing a partial denture?",
+  "options": [
+   "So it fits the duplicating flask",
+   "So it can be accurately remounted after processing",
+   "To add retention to the resin",
+   "To mark the survey line"
+  ],
+  "answer": 1,
+  "explanation": "Correct: So it can be accurately remounted after processing. (para 8.55.1.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.55.1.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-F-001",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When recovering a processed partial denture from the cast, what should be done to the stone tooth under each clasp?",
+  "options": [
+   "Leave it intact and pry the clasp off",
+   "Heat it with a torch",
+   "Cut through it to relieve the clasp of strain",
+   "Paint it with opaque"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Cut through it to relieve the clasp of strain. (para 8.57.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.57.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-F-002",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "If there is doubt about a denture border extension during finishing, what should you do?",
+  "options": [
+   "Leave it long until the dentist decides",
+   "Cut it as short as possible",
+   "Remove the entire flange",
+   "Add extra metal"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Leave it long until the dentist decides. (para 8.57.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.57.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-F-003",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How does polishing a partial denture compare with polishing a complete denture?",
+  "options": [
+   "It is completely different and needs no lathe",
+   "It is safer",
+   "It is similar but significantly more hazardous",
+   "It is never done"
+  ],
+  "answer": 2,
+  "explanation": "Correct: It is similar but significantly more hazardous. (para 8.57.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.57.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-F-004",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What lathe speed is needed to finish and polish chrome alloys?",
+  "options": [
+   "About 24 rpm",
+   "About 240 rpm",
+   "It must be done by hand only",
+   "About 24,000 rpm"
+  ],
+  "answer": 3,
+  "explanation": "Correct: About 24,000 rpm. (para 8.53.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-F-005",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why should heavy pressure be avoided when finishing a chrome-alloy framework?",
+  "options": [
+   "It heats and can warp the casting",
+   "It makes the abrasive last longer",
+   "It improves the polish",
+   "It adds metal to the casting"
+  ],
+  "answer": 0,
+  "explanation": "Correct: It heats and can warp the casting. (para 8.53.1.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.1.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-F-006",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How long is an average casting left in the electrolytic polishing solution?",
+  "options": [
+   "6 minutes",
+   "6 hours",
+   "6 seconds",
+   "6 days"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 6 minutes. (para 8.53.3.7)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.3.7",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-F-007",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How much electrical current is allowed for each square inch of casting surface during electropolishing?",
+  "options": [
+   "200 amperes",
+   "0.001 amperes",
+   "50 amperes",
+   "2 amperes"
+  ],
+  "answer": 3,
+  "explanation": "Correct: 2 amperes. (para 8.53.3.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.3.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-F-008",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "If a casting turns dark yellow-brown after electropolishing, what is the likely cause?",
+  "options": [
+   "Water in the polishing solution",
+   "The solution is brand new",
+   "The lathe is too slow",
+   "The casting is fully seated"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Water in the polishing solution. (para 8.53.3.10.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.3.10.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-F-009",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How do you know a framework is fully seated?",
+  "options": [
+   "The clasps are loose",
+   "All rests are in full contact with their rest seats",
+   "The sprue button is still attached",
+   "The palate rocks freely"
+  ],
+  "answer": 1,
+  "explanation": "Correct: All rests are in full contact with their rest seats. (para 8.53.5.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.5.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-F-010",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where should the initial seating of a framework not be attempted?",
+  "options": [
+   "On a duplicate cast",
+   "Under magnification",
+   "On the master cast itself",
+   "With disclosing pigment"
+  ],
+  "answer": 2,
+  "explanation": "Correct: On the master cast itself. (para 8.53.5.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.5.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-F-011",
+  "exam": "partial-dentures",
+  "domain": "F",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How is the occlusal vertical dimension reestablished on the articulator after processing?",
+  "options": [
+   "By adding wax to the teeth",
+   "By removing the clasps",
+   "By polishing the palate",
+   "By bringing the incisal guide pin back into contact with the incisal guide table"
+  ],
+  "answer": 3,
+  "explanation": "Correct: By bringing the incisal guide pin back into contact with the incisal guide table. (para 8.57.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.57.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-G-001",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is required to position parts correctly for all but the simplest partial denture repairs?",
+  "options": [
+   "A wax rim",
+   "A stone matrix",
+   "A sprue cone",
+   "An undercut gauge"
+  ],
+  "answer": 1,
+  "explanation": "Correct: A stone matrix. (para 8.64.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.64.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-G-002",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a pickup impression?",
+  "options": [
+   "An impression of an edentulous arch with no prosthesis",
+   "An impression made with the partial denture in the mouth so it stays in the impression",
+   "A wax record of the bite only",
+   "A digital scan of the opposing arch"
+  ],
+  "answer": 1,
+  "explanation": "Correct: An impression made with the partial denture in the mouth so it stays in the impression. (para 8.64.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.64.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-G-003",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where should a soldering procedure for a repair be done?",
+  "options": [
+   "On the patient's mouth",
+   "On the original stone cast only",
+   "On a duplicate refractory cast",
+   "In the polishing lathe"
+  ],
+  "answer": 2,
+  "explanation": "Correct: On a duplicate refractory cast. (para 8.64.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.64.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-G-004",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What resin is typically used to repair a fractured partial denture base?",
+  "options": [
+   "Porcelain",
+   "Autopolymerizing resin",
+   "Molten Ticonium",
+   "Inlay wax"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Autopolymerizing resin. (para 8.65.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.65.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-G-005",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Where resin joins polished metal, how much resin bulk should the finish line allow?",
+  "options": [
+   "At least 10 mm",
+   "At least 1 mm",
+   "0.01 mm",
+   "None"
+  ],
+  "answer": 1,
+  "explanation": "Correct: At least 1 mm. (para 8.66.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.66.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-G-006",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Why must the resin components be insulated during a soldering repair?",
+  "options": [
+   "Solder will not stick to metal otherwise",
+   "To make the resin pink",
+   "Soldering applies high heat that can damage the resin",
+   "Insulation is never needed"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Soldering applies high heat that can damage the resin. (para 8.69.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.69.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-G-007",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which part of a propane-oxygen flame is used for soldering?",
+  "options": [
+   "The reducing part, the blue-green cone",
+   "The oxidizing outer tip",
+   "The yellow smoky flame",
+   "No flame, only cold solder"
+  ],
+  "answer": 0,
+  "explanation": "Correct: The reducing part, the blue-green cone. (para 8.69.7.9)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.69.7.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-G-008",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "If a broken clasp piece has been lost, what must be done?",
+  "options": [
+   "Glue the remaining stub",
+   "Ignore the clasp",
+   "Replace it with acrylic only",
+   "Make a replacement clasp assembly, cast or wrought wire"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Make a replacement clasp assembly, cast or wrought wire. (para 8.70.4.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.70.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-G-009",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is a Swing-Lock partial denture?",
+  "options": [
+   "A denture with no metal at all",
+   "A complete denture with implants",
+   "A fixed bridge",
+   "A denture with a hinged, locking labial section around the remaining teeth"
+  ],
+  "answer": 3,
+  "explanation": "Correct: A denture with a hinged, locking labial section around the remaining teeth. (para 8.63.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.63.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-G-010",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "In the altered cast technique, where is the first saw cut made?",
+  "options": [
+   "Through the middle of the palate",
+   "Across the distal extension, 1 mm behind the distal abutment",
+   "Through the anterior teeth",
+   "Around the base of the cast"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Across the distal extension, 1 mm behind the distal abutment. (para 8.59.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.59.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-G-011",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What warm bath temperature softens the corrective impression material on an altered cast?",
+  "options": [
+   "135 degrees Fahrenheit",
+   "35 degrees Fahrenheit",
+   "1350 degrees Fahrenheit",
+   "500 degrees Fahrenheit"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 135 degrees Fahrenheit. (para 8.59.3.6)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.59.3.6",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-G-012",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What impression is usually needed to repair a reinforced acrylic pontic?",
+  "options": [
+   "A refractory impression",
+   "No impression at all",
+   "A facebow record",
+   "An alginate pickup impression"
+  ],
+  "answer": 3,
+  "explanation": "Correct: An alginate pickup impression. (para 8.67.2.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.67.2.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-G-013",
+  "exam": "partial-dentures",
+  "domain": "G",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Before the dentist makes a reline impression, what is done to the partial denture base?",
+  "options": [
+   "New teeth are added",
+   "The base is painted with opaque",
+   "Tissue-side undercuts are relieved and old resin is ground out",
+   "The clasps are removed"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Tissue-side undercuts are relieved and old resin is ground out. (para 8.62.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.62.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-001",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which alloy do military dental laboratories use for partial denture frameworks?",
+  "options": [
+   "Ticonium, a nickel-chrome alloy",
+   "Pure titanium",
+   "Sterling silver",
+   "Type I gold foil"
+  ],
+  "answer": 0,
+  "explanation": "Correct: Ticonium, a nickel-chrome alloy. (para 8.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-002",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which alloy is available for patients with a nickel allergy?",
+  "options": [
+   "Ticonium",
+   "Vitallium, a chrome-cobalt alloy",
+   "Nickel-titanium wire",
+   "Brass"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Vitallium, a chrome-cobalt alloy. (para 8.3.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.3.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-003",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is an interim partial denture?",
+  "options": [
+   "A permanent all-metal partial denture",
+   "A cast gold crown",
+   "A temporary partial denture made mostly of acrylic and plastic teeth",
+   "An implant abutment"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A temporary partial denture made mostly of acrylic and plastic teeth. (para 8.3.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-004",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the carbon marker on a surveyor?",
+  "options": [
+   "A black pencil lead for marking survey lines",
+   "An undercut gauge",
+   "A wax knife",
+   "A sprue cone"
+  ],
+  "answer": 0,
+  "explanation": "Correct: A black pencil lead for marking survey lines. (para 8.19.3.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.19.3.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-005",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is the purpose of blockout?",
+  "options": [
+   "To create new undercuts",
+   "To polish the framework",
+   "To add retention grids",
+   "To fill undesirable undercuts so rigid parts can pass them"
+  ],
+  "answer": 3,
+  "explanation": "Correct: To fill undesirable undercuts so rigid parts can pass them. (para 8.19.1.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.19.1.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-006",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which part of a surveyor has a base, a tilt top with cast clamp, and a lock screw?",
+  "options": [
+   "The analyzing rod",
+   "The carbon marker",
+   "The undercut gauge",
+   "The survey table"
+  ],
+  "answer": 3,
+  "explanation": "Correct: The survey table. (para 8.19.2.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.19.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-007",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is finish line wax made of?",
+  "options": [
+   "Pure beeswax",
+   "Half baseplate wax and half blockout wax",
+   "Gutta-percha only",
+   "Inlay wax and pumice"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Half baseplate wax and half blockout wax. (para 8.42.1.5.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.1.5.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-008",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What tissue stop is cut into the relief wax on a distal extension?",
+  "options": [
+   "A 20 mm slot along the palate",
+   "No tissue stop",
+   "A hole about 2 mm square over the ridge crest",
+   "A round hole through the cast base"
+  ],
+  "answer": 2,
+  "explanation": "Correct: A hole about 2 mm square over the ridge crest. (para 8.42.1.5.2.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.1.5.2.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-009",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When Ticonium is cast against Ticonium or platinum-gold-palladium wire, what kind of union forms?",
+  "options": [
+   "A complete fused weld",
+   "A chemical bond stronger than the wire",
+   "No metallurgical union",
+   "A porcelain bond"
+  ],
+  "answer": 2,
+  "explanation": "Correct: No metallurgical union. (para 8.47.2.5)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.47.2.5",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-010",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "About how many castings is Ti-Lectro polishing solution effective for?",
+  "options": [
+   "Only 1",
+   "Over 10,000",
+   "Exactly 5",
+   "Up to 200"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Up to 200. (para 8.53.3.9)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.53.3.9",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-011",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which list contains metal support and retention components a partial denture may use?",
+  "options": [
+   "Flasks, clamps, and presses",
+   "Sprues, crucibles, and rings",
+   "Burs, stones, and wheels",
+   "Beads, posts, rods, mesh, and bars"
+  ],
+  "answer": 3,
+  "explanation": "Correct: Beads, posts, rods, mesh, and bars. (para 8.15.1.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.15.1.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-012",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What is mesh retention made from?",
+  "options": [
+   "Twisted gold wire",
+   "Porcelain powder",
+   "Commercially prefabricated plastic patterns",
+   "Plaster strips"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Commercially prefabricated plastic patterns. (para 8.23.2.3.2.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.23.2.3.2.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-013",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "Which three metals can a dentist use for clasp construction?",
+  "options": [
+   "Aluminum, tin, and lead",
+   "Copper, zinc, and iron",
+   "Cast chrome-alloy, cast gold, and noncorrosive wires",
+   "Silver, brass, and bronze"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Cast chrome-alloy, cast gold, and noncorrosive wires. (para 8.12.6.5.1.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.12.6.5.1.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-014",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "When veneering a framework with resin, how much dentine paste is applied and how long is it cured?",
+  "options": [
+   "About 10 mm, cured for 1 hour",
+   "About 1 mm, cured for 5 seconds",
+   "About 0.01 mm, never cured",
+   "About 5 mm, cured in boiling water"
+  ],
+  "answer": 1,
+  "explanation": "Correct: About 1 mm, cured for 5 seconds. (para 8.58.3.3)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.58.3.3",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-015",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "What gives subduing wax its color?",
+  "options": [
+   "Blue food dye",
+   "Sudan red",
+   "Carbon black",
+   "Titanium white"
+  ],
+  "answer": 1,
+  "explanation": "Correct: Sudan red. (para 8.42.1.4.4.4)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.42.1.4.4.4",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-016",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How many molds can the Ticonium super oven hold?",
+  "options": [
+   "20",
+   "2",
+   "200",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "Correct: 20. (para 8.51.2.4.2)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.51.2.4.2",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ },
+ {
+  "id": "pdq-H-017",
+  "exam": "partial-dentures",
+  "domain": "H",
+  "type": "mcq",
+  "verified": false,
+  "stem": "How many molds can the Ticonium burnout oven hold?",
+  "options": [
+   "Ninety",
+   "One",
+   "Nine",
+   "Three hundred"
+  ],
+  "answer": 2,
+  "explanation": "Correct: Nine. (para 8.51.2.4.1)",
+  "source": {
+   "ref": "AFPAM 47-103 Vol 1 (restored ed., dentaltechnology.org)",
+   "loc": "para 8.51.2.4.1",
+   "url": "https://dentaltechnology.org/en/reference-library/air-force-dental-laboratory-manual/volume-1/chapter-08"
+  }
+ }
+]

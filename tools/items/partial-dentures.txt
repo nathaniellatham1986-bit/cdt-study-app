@@ -1,0 +1,260 @@
+# Partial Dentures — AFPAM 47-103 Vol 1 Chapter 8 (source 1.8:para)
+# ---- A Master casts / impressions
+F|A|1.8:8.17.1|What kind of impression material do dentists prefer for partial denture impressions, and why?|Elastic impression material, because partially edentulous arches have many deep undercuts around the remaining teeth and ridges.
+F|A|1.8:8.17.2|What material is most often used for the final impression of a partial denture?|Alginate, usually in a prefabricated (stock) tray.
+F|A|1.8:8.16.5|What must a master cast be?|A precise, positive duplicate of the patient's dental structures, poured from the final impression.
+F|A|1.8:8.39.1|Why is pouring the final impression one of the most crucial steps in partial denture fabrication?|The master cast has to be as accurate, dense, and strong as possible.
+F|A|1.8:8.39.2|How should a final impression be poured for maximum density and strength?|With a vacuum-spatulated mix of artificial stone, using the two-step pour method.
+F|A|1.8:8.16.7|What is sent to the area dental laboratory for framework fabrication?|The surveyed and designed diagnostic cast plus the unsurveyed master cast.
+F|A|1.8:8.41.2|What is the first step in transferring the design to the master cast?|Transfer the tripod marks from the diagnostic cast to the master cast.
+F|A|1.8:8.41.3|After the original tilt is duplicated on the master cast, what happens next?|The master cast is surveyed, then the color-coded design is transferred from the diagnostic cast.
+F|A|1.8:8.42.1.3.1|At what angle should the sides of a master cast base be trimmed, and why?|At 90 degrees to the bottom, because an undercut in the base distorts the duplicating material.
+F|A|1.8:8.42.1.3|What must be preserved when trimming a master cast that needs acrylic flanges?|The labial sulcus.
+F|A|1.8:8.40.2.1.2|For an MI mounting on a Hanau H2, what are the horizontal and lateral condylar settings?|Horizontal condylar 30 degrees and lateral condylar guidance 15 degrees.
+F|A|1.8:8.40.3|When are record bases and occlusion rims needed to mount partial denture casts?|When not enough opposing natural teeth exist to find the patient's maximum intercuspation.
+F|A|1.8:8.40.3.1.2|How should occlusion rims for a partial denture be made relative to adjacent natural teeth?|A little wider and higher than the adjacent natural teeth.
+M|A|1.8:8.17.1|Which type of impression material do dentists prefer for partial denture impressions because of deep undercuts?|Elastic impression material|Rigid impression plaster;Modeling compound only;Zinc oxide eugenol paste only
+M|A|1.8:8.39.2|How should the final impression be poured to get a master cast of maximum density and strength?|With a vacuum-spatulated mix of artificial stone|With a hand-mixed thin plaster;With refractory investment;With self-curing acrylic resin
+M|A|1.8:8.42.1.3.1|At what angle to the bottom of the cast should the sides of a master cast base be trimmed?|90 degrees|45 degrees;30 degrees;15 degrees
+M|A|1.8:8.16.7|What does the dental clinic send to the area dental laboratory for framework fabrication?|The surveyed and designed diagnostic cast and an unsurveyed master cast|Only the final impression with no casts;A finished wax framework;Only the refractory cast
+M|A|1.8:8.41.2|When transferring the survey and design to the master cast, what is transferred first?|The tripod marks|The retention grids;The finish lines;The sprue leads
+M|A|1.8:8.40.3|When are record bases and occlusion rims needed for mounting partial denture casts?|When too few opposing natural teeth exist to find maximum intercuspation|Whenever the case is a toothborne case;Only for all-metal partial dentures;Never, they are only used for complete dentures
+M|A|1.8:8.40.2.1.2|For a maximum intercuspation mounting on a Hanau H2 articulator, what horizontal condylar setting is used?|30 degrees|0 degrees;60 degrees;90 degrees
+# ---- B Survey, design, components
+F|B|1.8:8.4|What three things must a partial denture be to serve its purpose?|Retained, supported, and braced.
+F|B|1.8:8.4.3|What is an abutment tooth?|A natural tooth specifically used for partial denture retention, bracing, or support.
+F|B|1.8:8.5.2|Which classification is the chapter's survey and design instruction keyed to?|The Word Picture classification.
+F|B|1.8:8.6|How many basic patterns of tooth loss does the Word Picture classification recognize?|Eight.
+F|B|1.8:8.6.1|What is a toothborne partial denture?|One supported entirely by the remaining natural teeth.
+F|B|1.8:8.6.2|What supports an extension partial denture?|The remaining natural teeth plus the tissues of the residual ridges.
+F|B|1.8:8.6.2|Where does the axis of rotation of an extension partial denture run?|Through or near the rest nearest the extension base.
+F|B|1.8:8.6.2.1|What is a distal extension?|An edentulous area located posterior to the remaining natural teeth.
+F|B|1.8:8.6.2.2|What is an anterior extension?|A single edentulous area crossing the midline, anterior to the remaining natural teeth.
+F|B|1.8:8.6.2.3|How is a case with both extension and toothborne defects classified?|By the kind of extension situation it represents.
+F|B|1.8:8.9.1|What does a major connector do?|Joins the two sides of a partial denture and distributes chewing stress to structures on the opposite side.
+F|B|1.8:8.9.1.1.1|How wide must a palatal strap be?|8 mm.
+F|B|1.8:8.9.1.1.3|How wide must an anterior-posterior palatal strap be?|6 to 8 mm.
+F|B|1.8:8.9.1.1.2|How does a palatal bar compare with a palatal strap?|It is narrower and thicker, less comfortable, and rarely used.
+F|B|1.8:8.9.1.1.4.1|Why is a horseshoe connector less desirable than an anterior-posterior palatal strap?|It is less rigid.
+F|B|1.8:8.9.1.2.1|What is the most commonly used mandibular major connector?|The lingual bar.
+F|B|1.8:8.9.1.2.2|What is a sublingual bar?|A lingual bar turned 90 degrees to fit under the tongue.
+F|B|1.8:8.9.1.2.5|How far from the tissue is the inferior border of a cingulum bar?|At least 3 mm.
+F|B|1.8:8.9.1.2.6|When is a lingual plate used instead of a lingual bar?|When the superior border of a lingual bar cannot be placed 4 mm from the gingival margin.
+F|B|1.8:8.9.2|What do minor connectors do?|Join the major connector to other components of the partial denture.
+F|B|1.8:8.10.1.3|How thick must all rests be at minimum?|At least 1 mm.
+F|B|1.8:8.10.1.2.1|What does a clasp assembly consist of?|A clasp, a rest, and a minor connector.
+F|B|1.8:8.10.2|What is the snowshoe principle?|The tissue replacement part should cover as much area as possible to spread chewing forces over the tissue.
+F|B|1.8:8.12.2.2|What are the two broad groups of clasps?|Circumferential (suprabulge or Akers) clasps and bar (infrabulge or Roach) clasps.
+F|B|1.8:8.12.3|What four functions must a clasp perform?|Retention, reciprocation, bracing, and encirclement.
+F|B|1.8:8.12.3.4|What is encirclement?|Surrounding more than 180 degrees of the abutment's circumference so the tooth cannot drift out of the clasp.
+F|B|1.8:8.12.5.5|Of retention, reciprocation, bracing, and support, which is least important?|Retention.
+F|B|1.8:8.12.5.4|What does support prevent?|Vertical movement of the partial denture toward the gingival tissues.
+F|B|1.8:8.12.6.5.1.1|How does clasp arm length affect flexibility and retention?|Longer arms are more flexible and give less retention.
+F|B|1.8:8.12.6.5.1.3|Which is more flexible, a round or a half-round clasp arm?|A round clasp arm.
+F|B|1.8:8.12.6.5.2|What is an undercut?|The portion of a tooth cervical to the survey line.
+F|B|1.8:8.12.6.5.3|Which produces more retention per unit of undercut, a bar clasp or a circumferential clasp?|A bar clasp.
+F|B|1.8:8.12.6.5.4.4|Who prescribes the clasp assembly type and the amount of retentive undercut?|The dentist.
+F|B|1.8:8.13.1|What is an indirect retainer?|A part of an extension base partial denture that keeps the extension base from lifting off the ridge.
+F|B|1.8:8.13.3|What are the most effective indirect retention features?|Additional rests placed on the opposite side of the axis of rotation from the extension base.
+F|B|1.8:8.14.1|What are guide planes?|Flat vertical areas on tooth surfaces that contact and stabilize the partial denture.
+F|B|1.8:8.14.1.1|How must multiple guide planes relate to each other?|They must be parallel.
+F|B|1.8:8.18.1|What is the path of insertion?|The direction the partial denture travels when going to place.
+F|B|1.8:8.19.3.1|What does an analyzing rod do, and what can it not do?|It grossly checks for undercuts but cannot measure the amount of undercut.
+F|B|1.8:8.19.3.3|What are the three standard undercut gauge sizes?|.010, .020, and .030 inch.
+F|B|1.8:8.19.3.3.2|What are undesirable undercuts?|All tooth and soft tissue undercuts along the path of insertion that are not used for retention.
+F|B|1.8:8.29.5.4.3|How deep must an undercut be for a chrome clasp?|0.010 inch.
+F|B|1.8:8.29.5.5.4|What surveyor tilt is used for an anterior extension partial denture?|Horizontal (neutral).
+F|B|1.8:8.31.1.5|Can tripod marks be placed in undercut areas?|No.
+F|B|1.8:8.37.1.2|In the design color code, what does blue show?|The extent of acrylic resin denture base coverage.
+F|B|1.8:8.37.1.3|In the design color code, what does brown show?|The metal parts of the partial denture.
+F|B|1.8:8.37.1.4|In the design color code, what does black show?|Tooth and soft tissue survey lines, plus special written instructions.
+F|B|1.8:8.37.1.1.1|On a diagnostic cast, what does red show?|Areas in the mouth needing preparation or recontouring, such as rest seats.
+F|B|1.8:8.35.2.3.2|What does RPI stand for?|Rest, proximal plate, and I-bar.
+F|B|1.8:8.35.1.1.1.1|How much passage space through an embrasure does a simple circumferential clasp need?|1.25 mm wide and 1 mm high.
+F|B|1.8:8.35.1.1.2|Where can a bar clasp not be used?|In posterior segments where no teeth are missing.
+M|B|1.8:8.4|Which three requirements must a partial denture meet to serve its stated purpose?|Retained, supported, and braced|Heavy, rigid, and visible;Polished, opaque, and relined;Flexible, mobile, and colored
+M|B|1.8:8.6|How many basic patterns of tooth loss does the Word Picture classification recognize?|Eight|Three;Fifty;Twelve
+M|B|1.8:8.6.1|What supports a toothborne partial denture?|The remaining natural teeth only|The residual ridge only;The palate only;Dental implants only
+M|B|1.8:8.6.2|Through or near which part does the axis of rotation of an extension partial denture run?|The rest nearest the extension base|The most anterior incisor;The center of the palate;The retromolar pad
+M|B|1.8:8.6.2.3|When a case has both extension and toothborne defects, how is it classified?|According to its extension situation|According to its toothborne situation;It cannot be classified;By the number of clasps
+M|B|1.8:8.9.1.1.1|How wide must a palatal strap major connector be?|8 mm|2 mm;20 mm;1 mm
+M|B|1.8:8.9.1.1.3|Which maxillary major connector is described as one of the most commonly used, very rigid, and well accepted?|The anterior-posterior palatal strap|The palatal bar;The horseshoe;The sublingual bar
+M|B|1.8:8.9.1.2.1|What is the most commonly used mandibular major connector?|The lingual bar|The palatal strap;The horseshoe;The full palatal plate
+M|B|1.8:8.9.1.2.6|When the superior border of a lingual bar cannot be placed 4 mm from the gingival margin, what is an excellent alternative?|A lingual plate|A palatal bar;A ring clasp;An occlusion rim
+M|B|1.8:8.10.1.3|What is the minimum thickness for any rest so it does not break under chewing forces?|1 mm|0.1 mm;5 mm;10 mm
+M|B|1.8:8.10.1.2.1|What three parts make up a clasp assembly?|A clasp, a rest, and a minor connector|A sprue, a button, and a reservoir;A denture tooth, a facing, and a backing;A flask, a clamp, and a press
+M|B|1.8:8.12.3.4|How much of the abutment's circumference must a clasp surround for encirclement?|More than 180 degrees|Less than 90 degrees;Exactly 45 degrees;None of it
+M|B|1.8:8.12.5.5|Among retention, reciprocation, bracing, and support, which does the manual call the least important?|Retention|Support;Bracing;Reciprocation
+M|B|1.8:8.12.6.5.1.1|As the length of a clasp arm increases, what happens to its retention?|Retention decreases|Retention increases;Retention doubles;Retention is unaffected by anything
+M|B|1.8:8.12.6.5.1.2|As the cross-sectional size of a clasp arm increases, what happens to its flexibility?|Flexibility decreases|Flexibility increases;Flexibility becomes infinite;The arm becomes a rest
+M|B|1.8:8.12.6.5.1.3|Which clasp arm cross-section is more flexible?|Round|Half-round;Square;Flat rectangular
+M|B|1.8:8.12.6.5.3|Which clasp type generally produces more retention per unit of undercut?|Bar clasps|Circumferential clasps;Lingual plates;Palatal straps
+M|B|1.8:8.13.3|What are the most effective indirect retention features for an extension base partial denture?|Additional rests placed opposite the axis of rotation from the extension base|Thicker denture base acrylic;Extra clasp arms on the extension side only;A longer sprue
+M|B|1.8:8.14.1.1|How must multiple guide planes on a partial denture case relate to each other?|They must be parallel|They must converge sharply;They must be perpendicular;They must be curved
+M|B|1.8:8.19.3.1|What can an analyzing rod not do?|Measure the amount of undercut|Check for the presence of undercuts;Fit in the surveyor spindle;Contact the cast
+M|B|1.8:8.19.3.3|Which set lists the three standard undercut gauge sizes?|.010, .020, and .030 inch|.1, .2, and .3 inch;1, 2, and 3 mm;.5, 1, and 1.5 inch
+M|B|1.8:8.29.5.4.3|How deep must an undercut be for a chrome clasp?|0.010 inch|0.100 inch;0.500 inch;1 inch
+M|B|1.8:8.37.1.2|In the partial denture design color code, which color outlines acrylic resin denture base coverage?|Blue|Brown;Black;Green
+M|B|1.8:8.37.1.3|In the partial denture design color code, which color outlines the metal parts?|Brown|Blue;Yellow;Purple
+M|B|1.8:8.37.1.4|In the partial denture design color code, which color shows the survey lines?|Black|Blue;Brown;Orange
+M|B|1.8:8.35.2.3.2|What do the letters RPI stand for in the RPI clasp assembly?|Rest, proximal plate, and I-bar|Retainer, palate, and incisal;Resin, porcelain, and investment;Ring, post, and implant
+M|B|1.8:8.31.1.5|Where can tripod marks never be placed?|In undercut areas|On the cast at all;On immobile features;On widely separated spots
+M|B|1.8:8.10.2|What is the snowshoe principle in partial denture design?|Covering as much ridge area as possible to spread chewing forces|Making the base as small as possible;Using only metal teeth;Placing clasps on every tooth
+# ---- C Refractory cast
+F|C|1.8:8.16.10|What material is used to duplicate the blocked-out master cast?|Reversible hydrocolloid.
+F|C|1.8:8.42.2.1.2.3|What is the pouring temperature for duplicating hydrocolloid?|125 to 130 degrees Fahrenheit.
+F|C|1.8:8.42.2.7|Which investment is used to pour the Ticonium refractory cast?|Ticonium investment (Investic), matched to the alloy's casting contraction.
+F|C|1.8:8.42.2.7.2.3|How long should the poured refractory mold set?|1 hour, away from vibration.
+F|C|1.8:8.44.2|How is the refractory cast dehydrated?|In a vented dehydrating oven for 1 hour at 190 degrees Fahrenheit.
+F|C|1.8:8.44.3.2|What is the beeswax dipping temperature for a refractory cast?|280 to 300 degrees Fahrenheit.
+F|C|1.8:8.44.3.1|What are the two advantages of a beeswax dip?|A smooth, dense surface for the pattern, and it does not absorb water from secondary investment.
+F|C|1.8:8.42.2.2|How is a cast soaked before duplicating?|Stand it on end in slurry water (SDS), 6 mm deep, for 20 to 30 minutes.
+M|C|1.8:8.16.10|Which material is used to make the impression of the blocked-out master cast for duplication?|Reversible hydrocolloid|Pink baseplate wax;Self-curing acrylic;Pumice
+M|C|1.8:8.44.2|How long and at what temperature is a refractory cast dehydrated?|1 hour at 190 degrees Fahrenheit|5 minutes at 1350 degrees Fahrenheit;24 hours at room temperature;10 seconds under a torch
+M|C|1.8:8.44.3.2|What is the dipping temperature for refined beeswax when sealing a refractory cast?|280 to 300 degrees Fahrenheit|90 to 100 degrees Fahrenheit;1350 degrees Fahrenheit;32 degrees Fahrenheit
+M|C|1.8:8.42.2.1.2.3|What is the pouring temperature for duplicating hydrocolloid?|125 to 130 degrees Fahrenheit|212 degrees Fahrenheit;40 degrees Fahrenheit;1000 degrees Fahrenheit
+M|C|1.8:8.42.2.7.2.3|How long should a poured refractory mold be left to set?|1 hour|30 seconds;5 minutes;1 week
+# ---- D Framework
+F|D|1.8:8.45.1.4|In what order are pattern components placed on the refractory cast?|Larger components first, then progressively smaller ones.
+F|D|1.8:8.45.2|What is the first component in the suggested framework waxing sequence?|The major connector.
+F|D|1.8:8.48.1.1|What two jobs does a sprue do?|Gives molten metal a path into the mold and acts as a reservoir of molten metal.
+F|D|1.8:8.48.1.2|When is a single sprue used?|On patterns that get progressively smaller in volume away from the sprue.
+F|D|1.8:8.48.2.3.2|When are multiple sprues used?|When metal must flow through a thin section to reach a bulkier section.
+F|D|1.8:8.48.2.1|What is an advantage of overjet spruing?|Less molten metal turbulence at the mold entrance and less scuffing of the investment.
+F|D|1.8:8.49.1.1|What is Ticonium number 100 metal used for?|Routine partial denture castings.
+F|D|1.8:8.50.1.3.3|About how thick should the paint-on investment layer be?|About 3 mm, as uniform as possible.
+F|D|1.8:8.50.1.5|How long until the paint-on layer reaches final set?|About 10 minutes.
+F|D|1.8:8.50.2.2|What water-to-powder ratio is used for the outer investment?|30 cc water to 100 g investment.
+F|D|1.8:8.51.2.4|About how long does wax take to burn out once the oven reaches high temperature?|About 1 hour.
+F|D|1.8:8.51.2.4.1|What temperature does the Ticonium burnout oven reach?|1350 degrees Fahrenheit, after 2 to 3 hours of heatup.
+F|D|1.8:8.51.4|Why should a mold never be quenched in water?|It can cause serious warpage.
+F|D|1.8:8.16.15|How is chrome-alloy metal cast into the mold?|Melted and cast with centrifugal force.
+F|D|1.8:8.47.1.1|How does a wire clasp arm flex compared with a cast clasp arm?|A wire arm flexes vertically and horizontally; a cast arm flexes mostly horizontally.
+F|D|1.8:8.35.2.1.7.1|What is a combination clasp?|A wrought wire retentive arm with a cast reciprocal arm.
+M|D|1.8:8.45.2|What is waxed first in the suggested framework construction sequence?|The major connector|The clasp tips;The finish lines;The sprue button
+M|D|1.8:8.48.1.1|Besides providing a pathway for molten metal, what does a sprue do?|Acts as a reservoir of molten metal|Polishes the casting;Holds the denture teeth;Blocks out undercuts
+M|D|1.8:8.48.2.3.2|When are multiple sprues used on a framework pattern?|When metal must flow through a thin section to reach a bulkier section|When the pattern gets smaller away from the sprue;Never on any case;Only for all-acrylic partial dentures
+M|D|1.8:8.49.1.1|Which Ticonium metal is used for routine partial denture castings?|Number 100 metal|Type I gold foil;Pure silver;Number 1 aluminum
+M|D|1.8:8.50.2.2|What water-to-powder ratio is used for the outer investment?|30 cc of water to 100 grams of investment|300 cc of water to 10 grams;1 cc of water to 1000 grams;No water at all
+M|D|1.8:8.51.4|Why should a hot casting mold never be quenched in water?|It can cause serious warpage|It makes the metal stronger;It speeds burnout;It improves the polish
+M|D|1.8:8.51.2.4.1|To what temperature does the Ticonium burnout oven heat?|1350 degrees Fahrenheit|190 degrees Fahrenheit;500 degrees Fahrenheit;3000 degrees Fahrenheit
+M|D|1.8:8.50.1.3.3|About how thick should the paint-on layer of investment be?|About 3 mm|About 30 mm;About 0.01 mm;About 10 cm
+M|D|1.8:8.35.2.1.7.1|What makes up a combination clasp?|A wrought wire retentive arm and a cast reciprocal arm|Two cast retentive arms;A porcelain arm and a resin arm;A rest and a sprue
+M|D|1.8:8.47.1.1|How does a wrought wire clasp arm flex compared with a cast clasp arm?|It flexes both vertically and horizontally|It does not flex at all;It flexes only vertically;It flexes less than a cast arm in every direction
+M|D|1.8:8.16.15|How is the chrome-alloy metal forced into the mold?|By centrifugal force|By gravity alone over a day;By hand pressing;By vacuum forming a sheet
+# ---- E Select/arrange teeth and process
+F|E|1.8:8.55.2|What type of denture teeth is almost universally chosen for partial denture retention grids?|Plastic denture teeth.
+F|E|1.8:8.15.1.1|Why are porcelain teeth rarely used in partial dentures?|They chip, break, and wear opposing natural teeth.
+F|E|1.8:8.15.1.2|What is normally used to replace missing tissue and attach teeth to the framework?|Pink acrylic resin, heat-cured or self-curing.
+F|E|1.8:8.55.3.1.3|How high are posterior teeth set in occlusion before grinding?|A little high, about 0.5 mm.
+F|E|1.8:8.55.3.2.2.2.1|What should bear most of the contact load in a working excursion?|The natural teeth.
+F|E|1.8:8.55.3.2.1.1|Should artificial anterior teeth in an anterior toothborne partial denture contact in working excursions?|No.
+F|E|1.8:8.55.1.1|Why is the base of the cast keyed before processing?|So the cast can be accurately remounted after resin processing.
+F|E|1.8:8.55.4.2.4|Why is wax removed from clasp arms before flasking?|So they do not become embedded in plastic during packing and processing.
+F|E|1.8:8.56.1.4|How long is the flask placed in boiling water to soften the wax base?|About 4 1/2 minutes.
+F|E|1.8:8.56.1.5.2|How many coats of tinfoil substitute go over the mold surfaces?|Two coats.
+F|E|1.8:8.56.2.1|At what consistency is acrylic resin packed?|Early dough, or snap, stage.
+F|E|1.8:8.15.2.1|What is a reinforced acrylic pontic (RAP)?|One of the strongest anterior replacements, made from a denture tooth attached to the frame; used where room is average or limited and bite force is high.
+F|E|1.8:8.15.2.5|What is the strongest tooth replacement?|Metal teeth and base cast with the frame, used when space is very limited.
+F|E|1.8:8.23.2.3.2.1|What is the strongest, most commonly used open retention?|Ladder retention.
+M|E|1.8:8.55.2|Which type of denture tooth is almost universally chosen for attachment to partial denture retention grids?|Plastic denture teeth|Porcelain denture teeth;Ivory teeth;Gold foil teeth
+M|E|1.8:8.15.1.1|Why are porcelain teeth rarely used for partial dentures anymore?|They chip, break, and wear opposing natural teeth|They are too flexible;They cannot be shaded;They dissolve in saliva
+M|E|1.8:8.55.3.1.3|How high are posterior denture teeth set in occlusion before the occlusal surfaces are ground?|About 0.5 mm high|About 5 mm high;About 2 cm high;Exactly level with no adjustment ever
+M|E|1.8:8.55.3.2.2.2.1|In a working excursion, what is recommended to bear most of the contact load?|The natural teeth|The artificial anterior teeth;The major connector;The clasp tips
+M|E|1.8:8.56.1.4|About how long is the flask placed in boiling water to soften the wax denture base?|About 4 1/2 minutes|About 4 1/2 hours;About 1 second;About 3 days
+M|E|1.8:8.56.2.1|At what consistency is denture base acrylic packed?|Early dough or snap stage|Watery liquid stage;Fully hardened stage;Powder only
+M|E|1.8:8.55.4.2.4|Why is wax removed from the clasp arms before the case is flasked?|So the clasps do not get embedded in plastic|To make the clasps heavier;To color the clasps pink;To solder them later
+M|E|1.8:8.15.2.5|Which tooth replacement does the manual call the strongest?|Metal teeth and a metal base cast with the frame|Porcelain facings;Plastic teeth on mesh;Tube teeth only
+M|E|1.8:8.23.2.3.2.1|Which open retention grid is the strongest and most commonly used?|Ladder retention|Mesh retention;Bead retention;No retention
+M|E|1.8:8.56.1.5.2|How many coats of tinfoil substitute are painted over the mold surfaces?|Two|Ten;Zero;Twenty
+M|E|1.8:8.55.1.1|Why is the base of the cast keyed before processing a partial denture?|So it can be accurately remounted after processing|So it fits the duplicating flask;To add retention to the resin;To mark the survey line
+# ---- F Finish & polish
+F|F|1.8:8.57.4|What should be done to each stone tooth under a clasp when recovering the partial denture from the cast?|Cut through it with a bur or knife to relieve the clasp of strain.
+F|F|1.8:8.57.5|What should you do if a border extension is in doubt?|Leave it long until a dentist indicates otherwise.
+F|F|1.8:8.57.6|How does polishing a partial denture compare with polishing a complete denture?|It is similar but significantly more hazardous; wear protective eyeglasses.
+F|F|1.8:8.57.2|How is the deflasked partial denture remounted?|By repositioning the casts on the original mountings with the indexing keys.
+F|F|1.8:8.57.3.1|How is the occlusal vertical dimension reestablished after processing?|Bring the incisal guide pin back into contact with the incisal guide table.
+F|F|1.8:8.53.1.2|What lathe speed does finishing chrome alloys require?|A high-speed lathe, about 24,000 rpm.
+F|F|1.8:8.53.1.2.1|Why avoid heavy pressure when finishing a framework?|It heats and can warp the casting and crushes abrasive particles.
+F|F|1.8:8.53.1.2.2|What must each finishing step accomplish?|Remove all scratches left by the previous abrasive.
+F|F|1.8:8.53.3.2|At what temperature is Ti-Lectro electropolishing solution used?|120 to 140 degrees Fahrenheit.
+F|F|1.8:8.53.3.6|How much current is allowed per square inch in electropolishing?|2 amperes per square inch of surface, both sides.
+F|F|1.8:8.53.3.7|How long is an average casting electropolished?|6 minutes.
+F|F|1.8:8.53.3.10.4|What does a dark yellow-brown casting after electropolishing mean?|Water is in the polishing solution.
+F|F|1.8:8.53.5.5|When is a framework considered seated?|When all rests come into full contact with their rest seats.
+F|F|1.8:8.53.8.5|How long is a finished framework cleaned in an ultrasonic cleaner?|10 minutes.
+M|F|1.8:8.57.4|When recovering a processed partial denture from the cast, what should be done to the stone tooth under each clasp?|Cut through it to relieve the clasp of strain|Leave it intact and pry the clasp off;Heat it with a torch;Paint it with opaque
+M|F|1.8:8.57.5|If there is doubt about a denture border extension during finishing, what should you do?|Leave it long until the dentist decides|Cut it as short as possible;Remove the entire flange;Add extra metal
+M|F|1.8:8.57.6|How does polishing a partial denture compare with polishing a complete denture?|It is similar but significantly more hazardous|It is completely different and needs no lathe;It is safer;It is never done
+M|F|1.8:8.53.1.2|What lathe speed is needed to finish and polish chrome alloys?|About 24,000 rpm|About 24 rpm;About 240 rpm;It must be done by hand only
+M|F|1.8:8.53.1.2.1|Why should heavy pressure be avoided when finishing a chrome-alloy framework?|It heats and can warp the casting|It makes the abrasive last longer;It improves the polish;It adds metal to the casting
+M|F|1.8:8.53.3.7|How long is an average casting left in the electrolytic polishing solution?|6 minutes|6 hours;6 seconds;6 days
+M|F|1.8:8.53.3.6|How much electrical current is allowed for each square inch of casting surface during electropolishing?|2 amperes|200 amperes;0.001 amperes;50 amperes
+M|F|1.8:8.53.3.10.4|If a casting turns dark yellow-brown after electropolishing, what is the likely cause?|Water in the polishing solution|The solution is brand new;The lathe is too slow;The casting is fully seated
+M|F|1.8:8.53.5.5|How do you know a framework is fully seated?|All rests are in full contact with their rest seats|The clasps are loose;The sprue button is still attached;The palate rocks freely
+M|F|1.8:8.53.5.1|Where should the initial seating of a framework not be attempted?|On the master cast itself|On a duplicate cast;Under magnification;With disclosing pigment
+M|F|1.8:8.57.3.1|How is the occlusal vertical dimension reestablished on the articulator after processing?|By bringing the incisal guide pin back into contact with the incisal guide table|By adding wax to the teeth;By removing the clasps;By polishing the palate
+# ---- G Repairs & alterations
+F|G|1.8:8.64.1|How common are partial denture repairs and additions?|Very common laboratory requests.
+F|G|1.8:8.64.2|What is needed for all but the simplest repairs?|A stone matrix to position parts correctly.
+F|G|1.8:8.64.3|What is a pickup impression?|An impression made with the partial denture in the mouth, so it stays in the impression when poured.
+F|G|1.8:8.64.4|When should a pickup impression be poured?|Immediately after disinfection and blockout, in stone or plaster.
+F|G|1.8:8.64.4|Where should a soldering repair be done?|On a duplicate refractory cast.
+F|G|1.8:8.65.3|What resin is used to repair a fractured partial denture base?|Autopolymerizing resin, with the matrix coated in tinfoil substitute.
+F|G|1.8:8.66.1|How much resin bulk should a finish line allow where resin meets polished metal?|At least 1 mm.
+F|G|1.8:8.67.2.1|What impression is usually needed to repair a reinforced acrylic pontic?|An alginate pickup impression.
+F|G|1.8:8.69.4|Why must resin parts be insulated during a soldering repair?|Soldering applies high heat that can damage them.
+F|G|1.8:8.69.7.9|Which part of the torch flame is used for soldering?|The reducing part, the blue-green cone.
+F|G|1.8:8.69.7.8|How is moisture removed from soldering investment?|Dehydration oven at 190 degrees Fahrenheit for 1 hour.
+F|G|1.8:8.70.4.2|What if a broken clasp piece has been lost?|A replacement clasp assembly must be cast or made from wrought wire.
+F|G|1.8:8.63.1|What is a Swing-Lock partial denture?|Labial and lingual sections, with the labial part hinged and locked to the lingual part around the remaining teeth.
+F|G|1.8:8.62.1|What is done to a partial denture base before a reline impression?|Relieve tissue-side undercuts and grind out old resin to make room for impression material.
+F|G|1.8:8.59.3.1|In the altered cast technique, where is the first cut made?|Across the distal extension, buccal to lingual, 1 mm behind the distal abutment.
+F|G|1.8:8.59.3.6|What bath temperature softens the corrective impression material?|A warm bath of 135 degrees Fahrenheit.
+M|G|1.8:8.64.2|What is required to position parts correctly for all but the simplest partial denture repairs?|A stone matrix|A wax rim;A sprue cone;An undercut gauge
+M|G|1.8:8.64.3|What is a pickup impression?|An impression made with the partial denture in the mouth so it stays in the impression|An impression of an edentulous arch with no prosthesis;A wax record of the bite only;A digital scan of the opposing arch
+M|G|1.8:8.64.4|Where should a soldering procedure for a repair be done?|On a duplicate refractory cast|On the patient's mouth;On the original stone cast only;In the polishing lathe
+M|G|1.8:8.65.3|What resin is typically used to repair a fractured partial denture base?|Autopolymerizing resin|Porcelain;Molten Ticonium;Inlay wax
+M|G|1.8:8.66.1|Where resin joins polished metal, how much resin bulk should the finish line allow?|At least 1 mm|At least 10 mm;0.01 mm;None
+M|G|1.8:8.69.4|Why must the resin components be insulated during a soldering repair?|Soldering applies high heat that can damage the resin|Solder will not stick to metal otherwise;To make the resin pink;Insulation is never needed
+M|G|1.8:8.69.7.9|Which part of a propane-oxygen flame is used for soldering?|The reducing part, the blue-green cone|The oxidizing outer tip;The yellow smoky flame;No flame, only cold solder
+M|G|1.8:8.70.4.2|If a broken clasp piece has been lost, what must be done?|Make a replacement clasp assembly, cast or wrought wire|Glue the remaining stub;Ignore the clasp;Replace it with acrylic only
+M|G|1.8:8.63.1|What is a Swing-Lock partial denture?|A denture with a hinged, locking labial section around the remaining teeth|A denture with no metal at all;A complete denture with implants;A fixed bridge
+M|G|1.8:8.59.3.1|In the altered cast technique, where is the first saw cut made?|Across the distal extension, 1 mm behind the distal abutment|Through the middle of the palate;Through the anterior teeth;Around the base of the cast
+M|G|1.8:8.59.3.6|What warm bath temperature softens the corrective impression material on an altered cast?|135 degrees Fahrenheit|35 degrees Fahrenheit;1350 degrees Fahrenheit;500 degrees Fahrenheit
+M|G|1.8:8.67.2.1|What impression is usually needed to repair a reinforced acrylic pontic?|An alginate pickup impression|A refractory impression;No impression at all;A facebow record
+M|G|1.8:8.62.1|Before the dentist makes a reline impression, what is done to the partial denture base?|Tissue-side undercuts are relieved and old resin is ground out|New teeth are added;The base is painted with opaque;The clasps are removed
+# ---- H Materials & equipment
+F|H|1.8:8.3.1|What alloy do military labs use for partial denture frameworks?|Ticonium, a nickel-chrome alloy.
+F|H|1.8:8.3.1|What alloy is available for patients allergic to nickel?|Vitallium, a chrome-cobalt alloy.
+F|H|1.8:8.3.3|What is an interim partial denture?|A temporary partial denture made mostly of acrylic and plastic teeth.
+F|H|1.8:8.19.2.5|What does a surveyor's survey table include?|A base, a tilt top with cast clamp, and a tilt top lock screw.
+F|H|1.8:8.19.3.2|What is the carbon marker?|A black pencil lead used to mark survey lines after the path of insertion is chosen.
+F|H|1.8:8.19.1.2|What does blockout do?|Fills undesirable tooth and soft tissue undercuts so rigid parts can pass them.
+F|H|1.8:8.42.1.4.4.4|What is subduing wax made of?|Two sheets of baseplate wax, two ropes of beading or utility wax, and sudan red.
+F|H|1.8:8.42.1.5.2.3|What tissue stop is cut into relief wax for a distal extension?|A hole about 2 mm square over the ridge crest.
+F|H|1.8:8.42.1.5.2.2|What is finish line wax made of?|Half baseplate wax and half blockout wax.
+F|H|1.8:8.47.2.5|Does cast Ticonium form a metallurgical union with wire cast against it?|No.
+F|H|1.8:8.53.3.9|About how many castings is Ti-Lectro solution good for?|Up to 200 castings.
+F|H|1.8:8.15.1.3|What metal support and retention components may a partial denture use?|Beads, posts, rods, mesh, and bars.
+F|H|1.8:8.23.2.3.2.2|What is mesh retention made from?|Commercially prefabricated plastic patterns.
+F|H|1.8:8.58.2.2|What consistency should opaque have?|Creamy, applied in thin, even coats.
+F|H|1.8:8.58.3.3|How much dentine paste is applied and cured at a time when veneering?|About 1 mm, cured for 5 seconds.
+F|H|1.8:8.12.6.5.1.4|What three metals can be used for clasps?|Cast chrome-alloy, cast gold, and noncorrosive wires.
+M|H|1.8:8.3.1|Which alloy do military dental laboratories use for partial denture frameworks?|Ticonium, a nickel-chrome alloy|Pure titanium;Sterling silver;Type I gold foil
+M|H|1.8:8.3.1|Which alloy is available for patients with a nickel allergy?|Vitallium, a chrome-cobalt alloy|Ticonium;Nickel-titanium wire;Brass
+M|H|1.8:8.3.3|What is an interim partial denture?|A temporary partial denture made mostly of acrylic and plastic teeth|A permanent all-metal partial denture;A cast gold crown;An implant abutment
+M|H|1.8:8.19.3.2|What is the carbon marker on a surveyor?|A black pencil lead for marking survey lines|An undercut gauge;A wax knife;A sprue cone
+M|H|1.8:8.19.1.2|What is the purpose of blockout?|To fill undesirable undercuts so rigid parts can pass them|To create new undercuts;To polish the framework;To add retention grids
+M|H|1.8:8.19.2.5|Which part of a surveyor has a base, a tilt top with cast clamp, and a lock screw?|The survey table|The analyzing rod;The carbon marker;The undercut gauge
+M|H|1.8:8.42.1.5.2.2|What is finish line wax made of?|Half baseplate wax and half blockout wax|Pure beeswax;Gutta-percha only;Inlay wax and pumice
+M|H|1.8:8.42.1.5.2.3|What tissue stop is cut into the relief wax on a distal extension?|A hole about 2 mm square over the ridge crest|A 20 mm slot along the palate;No tissue stop;A round hole through the cast base
+M|H|1.8:8.47.2.5|When Ticonium is cast against Ticonium or platinum-gold-palladium wire, what kind of union forms?|No metallurgical union|A complete fused weld;A chemical bond stronger than the wire;A porcelain bond
+M|H|1.8:8.53.3.9|About how many castings is Ti-Lectro polishing solution effective for?|Up to 200|Only 1;Over 10,000;Exactly 5
+M|H|1.8:8.15.1.3|Which list contains metal support and retention components a partial denture may use?|Beads, posts, rods, mesh, and bars|Flasks, clamps, and presses;Sprues, crucibles, and rings;Burs, stones, and wheels
+M|H|1.8:8.23.2.3.2.2|What is mesh retention made from?|Commercially prefabricated plastic patterns|Twisted gold wire;Porcelain powder;Plaster strips
+M|H|1.8:8.12.6.5.1.4|Which three metals can a dentist use for clasp construction?|Cast chrome-alloy, cast gold, and noncorrosive wires|Aluminum, tin, and lead;Copper, zinc, and iron;Silver, brass, and bronze
+M|H|1.8:8.58.3.3|When veneering a framework with resin, how much dentine paste is applied and how long is it cured?|About 1 mm, cured for 5 seconds|About 10 mm, cured for 1 hour;About 0.01 mm, never cured;About 5 mm, cured in boiling water
+M|H|1.8:8.42.1.4.4.4|What gives subduing wax its color?|Sudan red|Blue food dye;Carbon black;Titanium white
+M|H|1.8:8.51.2.4.2|How many molds can the Ticonium super oven hold?|20|2;200;1
+M|H|1.8:8.51.2.4.1|How many molds can the Ticonium burnout oven hold?|Nine|Ninety;One;Three hundred
