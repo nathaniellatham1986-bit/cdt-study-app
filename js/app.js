@@ -4,7 +4,7 @@ import * as S from './store.js';
 import { sampleMock, record, acc, mockMinutes, shuffle } from './quiz.js';
 import * as A from './audio.js';
 const $=s=>document.querySelector(s), view=$('#view'), bar=$('#bar'), title=$('#title');
-const CONTENT=['content/implants.json','content/comprehensive.json','content/comprehensive-mcq.json','content/ceramics.json','content/complete-dentures.json','content/orthodontics.json','content/partial-dentures.json'];
+const CONTENT=['content/digital-workflow.json','content/implants.json','content/comprehensive.json','content/comprehensive-mcq.json','content/ceramics.json','content/complete-dentures.json','content/orthodontics.json','content/partial-dentures.json'];
 let cards=[], mcq=[], P=S.load(), sess=null, reader=null, tick=null;
 P.quiz||(P.quiz={});
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
