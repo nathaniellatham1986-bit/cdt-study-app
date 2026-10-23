@@ -1,4 +1,4 @@
-const V='cdt-v8';
+const V='cdt-v9';
 const ASSETS=['./','index.html','css/app.css','js/app.js','js/exams.js','js/sm2.js','js/store.js','js/quiz.js','js/audio.js','content/comprehensive.json','content/comprehensive-mcq.json','content/ceramics.json','content/complete-dentures.json','content/orthodontics.json','content/partial-dentures.json','content/implants.json','content/digital-workflow.json','manifest.webmanifest','icons/icon-180.png','icons/icon-192.png','icons/icon-512.png'];
 // Fetch fresh copies (bypass HTTP cache) so a new version never caches stale files.
 self.addEventListener('install',e=>{e.waitUntil(caches.open(V).then(c=>Promise.all(ASSETS.map(u=>fetch(new Request(u,{cache:'reload'})).then(r=>{if(!r.ok)throw new Error(u);return c.put(u,r);})))));self.skipWaiting();});
